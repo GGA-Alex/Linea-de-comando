@@ -1,0 +1,6062 @@
+{
+	01000{
+		"Colonia":"San Ángel",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01049{
+		"Colonia":"Tlacopac",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01010{
+		"Colonia":"Los Alpes",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01020{
+		"Colonia":"Guadalupe Inn",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01030{
+		"Colonia":"Axotla",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01030{
+		"Colonia":"Florida",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01040{
+		"Colonia":"Campestre",
+		"Municipio":"Ciudad de México, Ciudad de Mexico"
+	},
+	01050{
+		"Colonia":"Ex-Hacienda de Guadalupe Chimalistac",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01060{
+		"Colonia":"Altavista",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01060{
+		"Colonia":"San Ángel Inn",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01070{
+		"Colonia":"Chimalistac",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01080{
+		"Colonia":"Progreso Tizapan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01089{
+		"Colonia":"Ermita Tizapan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01090{
+		"Colonia":"La Otra Banda",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01090{
+		"Colonia":"Loreto",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01090{
+		"Colonia":"Tizapan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01100{
+		"Colonia":"Pólvora",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01109{
+		"Colonia":"La Conchita",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01110{
+		"Colonia":"Belém de las Flores",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01110{
+		"Colonia":"El Capulín",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01110{
+		"Colonia":"Ampliación El Capulín",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01110{
+		"Colonia":"Liberales de 1857",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01120{
+		"Colonia":"Acueducto",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01120{
+		"Colonia":"Cove",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01120{
+		"Colonia":"Hidalgo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01120{
+		"Colonia":"Las Américas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01125{
+		"Colonia":"Ampliación Acueducto",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01130{
+		"Colonia":"Paraíso",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01130{
+		"Colonia":"Molino de Santo Domingo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01130{
+		"Colonia":"Real del Monte",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01139{
+		"Colonia":"Reacomodo Pino Suárez",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01140{
+		"Colonia":"Bellavista",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01140{
+		"Colonia":"José Maria Pino Suárez",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01150{
+		"Colonia":"Cristo Rey",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01150{
+		"Colonia":"Tolteca",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01160{
+		"Colonia":"Bosque",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01160{
+		"Colonia":"Isidro Fabela",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01160{
+		"Colonia":"Maria G. de García Ruiz",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01160{
+		"Colonia":"1a Victoria",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01170{
+		"Colonia":"Abraham M. González",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01180{
+		"Colonia":"Carola",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01180{
+		"Colonia":"8 de Agosto",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01180{
+		"Colonia":"San Pedro de los Pinos",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01200{
+		"Colonia":"Arturo Martínez",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01210{
+		"Colonia":"Santa Fe",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01219{
+		"Colonia":"Lomas de Santa Fe",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01220{
+		"Colonia":"Bonanza",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01220{
+		"Colonia":"Cuevitas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01220{
+		"Colonia":"El Cuernito",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01220{
+		"Colonia":"Mártires de Tacubaya",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01220{
+		"Colonia":"Zenón Delgado",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01220{
+		"Colonia":"La Estrella",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01230{
+		"Colonia":"Campo de Tiro los Gamitos",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01230{
+		"Colonia":"Los Gamitos",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01230{
+		"Colonia":"Tlapechico",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01230{
+		"Colonia":"El Piru Santa Fe",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01230{
+		"Colonia":"El Piru 2a Ampliación",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01239{
+		"Colonia":"La Huerta",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01240{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01250{
+		"Colonia":"El Árbol",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01250{
+		"Colonia":"Ladera",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01250{
+		"Colonia":"Lomas de Nuevo México",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01250{
+		"Colonia":"Margarita Maza de Juárez",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01250{
+		"Colonia":"Tecolalco",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01259{
+		"Colonia":"Ampliación La Cebada",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01259{
+		"Colonia":"La Mexicana 2a Ampliación",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01260{
+		"Colonia":"Calzada Jalalpa",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01260{
+		"Colonia":"La Mexicana",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01260{
+		"Colonia":"Ampliación La Mexicana",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01260{
+		"Colonia":"La Palmita",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01260{
+		"Colonia":"Liberación Proletaria",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01269{
+		"Colonia":"1a Sección Cañada",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01269{
+		"Colonia":"2a Sección Cañada",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01270{
+		"Colonia":"El Tejocote",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01270{
+		"Colonia":"La Presa",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01270{
+		"Colonia":"Golondrinas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01270{
+		"Colonia":"Golondrinas 1a Sección",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01270{
+		"Colonia":"Golondrinas 2a Sección",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01270{
+		"Colonia":"Lomas de Capula",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01275{
+		"Colonia":"Villa Solidaridad",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01276{
+		"Colonia":"El Pirul",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01278{
+		"Colonia":"Desarrollo Urbano",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01279{
+		"Colonia":"Lomas de Becerra",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01280{
+		"Colonia":"Arvide",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01280{
+		"Colonia":"El Pocito",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01280{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01280{
+		"Colonia":"La Joya",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01285{
+		"Colonia":"El Rodeo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01289{
+		"Colonia":"Reacomodo El Cuernito",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01290{
+		"Colonia":"Piloto Adolfo López Mateos",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01290{
+		"Colonia":"Presidentes",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01296{
+		"Colonia":"Jalalpa Tepito 2a Ampliación",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01296{
+		"Colonia":"Ampliación Jalalpa",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01296{
+		"Colonia":"Jalalpa Tepito",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01298{
+		"Colonia":"Ampliación Piloto Adolfo López Mateos",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01299{
+		"Colonia":"1a Ampliación Presidentes",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01299{
+		"Colonia":"2a Ampliación Presidentes",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01310{
+		"Colonia":"San Gabriel",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01320{
+		"Colonia":"Carlos A. Madrazo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01330{
+		"Colonia":"Paseo de las Lomas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01340{
+		"Colonia":"Bejero del Pueblo Santa Fe",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01376{
+		"Colonia":"Santa Fe",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01376{
+		"Colonia":"Santa Fe Peña Blanca",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01376{
+		"Colonia":"Santa Fe La Loma",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01376{
+		"Colonia":"Santa Fe Centro Ciudad",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01377{
+		"Colonia":"Jalalpa El Grande",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01389{
+		"Colonia":"Santa Fe Tlayapaca",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01400{
+		"Colonia":"Olivar del Conde 1a Sección",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01400{
+		"Colonia":"Preconcreto",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01407{
+		"Colonia":"Galeana",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01408{
+		"Colonia":"Olivar del Conde 2a Sección",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01410{
+		"Colonia":"Barrio Norte",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01410{
+		"Colonia":"Palmas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01419{
+		"Colonia":"Minas Cristo Rey",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01420{
+		"Colonia":"Sacramento",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01420{
+		"Colonia":"Santa María Nonoalco",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01430{
+		"Colonia":"Colina del Sur",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01450{
+		"Colonia":"Hogar y Redención",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01460{
+		"Colonia":"Alfonso XIII",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01470{
+		"Colonia":"Alfalfar",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01470{
+		"Colonia":"Molino de Rosas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01480{
+		"Colonia":"Lomas de Plateros",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01490{
+		"Colonia":"La Cascada",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01500{
+		"Colonia":"Santa Lucía",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01500{
+		"Colonia":"Miguel Gaona Armenta",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01509{
+		"Colonia":"Santa Lucía Chantepec",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01510{
+		"Colonia":"Garcimarrero",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01510{
+		"Colonia":"La Araña",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01510{
+		"Colonia":"Los Cedros",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01520{
+		"Colonia":"Ampliación Los Pirules",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01520{
+		"Colonia":"Estado de Hidalgo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01520{
+		"Colonia":"Ampliación Estado de Hidalgo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01520{
+		"Colonia":"Piru Santa Lucía",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01520{
+		"Colonia":"El Politoco",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01530{
+		"Colonia":"Corpus Christy",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01538{
+		"Colonia":"Tepopotla",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01539{
+		"Colonia":"Acuilotla",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01539{
+		"Colonia":"Cooperativa Unión Olivos",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01540{
+		"Colonia":"Balcones de Cehuayo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01540{
+		"Colonia":"Cehuaya",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01540{
+		"Colonia":"Llano Redondo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01540{
+		"Colonia":"Punta de Cehuaya",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01548{
+		"Colonia":"Villa Progresista",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01549{
+		"Colonia":"Dos Ríos del Pueblo Santa Lucía",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01550{
+		"Colonia":"Tepeaca",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01550{
+		"Colonia":"Ampliación Tepeaca",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01550{
+		"Colonia":"Rinconada Las Cuevitas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01560{
+		"Colonia":"Ave Real",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01560{
+		"Colonia":"Canutillo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01560{
+		"Colonia":"Canutillo 3a Sección",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01560{
+		"Colonia":"Canutillo 2a Sección",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01566{
+		"Colonia":"Hueytlale",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01569{
+		"Colonia":"Reacomodo Valentín Gómez Farías",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01588{
+		"Colonia":"Tarango",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01590{
+		"Colonia":"El Rincón",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01600{
+		"Colonia":"Merced Gómez",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01610{
+		"Colonia":"Colinas de Tarango",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01610{
+		"Colonia":"Profesor J. Arturo López Martínez",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01618{
+		"Colonia":"Arcos Centenario",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01618{
+		"Colonia":"Ex-Hacienda de Tarango",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01619{
+		"Colonia":"La Martinica",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01619{
+		"Colonia":"Rinconada de Tarango",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01620{
+		"Colonia":"Lomas de Tarango",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01630{
+		"Colonia":"Lomas de Puerta Grande",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01630{
+		"Colonia":"Puerta Grande",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01630{
+		"Colonia":"Los Juristas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01640{
+		"Colonia":"Herón Proal",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01645{
+		"Colonia":"Ponciano Arriaga",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01650{
+		"Colonia":"La Milagrosa",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01650{
+		"Colonia":"Palmas Axotitla",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01650{
+		"Colonia":"Tlacuitlapa",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01650{
+		"Colonia":"Ampliación Tlacuitlapa",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01650{
+		"Colonia":"2o Reacomodo Tlacuitlapa",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01650{
+		"Colonia":"El Ruedo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01650{
+		"Colonia":"Santa Lucía Chantepec",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01700{
+		"Colonia":"La Joyita del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01700{
+		"Colonia":"Ocotillos del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01700{
+		"Colonia":"San Agustín del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01700{
+		"Colonia":"2a Del Moral del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01700{
+		"Colonia":"Tecalcapa del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01700{
+		"Colonia":"Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01708{
+		"Colonia":"El Encino del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01708{
+		"Colonia":"El Mirador del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01710{
+		"Colonia":"Las Águilas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01710{
+		"Colonia":"Ampliación Alpes",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01720{
+		"Colonia":"Lomas de Guadalupe",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01729{
+		"Colonia":"Alcantarilla",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01730{
+		"Colonia":"Lomas de las Águilas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01730{
+		"Colonia":"Puente Colorado",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01740{
+		"Colonia":"La Peñita del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01740{
+		"Colonia":"San Clemente Norte",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01740{
+		"Colonia":"San Clemente Sur",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01750{
+		"Colonia":"Las Águilas 1a Sección",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01750{
+		"Colonia":"Las Águilas 2o Parque",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01750{
+		"Colonia":"Las Águilas 3er Parque",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01759{
+		"Colonia":"Ampliación Las Águilas",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01760{
+		"Colonia":"Atlamaya",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01760{
+		"Colonia":"Flor de María",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01760{
+		"Colonia":"La Herradura del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01770{
+		"Colonia":"La Angostura",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01770{
+		"Colonia":"San José del Olivar",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01780{
+		"Colonia":"Olivar de los Padres",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01780{
+		"Colonia":"Tizampampano del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01789{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01790{
+		"Colonia":"Lomas de los Ángeles del Pueblo Tetelpan",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01790{
+		"Colonia":"Lomas de San Ángel Inn",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01800{
+		"Colonia":"San Bartolo Ameyalco",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01807{
+		"Colonia":"Rancho San Francisco Pueblo San Bartolo Ameyalco",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01810{
+		"Colonia":"Villa Verdún",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01820{
+		"Colonia":"Lomas Axomiatla",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01820{
+		"Colonia":"Ejido San Mateo",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01830{
+		"Colonia":"Santa Rosa Xochiac",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01840{
+		"Colonia":"Torres de Potrero",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01849{
+		"Colonia":"Rincón de la Bolsa",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01849{
+		"Colonia":"Rancho del Carmen del Pueblo San Bartolo Ameyalco",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01857{
+		"Colonia":"Lomas de Chamontoya",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01859{
+		"Colonia":"Tlacoyaque",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01860{
+		"Colonia":"Lomas de La Era",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01863{
+		"Colonia":"Lomas del Capulín",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01870{
+		"Colonia":"Lomas de los Cedros",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01900{
+		"Colonia":"Jardines del Pedregal",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	01904{
+		"Colonia":"San Jerónimo Aculco",
+		"Municipio":"Álvaro Obregón, Ciudad de Mexico"
+	},
+	02000{
+		"Colonia":"Centro de Azcapotzalco",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02010{
+		"Colonia":"Los Reyes",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02010{
+		"Colonia":"San Rafael",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02010{
+		"Colonia":"Nuevo Barrio San Rafael",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02020{
+		"Colonia":"San Marcos",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02020{
+		"Colonia":"Santo Tomás",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02040{
+		"Colonia":"Del Maestro",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02040{
+		"Colonia":"San Sebastián",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02050{
+		"Colonia":"Libertad",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02050{
+		"Colonia":"Santa María Malinalco",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02060{
+		"Colonia":"Sindicato Mexicano de Electricistas",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02060{
+		"Colonia":"Un Hogar Para Cada Trabajador",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02070{
+		"Colonia":"Del Recreo",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02070{
+		"Colonia":"Nextengo",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02080{
+		"Colonia":"Clavería",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02080{
+		"Colonia":"Sector Naval",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02090{
+		"Colonia":"San Álvaro",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02099{
+		"Colonia":"Ángel Zimbrón",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02100{
+		"Colonia":"El Rosario",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02120{
+		"Colonia":"San Martín Xochinahuac",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02128{
+		"Colonia":"Nueva El Rosario",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02129{
+		"Colonia":"Nueva España",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02130{
+		"Colonia":"Tierra Nueva",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02140{
+		"Colonia":"Santa Inés",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02150{
+		"Colonia":"Pasteros",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02160{
+		"Colonia":"Santo Domingo",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02200{
+		"Colonia":"Reynosa Tamaulipas",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02230{
+		"Colonia":"Santa Bárbara",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02240{
+		"Colonia":"San Andrés",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02240{
+		"Colonia":"San Andrés",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02250{
+		"Colonia":"Santa Catarina",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02300{
+		"Colonia":"Industrial Vallejo",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02310{
+		"Colonia":"Ferrería",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02320{
+		"Colonia":"San Andrés de las Salinas",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02330{
+		"Colonia":"Huautla de las Salinas",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02340{
+		"Colonia":"Santa Cruz de las Salinas",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02360{
+		"Colonia":"Las Salinas",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02400{
+		"Colonia":"San Juan Tlihuaca",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02410{
+		"Colonia":"Prados del Rosario",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02420{
+		"Colonia":"Ex-Hacienda El Rosario",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02440{
+		"Colonia":"Providencia",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02459{
+		"Colonia":"Tezozomoc",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02460{
+		"Colonia":"La Preciosa",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02470{
+		"Colonia":"Ampliación Petrolera",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02480{
+		"Colonia":"Petrolera",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02490{
+		"Colonia":"San Mateo",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02500{
+		"Colonia":"Unidad Cuitláhuac",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02519{
+		"Colonia":"El Jagüey",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02520{
+		"Colonia":"Estación Pantaco",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02530{
+		"Colonia":"Jardín Azpeitia",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02600{
+		"Colonia":"Pro-Hogar",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02630{
+		"Colonia":"Coltongo",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02630{
+		"Colonia":"Coltongo",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02640{
+		"Colonia":"Monte Alto",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02650{
+		"Colonia":"Trabajadores de Hierro",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02660{
+		"Colonia":"Euzkadi",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02670{
+		"Colonia":"Cosmopolita",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02680{
+		"Colonia":"Potrero del Llano",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02700{
+		"Colonia":"San Miguel Amantla",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02710{
+		"Colonia":"San Pedro Xalpa",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02719{
+		"Colonia":"Ampliación San Pedro Xalpa",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02720{
+		"Colonia":"San Antonio",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02720{
+		"Colonia":"San Bartolo Cahualtongo",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02730{
+		"Colonia":"San Francisco Tetecala",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02750{
+		"Colonia":"Santiago Ahuizotla",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02760{
+		"Colonia":"Industrial San Antonio",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02760{
+		"Colonia":"Santa Lucía",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02770{
+		"Colonia":"Santa Cruz Acayucan",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02780{
+		"Colonia":"Plenitud",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02790{
+		"Colonia":"Santa Apolonia",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02800{
+		"Colonia":"Nueva Santa María",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02810{
+		"Colonia":"Ignacio Allende",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02810{
+		"Colonia":"Victoria de las Democracias",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02830{
+		"Colonia":"San Bernabé",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02840{
+		"Colonia":"Obrero Popular",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02860{
+		"Colonia":"Tlatilco",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02870{
+		"Colonia":"San Salvador Xochimanca",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02900{
+		"Colonia":"Aguilera",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02910{
+		"Colonia":"Aldana",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02920{
+		"Colonia":"Ampliación Cosmopolita",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02930{
+		"Colonia":"Liberación",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02940{
+		"Colonia":"Porvenir",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02950{
+		"Colonia":"Del Gas",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02960{
+		"Colonia":"San Francisco Xocotitla",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02970{
+		"Colonia":"Ampliación Del Gas",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02980{
+		"Colonia":"Arenal",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02980{
+		"Colonia":"Patrimonio Familiar",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	02990{
+		"Colonia":"La Raza",
+		"Municipio":"Azcapotzalco, Ciudad de Mexico"
+	},
+	03000{
+		"Colonia":"Piedad Narvarte",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03010{
+		"Colonia":"Atenor Salas",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03020{
+		"Colonia":"Narvarte Poniente",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03023{
+		"Colonia":"Narvarte Oriente",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03100{
+		"Colonia":"Del Valle Centro",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03100{
+		"Colonia":"Insurgentes San Borja",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03103{
+		"Colonia":"Del Valle Norte",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03104{
+		"Colonia":"Del Valle Sur",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03200{
+		"Colonia":"Tlacoquemécatl",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03230{
+		"Colonia":"Actipan",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03240{
+		"Colonia":"Acacias",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03300{
+		"Colonia":"Portales Sur",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03303{
+		"Colonia":"Portales Norte",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03310{
+		"Colonia":"Santa Cruz Atoyac",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03320{
+		"Colonia":"Residencial Emperadores",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03330{
+		"Colonia":"Xoco",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03340{
+		"Colonia":"General Pedro María Anaya",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03400{
+		"Colonia":"Álamos",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03410{
+		"Colonia":"Postal",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03420{
+		"Colonia":"Miguel Alemán",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03430{
+		"Colonia":"Josefa Ortiz de Domínguez",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03440{
+		"Colonia":"Niños Héroes",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03500{
+		"Colonia":"Nativitas",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03510{
+		"Colonia":"Moderna",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03520{
+		"Colonia":"Iztaccihuatl",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03530{
+		"Colonia":"Villa de Cortes",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03540{
+		"Colonia":"Del Carmen",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03550{
+		"Colonia":"Zacahuitzco",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03560{
+		"Colonia":"Albert",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03570{
+		"Colonia":"Portales Oriente",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03580{
+		"Colonia":"Miravalle",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03590{
+		"Colonia":"Ermita",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03600{
+		"Colonia":"Vértiz Narvarte",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03610{
+		"Colonia":"Américas Unidas",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03620{
+		"Colonia":"Periodista",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03630{
+		"Colonia":"Independencia",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03640{
+		"Colonia":"Del Lago",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03650{
+		"Colonia":"Letrán Valle",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03660{
+		"Colonia":"San Simón Ticumac",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03700{
+		"Colonia":"Santa María Nonoalco",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03710{
+		"Colonia":"Ciudad de los Deportes",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03720{
+		"Colonia":"Nochebuena",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03730{
+		"Colonia":"San Juan",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03740{
+		"Colonia":"Extremadura Insurgentes",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03800{
+		"Colonia":"San Pedro de los Pinos",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03810{
+		"Colonia":"Nápoles",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03820{
+		"Colonia":"8 de Agosto",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03840{
+		"Colonia":"Ampliación Nápoles",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03900{
+		"Colonia":"San José Insurgentes",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03910{
+		"Colonia":"Mixcoac",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03920{
+		"Colonia":"Insurgentes Mixcoac",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03930{
+		"Colonia":"Merced Gómez",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	03940{
+		"Colonia":"Crédito Constructor",
+		"Municipio":"Benito Juárez, Ciudad de Mexico"
+	},
+	04000{
+		"Colonia":"Villa Coyoacán",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04010{
+		"Colonia":"Santa Catarina",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04020{
+		"Colonia":"La Concepción",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04030{
+		"Colonia":"San Lucas",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04040{
+		"Colonia":"Parque San Andrés",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04100{
+		"Colonia":"Del Carmen",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04120{
+		"Colonia":"San Diego Churubusco",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04120{
+		"Colonia":"San Mateo",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04200{
+		"Colonia":"Campestre Churubusco",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04210{
+		"Colonia":"Churubusco Country Club",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04230{
+		"Colonia":"Prado Churubusco",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04240{
+		"Colonia":"Hermosillo",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04250{
+		"Colonia":"Paseos de Taxqueña",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04260{
+		"Colonia":"San Francisco Culhuacán Barrio de San Francisco",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04260{
+		"Colonia":"San Francisco Culhuacán Barrio de La Magdalena",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04260{
+		"Colonia":"San Francisco Culhuacán Barrio de Santa Ana",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04260{
+		"Colonia":"San Francisco Culhuacán Barrio de San Juan",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04300{
+		"Colonia":"Ajusco",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04310{
+		"Colonia":"Romero de Terreros",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04318{
+		"Colonia":"Oxtopulco Universidad",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04320{
+		"Colonia":"Cuadrante de San Francisco",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04320{
+		"Colonia":"Pedregal de San Francisco",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04330{
+		"Colonia":"El Rosedal",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04330{
+		"Colonia":"Los Reyes",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04330{
+		"Colonia":"Del Niño Jesús",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04340{
+		"Colonia":"Copilco El Bajo",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04360{
+		"Colonia":"Copilco El Alto",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04360{
+		"Colonia":"Copilco Universidad",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04369{
+		"Colonia":"Pedregal de Santo Domingo",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04370{
+		"Colonia":"Atlántida",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04370{
+		"Colonia":"Ciudad Jardín",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04380{
+		"Colonia":"El Rosario",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04380{
+		"Colonia":"La Candelaria",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04390{
+		"Colonia":"Huayamilpas",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04390{
+		"Colonia":"Nueva Díaz Ordaz",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04400{
+		"Colonia":"Educación",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04410{
+		"Colonia":"Petrolera Taxqueña",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04420{
+		"Colonia":"Ex-Ejido de San Francisco Culhuacán",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04440{
+		"Colonia":"Culhuacán CTM Sección V",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04440{
+		"Colonia":"Culhuacán CTM Sección II",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04440{
+		"Colonia":"Culhuacán CTM Sección I",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04450{
+		"Colonia":"El Centinela",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04460{
+		"Colonia":"Avante",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04470{
+		"Colonia":"Presidentes Ejidales 1a Sección",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04470{
+		"Colonia":"Presidentes Ejidales 2a Sección",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04480{
+		"Colonia":"Culhuacán CTM Sección VI",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04480{
+		"Colonia":"Culhuacán CTM Sección III",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04480{
+		"Colonia":"Culhuacán CTM CROC",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04480{
+		"Colonia":"Culhuacán CTM Sección X-A",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04489{
+		"Colonia":"Culhuacán CTM Sección VII",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04490{
+		"Colonia":"Culhuacán CTM Sección Piloto",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04490{
+		"Colonia":"Culhuacán CTM Canal Nacional",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04500{
+		"Colonia":"Jardines del Pedregal de San Ángel",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04510{
+		"Colonia":"Universidad Nacional Autónoma de México",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04519{
+		"Colonia":"La Otra Banda",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04530{
+		"Colonia":"Insurgentes Cuicuilco",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04600{
+		"Colonia":"Pedregal de Santa Úrsula",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04610{
+		"Colonia":"Xotepingo",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04620{
+		"Colonia":"San Pablo Tepetlapa",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04630{
+		"Colonia":"Adolfo Ruiz Cortínes",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04640{
+		"Colonia":"El Reloj",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04650{
+		"Colonia":"Santa Úrsula Coapa",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04660{
+		"Colonia":"Joyas del Pedregal",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04700{
+		"Colonia":"Pedregal de Carrasco",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04710{
+		"Colonia":"Olímpica",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04730{
+		"Colonia":"Cantil del Pedregal",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04730{
+		"Colonia":"Bosques de Tetlameya",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04739{
+		"Colonia":"El Caracol",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04800{
+		"Colonia":"Alianza Popular Revolucionaria",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04800{
+		"Colonia":"Los Cedros",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04810{
+		"Colonia":"Prados de Coyoacán",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04815{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04830{
+		"Colonia":"Los Cipreses",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04840{
+		"Colonia":"Ex-Ejido de San Pablo Tepetlapa",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04870{
+		"Colonia":"Espartaco",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04890{
+		"Colonia":"Jardines de Coyoacán",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04890{
+		"Colonia":"Los Olivos",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04899{
+		"Colonia":"El Parque de Coyoacán",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04909{
+		"Colonia":"Culhuacán CTM Sección VIII",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04909{
+		"Colonia":"Culhuacán CTM Sección IX-A",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04909{
+		"Colonia":"Culhuacán CTM Sección IX-B",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04910{
+		"Colonia":"Carmen Serdán",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04918{
+		"Colonia":"Cafetales",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04919{
+		"Colonia":"Emiliano Zapata Fraccionamiento Popular",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04920{
+		"Colonia":"Los Girasoles",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04929{
+		"Colonia":"Las Campanas",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04930{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04938{
+		"Colonia":"Campestre Coyoacán",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04939{
+		"Colonia":"Culhuacán CTM Sección X",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04940{
+		"Colonia":"Los Sauces",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04950{
+		"Colonia":"El Mirador",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04960{
+		"Colonia":"Villa Quietud",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04970{
+		"Colonia":"Haciendas de Coyoacán",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04980{
+		"Colonia":"Ex-Ejido de Santa Úrsula Coapa",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04980{
+		"Colonia":"Ex-Hacienda Coapa",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	04980{
+		"Colonia":"Viejo Ejido de Santa Úrsula Coapa",
+		"Municipio":"Coyoacán, Ciudad de Mexico"
+	},
+	05000{
+		"Colonia":"Cuajimalpa",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05010{
+		"Colonia":"Zentlapatl",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05020{
+		"Colonia":"Loma del Padre",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05030{
+		"Colonia":"San Pedro",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05030{
+		"Colonia":"La Manzanita",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05050{
+		"Colonia":"San Pablo Chimalpa",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05100{
+		"Colonia":"Lomas de Vista Hermosa",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05110{
+		"Colonia":"Cooperativa Palo Alto",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05118{
+		"Colonia":"Granjas Palo Alto",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05119{
+		"Colonia":"Campestre Palo Alto",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05120{
+		"Colonia":"Bosques de las Lomas",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05129{
+		"Colonia":"Lomas del Chamizal",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05200{
+		"Colonia":"San José de los Cedros",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05219{
+		"Colonia":"Granjas Navidad",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05220{
+		"Colonia":"Tepetongo",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05230{
+		"Colonia":"El Ébano",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05240{
+		"Colonia":"El Molino",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05260{
+		"Colonia":"Jesús del Monte",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05269{
+		"Colonia":"Amado Nervo",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05270{
+		"Colonia":"Manzanastitla",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05280{
+		"Colonia":"Adolfo López Mateos",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05310{
+		"Colonia":"El Molinito",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05320{
+		"Colonia":"El Yaqui",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05330{
+		"Colonia":"Lomas de Memetla",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05330{
+		"Colonia":"Memetla",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05330{
+		"Colonia":"Ampliación Memetla",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05330{
+		"Colonia":"Ampliación el Yaqui",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05348{
+		"Colonia":"Santa Fe Cuajimalpa",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05360{
+		"Colonia":"Locaxco",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05370{
+		"Colonia":"Las Tinajas",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05379{
+		"Colonia":"Lomas de San Pedro",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05400{
+		"Colonia":"El Tianguillo",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05410{
+		"Colonia":"San Lorenzo Acopilco",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05410{
+		"Colonia":"1° de Mayo",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05500{
+		"Colonia":"Contadero",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05520{
+		"Colonia":"La Venta",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05530{
+		"Colonia":"Abdías García Soto",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05600{
+		"Colonia":"San Mateo Tlaltenango",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05610{
+		"Colonia":"Santa Rosa Xochiac",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05700{
+		"Colonia":"Cruz Blanca",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05710{
+		"Colonia":"Las Maromas",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05730{
+		"Colonia":"Xalpa",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05750{
+		"Colonia":"La Pila",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05760{
+		"Colonia":"Las Lajas",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	05780{
+		"Colonia":"Agua Bendita",
+		"Municipio":"Cuajimalpa de Morelos, Ciudad de Mexico"
+	},
+	06000{
+		"Colonia":"Centro (Área 1)",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06010{
+		"Colonia":"Centro (Área 2)",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06020{
+		"Colonia":"Centro (Área 3)",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06030{
+		"Colonia":"Tabacalera",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06040{
+		"Colonia":"Centro (Área 4)",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06050{
+		"Colonia":"Centro (Área 5)",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06060{
+		"Colonia":"Centro (Área 6)",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06070{
+		"Colonia":"Centro (Área 7)",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06080{
+		"Colonia":"Centro (Área 8)",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06090{
+		"Colonia":"Centro (Área 9)",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06100{
+		"Colonia":"Hipódromo",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06140{
+		"Colonia":"Condesa",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06170{
+		"Colonia":"Hipódromo Condesa",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06200{
+		"Colonia":"Morelos",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06220{
+		"Colonia":"Peralvillo",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06240{
+		"Colonia":"Valle Gómez",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06250{
+		"Colonia":"Ex-Hipódromo de Peralvillo",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06270{
+		"Colonia":"Maza",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06280{
+		"Colonia":"Felipe Pescador",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06300{
+		"Colonia":"Guerrero",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06350{
+		"Colonia":"Buenavista",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06400{
+		"Colonia":"Santa María la Ribera",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06430{
+		"Colonia":"Santa María Insurgentes",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06450{
+		"Colonia":"Atlampa",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06470{
+		"Colonia":"San Rafael",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06500{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06600{
+		"Colonia":"Juárez",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06700{
+		"Colonia":"Roma Norte",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06720{
+		"Colonia":"Doctores",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06760{
+		"Colonia":"Roma Sur",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06780{
+		"Colonia":"Buenos Aires",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06800{
+		"Colonia":"Obrera",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06820{
+		"Colonia":"Tránsito",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06840{
+		"Colonia":"Esperanza",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06850{
+		"Colonia":"Asturias",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06860{
+		"Colonia":"Vista Alegre",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06870{
+		"Colonia":"Paulino Navarro",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06880{
+		"Colonia":"Algarin",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06890{
+		"Colonia":"Ampliación Asturias",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06900{
+		"Colonia":"Nonoalco Tlatelolco",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	06920{
+		"Colonia":"San Simón Tolnáhuac",
+		"Municipio":"Cuauhtémoc, Ciudad de Mexico"
+	},
+	07000{
+		"Colonia":"Aragón la Villa",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07010{
+		"Colonia":"Rosas del Tepeyac",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07010{
+		"Colonia":"Santa Isabel Tola",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07010{
+		"Colonia":"Tepetates",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07020{
+		"Colonia":"Tepeyac Insurgentes",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07040{
+		"Colonia":"Santiago Atzacoalco",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07050{
+		"Colonia":"Villa Gustavo A. Madero",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07058{
+		"Colonia":"15 de Agosto",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07060{
+		"Colonia":"Estanzuela",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07069{
+		"Colonia":"Triunfo de La República",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07070{
+		"Colonia":"La Cruz",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07070{
+		"Colonia":"Dinamita",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07070{
+		"Colonia":"Martín Carrera",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07080{
+		"Colonia":"Gabriel Hernández",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07089{
+		"Colonia":"Ampliación Gabriel Hernández",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07090{
+		"Colonia":"C.T.M. Atzacoalco",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07090{
+		"Colonia":"C.T.M. El Risco",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07100{
+		"Colonia":"Cuautepec Barrio Alto",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07100{
+		"Colonia":"San Miguel",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07109{
+		"Colonia":"San Antonio",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07110{
+		"Colonia":"Lomas de Cuautepec",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07119{
+		"Colonia":"Malacates",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07119{
+		"Colonia":"Ampliación Malacates",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07130{
+		"Colonia":"Compositores Mexicanos",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07130{
+		"Colonia":"El Tepetatal",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07140{
+		"Colonia":"Arboledas",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07140{
+		"Colonia":"Ampliación Arboledas",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07140{
+		"Colonia":"Forestal",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07140{
+		"Colonia":"Forestal I",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07144{
+		"Colonia":"Forestal II",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07144{
+		"Colonia":"La Lengüeta",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07149{
+		"Colonia":"Parque Metropolitano",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07150{
+		"Colonia":"Juventino Rosas",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07150{
+		"Colonia":"La Casilda",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07160{
+		"Colonia":"Loma La Palma",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07164{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07164{
+		"Colonia":"Tlacaélel",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07164{
+		"Colonia":"Graciano Sánchez",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07164{
+		"Colonia":"Prados de Cuautepec",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07170{
+		"Colonia":"Palmatitla",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07180{
+		"Colonia":"Cocoyotes",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07180{
+		"Colonia":"General Felipe Berriozabal",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07180{
+		"Colonia":"Ampliación Cocoyotes",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07183{
+		"Colonia":"6 de Junio",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07187{
+		"Colonia":"Vista Hermosa",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07188{
+		"Colonia":"Tlalpexco",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07189{
+		"Colonia":"Ahuehuetes",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07190{
+		"Colonia":"Valle de Madero",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07199{
+		"Colonia":"Del Carmen",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07200{
+		"Colonia":"Cuautepec de Madero",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07207{
+		"Colonia":"Del Bosque",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07209{
+		"Colonia":"Guadalupe Victoria Cuautepec",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07210{
+		"Colonia":"Chalma de Guadalupe",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07214{
+		"Colonia":"Ampliación Chalma de Guadalupe",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07220{
+		"Colonia":"Castillo Chico",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07220{
+		"Colonia":"Castillo Grande",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07224{
+		"Colonia":"Ampliación Castillo Grande",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07230{
+		"Colonia":"Zona Escolar",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07239{
+		"Colonia":"Zona Escolar Oriente",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07240{
+		"Colonia":"El Arbolillo",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07250{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07259{
+		"Colonia":"Ampliación Benito Juárez",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07268{
+		"Colonia":"Solidaridad Nacional",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07270{
+		"Colonia":"Residencial Acueducto de Guadalupe",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07279{
+		"Colonia":"Acueducto de Guadalupe",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07280{
+		"Colonia":"Jorge Negrete",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07290{
+		"Colonia":"La Pastora",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07300{
+		"Colonia":"Lindavista Norte",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07300{
+		"Colonia":"Lindavista Sur",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07310{
+		"Colonia":"Candelaria Ticomán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07320{
+		"Colonia":"La Purísima Ticomán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07320{
+		"Colonia":"Residencial la Escalera",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07330{
+		"Colonia":"Santa María Ticomán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07340{
+		"Colonia":"La Laguna Ticomán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07340{
+		"Colonia":"San José Ticomán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07350{
+		"Colonia":"Guadalupe Ticomán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07350{
+		"Colonia":"San Juan y Guadalupe Ticomán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07359{
+		"Colonia":"San Rafael Ticomán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07360{
+		"Colonia":"San Pedro Zacatenco",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07369{
+		"Colonia":"Residencial Zacatenco",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07370{
+		"Colonia":"Capultitlan",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07380{
+		"Colonia":"Maximino Ávila Camacho",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07380{
+		"Colonia":"Tlacamaca",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07400{
+		"Colonia":"Salvador Díaz Mirón",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07410{
+		"Colonia":"Juan González Romero",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07410{
+		"Colonia":"Villa Hermosa",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07420{
+		"Colonia":"El Coyol",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07420{
+		"Colonia":"Nueva Atzacoalco",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07430{
+		"Colonia":"Del Obrero",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07440{
+		"Colonia":"Vasco de Quiroga",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07450{
+		"Colonia":"DM Nacional",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07455{
+		"Colonia":"Ferrocarrilera",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07456{
+		"Colonia":"LI Legislatura",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07460{
+		"Colonia":"Granjas Modernas",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07469{
+		"Colonia":"Constitución de la República",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07470{
+		"Colonia":"Ampliación San Juan de Aragón",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07480{
+		"Colonia":"San Pedro El Chico",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07500{
+		"Colonia":"La Pradera",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07509{
+		"Colonia":"Pradera II Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07510{
+		"Colonia":"San Felipe de Jesús",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07520{
+		"Colonia":"25 de Julio",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07530{
+		"Colonia":"Campestre Aragón",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07540{
+		"Colonia":"La Esmeralda",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07550{
+		"Colonia":"Providencia",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07560{
+		"Colonia":"Ampliación Providencia",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07570{
+		"Colonia":"Villa de Aragón",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07580{
+		"Colonia":"Ampliación Casas Alemán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07600{
+		"Colonia":"Progreso Nacional",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07620{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07630{
+		"Colonia":"San José de la Escalera",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07640{
+		"Colonia":"Santiago Atepetlac",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07650{
+		"Colonia":"Ampliación Progreso Nacional",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07670{
+		"Colonia":"Guadalupe Proletaria",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07680{
+		"Colonia":"Ampliación Guadalupe Proletaria",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07700{
+		"Colonia":"Nueva Industrial Vallejo",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07707{
+		"Colonia":"Siete Maravillas",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07708{
+		"Colonia":"Torres Lindavista",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07720{
+		"Colonia":"Lindavista Vallejo I Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07730{
+		"Colonia":"Churubusco Tepeyac",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07730{
+		"Colonia":"Montevideo",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07730{
+		"Colonia":"San Bartolo Atepehuacan",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07739{
+		"Colonia":"Planetario Lindavista",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07740{
+		"Colonia":"Valle del Tepeyac",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07750{
+		"Colonia":"Nueva Vallejo",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07754{
+		"Colonia":"Lindavista Vallejo III Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07755{
+		"Colonia":"Lindavista Vallejo II Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07760{
+		"Colonia":"Magdalena de las Salinas",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07770{
+		"Colonia":"Panamericana",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07770{
+		"Colonia":"Ampliación Panamericana",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07780{
+		"Colonia":"Defensores de La República",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07780{
+		"Colonia":"Héroe de Nacozari",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07790{
+		"Colonia":"Guadalupe Victoria",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07790{
+		"Colonia":"Vallejo Poniente",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07800{
+		"Colonia":"Industrial",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07810{
+		"Colonia":"Estrella",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07820{
+		"Colonia":"Aragón Inguarán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07820{
+		"Colonia":"Tres Estrellas",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07830{
+		"Colonia":"Gertrudis Sánchez 1a Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07838{
+		"Colonia":"Gertrudis Sánchez 3a Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07839{
+		"Colonia":"Gertrudis Sánchez 2a Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07840{
+		"Colonia":"Guadalupe Tepeyac",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07840{
+		"Colonia":"7 de Noviembre",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07850{
+		"Colonia":"Bondojito",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07850{
+		"Colonia":"Faja de Oro",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07858{
+		"Colonia":"Ampliación Emiliano Zapata",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07859{
+		"Colonia":"Ampliación Mártires de Río Blanco",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07860{
+		"Colonia":"La Joyita",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07860{
+		"Colonia":"Tablas de San Agustín",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07869{
+		"Colonia":"Belisario Domínguez",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07870{
+		"Colonia":"Guadalupe Insurgentes",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07870{
+		"Colonia":"Vallejo",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07880{
+		"Colonia":"Mártires de Río Blanco",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07889{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07890{
+		"Colonia":"Nueva Tenochtitlán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07890{
+		"Colonia":"Cuchilla La Joya",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07890{
+		"Colonia":"La Joya",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07899{
+		"Colonia":"La Malinche",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07900{
+		"Colonia":"Cuchilla del Tesoro",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07910{
+		"Colonia":"San Juan de Aragón VII Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07918{
+		"Colonia":"San Juan de Aragón VI Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07919{
+		"Colonia":"Ex Ejido San Juan de Aragón Sector 32",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07920{
+		"Colonia":"El Olivo",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07920{
+		"Colonia":"San Juan de Aragón",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07930{
+		"Colonia":"Indeco",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07939{
+		"Colonia":"Héroes de Chapultepec",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07940{
+		"Colonia":"Ex Ejido San Juan de Aragón Sector 33",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07950{
+		"Colonia":"San Juan de Aragón",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07960{
+		"Colonia":"Héroes de Cerro Prieto",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07960{
+		"Colonia":"Ex Escuela de Tiro",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07960{
+		"Colonia":"Fernando Casas Alemán",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07969{
+		"Colonia":"San Juan de Aragón I Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07969{
+		"Colonia":"San Juan de Aragón II Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07970{
+		"Colonia":"San Juan de Aragón III Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07979{
+		"Colonia":"San Juan de Aragón IV Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07979{
+		"Colonia":"San Juan de Aragón V Sección",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07980{
+		"Colonia":"Narciso Bassols",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	07990{
+		"Colonia":"C.T.M. Aragón",
+		"Municipio":"Gustavo A. Madero, Ciudad de Mexico"
+	},
+	08000{
+		"Colonia":"Gabriel Ramos Millán Sección Bramadero",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08010{
+		"Colonia":"Ex-Ejido de La Magdalena Mixiuhca",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08020{
+		"Colonia":"Ampliación Gabriel Ramos Millán",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08030{
+		"Colonia":"Gabriel Ramos Millán Sección Cuchilla",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08040{
+		"Colonia":"Carlos Zapata Vela",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08100{
+		"Colonia":"Agrícola Pantitlán",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08200{
+		"Colonia":"Viaducto Piedad",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08210{
+		"Colonia":"Nueva Santa Anita",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08220{
+		"Colonia":"San Pedro",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08230{
+		"Colonia":"San Francisco Xicaltongo",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08240{
+		"Colonia":"Santiago Norte",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08300{
+		"Colonia":"Santa Anita",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08310{
+		"Colonia":"La Cruz",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08320{
+		"Colonia":"Fraccionamiento Coyuya",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08400{
+		"Colonia":"Granjas México",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08420{
+		"Colonia":"Cuchilla Agrícola Oriental",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08500{
+		"Colonia":"Agrícola Oriental",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08510{
+		"Colonia":"El Rodeo",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08600{
+		"Colonia":"La Asunción",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08610{
+		"Colonia":"Zapotla",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08620{
+		"Colonia":"Los Reyes",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08650{
+		"Colonia":"San Miguel",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08700{
+		"Colonia":"Juventino Rosas",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08710{
+		"Colonia":"Tlazintla",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08720{
+		"Colonia":"Gabriel Ramos Millán Sección Tlacotal",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08730{
+		"Colonia":"Gabriel Ramos Millán",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08760{
+		"Colonia":"INPI Picos",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08760{
+		"Colonia":"Los Picos de Iztacalco Sección 2A",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08760{
+		"Colonia":"Los Picos de Iztacalco Sección 1B",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08770{
+		"Colonia":"Los Picos de Iztacalco Sección 1A",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08800{
+		"Colonia":"Santiago Sur",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08810{
+		"Colonia":"Reforma Iztaccíhuatl Norte",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08830{
+		"Colonia":"Militar Marte",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08840{
+		"Colonia":"Reforma Iztaccíhuatl Sur",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08900{
+		"Colonia":"INFONAVIT Iztacalco",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08910{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08920{
+		"Colonia":"Jardines Tecma",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	08930{
+		"Colonia":"Campamento 2 de Octubre",
+		"Municipio":"Iztacalco, Ciudad de Mexico"
+	},
+	09000{
+		"Colonia":"La Asunción",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09000{
+		"Colonia":"San Ignacio",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09000{
+		"Colonia":"San José",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09000{
+		"Colonia":"San Lucas",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09000{
+		"Colonia":"San Pablo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09000{
+		"Colonia":"San Pedro",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09000{
+		"Colonia":"Santa Bárbara",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09010{
+		"Colonia":"Real del Moral",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09020{
+		"Colonia":"Dr. Alfonso Ortiz Tirado",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09030{
+		"Colonia":"Paseos de Churubusco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09040{
+		"Colonia":"Central de Abasto",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09060{
+		"Colonia":"Escuadrón 201",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09060{
+		"Colonia":"Sector Popular",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09070{
+		"Colonia":"Granjas de San Antonio",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09080{
+		"Colonia":"Cacama",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09089{
+		"Colonia":"Unidad Modelo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09090{
+		"Colonia":"Héroes de Churubusco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09099{
+		"Colonia":"Mexicaltzingo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09100{
+		"Colonia":"Juan Escutia",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09130{
+		"Colonia":"San Lorenzo Xicotencatl",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09140{
+		"Colonia":"Santa Martha Acatitla Norte",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09180{
+		"Colonia":"Ermita Zaragoza",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09200{
+		"Colonia":"Unidad Vicente Guerrero",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09208{
+		"Colonia":"Chinampac de Juárez",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09209{
+		"Colonia":"Renovación",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09210{
+		"Colonia":"Tepalcates",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09220{
+		"Colonia":"Unidad Ejército Constitucionalista",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09230{
+		"Colonia":"Álvaro Obregón",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09230{
+		"Colonia":"Ejército de Oriente",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09230{
+		"Colonia":"El Paraíso",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09230{
+		"Colonia":"José María Morelos y Pavón",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09239{
+		"Colonia":"Ejército de Oriente Zona Peñón",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09240{
+		"Colonia":"Progresista",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09250{
+		"Colonia":"La Regadera",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09260{
+		"Colonia":"Constitución de 1917",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09270{
+		"Colonia":"Colonial Iztapalapa",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09280{
+		"Colonia":"Jacarandas",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09290{
+		"Colonia":"Santa Cruz Meyehualco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09300{
+		"Colonia":"Guadalupe del Moral",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09310{
+		"Colonia":"Leyes de Reforma 1a Sección",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09310{
+		"Colonia":"Leyes de Reforma 2a Sección",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09310{
+		"Colonia":"Leyes de Reforma 3a Sección",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09319{
+		"Colonia":"Cuchilla del Moral",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09320{
+		"Colonia":"Sideral",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09350{
+		"Colonia":"Albarrada",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09359{
+		"Colonia":"Eva Sámano de López Mateos",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09360{
+		"Colonia":"San Miguel",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09360{
+		"Colonia":"Ampliación San Miguel",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09400{
+		"Colonia":"San Juanico Nextipac",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09400{
+		"Colonia":"El Sifón",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09410{
+		"Colonia":"Aculco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09410{
+		"Colonia":"Jardines de Churubusco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09410{
+		"Colonia":"Magdalena Atlazolpa",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09410{
+		"Colonia":"San José Aculco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09420{
+		"Colonia":"Los Picos VI-B",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09420{
+		"Colonia":"Nueva Rosita",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09429{
+		"Colonia":"Purísima Atlazolpa",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09430{
+		"Colonia":"Apatlaco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09430{
+		"Colonia":"El Triunfo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09438{
+		"Colonia":"Ampliación El Triunfo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09440{
+		"Colonia":"El Retoño",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09440{
+		"Colonia":"San Andrés Tetepilco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09440{
+		"Colonia":"Zacahuitzco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09450{
+		"Colonia":"Banjidal",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09460{
+		"Colonia":"Justo Sierra",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09470{
+		"Colonia":"Sinatel",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09479{
+		"Colonia":"Ampliación Sinatel",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09480{
+		"Colonia":"El Prado",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09500{
+		"Colonia":"Santa María Aztahuacán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09500{
+		"Colonia":"Santa María Aztahuacán Ampliación",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09510{
+		"Colonia":"Santa Martha Acatitla",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09520{
+		"Colonia":"El Edén",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09520{
+		"Colonia":"San Sebastián Tecoloxtitla",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09530{
+		"Colonia":"Santa Martha Acatitla Sur",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09550{
+		"Colonia":"Monte Alban",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09560{
+		"Colonia":"Paraje Zacatepec",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09570{
+		"Colonia":"Santa María Aztahuacán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09578{
+		"Colonia":"Ejército de Agua Prieta",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09600{
+		"Colonia":"Santiago Acahualtepec",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09608{
+		"Colonia":"Santiago Acahualtepec 1ra. Ampliación",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09609{
+		"Colonia":"Santiago Acahualtepec 2a. Ampliación",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09620{
+		"Colonia":"Lomas de Zaragoza",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Corrales",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Acorralado",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Avisadero",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Capilla",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Guadalupe",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Iztlahuaca",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Jardines",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección La Cruz",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Loma Alta",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Mercedes",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Palmitas",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Puente",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Ranchito",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Rancho Bajo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09630{
+		"Colonia":"San Miguel Teotongo Sección Torres",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09637{
+		"Colonia":"Campestre Potrero",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09638{
+		"Colonia":"Ampliación Emiliano Zapata",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09640{
+		"Colonia":"Lomas de la Estancia",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09640{
+		"Colonia":"Xalpa",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09648{
+		"Colonia":"San Pablo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09660{
+		"Colonia":"Citlalli",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09670{
+		"Colonia":"Palmitas",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09680{
+		"Colonia":"Tenorios",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09689{
+		"Colonia":"Barranca de Guadalupe",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09690{
+		"Colonia":"Iztlahuacán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09696{
+		"Colonia":"Miravalles",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09698{
+		"Colonia":"Miguel de La Madrid Hurtado",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09700{
+		"Colonia":"Buenavista",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09700{
+		"Colonia":"Carlos Hank Gonzalez",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09700{
+		"Colonia":"Desarrollo Urbano Quetzalcoatl",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09700{
+		"Colonia":"Santa Cruz Meyehualco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09704{
+		"Colonia":"Degollado",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09705{
+		"Colonia":"Degollado - Mexicatlalli",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09706{
+		"Colonia":"San José Buenavista",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09708{
+		"Colonia":"Mixcoatl",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09709{
+		"Colonia":"Lomas de Santa Cruz",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09710{
+		"Colonia":"Los Ángeles Apanoaya",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09720{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09720{
+		"Colonia":"La Era",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09730{
+		"Colonia":"Reforma Política",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09740{
+		"Colonia":"Presidentes de México",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09750{
+		"Colonia":"Insurgentes",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09750{
+		"Colonia":"La Polvorilla",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09750{
+		"Colonia":"Las Peñas",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09760{
+		"Colonia":"Consejo Agrarista Mexicano",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09769{
+		"Colonia":"El Triángulo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09770{
+		"Colonia":"Puente Blanco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09780{
+		"Colonia":"Año de Juárez",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09780{
+		"Colonia":"Lomas de San Lorenzo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09790{
+		"Colonia":"San Lorenzo Tezonco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09800{
+		"Colonia":"Culhuacán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09800{
+		"Colonia":"El Mirador",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09800{
+		"Colonia":"Estrella Culhuacán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09800{
+		"Colonia":"Fuego Nuevo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09800{
+		"Colonia":"San Antonio Culhuacán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09800{
+		"Colonia":"San Antonio Culhuacán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09800{
+		"Colonia":"San Simón Culhuacán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09800{
+		"Colonia":"Tula",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09800{
+		"Colonia":"Valle de Luces",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09810{
+		"Colonia":"Granjas Esmeralda",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09810{
+		"Colonia":"Los Cipreses",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09810{
+		"Colonia":"Minerva",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09810{
+		"Colonia":"Progreso del Sur",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09819{
+		"Colonia":"Valle del Sur",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09820{
+		"Colonia":"El Santuario",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09820{
+		"Colonia":"Estrella del Sur",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09820{
+		"Colonia":"Ricardo Flores Magón",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09820{
+		"Colonia":"Santa Isabel Industrial",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09828{
+		"Colonia":"Ampliación Ricardo Flores Magón",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09829{
+		"Colonia":"Ampliación El Santuario",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09830{
+		"Colonia":"El Manto",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09830{
+		"Colonia":"El Molino",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09830{
+		"Colonia":"Lomas El Manto",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09830{
+		"Colonia":"Los Ángeles",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09830{
+		"Colonia":"Paraje San Juan",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09837{
+		"Colonia":"San Miguel 8va. Ampliación",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09838{
+		"Colonia":"Plan de Iguala",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09839{
+		"Colonia":"Ampliación Paraje San Juan",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09839{
+		"Colonia":"San Juan Joya",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09840{
+		"Colonia":"Los Reyes Culhuacán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09849{
+		"Colonia":"Ampliación Los Reyes",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09850{
+		"Colonia":"San Juan Xalpa",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09850{
+		"Colonia":"San Nicolás Tolentino",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09850{
+		"Colonia":"Santa María del Monte",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09856{
+		"Colonia":"Estado de Veracruz",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09856{
+		"Colonia":"Ampliación Veracruzana",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09858{
+		"Colonia":"Paraje San Juan Cerro",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09859{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09860{
+		"Colonia":"Bellavista",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09860{
+		"Colonia":"Ampliación Bellavista",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09860{
+		"Colonia":"Casa Blanca",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09860{
+		"Colonia":"Cerro de La Estrella",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09860{
+		"Colonia":"Parque Nacional Cerro  de la Estrella",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09860{
+		"Colonia":"El Rodeo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09868{
+		"Colonia":"San Juan Estrella",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09870{
+		"Colonia":"12 de Diciembre",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09870{
+		"Colonia":"San Andrés Tomatlán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09870{
+		"Colonia":"San Andrés Tomatlán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09870{
+		"Colonia":"Santa María Tomatlán",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09880{
+		"Colonia":"El Vergel",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09880{
+		"Colonia":"Granjas Estrella",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09890{
+		"Colonia":"Lomas Estrella",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09897{
+		"Colonia":"Carlos Jonguitud Barrios",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09900{
+		"Colonia":"Guadalupe",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09900{
+		"Colonia":"San Antonio",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09900{
+		"Colonia":"San Lorenzo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09910{
+		"Colonia":"La Esperanza",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09920{
+		"Colonia":"José López Portillo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09930{
+		"Colonia":"El Rosario",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09940{
+		"Colonia":"Jardines de San Lorenzo Tezonco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09960{
+		"Colonia":"Celoalliotli",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09960{
+		"Colonia":"USCOVI",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09960{
+		"Colonia":"El Molino Tezonco",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09960{
+		"Colonia":"Allapetlalli",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09960{
+		"Colonia":"La Planta",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09969{
+		"Colonia":"Cananea",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	09970{
+		"Colonia":"Valle de San Lorenzo",
+		"Municipio":"Iztapalapa, Ciudad de Mexico"
+	},
+	10000{
+		"Colonia":"Lomas Quebradas",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10010{
+		"Colonia":"La Malinche",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10010{
+		"Colonia":"San Bartolo Ameyalco",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10020{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10130{
+		"Colonia":"El Maestro",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10200{
+		"Colonia":"San Jerónimo Lídice",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10300{
+		"Colonia":"San Bernabé Ocotepec",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10320{
+		"Colonia":"El Tanque",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10330{
+		"Colonia":"Las Cruces",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10340{
+		"Colonia":"Los Padres",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10350{
+		"Colonia":"Lomas de San Bernabé",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10360{
+		"Colonia":"Huayatla",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10368{
+		"Colonia":"Ampliación Potrerillo",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10369{
+		"Colonia":"Ampliación Lomas de San Bernabé",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10369{
+		"Colonia":"Tierra Unida",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10370{
+		"Colonia":"Palmas",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10378{
+		"Colonia":"Atacaxco",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10379{
+		"Colonia":"Vista Hermosa",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10380{
+		"Colonia":"Barros Sierra",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10400{
+		"Colonia":"San Jerónimo Aculco",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10500{
+		"Colonia":"Barrio San Francisco",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10580{
+		"Colonia":"Barranca Seca",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10600{
+		"Colonia":"El Rosal",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10610{
+		"Colonia":"El Toro",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10620{
+		"Colonia":"Potrerillo",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10630{
+		"Colonia":"El Ocotal",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10640{
+		"Colonia":"La Carbonera",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10640{
+		"Colonia":"Pueblo Nuevo Alto",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10640{
+		"Colonia":"Pueblo Nuevo Bajo",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10660{
+		"Colonia":"El Ermitaño",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10700{
+		"Colonia":"Héroes de Padierna",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10710{
+		"Colonia":"Santa Teresa",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10800{
+		"Colonia":"La Cruz",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10810{
+		"Colonia":"San Francisco",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10820{
+		"Colonia":"La Guadalupe",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10830{
+		"Colonia":"La Concepción",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10840{
+		"Colonia":"Las Calles",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10840{
+		"Colonia":"Plazuela del Pedregal",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10900{
+		"Colonia":"San Nicolás Totolapan",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10910{
+		"Colonia":"La Magdalena",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10920{
+		"Colonia":"Las Huertas",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	10926{
+		"Colonia":"Tierra Colorada",
+		"Municipio":"La Magdalena Contreras, Ciudad de Mexico"
+	},
+	11000{
+		"Colonia":"Lomas de Chapultepec I Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11000{
+		"Colonia":"Lomas de Chapultepec VIII Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11000{
+		"Colonia":"Lomas de Chapultepec II Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11000{
+		"Colonia":"Lomas de Chapultepec III Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11000{
+		"Colonia":"Lomas de Chapultepec IV Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11000{
+		"Colonia":"Lomas de Chapultepec V Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11000{
+		"Colonia":"Lomas de Chapultepec VI Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11000{
+		"Colonia":"Lomas de Chapultepec VII Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11040{
+		"Colonia":"Molino del Rey",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11100{
+		"Colonia":"Bosque de Chapultepec II Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11100{
+		"Colonia":"Bosque de Chapultepec III Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11200{
+		"Colonia":"Lomas Hermosa",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11200{
+		"Colonia":"Lomas de Sotelo",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11210{
+		"Colonia":"San Lorenzo Tlaltenango",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11220{
+		"Colonia":"Periodista",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11230{
+		"Colonia":"Argentina Poniente",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11240{
+		"Colonia":"Ignacio Manuel Altamirano",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11250{
+		"Colonia":"10 de Abril",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11260{
+		"Colonia":"México Nuevo",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11260{
+		"Colonia":"San Joaquín",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11270{
+		"Colonia":"Argentina Antigua",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11280{
+		"Colonia":"Torre Blanca",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11289{
+		"Colonia":"Ampliación Torre Blanca",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11290{
+		"Colonia":"Huíchapan",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11290{
+		"Colonia":"San Diego Ocoyoacac",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11300{
+		"Colonia":"Verónica Anzures",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11310{
+		"Colonia":"Mariano Escobedo",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11320{
+		"Colonia":"Anáhuac I Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11320{
+		"Colonia":"Anáhuac II Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11330{
+		"Colonia":"Un Hogar Para Nosotros",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11340{
+		"Colonia":"Santo Tomas",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11350{
+		"Colonia":"Plutarco Elías Calles",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11360{
+		"Colonia":"Agricultura",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11370{
+		"Colonia":"Tlaxpana",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11400{
+		"Colonia":"Popotla",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11410{
+		"Colonia":"Legaria",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11410{
+		"Colonia":"Tacuba",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11420{
+		"Colonia":"Nextitla",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11430{
+		"Colonia":"Pensil Norte",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11430{
+		"Colonia":"Ventura Pérez de Alva",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11440{
+		"Colonia":"Reforma Pensil",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11440{
+		"Colonia":"San Juanico",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11450{
+		"Colonia":"Ahuehuetes Anáhuac",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11450{
+		"Colonia":"Modelo Pensil",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11450{
+		"Colonia":"Peralitos",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11460{
+		"Colonia":"Dos Lagos",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11460{
+		"Colonia":"Lago Norte",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11460{
+		"Colonia":"Lago Sur",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11460{
+		"Colonia":"Los Manzanos",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11470{
+		"Colonia":"5 de Mayo",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11470{
+		"Colonia":"Deportivo Pensil",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11480{
+		"Colonia":"Francisco I Madero",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11480{
+		"Colonia":"Popo",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11489{
+		"Colonia":"Ampliación Popo",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11490{
+		"Colonia":"Cuauhtémoc Pensil",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11490{
+		"Colonia":"Pensil Sur",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11500{
+		"Colonia":"Irrigación",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11510{
+		"Colonia":"Polanco I Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11520{
+		"Colonia":"Granada",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11529{
+		"Colonia":"Ampliación Granada",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11530{
+		"Colonia":"Polanco II Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11540{
+		"Colonia":"Polanco III Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11550{
+		"Colonia":"Polanco IV Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11560{
+		"Colonia":"Polanco V Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11580{
+		"Colonia":"Bosque de Chapultepec I Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11590{
+		"Colonia":"Anzures",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11600{
+		"Colonia":"Residencial Militar",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11610{
+		"Colonia":"Manuel Avila Camacho",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11619{
+		"Colonia":"Campo Militar 1",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11650{
+		"Colonia":"Reforma Social",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11700{
+		"Colonia":"Bosque de las Lomas",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11800{
+		"Colonia":"Escandón I Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11800{
+		"Colonia":"Escandón II Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11810{
+		"Colonia":"16 de Septiembre",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11820{
+		"Colonia":"América",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11830{
+		"Colonia":"Daniel Garza",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11840{
+		"Colonia":"Ampliación Daniel Garza",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11850{
+		"Colonia":"San Miguel Chapultepec I Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11850{
+		"Colonia":"San Miguel Chapultepec II Sección",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11860{
+		"Colonia":"Observatorio",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11870{
+		"Colonia":"Tacubaya",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11910{
+		"Colonia":"Lomas de Bezares",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11920{
+		"Colonia":"Real de las Lomas",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11930{
+		"Colonia":"Lomas de Reforma",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	11950{
+		"Colonia":"Lomas Altas",
+		"Municipio":"Miguel Hidalgo, Ciudad de Mexico"
+	},
+	12000{
+		"Colonia":"La Concepción",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12000{
+		"Colonia":"La Luz",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12000{
+		"Colonia":"Los Ángeles",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12000{
+		"Colonia":"San Mateo",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12000{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12000{
+		"Colonia":"Santa Martha",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12000{
+		"Colonia":"Villa Milpa Alta Centro",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12070{
+		"Colonia":"San Agustin",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12080{
+		"Colonia":"San Agustin Ohtenco",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12100{
+		"Colonia":"Cruztitla",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12100{
+		"Colonia":"Tecaxtitla",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12100{
+		"Colonia":"Tenantitla",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12100{
+		"Colonia":"Xaltipac",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12100{
+		"Colonia":"Xochitepec",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12110{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12110{
+		"Colonia":"La Conchita",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12200{
+		"Colonia":"Nochtla",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12200{
+		"Colonia":"Ocotitla",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12200{
+		"Colonia":"Panchimalco",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12200{
+		"Colonia":"Tula",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12250{
+		"Colonia":"San Bartolomé Xicomulco",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12300{
+		"Colonia":"San Salvador Cuauhtenco",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12400{
+		"Colonia":"Centro",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12400{
+		"Colonia":"San Juan",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12400{
+		"Colonia":"San Miguel",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12410{
+		"Colonia":"Chalmita",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12500{
+		"Colonia":"San Lorenzo Tlacoyucan",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12600{
+		"Colonia":"San Jerónimo Miacatlán",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12700{
+		"Colonia":"San Francisco Tecoxpa",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12800{
+		"Colonia":"San Juan Tepenahuac",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12910{
+		"Colonia":"La Lupita Teticpac",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12920{
+		"Colonia":"San Marcos",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12930{
+		"Colonia":"San Miguel",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12940{
+		"Colonia":"San José",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	12950{
+		"Colonia":"La Lupita Xolco",
+		"Municipio":"Milpa Alta, Ciudad de Mexico"
+	},
+	13000{
+		"Colonia":"La Asunción",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13010{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13020{
+		"Colonia":"San José",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13030{
+		"Colonia":"San Juan",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13040{
+		"Colonia":"San Mateo",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13050{
+		"Colonia":"La Habana",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13060{
+		"Colonia":"La Guadalupe",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13060{
+		"Colonia":"Santa Ana",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13070{
+		"Colonia":"La Magdalena",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13070{
+		"Colonia":"San Miguel",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13080{
+		"Colonia":"Los Reyes",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13090{
+		"Colonia":"Quiahuatla",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13093{
+		"Colonia":"San Sebastián",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13094{
+		"Colonia":"San Isidro",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13099{
+		"Colonia":"San Andrés",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13100{
+		"Colonia":"La Guadalupe",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13120{
+		"Colonia":"Ampliación Santa Catarina",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13120{
+		"Colonia":"Santiago",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13150{
+		"Colonia":"La Concepción",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13180{
+		"Colonia":"San Miguel",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13200{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13210{
+		"Colonia":"Los Olivos",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13219{
+		"Colonia":"Las Arboledas",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13219{
+		"Colonia":"Ampliación Los Olivos",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13220{
+		"Colonia":"La Nopalera",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13230{
+		"Colonia":"Granjas Cabrera",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13250{
+		"Colonia":"La Turba",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13270{
+		"Colonia":"Del Mar",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13273{
+		"Colonia":"La Draga",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13278{
+		"Colonia":"Villa Centroamericana",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13280{
+		"Colonia":"Agrícola Metropolitana",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13300{
+		"Colonia":"Santa Ana Centro",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13300{
+		"Colonia":"Santiago Centro",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13300{
+		"Colonia":"Santa Ana Poniente",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13300{
+		"Colonia":"Santa Ana Norte",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13300{
+		"Colonia":"Santiago Norte",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13310{
+		"Colonia":"Zapotitla",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13315{
+		"Colonia":"Ampliación Zapotitla",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13319{
+		"Colonia":"La Estación",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13360{
+		"Colonia":"La Conchita Zapotitlán",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13360{
+		"Colonia":"Santa Ana Sur",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13360{
+		"Colonia":"Santiago Sur",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13400{
+		"Colonia":"San Francisco Tlaltenco",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13410{
+		"Colonia":"López Portillo",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13419{
+		"Colonia":"Ampliación José López Portillo",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13420{
+		"Colonia":"Selene",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13430{
+		"Colonia":"Ampliación Selene",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13440{
+		"Colonia":"Zacatenco",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13450{
+		"Colonia":"Guadalupe Tlaltenco",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13450{
+		"Colonia":"Ojo de Agua",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13460{
+		"Colonia":"El Triángulo",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13508{
+		"Colonia":"San Agustín",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13508{
+		"Colonia":"La Soledad",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13509{
+		"Colonia":"La Concepción",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13510{
+		"Colonia":"La Lupita",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13520{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13530{
+		"Colonia":"Jaime Torres Bodet",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13530{
+		"Colonia":"La Asunción",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13540{
+		"Colonia":"El Rosario",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13540{
+		"Colonia":"Tierra Blanca",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13545{
+		"Colonia":"Ampliación La Conchita",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13549{
+		"Colonia":"Peña Alta",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13550{
+		"Colonia":"Jardines del Llano",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13550{
+		"Colonia":"Potrero del Llano",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13600{
+		"Colonia":"San Bartolomé",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13610{
+		"Colonia":"Los Reyes",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13625{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13630{
+		"Colonia":"San Agustín",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13640{
+		"Colonia":"San Miguel",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13700{
+		"Colonia":"San Nicolás Tetelco",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	13700{
+		"Colonia":"Tepantitlamilco",
+		"Municipio":"Tláhuac, Ciudad de Mexico"
+	},
+	14000{
+		"Colonia":"Tlalpan Centro",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14000{
+		"Colonia":"Tlalpan",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14010{
+		"Colonia":"Parque del Pedregal",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14020{
+		"Colonia":"Villa Olímpica",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14030{
+		"Colonia":"Isidro Fabela",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14039{
+		"Colonia":"Ampliación Isidro Fabela",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14040{
+		"Colonia":"Cantera Puente de Piedra",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14040{
+		"Colonia":"Pueblo Quieto",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14049{
+		"Colonia":"Comuneros de Santa Úrsula",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14050{
+		"Colonia":"Toriello Guerra",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14060{
+		"Colonia":"Peña Pobre",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14070{
+		"Colonia":"Rómulo Sánchez Mireles",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14070{
+		"Colonia":"San Fernando",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14070{
+		"Colonia":"San Pedro Apóstol",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14080{
+		"Colonia":"Belisario Domínguez Sección XVI",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14080{
+		"Colonia":"Del Niño Jesús",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14090{
+		"Colonia":"La Joya",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14100{
+		"Colonia":"Pedregal de San Nicolás 1A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14100{
+		"Colonia":"Pedregal de San Nicolás 2A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14100{
+		"Colonia":"Pedregal de San Nicolás 3A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14100{
+		"Colonia":"Pedregal de San Nicolás 4A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14100{
+		"Colonia":"Pedregal de San Nicolás 5ª Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14108{
+		"Colonia":"Chichicaspatl",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14110{
+		"Colonia":"Ampliación Fuentes del Pedregal",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14120{
+		"Colonia":"Rincón del Pedregal",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14140{
+		"Colonia":"Fuentes del Pedregal",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14150{
+		"Colonia":"Lomas del Pedregal Framboyanes",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14160{
+		"Colonia":"Popular Santa Teresa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14200{
+		"Colonia":"Héroes de Padierna",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14200{
+		"Colonia":"Jardines del Ajusco",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14208{
+		"Colonia":"Colinas del Ajusco",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14209{
+		"Colonia":"Torres de Padierna",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14210{
+		"Colonia":"Jardines en la Montaña",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14219{
+		"Colonia":"Six Flags (Reino Aventura)",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14219{
+		"Colonia":"Parque Nacional Bosque del Pedregal",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14220{
+		"Colonia":"Cuchilla de Padierna",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14220{
+		"Colonia":"Lomas del Pedregal",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14230{
+		"Colonia":"Cultura Maya",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14239{
+		"Colonia":"Los Encinos",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14240{
+		"Colonia":"Lomas de Padierna",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14240{
+		"Colonia":"Lomas Hidalgo",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14248{
+		"Colonia":"Cruz del Farol",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14250{
+		"Colonia":"Miguel Hidalgo 2A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14250{
+		"Colonia":"Miguel Hidalgo 3A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14250{
+		"Colonia":"Miguel Hidalgo 4A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14250{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14260{
+		"Colonia":"El Capulín",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14260{
+		"Colonia":"Miguel Hidalgo 1A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14266{
+		"Colonia":"Zacayucan Peña Pobre",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14267{
+		"Colonia":"De Caramagüey",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14268{
+		"Colonia":"La Lonja",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14269{
+		"Colonia":"La Fama",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14270{
+		"Colonia":"Primavera",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14275{
+		"Colonia":"Paraje 38",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14300{
+		"Colonia":"Nueva Oriental Coapa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14300{
+		"Colonia":"Residencial Acoxpa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14300{
+		"Colonia":"Residencial Miramontes",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14308{
+		"Colonia":"Ex Hacienda Coapa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14310{
+		"Colonia":"Belisario Domínguez",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14310{
+		"Colonia":"Floresta Coyoacán",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14320{
+		"Colonia":"Vergel Coapa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14325{
+		"Colonia":"Rinconada Coapa 2A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14326{
+		"Colonia":"Tenorios",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14330{
+		"Colonia":"Granjas Coapa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14330{
+		"Colonia":"Rinconada Coapa 1A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14340{
+		"Colonia":"Vergel de Coyoacán",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14340{
+		"Colonia":"Vergel del Sur",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14350{
+		"Colonia":"Prado Coapa 1A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14357{
+		"Colonia":"Prado Coapa 2A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14357{
+		"Colonia":"Prado Coapa 3A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14360{
+		"Colonia":"Magisterial",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14360{
+		"Colonia":"Magisterial Coapa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14370{
+		"Colonia":"Residencial Chimali",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14370{
+		"Colonia":"San Lorenzo Huipulco",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14370{
+		"Colonia":"Villa Lázaro Cárdenas",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14376{
+		"Colonia":"Arboledas del Sur",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14377{
+		"Colonia":"Hacienda San Juan",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14380{
+		"Colonia":"A.M.S.A",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14380{
+		"Colonia":"San Bartolo El Chico",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14386{
+		"Colonia":"Rancho los Colorines",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14387{
+		"Colonia":"Ex Hacienda San Juan de Dios",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14388{
+		"Colonia":"Guadalupe",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14389{
+		"Colonia":"Arenal de Guadalupe",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14390{
+		"Colonia":"Rinconada Las Hadas",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14390{
+		"Colonia":"Narciso Mendoza",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14390{
+		"Colonia":"Residencial Villa Coapa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14390{
+		"Colonia":"Villa Coapa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14400{
+		"Colonia":"San Andrés Totoltepec",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14406{
+		"Colonia":"Divisadero",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14408{
+		"Colonia":"Nuevo Renacimiento de Axalco",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14409{
+		"Colonia":"Tecorral",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14410{
+		"Colonia":"Fuentes Brotantes",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14420{
+		"Colonia":"Cumbres de Tepetongo",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14420{
+		"Colonia":"Mesa de los Hornos",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14420{
+		"Colonia":"Santa Úrsula Xitla",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14426{
+		"Colonia":"Texcaltenco",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14426{
+		"Colonia":"Tlaxcaltenco la Mesa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14427{
+		"Colonia":"San Juan Tepeximilpa",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14427{
+		"Colonia":"Tepeximilpa la Paz",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14429{
+		"Colonia":"Santísima Trinidad",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14430{
+		"Colonia":"El Truenito",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14430{
+		"Colonia":"Tlalcoligia",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14438{
+		"Colonia":"Pedregal de Santa Úrsula Xitla",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14439{
+		"Colonia":"Pedregal de las Águilas",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14440{
+		"Colonia":"Los Volcanes",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14449{
+		"Colonia":"El Mirador 1A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14449{
+		"Colonia":"El Mirador 2A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14449{
+		"Colonia":"El Mirador 3A Sección",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14460{
+		"Colonia":"Tlalpuente",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14470{
+		"Colonia":"Plan de Ayala",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14476{
+		"Colonia":"La Palma",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14479{
+		"Colonia":"Viveros Coatectlán",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14480{
+		"Colonia":"La Magdalena Petlacalco",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14490{
+		"Colonia":"San Miguel Xicalco",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14500{
+		"Colonia":"San Miguel Topilejo",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14600{
+		"Colonia":"Valle Escondido",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14608{
+		"Colonia":"Colinas del Bosque",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14609{
+		"Colonia":"Las Tórtolas",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14610{
+		"Colonia":"Arenal Tepepan",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14620{
+		"Colonia":"Club de Golf México",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14629{
+		"Colonia":"San Buenaventura",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14630{
+		"Colonia":"Chimalcoyoc",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14630{
+		"Colonia":"Villa Tlalpan",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14640{
+		"Colonia":"Ejidos de San Pedro Mártir",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14643{
+		"Colonia":"Fuentes de Tepepan",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14646{
+		"Colonia":"Valle de Tepepan",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14647{
+		"Colonia":"Juventud Unida",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14647{
+		"Colonia":"Movimiento Organizado de Tlalpan",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14647{
+		"Colonia":"Rinconada El Mirador",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14650{
+		"Colonia":"San Pedro Mártir",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14653{
+		"Colonia":"Heróico Colegio Militar",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14657{
+		"Colonia":"Tlalmille",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14658{
+		"Colonia":"Mirador del Valle",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14659{
+		"Colonia":"María Esther Zuno de Echeverría",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14700{
+		"Colonia":"San Miguel Ajusco",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14710{
+		"Colonia":"Santo Tomas Ajusco",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14720{
+		"Colonia":"Belvedere Ajusco",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14730{
+		"Colonia":"Lomas de Cuilotepec",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14735{
+		"Colonia":"Lomas de Tepemecatl",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14737{
+		"Colonia":"Vistas del Pedregal",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14738{
+		"Colonia":"Bosques del Pedregal",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14739{
+		"Colonia":"2 de Octubre",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14740{
+		"Colonia":"Lomas de Padierna Sur",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14748{
+		"Colonia":"Mirador I",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14748{
+		"Colonia":"Mirador II",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14749{
+		"Colonia":"Chimilli",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14760{
+		"Colonia":"Héroes de 1910",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	14900{
+		"Colonia":"Parres El Guarda",
+		"Municipio":"Tlalpan, Ciudad de Mexico"
+	},
+	15000{
+		"Colonia":"General Ignacio Zaragoza",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15010{
+		"Colonia":"Valentín Gómez Farias",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15020{
+		"Colonia":"Puebla",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15100{
+		"Colonia":"Zona Centro",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15200{
+		"Colonia":"Janitzio",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15210{
+		"Colonia":"Valle Gómez",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15220{
+		"Colonia":"Nicolás Bravo",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15220{
+		"Colonia":"Popular Rastro",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15230{
+		"Colonia":"Emilio Carranza",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15240{
+		"Colonia":"Michoacana",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15250{
+		"Colonia":"Ampliación Michoacana",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15260{
+		"Colonia":"Ampliación 20 de Noviembre",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15270{
+		"Colonia":"Morelos",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15280{
+		"Colonia":"Penitenciaria",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15290{
+		"Colonia":"10 de Mayo",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15300{
+		"Colonia":"20 de Noviembre",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15309{
+		"Colonia":"5o Tramo 20 de Noviembre",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15310{
+		"Colonia":"Felipe Ángeles",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15320{
+		"Colonia":"Azteca",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15330{
+		"Colonia":"Tres Mosqueteros",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15339{
+		"Colonia":"Ampliación Venustiano Carranza",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15340{
+		"Colonia":"Venustiano Carranza",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15350{
+		"Colonia":"Ampliación Penitenciaria",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15370{
+		"Colonia":"Progresista",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15380{
+		"Colonia":"Escuela de Tiro",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15390{
+		"Colonia":"7 de Julio",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15400{
+		"Colonia":"Romero Rubio",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15410{
+		"Colonia":"Simón Bolívar",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15420{
+		"Colonia":"Ampliación Simón Bolívar",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15430{
+		"Colonia":"Aquiles Serdán",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15440{
+		"Colonia":"1° de Mayo",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15450{
+		"Colonia":"Damián Carmona",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15460{
+		"Colonia":"Revolución",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15470{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15500{
+		"Colonia":"Moctezuma 1a Sección",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15510{
+		"Colonia":"Pensador Mexicano",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15520{
+		"Colonia":"Peñón de los Baños",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15530{
+		"Colonia":"Moctezuma 2a Sección",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15540{
+		"Colonia":"Santa Cruz Aviación",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15600{
+		"Colonia":"Arenal 1a Sección",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15610{
+		"Colonia":"Cuchilla Pantitlán",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15620{
+		"Colonia":"México (Lic. Benito Juárez)",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15630{
+		"Colonia":"Caracol",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15640{
+		"Colonia":"Arenal 4a Sección",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15640{
+		"Colonia":"Arenal Puerto Aéreo",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15650{
+		"Colonia":"Ampliación Caracol",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15660{
+		"Colonia":"Arenal 3a Sección",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15670{
+		"Colonia":"Adolfo López Mateos",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15680{
+		"Colonia":"Arenal 2a Sección",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15700{
+		"Colonia":"Federal",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15710{
+		"Colonia":"Industrial Puerto Aéreo",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15730{
+		"Colonia":"4 Árboles",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15740{
+		"Colonia":"Aviación Civil",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15750{
+		"Colonia":"Ampliación Aviación Civil",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15800{
+		"Colonia":"Jamaica",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15810{
+		"Colonia":"Merced Balbuena",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15820{
+		"Colonia":"Lorenzo Boturini",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15830{
+		"Colonia":"Artes Gráficas",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15840{
+		"Colonia":"Sevilla",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15850{
+		"Colonia":"Magdalena Mixiuhca",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15860{
+		"Colonia":"La Magdalena Mixiuhca",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15870{
+		"Colonia":"Aarón Sáenz",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15900{
+		"Colonia":"Jardín Balbuena",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15960{
+		"Colonia":"Del Parque",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15970{
+		"Colonia":"Aeronáutica Militar",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15980{
+		"Colonia":"24 de Abril",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	15990{
+		"Colonia":"Álvaro Obregón",
+		"Municipio":"Venustiano Carranza, Ciudad de Mexico"
+	},
+	16000{
+		"Colonia":"La Concepción Tlacoapa",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16000{
+		"Colonia":"San Antonio",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16000{
+		"Colonia":"San Juan",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16010{
+		"Colonia":"Bosque Residencial del Sur",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16010{
+		"Colonia":"Las Peritas",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16010{
+		"Colonia":"Paseos del Sur",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16010{
+		"Colonia":"San Bartolo El Chico",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16020{
+		"Colonia":"San Juan Tepepan",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16020{
+		"Colonia":"Santa María Tepepan",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16029{
+		"Colonia":"Ampliación Tepepan",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16030{
+		"Colonia":"Huichapan",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16030{
+		"Colonia":"La Noria",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16030{
+		"Colonia":"Potrero de San Bernardino",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16030{
+		"Colonia":"Ampliación La Noria",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16034{
+		"Colonia":"18",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16035{
+		"Colonia":"San Lorenzo La Cebada",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16035{
+		"Colonia":"Rinconada Coapa",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16036{
+		"Colonia":"Mercado de Flores Plantas y Hortalizas",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16038{
+		"Colonia":"Ampliación San Marcos Norte",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16040{
+		"Colonia":"La Asunción",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16040{
+		"Colonia":"San Lorenzo",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16050{
+		"Colonia":"Jardines del Sur",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16050{
+		"Colonia":"San Marcos",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16050{
+		"Colonia":"Tierra Nueva",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16059{
+		"Colonia":"Pblo. Stgo.Tepalcatlalpan, U. H. Rinconada del Sur",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16060{
+		"Colonia":"El Mirador",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16070{
+		"Colonia":"Belén",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16070{
+		"Colonia":"El Rosario",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16070{
+		"Colonia":"La Guadalupita",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16070{
+		"Colonia":"Santa Crucita",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16080{
+		"Colonia":"La Santísima",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16080{
+		"Colonia":"San Cristóbal",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16080{
+		"Colonia":"San Diego",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16080{
+		"Colonia":"San Esteban",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16090{
+		"Colonia":"San Pedro",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16090{
+		"Colonia":"Tablas de San Lorenzo",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16090{
+		"Colonia":"Xaltocan",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16100{
+		"Colonia":"Santa Cruz Xochitepec",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16200{
+		"Colonia":"Santiago Tepalcatlalpan",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16210{
+		"Colonia":"La Concha",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16300{
+		"Colonia":"San Lucas Xochimanca",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16310{
+		"Colonia":"La Cañada",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16320{
+		"Colonia":"San Lucas Oriente",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16340{
+		"Colonia":"Texmic",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16400{
+		"Colonia":"San Lorenzo Atemoaya",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16410{
+		"Colonia":"Lomas de Tonalco",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16420{
+		"Colonia":"San Jerónimo",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16428{
+		"Colonia":"El Jazmín",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16429{
+		"Colonia":"Rancho Tejomulco",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16430{
+		"Colonia":"Xochipilli",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16440{
+		"Colonia":"Año de Juárez",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16443{
+		"Colonia":"Pocitos",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16450{
+		"Colonia":"Santa María Nativitas",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16457{
+		"Colonia":"Lomas de Nativitas",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16459{
+		"Colonia":"Ampliación Nativitas",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16500{
+		"Colonia":"Santa Cruz Acalpixca",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16513{
+		"Colonia":"Apatlaco",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16513{
+		"Colonia":"Del Puente",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16514{
+		"Colonia":"La Gallera",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16514{
+		"Colonia":"Tetitla",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16514{
+		"Colonia":"Calpulco",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16520{
+		"Colonia":"La Planta",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16530{
+		"Colonia":"Las Cruces",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16530{
+		"Colonia":"Las Flores",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16533{
+		"Colonia":"Ahualapa",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16550{
+		"Colonia":"Valle de Santa María",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16600{
+		"Colonia":"San Gregorio Atlapulco",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16604{
+		"Colonia":"San Andrés",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16605{
+		"Colonia":"Los Reyes",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16606{
+		"Colonia":"3 de Mayo",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16607{
+		"Colonia":"San Antonio",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16609{
+		"Colonia":"La Candelaria",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16610{
+		"Colonia":"San Luis Tlaxialtemalco",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16614{
+		"Colonia":"Niños Héroes",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16615{
+		"Colonia":"La Asunción",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16616{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16617{
+		"Colonia":"San Sebastián",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16620{
+		"Colonia":"San José",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16629{
+		"Colonia":"La Guadalupana",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16629{
+		"Colonia":"San Juan",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16630{
+		"Colonia":"San Juan Moyotepec",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16640{
+		"Colonia":"San Juan Minas",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16710{
+		"Colonia":"Quirino Mendoza",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16720{
+		"Colonia":"Del Carmen",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16739{
+		"Colonia":"San Isidro",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16740{
+		"Colonia":"Guadalupita",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16749{
+		"Colonia":"Las Animas",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16750{
+		"Colonia":"Calyequita",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16770{
+		"Colonia":"San Felipe",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16776{
+		"Colonia":"Santiaguito",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16776{
+		"Colonia":"El Mirador",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16780{
+		"Colonia":"Cerrillos Primera Sección",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16780{
+		"Colonia":"El Sacrificio",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16780{
+		"Colonia":"Cristo Rey",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16780{
+		"Colonia":"Cerrillos Segunda Sección",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16780{
+		"Colonia":"Cerrillos Tercera Sección",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16797{
+		"Colonia":"Nativitas",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16799{
+		"Colonia":"Las Mesitas",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16800{
+		"Colonia":"San Mateo Xalpa",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16810{
+		"Colonia":"San Andrés Ahuayucan",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16810{
+		"Colonia":"Santa Inés",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16810{
+		"Colonia":"Rosario Tlali",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16813{
+		"Colonia":"El Calvario",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16840{
+		"Colonia":"Santa Cruz Chavarrieta",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16850{
+		"Colonia":"Chapultepec",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16860{
+		"Colonia":"Santa Cruz de Guadalupe",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16880{
+		"Colonia":"Santa Cecilia Tepetlapa",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+	16900{
+		"Colonia":"San Francisco Tlalnepantla",
+		"Municipio":"Xochimilco, Ciudad de Mexico"
+	},
+}

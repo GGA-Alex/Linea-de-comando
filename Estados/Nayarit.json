@@ -1,0 +1,7934 @@
+{
+	63000{
+		"Colonia":"Tepic Centro",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63000{
+		"Colonia":"Esteban Baca Calderón",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63010{
+		"Colonia":"Amado Nervo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63010{
+		"Colonia":"Amado Nervo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63010{
+		"Colonia":"Paseo de La Constitución",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63010{
+		"Colonia":"Sacristán",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63018{
+		"Colonia":"El Punto",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63019{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63019{
+		"Colonia":"Loma Hermosa",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63020{
+		"Colonia":"Santa Teresita",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63020{
+		"Colonia":"Unidad Deportiva Santa Teresita",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63021{
+		"Colonia":"Adolfo López Mateos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63022{
+		"Colonia":"INDECO",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63023{
+		"Colonia":"Ojo de Agua",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63023{
+		"Colonia":"Senderos del Monte",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63023{
+		"Colonia":"Buenos Aires",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63030{
+		"Colonia":"Cuitlahuac",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63030{
+		"Colonia":"Chapultepec",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63030{
+		"Colonia":"Lomas de La Cruz Sutse",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63030{
+		"Colonia":"San José",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63035{
+		"Colonia":"Jardines del Valle",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63035{
+		"Colonia":"Villas del Paraíso",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63035{
+		"Colonia":"Bugambilias",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63035{
+		"Colonia":"Tulipanes",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63035{
+		"Colonia":"Valle Verde de Matatipac",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63035{
+		"Colonia":"Valle de La Cruz",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63035{
+		"Colonia":"Valle de Zaragoza",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63035{
+		"Colonia":"Ampliación El Paraíso",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63035{
+		"Colonia":"Nuevo Progreso",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63035{
+		"Colonia":"Islas del Paraíso",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Lomas de La Cruz",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Los Viveros",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Sindicalistas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Villas de la Cruz",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Residencial La Esmeralda",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Valle Verde Conalep",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Ingeniero Agrónomo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"La Loma",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Los Arcos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"La Lomita",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Zapopan",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Villas de la Laguna",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63037{
+		"Colonia":"Villas Arana",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63038{
+		"Colonia":"El Mirador INFONAVIT",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63038{
+		"Colonia":"El Paraíso",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63038{
+		"Colonia":"Emilio M. González",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63038{
+		"Colonia":"Las Conchas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63038{
+		"Colonia":"Las Pares",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63038{
+		"Colonia":"Reforma",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63038{
+		"Colonia":"Rancho las Cruces",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63039{
+		"Colonia":"Puerta de La Laguna",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63039{
+		"Colonia":"Real Montecarlo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63039{
+		"Colonia":"Camino Real",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63039{
+		"Colonia":"Social Progresivo Cuba",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63039{
+		"Colonia":"Aztlán El Verde",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63039{
+		"Colonia":"Riveras de La Laguna",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63040{
+		"Colonia":"Magisterial",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63050{
+		"Colonia":"El Parían",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63050{
+		"Colonia":"Miguel Ángel Paredes",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63050{
+		"Colonia":"Mololoa",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63058{
+		"Colonia":"Rivas Allende",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63058{
+		"Colonia":"Sandino",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63058{
+		"Colonia":"Sanchez Ibarra",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63059{
+		"Colonia":"Lomas de Cortez",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63059{
+		"Colonia":"Lomas de La Laguna",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63059{
+		"Colonia":"Villas de Matatipac",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63059{
+		"Colonia":"El Limón",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63059{
+		"Colonia":"San Juanito",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63060{
+		"Colonia":"El Rodeo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63061{
+		"Colonia":"Lomas Altas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63062{
+		"Colonia":"El Palomar",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63062{
+		"Colonia":"Lomas Bonitas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63062{
+		"Colonia":"Alaska",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63062{
+		"Colonia":"Rinconada Residencial",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63066{
+		"Colonia":"Lomas del Valle",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63066{
+		"Colonia":"Lomas del Valle Ampliación",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63066{
+		"Colonia":"Florencia",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63067{
+		"Colonia":"Las Flores",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63068{
+		"Colonia":"Luis Echeverría A.",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63068{
+		"Colonia":"América Manríquez",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63069{
+		"Colonia":"Primero de Mayo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63069{
+		"Colonia":"Unidad Obrera",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63069{
+		"Colonia":"Ampliación Unidad Obrera",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63070{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63070{
+		"Colonia":"La Huerta",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63080{
+		"Colonia":"Heriberto Casas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63081{
+		"Colonia":"Acayapan",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63082{
+		"Colonia":"El Faisán",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63082{
+		"Colonia":"El Naranjal",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63083{
+		"Colonia":"Ruinas de Jauja",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63083{
+		"Colonia":"Ampliación Santa Teresita",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63084{
+		"Colonia":"Ingeniero Aguayo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63084{
+		"Colonia":"Los Pinos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63088{
+		"Colonia":"Santa Fe",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63089{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63100{
+		"Colonia":"20 de Noviembre",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63109{
+		"Colonia":"Estadios",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63110{
+		"Colonia":"Lindavista",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63110{
+		"Colonia":"Rodeo de La Punta",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63114{
+		"Colonia":"Nuevas Delicias",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63114{
+		"Colonia":"Solidaridad INFONAVIT",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63114{
+		"Colonia":"Colinas del Nayar",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63114{
+		"Colonia":"Guadalupe",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63114{
+		"Colonia":"Solidaridad Primavera",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63114{
+		"Colonia":"Aztlán Solidaridad",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63114{
+		"Colonia":"Ecologistas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63114{
+		"Colonia":"Dieciséis de Septiembre",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63114{
+		"Colonia":"Residencial los Olivos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63115{
+		"Colonia":"SPAUAN",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63116{
+		"Colonia":"FOVISSSTE 2a Etapa",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63117{
+		"Colonia":"Brisas de San Juan",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63117{
+		"Colonia":"Las Brisas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63117{
+		"Colonia":"Las Brisas FOVISSSTE",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63119{
+		"Colonia":"FOVISSSTE 1a Etapa",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63120{
+		"Colonia":"IMSS",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63120{
+		"Colonia":"Obrera CTM",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63120{
+		"Colonia":"Villa San Ángel",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63128{
+		"Colonia":"Lomas de San Juan",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63129{
+		"Colonia":"Arboledas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63129{
+		"Colonia":"Aves del Paraíso",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63129{
+		"Colonia":"Jagüey",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63129{
+		"Colonia":"Cora",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63129{
+		"Colonia":"Rey Nayar",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63129{
+		"Colonia":"Tío Baltazar",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63129{
+		"Colonia":"Leonardo Rodríguez Alcaine",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63129{
+		"Colonia":"Villas de San Juan",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63130{
+		"Colonia":"San Juan",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63135{
+		"Colonia":"El Tecolote",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63135{
+		"Colonia":"El Tecolote INFONAVIT",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63136{
+		"Colonia":"Independencia",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63137{
+		"Colonia":"Residencial La Loma",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63138{
+		"Colonia":"Rincón de San Juan",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63138{
+		"Colonia":"Versalles Sur",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63139{
+		"Colonia":"Versalles Norte",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63150{
+		"Colonia":"Menchaca",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63155{
+		"Colonia":"Universidad Autónoma de Nayarit",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63156{
+		"Colonia":"Burócrata Federal",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63157{
+		"Colonia":"Ciudad del Valle",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63158{
+		"Colonia":"Caja de Agua",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63159{
+		"Colonia":"San Antonio",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63160{
+		"Colonia":"Electricistas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63160{
+		"Colonia":"Morelos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63163{
+		"Colonia":"Corralón",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63164{
+		"Colonia":"El Pedregal",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63164{
+		"Colonia":"Nueva Alemania",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63164{
+		"Colonia":"Pedregal de San Juan",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63165{
+		"Colonia":"Biosfera Residencial",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63166{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63166{
+		"Colonia":"Del Bosque",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63167{
+		"Colonia":"Peñita",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63167{
+		"Colonia":"Labores de Godínez",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63168{
+		"Colonia":"Jardines de La Cruz",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63169{
+		"Colonia":"Fray Junipero Serra",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63170{
+		"Colonia":"12 de Diciembre",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63170{
+		"Colonia":"Dr. Lucas Vallarta",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63170{
+		"Colonia":"Ferrocarrilero 2a Secc.",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63170{
+		"Colonia":"Las Aves",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63170{
+		"Colonia":"Los Llanitos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63170{
+		"Colonia":"Lagos  de Aztlán",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63170{
+		"Colonia":"México",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63170{
+		"Colonia":"Flamingos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63170{
+		"Colonia":"Gobierno del Cambio I",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63172{
+		"Colonia":"Unidos por Tu Tranquilidad",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63172{
+		"Colonia":"Los Álamos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63172{
+		"Colonia":"3 de Julio",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63172{
+		"Colonia":"Nuevo Amanecer",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Puerta Encanto",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Ciudad Industrial",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Ciudad Industrial Microindustria",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Jazmines",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Jesús García",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Nayarabastos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Parque Ecológico",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Puerta Jardín",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Villas del Prado",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Colinas del Valle",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Porta Alta",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Puerta Paraíso",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Lomas del Encanto",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Antonio Echevarría Domínguez",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Responsabilidad Social Comunitaria",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"El Rubí",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Cantera del Nayar",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Justino Ávila Arce",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Villas del Parque",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Jardines del Parque",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Villas de La Cantera",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Aramara",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Revolución",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Ejidal",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"La Floresta",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Molinos del Rey",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Vistas de La Cantera",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Olimpo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Villas del Molino",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Villas del Roble",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Del Sol",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63173{
+		"Colonia":"Puesta del Sol",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63174{
+		"Colonia":"Prieto Crispín",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63174{
+		"Colonia":"4 Milpas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63174{
+		"Colonia":"Flores Magón",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63174{
+		"Colonia":"Genaro Vázquez",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63174{
+		"Colonia":"La Esperanza",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63174{
+		"Colonia":"Venceremos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63174{
+		"Colonia":"Zitacua",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63174{
+		"Colonia":"Las Fincas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63175{
+		"Colonia":"Benito Juárez Oriente",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63175{
+		"Colonia":"Comerciantes",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63175{
+		"Colonia":"Dr. Cuesta Barrios",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63175{
+		"Colonia":"2 de Agosto",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63175{
+		"Colonia":"Gobernadores",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63175{
+		"Colonia":"Instituto Tecnológico de Tepic",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63175{
+		"Colonia":"Lagos del Country",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63175{
+		"Colonia":"Oriental",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63175{
+		"Colonia":"Valle del Country",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63175{
+		"Colonia":"Luis Donaldo Colosio Murrieta",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63176{
+		"Colonia":"Cáp. Orozco",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63176{
+		"Colonia":"Colonial",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63176{
+		"Colonia":"Gustavo Díaz Ordaz",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Juventud",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"18 de Agosto",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"El Capomo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Ferrocarrilero 1a Secc.",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Heriberto Jara",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Simancas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Universitario (AGEUAN)",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Los Manantiales",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Ampliación Tierra y Libertad",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Los Colomos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Lirios",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Villas del Nayar",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63177{
+		"Colonia":"Villa las Rosas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63178{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63178{
+		"Colonia":"Tierra y Libertad",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63179{
+		"Colonia":"Gilberto Flores Muñoz",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63180{
+		"Colonia":"Burócrata Estatal",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63180{
+		"Colonia":"Colinas del Rey",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63180{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63180{
+		"Colonia":"Moctezuma",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63180{
+		"Colonia":"Valle Dorado",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63180{
+		"Colonia":"Valle de Nayarit",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63180{
+		"Colonia":"Bethel",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63183{
+		"Colonia":"Insurgentes",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63184{
+		"Colonia":"Gardenias",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63184{
+		"Colonia":"Miravalles",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63185{
+		"Colonia":"El 8",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63185{
+		"Colonia":"Félix Peña",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63185{
+		"Colonia":"Los Fresnos Poniente",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63186{
+		"Colonia":"IMSS",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63186{
+		"Colonia":"Leyva Medina",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63186{
+		"Colonia":"Predio San Martín",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63190{
+		"Colonia":"Aviación",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63190{
+		"Colonia":"Juan Escutia",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63190{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63190{
+		"Colonia":"Los Fresnos Oriente",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63190{
+		"Colonia":"15 de Mayo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63193{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63194{
+		"Colonia":"El Puerto",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63194{
+		"Colonia":"Ladrilleras",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63194{
+		"Colonia":"Nuevas Palomas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63194{
+		"Colonia":"Puente de San Cayetano",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63194{
+		"Colonia":"Valle Magno",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63194{
+		"Colonia":"El Armadillo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63194{
+		"Colonia":"Bonaterra",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Conasupo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Extamex",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Marco Antonio Fernández",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Los Sauces INFONAVIT",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Valle de Matatipac",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Los Ciruelos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Jacarandas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Severiano Ocegueda",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Las Islas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Paseo del Valle Real",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"Las Palomas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63195{
+		"Colonia":"La Joya",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63196{
+		"Colonia":"Caminera",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63196{
+		"Colonia":"Castilla",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63196{
+		"Colonia":"Nueva Aviación",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63196{
+		"Colonia":"Periodistas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63196{
+		"Colonia":"26 de Septiembre",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63196{
+		"Colonia":"El Guayabo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63197{
+		"Colonia":"5 de Febrero",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63197{
+		"Colonia":"Hermosa Provincia",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63197{
+		"Colonia":"Los Fresnos INFONAVIT",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63197{
+		"Colonia":"Los Sauces",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63197{
+		"Colonia":"Tabacos Aztecas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63197{
+		"Colonia":"Plan de Ayala",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63197{
+		"Colonia":"Niños Héroes",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63197{
+		"Colonia":"Los Fresnos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63198{
+		"Colonia":"Villas de La Paz",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63199{
+		"Colonia":"José María Martínez (El Molino)",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63200{
+		"Colonia":"Tuxpan Centro",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63202{
+		"Colonia":"Morelos",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63202{
+		"Colonia":"Deportiva",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63202{
+		"Colonia":"Talpita",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63202{
+		"Colonia":"Antonio R. Laureles",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63202{
+		"Colonia":"El Beis",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63203{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63203{
+		"Colonia":"Independencia",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63203{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63205{
+		"Colonia":"Guadalupe Peña",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63205{
+		"Colonia":"Colosio",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63205{
+		"Colonia":"Magisterial",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63205{
+		"Colonia":"Juan Escutia",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63205{
+		"Colonia":"Ricardo Flores Magón",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63207{
+		"Colonia":"Ángel Flores",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63207{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63207{
+		"Colonia":"Ismael Verdín",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63225{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63227{
+		"Colonia":"Cantarranas",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63300{
+		"Colonia":"Cerro Chico",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63300{
+		"Colonia":"Santiago Ixcuintla Centro",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63300{
+		"Colonia":"Los Limos",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63310{
+		"Colonia":"Amado Nervo",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63311{
+		"Colonia":"El Mirador",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63311{
+		"Colonia":"Ramón López Velarde",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63311{
+		"Colonia":"Magisterial",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63311{
+		"Colonia":"Universidad",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63311{
+		"Colonia":"INFONAVIT",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63312{
+		"Colonia":"Independencia",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63313{
+		"Colonia":"CTM",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63320{
+		"Colonia":"Obrera",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63321{
+		"Colonia":"Flores Magón",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63330{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63330{
+		"Colonia":"Los Hornos",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63330{
+		"Colonia":"19 de Septiembre",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63340{
+		"Colonia":"La Quinta",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63340{
+		"Colonia":"Nuevo México",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63341{
+		"Colonia":"Las Flores",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63341{
+		"Colonia":"Primero de Enero",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63350{
+		"Colonia":"Juárez",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63351{
+		"Colonia":"12 de Octubre",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63352{
+		"Colonia":"Luís Donaldo Colosio",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63352{
+		"Colonia":"Villas de Ixcuintla",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63352{
+		"Colonia":"Los Pinos",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63360{
+		"Colonia":"Cerro Grande",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63380{
+		"Colonia":"Campo 7",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63380{
+		"Colonia":"La Cruz",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63380{
+		"Colonia":"Yago Estación",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63383{
+		"Colonia":"Pantano Grande",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63384{
+		"Colonia":"Caramota",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63384{
+		"Colonia":"Acaponetilla",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63384{
+		"Colonia":"Corral de Piedra",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63384{
+		"Colonia":"Emerita",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63384{
+		"Colonia":"Las Parejas",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63384{
+		"Colonia":"Redención",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63385{
+		"Colonia":"El Manguito",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63385{
+		"Colonia":"Las Higueras",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63385{
+		"Colonia":"Acatán de las Piñas",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63385{
+		"Colonia":"El Cantón de Lozada",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63385{
+		"Colonia":"Hacienda Vieja",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63385{
+		"Colonia":"Paso Real de Cahuipa",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63386{
+		"Colonia":"El Colomo",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63400{
+		"Colonia":"San José de Gracia",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63403{
+		"Colonia":"Las Mesitas",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63403{
+		"Colonia":"El Naranjo",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63403{
+		"Colonia":"La Morita (Anamorita)",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63403{
+		"Colonia":"Las Higueras",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63403{
+		"Colonia":"El Vigal",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63403{
+		"Colonia":"La Lagunita",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63404{
+		"Colonia":"Mesa las Arpas",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63405{
+		"Colonia":"San Dieguito de Abajo",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63405{
+		"Colonia":"San Dieguito de Arriba",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63406{
+		"Colonia":"El Carrizo",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63406{
+		"Colonia":"Los Morillo",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63407{
+		"Colonia":"Mesa de la Laguna",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63407{
+		"Colonia":"El Duraznito",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63407{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63408{
+		"Colonia":"El Oro",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63408{
+		"Colonia":"San Diego de Alcalá",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63409{
+		"Colonia":"El Carrizal",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63409{
+		"Colonia":"Cañones",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63409{
+		"Colonia":"La Guacamaya",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63410{
+		"Colonia":"La Higuerita Nueva (El Carrizo)",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63410{
+		"Colonia":"El Tigre",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63410{
+		"Colonia":"El Aguaje",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63410{
+		"Colonia":"La Bayona",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63412{
+		"Colonia":"La Haciendilla",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63412{
+		"Colonia":"El Guayabo",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63412{
+		"Colonia":"El Tacote",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63412{
+		"Colonia":"Cerro Bola",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63413{
+		"Colonia":"El Centenario",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63413{
+		"Colonia":"La Palma",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63413{
+		"Colonia":"Hacienda Vieja",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63413{
+		"Colonia":"Llano de Mariquitas",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63413{
+		"Colonia":"Ochenta y Seis Batallón",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63413{
+		"Colonia":"El Recodo",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63413{
+		"Colonia":"Las Casitas",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63413{
+		"Colonia":"Hacienda de Mariquitas",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63414{
+		"Colonia":"Las Palmitas",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63414{
+		"Colonia":"Hojas Anchas",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63414{
+		"Colonia":"Estación Crucero de Acaponeta",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63415{
+		"Colonia":"Chalpa",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63415{
+		"Colonia":"Valle de la Urraca (El Cabildo)",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63416{
+		"Colonia":"El Tejón (El Cantón)",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63420{
+		"Colonia":"La Cortez (El Zapote)",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63420{
+		"Colonia":"Casas Coloradas",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63420{
+		"Colonia":"Piedra Ancha",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63420{
+		"Colonia":"Sayulilla",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63420{
+		"Colonia":"Llano de la Cruz",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63421{
+		"Colonia":"El Alacrán",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63421{
+		"Colonia":"Las Bugambilias",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63421{
+		"Colonia":"La Higuerita Vieja",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63421{
+		"Colonia":"Buenavista (Las Paredes)",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63421{
+		"Colonia":"Los Sandovales",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63423{
+		"Colonia":"Saycota",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63424{
+		"Colonia":"San Blasito",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63424{
+		"Colonia":"El Zapote",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63425{
+		"Colonia":"El Llorón",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63425{
+		"Colonia":"Arroyo de San Francisco",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63425{
+		"Colonia":"Amado Nervo",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63425{
+		"Colonia":"La Guásima",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63426{
+		"Colonia":"Mesa de Pedro Pablo",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63426{
+		"Colonia":"San Pedro de Honor",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63427{
+		"Colonia":"La Paloma Primera",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63427{
+		"Colonia":"San Miguel",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63427{
+		"Colonia":"La Paloma Nueva Reforma",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63429{
+		"Colonia":"San José de Motaje",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63429{
+		"Colonia":"El Resbalón",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63429{
+		"Colonia":"Zavala",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63430{
+		"Colonia":"Acaponeta Centro",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63434{
+		"Colonia":"El Camichin",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63434{
+		"Colonia":"Jardín",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63434{
+		"Colonia":"Antonio Chumacero",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63434{
+		"Colonia":"INFONAVIT",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63435{
+		"Colonia":"Vicente Lombardo Toledano",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63435{
+		"Colonia":"INVINAY Porfirio Vázquez Cosío",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63435{
+		"Colonia":"Independencia",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63435{
+		"Colonia":"El Molino",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63435{
+		"Colonia":"Nueva Galaxia",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63436{
+		"Colonia":"Las Colonias",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63436{
+		"Colonia":"Del Carmen",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63436{
+		"Colonia":"Estadio",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63436{
+		"Colonia":"Mazatlancito",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63436{
+		"Colonia":"La Capilla",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63437{
+		"Colonia":"Loma Atravesada",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63437{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63437{
+		"Colonia":"Las Mojoneras",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63437{
+		"Colonia":"Juan Escutia",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63438{
+		"Colonia":"Cerro de la Cruz",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63438{
+		"Colonia":"Cerro de la Glorieta",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63438{
+		"Colonia":"Obrera",
+		"Municipio":"Acaponeta, Nayarit"
+	},
+	63440{
+		"Colonia":"Guamuchilito",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63440{
+		"Colonia":"El Arrayán",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63440{
+		"Colonia":"Las Anonas",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63443{
+		"Colonia":"Antonio R. Laureles",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63444{
+		"Colonia":"Los Morillos",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63445{
+		"Colonia":"El Limón",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63445{
+		"Colonia":"Los Esteros",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63446{
+		"Colonia":"El Pato",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63446{
+		"Colonia":"El Pozole",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63446{
+		"Colonia":"El Filo",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63446{
+		"Colonia":"Milpas Viejas",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63446{
+		"Colonia":"San Felipe Aztatán",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63447{
+		"Colonia":"La Presa",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63449{
+		"Colonia":"La Magdalena",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63449{
+		"Colonia":"Las Lumbres",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63449{
+		"Colonia":"Cuastecomate (Los Tecomates)",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63449{
+		"Colonia":"Palo Blanco",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63450{
+		"Colonia":"Mancillas",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63450{
+		"Colonia":"Tecuala Centro",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63453{
+		"Colonia":"Del Río",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63453{
+		"Colonia":"El Tacote",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63453{
+		"Colonia":"La Loma",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63453{
+		"Colonia":"Las Brisas",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63453{
+		"Colonia":"Libertad",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63454{
+		"Colonia":"Juan Escutia",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63454{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"Chino",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"El Tinaco",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"La Bomba",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"Los Camichines",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"Patria Nueva",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"Prolongación Galeana",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"Amado Nervo",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"CNOP PRI",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63455{
+		"Colonia":"Revolución",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63456{
+		"Colonia":"Camalotita",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63457{
+		"Colonia":"Agua Verde (El Salto)",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63458{
+		"Colonia":"Pajaritos",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63458{
+		"Colonia":"Los Remos",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63458{
+		"Colonia":"Huajuquilla",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63459{
+		"Colonia":"Atotonilco",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63460{
+		"Colonia":"Quimichis",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63463{
+		"Colonia":"Paso Hondo",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63463{
+		"Colonia":"Río Viejo",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63463{
+		"Colonia":"Chocota",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63464{
+		"Colonia":"Arenitas",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63464{
+		"Colonia":"El Tecomate",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63464{
+		"Colonia":"El Roblito",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63466{
+		"Colonia":"La Puntilla",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63466{
+		"Colonia":"Novillero",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63466{
+		"Colonia":"San Cayetano",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63466{
+		"Colonia":"Playa Novillero",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63470{
+		"Colonia":"Tierra Generosa",
+		"Municipio":"Tecuala, Nayarit"
+	},
+	63480{
+		"Colonia":"Huajicori",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63484{
+		"Colonia":"Las Cebollitas",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63485{
+		"Colonia":"El Tepehuaje",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63485{
+		"Colonia":"Zapotillos",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63485{
+		"Colonia":"Santa María de Picachos",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63486{
+		"Colonia":"Agua Caliente",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63486{
+		"Colonia":"Quiviquinta",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63487{
+		"Colonia":"San Francisco del Caimán",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63489{
+		"Colonia":"La Estancia",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63489{
+		"Colonia":"Valle Morelos (Higuera Gacha)",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63489{
+		"Colonia":"Potrerillos",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63494{
+		"Colonia":"Mesa de los Ricos",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63494{
+		"Colonia":"La Murallita",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63495{
+		"Colonia":"El Colomo",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63495{
+		"Colonia":"San Andrés Milpillas",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63496{
+		"Colonia":"El Aserradero",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63496{
+		"Colonia":"Llano Grande",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63497{
+		"Colonia":"Acatita",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63497{
+		"Colonia":"Mineral de Cucharas",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63497{
+		"Colonia":"El Guamuchilito",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63498{
+		"Colonia":"Tescomatita (Las Trojas)",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63499{
+		"Colonia":"Contadero",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63499{
+		"Colonia":"Guamuchilar",
+		"Municipio":"Huajicori, Nayarit"
+	},
+	63500{
+		"Colonia":"Hebrón",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"Los Sabinos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"Azucareros",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"Francisco I. Madero (Puga) Centro",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"Francisco Velázquez",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"El Campo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"18 de Marzo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"El Chorro",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"Caja de Agua",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"Nueva Valey",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"Las Parejas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"Las Cruces",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63500{
+		"Colonia":"El Cerro",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63501{
+		"Colonia":"Bellavista",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63502{
+		"Colonia":"El Rincón",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63502{
+		"Colonia":"San Andrés",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63502{
+		"Colonia":"CEFERESO",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63503{
+		"Colonia":"San Fernando",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63504{
+		"Colonia":"Mora",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63504{
+		"Colonia":"Seis de Enero",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63505{
+		"Colonia":"La Fortuna",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63505{
+		"Colonia":"El Pichón",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63505{
+		"Colonia":"Lo de Lamedo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63505{
+		"Colonia":"Morelos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63506{
+		"Colonia":"La Cantera",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63507{
+		"Colonia":"El Izote",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63507{
+		"Colonia":"El Ahuacate",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63507{
+		"Colonia":"Las Delicias",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63507{
+		"Colonia":"Platanitos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63507{
+		"Colonia":"Venustiano Carranza",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63508{
+		"Colonia":"Camichín de Jauja",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63508{
+		"Colonia":"La Escondida",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63509{
+		"Colonia":"El Refugio",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63510{
+		"Colonia":"Catorce de Marzo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63510{
+		"Colonia":"Cinco de Mayo (El Ciruelo)",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63510{
+		"Colonia":"El Jicote",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63511{
+		"Colonia":"Novillero",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63511{
+		"Colonia":"Las Joyas",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63511{
+		"Colonia":"La Guadalupana",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63511{
+		"Colonia":"Diamante",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63511{
+		"Colonia":"El Verde",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63511{
+		"Colonia":"San Cayetano",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63511{
+		"Colonia":"Volcanes",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63511{
+		"Colonia":"La Corregidora",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63512{
+		"Colonia":"Las Peñitas (La Repisa)",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63512{
+		"Colonia":"Lo de García",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63513{
+		"Colonia":"Estación Roseta",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63514{
+		"Colonia":"Las Pilas (El Tepeguaje)",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63514{
+		"Colonia":"Los Salazares",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63515{
+		"Colonia":"Benito Juárez (Las Chivas)",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63515{
+		"Colonia":"El Espino",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63516{
+		"Colonia":"El Limón",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63516{
+		"Colonia":"Jumatán",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63517{
+		"Colonia":"Barranca Blanca",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63517{
+		"Colonia":"El Trapichillo",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63518{
+		"Colonia":"Pajuelazo (El Guanacaste)",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63518{
+		"Colonia":"La Herradura",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63518{
+		"Colonia":"La Resolana",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63519{
+		"Colonia":"La Yerba",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63520{
+		"Colonia":"El Colorado",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63522{
+		"Colonia":"Jesús María Cortes",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63523{
+		"Colonia":"Las Norias del Manantial",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63523{
+		"Colonia":"Atonalisco",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63524{
+		"Colonia":"El Floreño (El Capulín)",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63524{
+		"Colonia":"Santiago de Pochotitán",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63524{
+		"Colonia":"Buenos Aires",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63524{
+		"Colonia":"Caleras de Cofrados",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63526{
+		"Colonia":"Zapote de Picachos",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63527{
+		"Colonia":"San Luis de Lozada",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63528{
+		"Colonia":"Mesa de Picachos (El Casco)",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63529{
+		"Colonia":"Las Blancas (Carretones de Cerritos)",
+		"Municipio":"Tepic, Nayarit"
+	},
+	63530{
+		"Colonia":"Jesús María",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Colomo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Santa Bárbara",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Las Huertitas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Arroyo Capomo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Aurelio de la Cruz Serrano",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Cerro Chino",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Cerro Pelón",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Ciénega de Santa Rosa",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Banco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Caligüey",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Cascabel",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Limón",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Molino",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Purgatorio",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Salitre",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Saucito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Segundo Paso",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Tesorero",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"El Trigalillo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Guapinole",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"La Laguna",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"La Mojarra",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"La Mojonera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"La Nanchilera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"La Palma",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Las Ranas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Los Aguacates",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Los Bancos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Los Corpos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Los Cuervitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Los Ladrillos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Los Manguitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Los Serranos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Picachitos (Juan Sabás)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"San Isidro",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"San Joaquín",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Santos Rojas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Teodoro Valentín",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Terrurúripa",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63533{
+		"Colonia":"Zapopan",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Rancho Viejo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"San Francisco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Arroyo Cañaveral",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Arroyo de Santiago",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Arroyo del Fraile",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Arroyo Hondo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Boca de Arroyo Santiago",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Boca del Arroyo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"El Algodonal",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"El Campamento (La Silleta)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"El Capomo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"El Chalate",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"El Chalate",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"El Jazmín",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"El Pastor",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"El Picacho",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"El Zapote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Ixtalpa",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"La Banquita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"La Ciénega",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"La Concepción",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"La Cuesta",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"La Guerra",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"La Mesita (El Llano Grande)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"La Mezquitera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Laguna de Ojo de Agua",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Las Patas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Los Arrayanes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Los Brincos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Los Manguitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Palomas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Piedra Iglesia",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Puente el Fraile",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63534{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"San Juan Peyotán",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"Arroyo del Guamúchil",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"Atonalisco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"Bajío de la Cebolleta",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"Campatehuala",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"El Arco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"El Arrayán",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"El Chalate",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"El Gabino",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"El Limón",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"El Reventón",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"El Rincón",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"El Saucito Peyotán",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"El Zapote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"La Cebolleta",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"La China",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"La Ciénega de San Felipe",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"La Curva",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"La Metatita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"La Peña Blanca",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"Las Adjuntas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"Las Patillas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"Los Arrayanes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"Ortega",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"Peña Blanca",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63535{
+		"Colonia":"Rancho del Bajío",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Jazmines de Coyultita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Zoquipan",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Coyultita de Jazmines",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Arrayanes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Arroyo de Pericos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Cabeza de Venado",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Cofradía de Pericos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Comal de Peñita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Agua Caliente",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Capomo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Capomo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Ciruelar",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Conejo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Duraznito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Guayabo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Limón",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Maguey",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Manguito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Naranjo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Pitallito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Quicuixtle",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Risco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Sapo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Zapote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Zapote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"El Zapote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Gabino Severiano",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Guamuchilillo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Guásima del Metate",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"La Mesa",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"La Nopalera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"La Palma",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"La Quemada",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Las Cuevas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Las Peñas Coloradas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Las Tapias (Santa Gertrudis)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Los Aguacates",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Los Aires",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Los Cuervitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Los Encinos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Los Guajolotes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Los Medina",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Los Tigres (El Metate)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Nochecita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Rancho Nuevo (Juventino)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Tierra Caliente",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63536{
+		"Colonia":"Tierras Blancas del Picacho",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Alto de Ventanas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Huaynamota",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Arroyo Barbón",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Carrizal de las Vigas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Chapiles",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"El Espejo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"El Pinito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"El Rincón",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"El Zopilote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Guásimas del Caimán",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Jazmines",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"La Ciénega",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"La Loma de los Encinos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"La Mata",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"La Mesa de la Pitayera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"La Palmita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Las Adjuntas (La Peña)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Las Cruces",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Las Cuevas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Las Guásimas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Las Palmas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Los Encinos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Los Guayabos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Los Sabinos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Los Yugos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Palma Chica",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Paredes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Rancho de Emilia",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Teneracas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Tierra Blanca (El Tempisque)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Tutuyecuamama",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63537{
+		"Colonia":"Vuelta del Cerro",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"San Rafael",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Higuera Gorda",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Novillero",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Agua Caliente",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Aguamilpa",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Caimantita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Caleras",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Corrales",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Coyultita de Mala Noche",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Aire",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Anonito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Carrizal",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Ciruelar",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Colorín",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Cordón",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Guariche",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Manguito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Nogal",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Papalote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Pino",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Ranchito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Sordo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Tepetate",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Vicenteño (Calaveras)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"El Vicenteño (Huamiloya)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"La Higuerita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"La Nanchilera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"La Nanchilera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"La Polvareda (Higueral de Don Pancho)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"La Travesía",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"La Ventanilla",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Las Azucenas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Las Cuevas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Las Guineas de Guadalupe",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Las Higueras",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Las Palmas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Los Barros Negros",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Los Cajones",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Los Parejos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Potrero de la Palmita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Puerto de Mala Noche",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Rancho Viejo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"San Luisito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"San Pablo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63538{
+		"Colonia":"Zapotán",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"El Saucito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"La Palmita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"El Mango",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"Los Limoncitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"El Pinito (Pedro Esparza)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"El Roble",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"El Sauz",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"Gualupillo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"La Laguna Seca",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"Laguna de las Vacas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"Los Hornitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"Naranjito de Copal",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"Palomas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"Paso de Álica (Agua Buena)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"Paso de Lozada",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"Playa de Golondrinas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63539{
+		"Colonia":"Rancho Alegre (Agua Hedionda)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"Santa Teresa",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"Cebollitas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"Cerro del Águila",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"El Bajío",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"El Carrizo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"Las Pulgas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"Las Tortugas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"Los Chapiles (Hitachi)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"Mesa de Cocorochas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"San Victoria",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63540{
+		"Colonia":"Santa Anita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Dolores",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Anselmo Lemus Valle",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Asención Lemus Valle",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Cerritos (Tierras Blancas)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Coyultita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"El Brinco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"El Caimán",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"El Cangrejo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"El Guaco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"El Manguito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"El Portezuelo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"El Roblito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"El Sobadero",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Guásimas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Juan Carrillo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"La Bonita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"La Pintada",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Las Conchas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Las Habitas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Las Mesitas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Las Tortugas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Los Coamiles",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Los Guajolotes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Los Padres",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Los Pinitos (Dolores Viejo)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Los Tacos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Los Tenamaxtles",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Magdaleno Pérez Carrillo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Melesio Valle Gómez",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Mesa de los Huicholes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Palo Boludo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Petronilo Gutiérrez",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Piedra Bola",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"San Isidro",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"San Vicente",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"San Vicente Viejo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Sixto Santiago Lincer",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Tapinada",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Tierras Coloradas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63543{
+		"Colonia":"Zeferinos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Camaleones",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"La Cieneguita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"La Mesita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"La Yerba",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Las Guacamayas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Las Guitarras",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Linda Vista",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Los Carrizos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Los Conejos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Los Cueros",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Los Fierros",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Los Zorrillos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Ojo de Agua",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Pico del Águila (Tankanini)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Rancho Doroteo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Rancho Viejo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Santa Gertrudis",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Tapeistes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63544{
+		"Colonia":"Tierras Cuevas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"Cañada de la Laguna",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"Juan Pérez",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"La Ciénega",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"La Palma",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"La Ventana",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"Las Minas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"Los Arenales",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"Los Huizaches",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"Los Llanitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"Los Nopales (Karurita)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"Los Pinitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63545{
+		"Colonia":"Meseta Llano Grande",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Mesa del Nayar",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"San Rafael (San Rafael Alto)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Anastasio Melchor Due",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Aserradero",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"El Cangrejo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Mayolo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"El Molcajete",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"El Rincón (Las Sillas)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Guadalupe (El Magueyito)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"La Ciénega",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"La Laguna",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"La Taberna",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Las Avispas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Las Vigas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Los Alacranes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Los Robles",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Los Tepetates",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Luis Romero (Las Cocorochas)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Manuel Pancho",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Rancho de Antolino",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Rancho de Gervasio",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Rancho de Margarito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63546{
+		"Colonia":"Sacaymota",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Gavilanes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Agua Caliente",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Arroyo de Camarones",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Cerro Redondo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Carrizal",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Cerrito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Durazno",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Guaco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Mirador",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Nanchi",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Pescuezo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Pinito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Pinito Nuevo (La Muñeca)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Sabino",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"El Tepetate",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Gualacamote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Huizache",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"La Ciénega",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"La Cofradía Uno",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"La Joya",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"La Laguna",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"La Lamedera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"La Nopalera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"La Palma",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"La Segueta",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"La Silleta",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Las Guayabas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Las Pilas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Las Sillas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Las Tarabillas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Los Bules",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Los Calixtro",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Los Granos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Los Limones",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Los Lirios",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Los Sabinos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Los Tabacos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Mesa de los Cánare",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Pajarillos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Pajaritos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Picachitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Primer Paso",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Rancho de Leandro Estrada",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Rancho de Santos García",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63547{
+		"Colonia":"Zoquipilla",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"San Miguel del Zapote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Las Hormigas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Los Ciruelos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Arroyo de la Cueva",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Arroyo del Capomo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Cerro de la Lluvia",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Ciénega del Mango",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Culebras",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Agua Caliente",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Arroyo del Tezcalame",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Gato Negro",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Camichín",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Carrizo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Chalate",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Clavellino",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Faisán",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Izote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Maguey",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Monte del Palo Cuate",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Nogal",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Papayito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Pinito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Puente de las Guayabas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Tempisque",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"El Zapote",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Gualsamayeta",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Jazmín del Coquito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Jerónimo Melchor",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"La Ciénega",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"La Cueva Prieta",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"La Cumbre del Duraznito",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"La Ladrillera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"La Nopalera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"La Piedra del Cangrejo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"La Puerta",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Las Calandrias",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Las Crucecitas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Las Estrellas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Las Iguanas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Las Maravillas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Las Ollas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Las Peñitas (Las Antenas)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Las Pestañas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Las Urracas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Los Aguacates",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Los Aires",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Los Arcos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Los Arrayanes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Los Banquitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Los Ciruelitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Los Fortines",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Los Mangos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Los Zapotes",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Melquiades de la Cruz Cuevas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Peñas Amarillas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Peñasco Blanco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Rancho de Eustorgio",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Rancho de Ignacio (Los Fortines)",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Rancho de la Cueva",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Rancho de Mariano",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Rancho de Pánfilo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"San Gregorio",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Santa Cruz de Guaybel",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Ta Puaa Ta",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63548{
+		"Colonia":"Tierras Blancas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Coyultita",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Coyunque",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"El Carrizo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"El Guaco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"El Nogal",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"El Sapo",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"El Tapeiste",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"El Tempisque",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"El Tenamaiste",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"El Tenamaste",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"El Tunaiste",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Encino Colorado",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"La Cofradía",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"La Cortadilla",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"La Nopalera",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Las Hormigas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Las Jabas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Las Tortugas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Los Banquitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Los Encinos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Los Llanitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Los Llanitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Naute",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Ojo de Agua",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Platanitos",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Las Lechuguillas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Tapanco",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Tierras Blancas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63549{
+		"Colonia":"Tierras Blancas",
+		"Municipio":"Del Nayar, Nayarit"
+	},
+	63550{
+		"Colonia":"Morelos",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Leyes de Reforma",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Las Colonias",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"José Martínez Escobedo",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Amado Nervo",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Villa Hidalgo Centro",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Villa de Guadalupe",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Solorceño",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"San Antonio",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Talpita",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Crispín Duran Z",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Roma",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"San José",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"San Martín",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63550{
+		"Colonia":"La Nayarita",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63552{
+		"Colonia":"Loma Bonita",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63552{
+		"Colonia":"El Novillero",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63552{
+		"Colonia":"El Puente",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63552{
+		"Colonia":"Ojos de Agua",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63552{
+		"Colonia":"Paredones (La Punta de la Laguna)",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63552{
+		"Colonia":"Puerta Azul",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63552{
+		"Colonia":"Valle Morelos",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63552{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63552{
+		"Colonia":"Pozo de Villa",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63553{
+		"Colonia":"San Isidro",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63553{
+		"Colonia":"Valle Zaragoza",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63553{
+		"Colonia":"18 de Septiembre",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63554{
+		"Colonia":"El Carrizo",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63554{
+		"Colonia":"Cerritos",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63554{
+		"Colonia":"Gavilán Grande",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63554{
+		"Colonia":"Amapa",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63555{
+		"Colonia":"Marcos Cárdenas",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63555{
+		"Colonia":"Olímpica",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63555{
+		"Colonia":"Talpita",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63555{
+		"Colonia":"La Presa Centro",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63556{
+		"Colonia":"Pozo de Ibarra",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63556{
+		"Colonia":"El Limón",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63557{
+		"Colonia":"El Papalote",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63558{
+		"Colonia":"Vado del Cora",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63558{
+		"Colonia":"Vado del Cora (Estación Pani)",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63558{
+		"Colonia":"El Tambor",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63559{
+		"Colonia":"Crucero de Villa Hidalgo",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63559{
+		"Colonia":"Crucero las Higueras",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63559{
+		"Colonia":"Crucero Bonfil",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63559{
+		"Colonia":"Parque Industrial El Tizate",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63559{
+		"Colonia":"Valle Lerma",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63559{
+		"Colonia":"Las Higueras",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63559{
+		"Colonia":"Mojarritas",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63559{
+		"Colonia":"Estación Nanchi (Peñasquillo)",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63560{
+		"Colonia":"La Quinta (El Rancho de la Higuera)",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63560{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63561{
+		"Colonia":"Cañada Grande",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63561{
+		"Colonia":"Sinaloa",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63561{
+		"Colonia":"La Higuerita (La Escondida)",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63561{
+		"Colonia":"Rancho Nuevo",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63561{
+		"Colonia":"San Andrés",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63561{
+		"Colonia":"Las Labores",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63561{
+		"Colonia":"Mayorquín",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63562{
+		"Colonia":"El Famoso",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63562{
+		"Colonia":"Puerta de Palapares",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63563{
+		"Colonia":"San Vicente",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63563{
+		"Colonia":"El Nuevo Mexcaltitán",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63563{
+		"Colonia":"Mexcaltitán de Uribe",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63564{
+		"Colonia":"El Mezcal",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63565{
+		"Colonia":"El Estero",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63565{
+		"Colonia":"4 de Octubre",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63565{
+		"Colonia":"San Miguel Número Dos (El Quemado)",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63565{
+		"Colonia":"Los Pérez",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63565{
+		"Colonia":"Aztlán de las Garzas",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63565{
+		"Colonia":"Campo de los Limones",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63565{
+		"Colonia":"Gavilán Chico",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63565{
+		"Colonia":"Sentispac",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63567{
+		"Colonia":"El Capomal",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63568{
+		"Colonia":"Palmar de Cuautla",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63570{
+		"Colonia":"La Guinea",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63570{
+		"Colonia":"Sauta",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63573{
+		"Colonia":"Playa el Sesteo",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63573{
+		"Colonia":"Boca de Camichín",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63573{
+		"Colonia":"Los Corchos",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63573{
+		"Colonia":"Toro Mocho",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63575{
+		"Colonia":"Patroneño I",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63575{
+		"Colonia":"El Botadero",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63575{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63576{
+		"Colonia":"El Corte (El Tuchi)",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63576{
+		"Colonia":"El Turco",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63577{
+		"Colonia":"Puerta de Mangos",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63578{
+		"Colonia":"Los Otates",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63578{
+		"Colonia":"Cañada del Tabaco",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63578{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63579{
+		"Colonia":"Villa Juárez",
+		"Municipio":"Santiago Ixcuintla, Nayarit"
+	},
+	63580{
+		"Colonia":"La Yesca",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63582{
+		"Colonia":"San Juan Ixtapalapa",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63582{
+		"Colonia":"San Pelayo",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63583{
+		"Colonia":"Los Suspiros",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63583{
+		"Colonia":"El Izote",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63583{
+		"Colonia":"La Cofradía",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63583{
+		"Colonia":"Mesa de los Saucedos",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63583{
+		"Colonia":"Las Higueras",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63583{
+		"Colonia":"Popota",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63584{
+		"Colonia":"El Pinal",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63584{
+		"Colonia":"El Limón",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63584{
+		"Colonia":"Amatlán de Jora",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63584{
+		"Colonia":"Hacienda de Ambas Aguas",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63584{
+		"Colonia":"La Ciénega",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63584{
+		"Colonia":"El Jirón",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63584{
+		"Colonia":"El Carrizal",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63586{
+		"Colonia":"La Piedra Picada",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63586{
+		"Colonia":"El Carrizal",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63586{
+		"Colonia":"Palmillas",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63586{
+		"Colonia":"La Ciénega",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63586{
+		"Colonia":"La Playa",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63586{
+		"Colonia":"Guanacaste",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63586{
+		"Colonia":"La Cuchilla",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63586{
+		"Colonia":"La Palmita",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63586{
+		"Colonia":"La Guasimera",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63587{
+		"Colonia":"Cortapico",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63587{
+		"Colonia":"Apozolco",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63587{
+		"Colonia":"El Pinole",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63587{
+		"Colonia":"La Cueva Blanca",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63587{
+		"Colonia":"Los Encantos",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63590{
+		"Colonia":"Batallón",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63590{
+		"Colonia":"Puente de Camotlán",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63593{
+		"Colonia":"Mesa del Tirador",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63593{
+		"Colonia":"El Jazmín",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63594{
+		"Colonia":"La Manga",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63594{
+		"Colonia":"El Trapiche",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63595{
+		"Colonia":"Las Jaras",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63595{
+		"Colonia":"Huajimic",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63595{
+		"Colonia":"Buenavista",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63596{
+		"Colonia":"Guadalupe Ocotán",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63596{
+		"Colonia":"Ocota de la Sierra",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63596{
+		"Colonia":"Mesa de Chapalilla",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63596{
+		"Colonia":"22 de Enero",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63596{
+		"Colonia":"Cebolletas (El Maguey)",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63596{
+		"Colonia":"El Mirador",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63596{
+		"Colonia":"Tierra Amarilla",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63596{
+		"Colonia":"El Mezquite",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63596{
+		"Colonia":"Las Palomas",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63596{
+		"Colonia":"La Mesa",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63597{
+		"Colonia":"Ayotita",
+		"Municipio":"La Yesca, Nayarit"
+	},
+	63600{
+		"Colonia":"Vado de San Pedro",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63600{
+		"Colonia":"María de Jesús Parada",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63603{
+		"Colonia":"Crucero de Ruiz",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63603{
+		"Colonia":"El Capomo",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63603{
+		"Colonia":"El Chalán",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63603{
+		"Colonia":"La Frontera",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63604{
+		"Colonia":"Heroico Batallón de San Blas (La Noria)",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63604{
+		"Colonia":"Salvador Allende (Las Labradas)",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"Laguna del Mar",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"San Lorenzo",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"La Jarretadera",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"Crucero de Jarretadera (El Manguito)",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"Crucero de la Laguna",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"El Mirador",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"El Veinticinco (El Topete)",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"El Venadito",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"La Soledad",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"Los Veranos",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"Pajaritos",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63605{
+		"Colonia":"Alfonso Vidal (El Mirador)",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63606{
+		"Colonia":"Juan Escutia",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63606{
+		"Colonia":"El Duende",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63606{
+		"Colonia":"El Guarichi",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63607{
+		"Colonia":"La Limonera (Las Higueras)",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63607{
+		"Colonia":"La Mojonera",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63610{
+		"Colonia":"El Venado",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63613{
+		"Colonia":"Puerta de Platanares",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63613{
+		"Colonia":"Los Llanitos (Los Rivera)",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63614{
+		"Colonia":"El Zopilote",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63614{
+		"Colonia":"El Coquito",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63614{
+		"Colonia":"El Veloz",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63614{
+		"Colonia":"La Embocada del Tenamache",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63614{
+		"Colonia":"La Minera Nival",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63614{
+		"Colonia":"Lagunitas de Ventanas",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63614{
+		"Colonia":"Planes de Guadalupe",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63614{
+		"Colonia":"Santo Domingo",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63615{
+		"Colonia":"La Bolita",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63615{
+		"Colonia":"El Carrizal",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63615{
+		"Colonia":"El Refugio",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63616{
+		"Colonia":"Cordón del Jilguero",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63616{
+		"Colonia":"El Paraíso",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63616{
+		"Colonia":"El Taixte",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63616{
+		"Colonia":"El Volantín",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63617{
+		"Colonia":"Anastacio Flores",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63617{
+		"Colonia":"Andrés Lamas",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63617{
+		"Colonia":"Chimaltita",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63617{
+		"Colonia":"El Banco",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63617{
+		"Colonia":"El Guajolote",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63617{
+		"Colonia":"Huicot (Villa Hermosa)",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63617{
+		"Colonia":"La Sanguijuela",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63617{
+		"Colonia":"Las Planillas",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63617{
+		"Colonia":"Los Limos",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63617{
+		"Colonia":"Los Tepehuanos",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Carrizo",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Naranjo",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Camichín (La Roblera)",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Crucero de los Sauces",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Guanacaste",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Limón",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Limoncito",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Manguito",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Otatillo",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Pino",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"El Sombrero",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"Huiscóyotl",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"La Majada del Huanacaxtle",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"La Petaquilla",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"La Tepamera",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"La Trompeta",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"La Yerbabuena",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"Las Adjuntas",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"Las Majadas",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"Los Cimientos",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"Los Cuernitos",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"Los Sauces",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"La Estaca",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"Pancho Guardado",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63618{
+		"Colonia":"Silvestre Trinidad",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"Ixcatán del Pozolillo",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"San Pedro Ixcatán",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"Presidio de los Reyes",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"El Agua Caliente",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"El Limón",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"El Tempizque",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"El Zapote",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"Huiscóyotl",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"La Ceiba",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"La Encinera",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"La Loma del Toro",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"Los Arrayanes",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"Los Cajones",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"Prisciliano Flores",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63619{
+		"Colonia":"René Salas",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63620{
+		"Colonia":"Centro",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63622{
+		"Colonia":"Rey Nayar",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63622{
+		"Colonia":"El Panteón",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63622{
+		"Colonia":"La Redonda",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63623{
+		"Colonia":"Talpita",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63623{
+		"Colonia":"El Capomal",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63623{
+		"Colonia":"Emilio M. González",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63625{
+		"Colonia":"Tijuanita",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63625{
+		"Colonia":"San Antonio",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63626{
+		"Colonia":"Tiro al Blanco",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63626{
+		"Colonia":"Cerro de la Cruz",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63626{
+		"Colonia":"El Rastro",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63626{
+		"Colonia":"Unidad Deportiva",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63627{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63628{
+		"Colonia":"Lindavista",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63628{
+		"Colonia":"Achota",
+		"Municipio":"Ruíz, Nayarit"
+	},
+	63630{
+		"Colonia":"Rosamorada Centro",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63630{
+		"Colonia":"Agua Caliente",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63630{
+		"Colonia":"Las Lajitas",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63630{
+		"Colonia":"El Rastro",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63630{
+		"Colonia":"Insurgentes",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63630{
+		"Colonia":"La Pila",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63633{
+		"Colonia":"Abelardo L. Rodríguez (Amapa)",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63633{
+		"Colonia":"Pescadero",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63633{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Bonita",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Providencia",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Teponahuaxtla (Huaixta)",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Cerro Verde",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Copales",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Crucero Providencia",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Las Adelitas",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Las Anonas",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Los Horcones",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"Los Petates",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63634{
+		"Colonia":"El Camionero [Restaurante]",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63635{
+		"Colonia":"Cofradía de Cuyutlán",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63635{
+		"Colonia":"Los Arrayanes",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63635{
+		"Colonia":"Paramita",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63635{
+		"Colonia":"San Juan Bautista",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63635{
+		"Colonia":"San Marcos Cuyutlán",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63635{
+		"Colonia":"El Cuatante",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63635{
+		"Colonia":"Los Cinco Hermanos",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63636{
+		"Colonia":"Llano del Tigre",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63636{
+		"Colonia":"San Miguelito",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63637{
+		"Colonia":"Chilapa",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63637{
+		"Colonia":"Zomatlán del Caimanero",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63637{
+		"Colonia":"Colonias 18 de Marzo",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63637{
+		"Colonia":"Crucero a Zomatlán",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63637{
+		"Colonia":"El Mil",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63637{
+		"Colonia":"Huerta Paula Sojo",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63638{
+		"Colonia":"Minitas",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63638{
+		"Colonia":"Las Pilas",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63638{
+		"Colonia":"El Potro",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63638{
+		"Colonia":"Rancho de Ramón Ibarra",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63640{
+		"Colonia":"La Boquita",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63640{
+		"Colonia":"Los Medina",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63640{
+		"Colonia":"Vicente Guerrero (El Mogote)",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63640{
+		"Colonia":"Crucero de los Medina",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63640{
+		"Colonia":"Rancho de Miguel Sosa (Crucero de Pericos)",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63643{
+		"Colonia":"Pericos",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63644{
+		"Colonia":"Pimientillo",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63644{
+		"Colonia":"El Chirimoyo [Embarcadero]",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63644{
+		"Colonia":"Los Espejos [Embarcadero]",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63644{
+		"Colonia":"Francisco Contreras [Granja Camaronera]",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63644{
+		"Colonia":"Los Espejos [Granja Camaronera]",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63645{
+		"Colonia":"20 noviembre",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63645{
+		"Colonia":"San Vicente Centro",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63645{
+		"Colonia":"16 de Septiembre",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63645{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63645{
+		"Colonia":"Obrera CTM",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63645{
+		"Colonia":"Teodoro Estrada",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63646{
+		"Colonia":"La Loma",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63646{
+		"Colonia":"El Llanito",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63648{
+		"Colonia":"El Tamarindo",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63648{
+		"Colonia":"Crucero a Mexcaltitán (La Siesta)",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63648{
+		"Colonia":"El Canal de la Lima",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63648{
+		"Colonia":"Los Cerritos (Loma de los Chivos)",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63648{
+		"Colonia":"Los Ramírez",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63650{
+		"Colonia":"San Diego del Naranjo",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63650{
+		"Colonia":"Coyotes",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63650{
+		"Colonia":"Rancho Miguel Cervantes",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63652{
+		"Colonia":"Santa Fe",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63652{
+		"Colonia":"Agua Aceda",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63652{
+		"Colonia":"La Flecha",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63655{
+		"Colonia":"Mojocuautla (Adjuntas)",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63655{
+		"Colonia":"San Juan Corapan",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63655{
+		"Colonia":"Rancho de Agripin Flores",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63656{
+		"Colonia":"Paso Real del Bejuco",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63656{
+		"Colonia":"Estación Chilapa",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63656{
+		"Colonia":"Rancho Hermanos Bautista",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63657{
+		"Colonia":"Rosarito",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63657{
+		"Colonia":"Benito Valle (San Miguel)",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63657{
+		"Colonia":"El Bálsamo",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63657{
+		"Colonia":"Las Conchas",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63657{
+		"Colonia":"Rincón de las Cucharas",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63658{
+		"Colonia":"El Ochenta",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63658{
+		"Colonia":"Los 5 Puentes",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63658{
+		"Colonia":"El Quebrantadero (Hermanos Ibarra)",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63658{
+		"Colonia":"Los Cuates",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63658{
+		"Colonia":"Los Leandros",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63658{
+		"Colonia":"Los Pimienta",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63658{
+		"Colonia":"Puente el Bejuco (El Capricho)",
+		"Municipio":"Rosamorada, Nayarit"
+	},
+	63660{
+		"Colonia":"Coamiles",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63660{
+		"Colonia":"El Tecomate",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63660{
+		"Colonia":"Palma Grande",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63660{
+		"Colonia":"Peñas",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63670{
+		"Colonia":"Unión de Corrientes",
+		"Municipio":"Tuxpan, Nayarit"
+	},
+	63700{
+		"Colonia":"Compostela Centro",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63702{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63702{
+		"Colonia":"Alto",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63702{
+		"Colonia":"Miravalles",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63702{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63702{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63702{
+		"Colonia":"Guadalupana",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63702{
+		"Colonia":"Lomas de San Cristóbal",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63702{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63702{
+		"Colonia":"Lomas Bonita",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63703{
+		"Colonia":"Guayabal",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63703{
+		"Colonia":"Las Flores",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63703{
+		"Colonia":"Aviación",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63703{
+		"Colonia":"Del Bosque",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63704{
+		"Colonia":"De Chila",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63704{
+		"Colonia":"Librado Rivera",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63704{
+		"Colonia":"Nueva Galicia",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63705{
+		"Colonia":"Santa Ana",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63705{
+		"Colonia":"El Molino",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63705{
+		"Colonia":"Estadios",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63705{
+		"Colonia":"Floresta",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63705{
+		"Colonia":"INFONAVIT",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63705{
+		"Colonia":"Nueva Esperanza",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63705{
+		"Colonia":"Subestación",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63705{
+		"Colonia":"Tierra y Libertad",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63705{
+		"Colonia":"Las Ordeñas",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63705{
+		"Colonia":"Los Sauces",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63706{
+		"Colonia":"El Refilión",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63706{
+		"Colonia":"Las Víboras",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63706{
+		"Colonia":"Miravalles",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63706{
+		"Colonia":"Tepiqueños",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63707{
+		"Colonia":"Jaltepec",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63707{
+		"Colonia":"Mesillas",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63707{
+		"Colonia":"Mezcales",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63707{
+		"Colonia":"Pajaritos",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63707{
+		"Colonia":"Vista al Mar (Bellavista)",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63707{
+		"Colonia":"Vizcarra",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63707{
+		"Colonia":"Huicicila",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63707{
+		"Colonia":"Cumbres de Huicicila",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63708{
+		"Colonia":"El Salitre",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63708{
+		"Colonia":"El Paranal (Arocha)",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63708{
+		"Colonia":"Coastecomatillo",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63708{
+		"Colonia":"Chacala",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63708{
+		"Colonia":"La Cuata",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63708{
+		"Colonia":"Las Piedras",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63708{
+		"Colonia":"Paso de las Palmas",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63708{
+		"Colonia":"Palos María",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63709{
+		"Colonia":"Platanitos",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63709{
+		"Colonia":"Las Lomitas",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63709{
+		"Colonia":"Ixtapa de la Concepción",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63710{
+		"Colonia":"El Cerrito",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63710{
+		"Colonia":"San Isidro",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63710{
+		"Colonia":"La Concepción",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63710{
+		"Colonia":"San Rafael",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63710{
+		"Colonia":"De la Cruz",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63710{
+		"Colonia":"Otates y Cantarranas",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63710{
+		"Colonia":"Zacualpan",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63713{
+		"Colonia":"El Palmoso",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63714{
+		"Colonia":"El Divisadero",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63714{
+		"Colonia":"Lima de Abajo",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Guadajara",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Las Varas Centro",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Las Fuentes",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Tepeyac",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Atenas",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Puerta de Oro",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Agua Azul",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Celso Hernández",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Nueva Galicia",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Nueva Era",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"San José",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63715{
+		"Colonia":"Niños Héroes",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63717{
+		"Colonia":"Caléxico",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63717{
+		"Colonia":"Las Coloradas",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63717{
+		"Colonia":"Mazatán",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63717{
+		"Colonia":"Felipe Carrillo Puerto",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63717{
+		"Colonia":"Juan Escutia (Borbollón)",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63717{
+		"Colonia":"Zapotán",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63719{
+		"Colonia":"Mesa del Rodeo",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"La Peñita de Jaltemba Centro",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Paraíso",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Playa Hermosa",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Cedros",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Pescadores",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Arroyo Zarco",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Miramar",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"El Campesino",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Cerro de La Cruz",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Isla del Verano",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"El Girasol",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Paraíso Escondido",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Las Cabras",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"La Islita",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63720{
+		"Colonia":"Garzas Rosas",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63722{
+		"Colonia":"El Tamarindo",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63722{
+		"Colonia":"Santa María de Jaltemba",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63722{
+		"Colonia":"La Cucaracha",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63722{
+		"Colonia":"El Capomo",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63722{
+		"Colonia":"Mamey Grande de Arriba",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63722{
+		"Colonia":"Bella Unión",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63722{
+		"Colonia":"Cándido Salazar",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63722{
+		"Colonia":"Altavista",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63722{
+		"Colonia":"El Porvenir",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63722{
+		"Colonia":"El Tonino",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63723{
+		"Colonia":"La Puerta de la Lima",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63724{
+		"Colonia":"Chulavista",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63724{
+		"Colonia":"Úrsulo Galván",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63724{
+		"Colonia":"Villa Morelos",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63724{
+		"Colonia":"Monteón",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63724{
+		"Colonia":"Rincón de Guayabitos",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63724{
+		"Colonia":"Nuevo Ixtlán (Las Cañadas)",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63724{
+		"Colonia":"Los Ayala",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63724{
+		"Colonia":"La Colmena",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63724{
+		"Colonia":"El Betel",
+		"Municipio":"Compostela, Nayarit"
+	},
+	63726{
+		"Colonia":"El Guamúchil",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63728{
+		"Colonia":"San Ignacio",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63728{
+		"Colonia":"San Quintín",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63729{
+		"Colonia":"Lo de Marcos",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63729{
+		"Colonia":"San Francisco",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63730{
+		"Colonia":"Las Hachas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63730{
+		"Colonia":"San Juan de Abajo",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63730{
+		"Colonia":"Valle de Banderas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63730{
+		"Colonia":"Santa Rosa Tapachula",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63730{
+		"Colonia":"El Mirador",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63730{
+		"Colonia":"Ramón Larios",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63730{
+		"Colonia":"Tabacalera",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Colibrí",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Residencial Los Mangos",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Palma Residencial",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Flamingos",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Villas las Parotas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Brisas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Bucerías Centro",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Dorada",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Playas de Huanacaxtle",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Lomas Huanacaxtle",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Playas del Pacífico",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Loma Bonita",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Vista Bahía",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Francisco Javier Ovando",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Paraíso del Indio",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"La Unidad",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Buenos Aires",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Tule Dorado",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Las Palmas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"La Entrada",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Los Arboles",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"Terralta",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63732{
+		"Colonia":"La Primavera",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63734{
+		"Colonia":"Corral del Risco (Punta de Mita)",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63734{
+		"Colonia":"Sayulita",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63734{
+		"Colonia":"Cruz de Huanacaxtle",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63734{
+		"Colonia":"Higuera Blanca",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63734{
+		"Colonia":"Punta de Mita",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63734{
+		"Colonia":"José Chávez",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63734{
+		"Colonia":"Nueva Era",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63734{
+		"Colonia":"Monte Calvario",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"San Clemente de Lima",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Deportiva",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Paraíso Vallarta",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Real Nuevo Vallarta",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"La Lomita",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Lomas del Sol",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Villas Green Canal",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Villas Vallarta",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Puerta del Mar",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Rinconada de Banderas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Nuevo Vallarta",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Las Jarretaderas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Mezcales",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Costa Coral",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Valle Dorado",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Las Ceibas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Rincón del Cielo",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"13 de Septiembre",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Villa Esmeralda",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"San Isidro",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Los Encantos",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Mezcalitos",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Altavela",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63735{
+		"Colonia":"Virreyes Vallarta",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63736{
+		"Colonia":"El Colomo",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Valle Marlín",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Villas Miramar",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"San Vicente",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Los Ángeles",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Villas de San Vicente",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Tulipanes",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Los Palmares San Vicente",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Ex-Hacienda San Ángel",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"El Parque",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"San José",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Bugambilias",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Valle Esmeralda",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Jardín las Arboledas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"San José del Valle",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"San Vicente",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Valle de San José",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Santa Fe",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Jardines de San José",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Jardines del Sol",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Haciendas de San Vicente",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"La Primavera",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Jardines El Porvenir",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"San Vicente del Mar",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Del Rastro",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Villas de La Bahía",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Diana Laura",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Palma Real",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"El Manglar",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"La Misión",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"La Nueva Aurora",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Bahía de Banderas",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Las Flores",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63737{
+		"Colonia":"Azul Turquesa",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63738{
+		"Colonia":"Aguamilpa",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63738{
+		"Colonia":"El Porvenir",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63738{
+		"Colonia":"Los Mangos",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63738{
+		"Colonia":"Concepción de Valle",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63739{
+		"Colonia":"El Carrizo",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63739{
+		"Colonia":"El Coatante",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63739{
+		"Colonia":"Fortuna de Vallejo (La Gloria)",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63739{
+		"Colonia":"Los Sauces",
+		"Municipio":"Bahía de Banderas, Nayarit"
+	},
+	63740{
+		"Colonia":"San Blas Centro",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63742{
+		"Colonia":"Benito Juárez",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63742{
+		"Colonia":"Fray Junipero Serra",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63742{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63742{
+		"Colonia":"Gilberto Flores M.",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63743{
+		"Colonia":"El Conchal",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63743{
+		"Colonia":"José María Mercado",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63743{
+		"Colonia":"La Vaca y La Higuera",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63743{
+		"Colonia":"Emilio M González",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63743{
+		"Colonia":"Progreso",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63743{
+		"Colonia":"La Playa del Borrego",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63743{
+		"Colonia":"H. Batallón",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63743{
+		"Colonia":"Palmar de los Cocos",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63743{
+		"Colonia":"El Cerrito",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63744{
+		"Colonia":"Colonia La Marinera",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63744{
+		"Colonia":"La Playita",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63744{
+		"Colonia":"El Guayabal",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63744{
+		"Colonia":"10 de Mayo",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63744{
+		"Colonia":"Barrio Chino",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63744{
+		"Colonia":"Gómez Reyes",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63744{
+		"Colonia":"Zona Portuaria",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63745{
+		"Colonia":"Chacalilla",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63745{
+		"Colonia":"Singaita",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63745{
+		"Colonia":"José María Mercado",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63750{
+		"Colonia":"Aután",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63751{
+		"Colonia":"Laureles y Góngora (El Ciruelo)",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63751{
+		"Colonia":"Laureles y Góngora (El Limón)",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63751{
+		"Colonia":"El Madrigaleño",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63751{
+		"Colonia":"La Culebra",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63751{
+		"Colonia":"La Goma",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63751{
+		"Colonia":"Playa de Ramírez",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63751{
+		"Colonia":"Isla del Conde",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63753{
+		"Colonia":"El Carleño",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63754{
+		"Colonia":"Pimientillo",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63755{
+		"Colonia":"Boca del Asadero",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63756{
+		"Colonia":"La Chiripa",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63757{
+		"Colonia":"El Capomo",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63758{
+		"Colonia":"Felipe Ángeles",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63758{
+		"Colonia":"Guadalupe Victoria",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63760{
+		"Colonia":"Reforma Agraria (La Colorada)",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63762{
+		"Colonia":"Huaristemba",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63763{
+		"Colonia":"Huaynamota",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63764{
+		"Colonia":"Navarrete",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63764{
+		"Colonia":"La Chiltera",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63764{
+		"Colonia":"Las Palmas",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63765{
+		"Colonia":"El Tepeyac (Cofradía)",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63765{
+		"Colonia":"El Tepeyac",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63765{
+		"Colonia":"La Libertad",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63765{
+		"Colonia":"Pintadeño",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63766{
+		"Colonia":"Mecatán",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63770{
+		"Colonia":"Jalcocotán",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63771{
+		"Colonia":"Residencial Playa Los Cocos",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63771{
+		"Colonia":"Playa de los Cocos",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63772{
+		"Colonia":"Santa Cruz de Miramar",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63773{
+		"Colonia":"El Cora",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63774{
+		"Colonia":"La Bajada",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63775{
+		"Colonia":"La Palma",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63776{
+		"Colonia":"Aticama",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63776{
+		"Colonia":"Matanchén (La Aguada)",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63777{
+		"Colonia":"Tecuitata",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63777{
+		"Colonia":"El Espino",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63777{
+		"Colonia":"El Llano",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63777{
+		"Colonia":"Jolotemba",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"Aserradero",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"CICA (Bugambilias)",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"Camarón",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"Hospital (Veinte de Noviembre)",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"Laguna del Toro",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"Morelos",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"Nayarit",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"San Juan Papelillo",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"Rehilete",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"Zacatal",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63779{
+		"Colonia":"Puerto Balleto (Isla María Madre)",
+		"Municipio":"San Blas, Nayarit"
+	},
+	63780{
+		"Colonia":"Lomas Xalisco",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63780{
+		"Colonia":"Xalisco Centro",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63780{
+		"Colonia":"Canoas",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63782{
+		"Colonia":"Alborada",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63782{
+		"Colonia":"Salvador Sánchez Vázquez",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63782{
+		"Colonia":"Nuevo Progreso",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63782{
+		"Colonia":"Huertas de Matatipal",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63782{
+		"Colonia":"Ampliación Nuevo Progreso",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63782{
+		"Colonia":"Lomas del Nayar",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63782{
+		"Colonia":"Las Águilas",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63783{
+		"Colonia":"Puerta del Sol",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63783{
+		"Colonia":"José Santos Godínez",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63783{
+		"Colonia":"1ro. de Mayo",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63783{
+		"Colonia":"Guadalupe Victoria",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63783{
+		"Colonia":"SUTSEM Landereñas",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63783{
+		"Colonia":"Progreso",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63783{
+		"Colonia":"Valle de Roma",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63784{
+		"Colonia":"Ramos Millán",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63784{
+		"Colonia":"Jardines de Matatipac",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63784{
+		"Colonia":"25 de Abril",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63784{
+		"Colonia":"Landereñas",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63784{
+		"Colonia":"Los Cordoncillos II",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63784{
+		"Colonia":"El Navarreño II",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63784{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63785{
+		"Colonia":"Puerta Luna",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63785{
+		"Colonia":"Xalisca Residencial Los Laureles",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63785{
+		"Colonia":"Ejidal",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63785{
+		"Colonia":"Navarreño",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63785{
+		"Colonia":"Hacienda Real",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63786{
+		"Colonia":"Fernando Carrillo",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63786{
+		"Colonia":"La Cruz",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63786{
+		"Colonia":"24 de Febrero",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Nahil",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Kiekari",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Las Rosas",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Colinas de San Juan",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Nuevo México",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Real del Bosque",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Villas de Guadalupe",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Bugambilias",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Lomas Verdes",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Ampliación Xalisco",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Tanuz",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"El Indio",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Las Isabeles",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Colinas de Xalisco",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63787{
+		"Colonia":"Minas de Xalli",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63788{
+		"Colonia":"Palomas Doradas",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63790{
+		"Colonia":"San Antonio",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63790{
+		"Colonia":"El Malinal",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63792{
+		"Colonia":"Valles del Nayar",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63792{
+		"Colonia":"Pantanal",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63793{
+		"Colonia":"El Carrizal",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63793{
+		"Colonia":"Adolfo López Mateos (Las Veredas)",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63793{
+		"Colonia":"Cofradía de Chocolón",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63794{
+		"Colonia":"Emiliano Zapata (Majadas)",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63794{
+		"Colonia":"Aquiles Serdán",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63794{
+		"Colonia":"Testerazo",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63794{
+		"Colonia":"San José de Costilla (Estación Costilla)",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63795{
+		"Colonia":"Los Fortines",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63795{
+		"Colonia":"Trigomil",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63795{
+		"Colonia":"La Curva",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63797{
+		"Colonia":"El Cuarenteño",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63797{
+		"Colonia":"Palapita",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63797{
+		"Colonia":"El Tepozal",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63799{
+		"Colonia":"Tepic (Poeta Amado Nervo)",
+		"Municipio":"Xalisco, Nayarit"
+	},
+	63800{
+		"Colonia":"San Pedro Lagunillas Centro",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63800{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63800{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63804{
+		"Colonia":"Milpillas Bajas",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63809{
+		"Colonia":"Tepetiltic",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63810{
+		"Colonia":"Amado Nervo (El Conde)",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63810{
+		"Colonia":"Cuastecomate",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63810{
+		"Colonia":"Tequilita",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63820{
+		"Colonia":"Puerta del Río",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63820{
+		"Colonia":"Las Guásimas",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63826{
+		"Colonia":"Cerro Pelón",
+		"Municipio":"San Pedro Lagunillas, Nayarit"
+	},
+	63830{
+		"Colonia":"Buenavista",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63830{
+		"Colonia":"Santa María del Oro",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63830{
+		"Colonia":"Del Bosque",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63833{
+		"Colonia":"Zapotanito",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63834{
+		"Colonia":"El Limón",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63834{
+		"Colonia":"Cerro Blanco",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63835{
+		"Colonia":"San Leonel",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63835{
+		"Colonia":"La Labor",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63836{
+		"Colonia":"El Ermitaño",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63837{
+		"Colonia":"La Galinda",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63837{
+		"Colonia":"El Mirador",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63840{
+		"Colonia":"San José de Mojarras",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63843{
+		"Colonia":"Moderna",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63843{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63844{
+		"Colonia":"Buckingham",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63844{
+		"Colonia":"Las Cuevas",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63845{
+		"Colonia":"El Guanacaste",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63850{
+		"Colonia":"Los Horcones",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63850{
+		"Colonia":"Tequepexpan",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63853{
+		"Colonia":"La Estanzuela",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63854{
+		"Colonia":"El Caracol",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63854{
+		"Colonia":"Los Guajes",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63856{
+		"Colonia":"Real de Acuitapilco (Esteban Baca Calderón)",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63865{
+		"Colonia":"La Laguna",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63866{
+		"Colonia":"Rincón de Calimayo",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63867{
+		"Colonia":"El Buruato",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63870{
+		"Colonia":"El Ahualamo",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63870{
+		"Colonia":"Chapalilla",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63870{
+		"Colonia":"Las Mesitas",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63870{
+		"Colonia":"El Torreón",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63874{
+		"Colonia":"El Ocotillo",
+		"Municipio":"Santa María del Oro, Nayarit"
+	},
+	63880{
+		"Colonia":"San Juan de Dios",
+		"Municipio":"Jala, Nayarit"
+	},
+	63880{
+		"Colonia":"San Pedro",
+		"Municipio":"Jala, Nayarit"
+	},
+	63880{
+		"Colonia":"San Andrés",
+		"Municipio":"Jala, Nayarit"
+	},
+	63880{
+		"Colonia":"Jomulco",
+		"Municipio":"Jala, Nayarit"
+	},
+	63880{
+		"Colonia":"El Naranjo",
+		"Municipio":"Jala, Nayarit"
+	},
+	63880{
+		"Colonia":"Severiano López",
+		"Municipio":"Jala, Nayarit"
+	},
+	63880{
+		"Colonia":"Morelos",
+		"Municipio":"Jala, Nayarit"
+	},
+	63883{
+		"Colonia":"Los Pinos",
+		"Municipio":"Jala, Nayarit"
+	},
+	63883{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Jala, Nayarit"
+	},
+	63883{
+		"Colonia":"Jardines del Llano",
+		"Municipio":"Jala, Nayarit"
+	},
+	63885{
+		"Colonia":"Los Ramírez",
+		"Municipio":"Jala, Nayarit"
+	},
+	63885{
+		"Colonia":"San Miguel de Buenavista",
+		"Municipio":"Jala, Nayarit"
+	},
+	63885{
+		"Colonia":"Los Aguajes",
+		"Municipio":"Jala, Nayarit"
+	},
+	63885{
+		"Colonia":"Rosa Blanca",
+		"Municipio":"Jala, Nayarit"
+	},
+	63885{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Jala, Nayarit"
+	},
+	63886{
+		"Colonia":"Cofradía de Juanacatlán",
+		"Municipio":"Jala, Nayarit"
+	},
+	63886{
+		"Colonia":"Francisco I. Madero (La Bolsa)",
+		"Municipio":"Jala, Nayarit"
+	},
+	63887{
+		"Colonia":"Jalpa Grande",
+		"Municipio":"Jala, Nayarit"
+	},
+	63890{
+		"Colonia":"San Francisco",
+		"Municipio":"Jala, Nayarit"
+	},
+	63890{
+		"Colonia":"Ricardo Flores Magón",
+		"Municipio":"Jala, Nayarit"
+	},
+	63890{
+		"Colonia":"Jala Centro",
+		"Municipio":"Jala, Nayarit"
+	},
+	63890{
+		"Colonia":"Juan Escutia",
+		"Municipio":"Jala, Nayarit"
+	},
+	63890{
+		"Colonia":"San Juan",
+		"Municipio":"Jala, Nayarit"
+	},
+	63893{
+		"Colonia":"Jardines del Valle",
+		"Municipio":"Jala, Nayarit"
+	},
+	63893{
+		"Colonia":"Epifanio Gómez Magañez",
+		"Municipio":"Jala, Nayarit"
+	},
+	63893{
+		"Colonia":"Independencia",
+		"Municipio":"Jala, Nayarit"
+	},
+	63894{
+		"Colonia":"Lucio Cabañas",
+		"Municipio":"Jala, Nayarit"
+	},
+	63894{
+		"Colonia":"La Cruz",
+		"Municipio":"Jala, Nayarit"
+	},
+	63894{
+		"Colonia":"Merced Ibarra",
+		"Municipio":"Jala, Nayarit"
+	},
+	63895{
+		"Colonia":"La Natividad",
+		"Municipio":"Jala, Nayarit"
+	},
+	63895{
+		"Colonia":"La Quinta",
+		"Municipio":"Jala, Nayarit"
+	},
+	63895{
+		"Colonia":"El Tucán",
+		"Municipio":"Jala, Nayarit"
+	},
+	63897{
+		"Colonia":"Coapan",
+		"Municipio":"Jala, Nayarit"
+	},
+	63899{
+		"Colonia":"Santa Fe",
+		"Municipio":"Jala, Nayarit"
+	},
+	63900{
+		"Colonia":"Amequita",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63900{
+		"Colonia":"La Ciénega",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63900{
+		"Colonia":"Zoatlán (San Francisco de Zoatlán)",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63904{
+		"Colonia":"La Campana",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63905{
+		"Colonia":"Copales",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63905{
+		"Colonia":"Crucero Heriberto Jara",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63905{
+		"Colonia":"Heriberto Jara (La Haciendita)",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63910{
+		"Colonia":"Tetitlán",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63910{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63911{
+		"Colonia":"Estación Valle Verde",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63913{
+		"Colonia":"Crucero de Marquezado",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63913{
+		"Colonia":"Marquezado",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63914{
+		"Colonia":"Uzeta",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63915{
+		"Colonia":"Santa Isabel",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63920{
+		"Colonia":"Ahuacatlán Centro",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63923{
+		"Colonia":"La Otra Banda",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63923{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63925{
+		"Colonia":"La Presa",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63925{
+		"Colonia":"El Cerrito",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63925{
+		"Colonia":"Las Huertas",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63927{
+		"Colonia":"El Salto",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63927{
+		"Colonia":"El Chiquiliqui",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63927{
+		"Colonia":"Villas del Carmen",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63927{
+		"Colonia":"Prisciliano Sanchez",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63927{
+		"Colonia":"Demetrio Vallejo",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63928{
+		"Colonia":"Emillio M González",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63928{
+		"Colonia":"8 de Mayo",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63928{
+		"Colonia":"El Llano",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63930{
+		"Colonia":"Santa Cruz de Camotlán",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63935{
+		"Colonia":"Las Guásimas",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63938{
+		"Colonia":"Las Palmas",
+		"Municipio":"Ahuacatlán, Nayarit"
+	},
+	63940{
+		"Colonia":"Mexpan",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63944{
+		"Colonia":"El Terrero",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63944{
+		"Colonia":"La Sidra",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63944{
+		"Colonia":"San José de Gracia",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63944{
+		"Colonia":"San Miguel",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63944{
+		"Colonia":"San Clemente",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63944{
+		"Colonia":"Ranchos de Arriba",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63945{
+		"Colonia":"Milpillas",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63946{
+		"Colonia":"La Haciendita",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63947{
+		"Colonia":"El Aguacate",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63947{
+		"Colonia":"El Zapote",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63947{
+		"Colonia":"Los Sauces",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63947{
+		"Colonia":"Cacalután",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63947{
+		"Colonia":"La Higuerita",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63947{
+		"Colonia":"Los Mezquites",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63950{
+		"Colonia":"Ixtlán del Río Centro",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63953{
+		"Colonia":"La Huerta",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63953{
+		"Colonia":"Las Arboledas",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63954{
+		"Colonia":"Los Toriles",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63954{
+		"Colonia":"Esteban Baca Calderón",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63954{
+		"Colonia":"Juárez",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63954{
+		"Colonia":"Juan Zamora",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63954{
+		"Colonia":"De Los Indios",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63954{
+		"Colonia":"10 de Mayo",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63954{
+		"Colonia":"López Portillo",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63954{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63954{
+		"Colonia":"Cristo Rey",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63955{
+		"Colonia":"Emilio M. González",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63955{
+		"Colonia":"Carmen Romano",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63956{
+		"Colonia":"Las 7 Esquinas",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63956{
+		"Colonia":"Barrio Nuevo",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63956{
+		"Colonia":"Los Leones",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63957{
+		"Colonia":"Las Flores",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63957{
+		"Colonia":"Amado Nervo",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63958{
+		"Colonia":"Moderna",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63958{
+		"Colonia":"El Pinar",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63958{
+		"Colonia":"Revolución",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63958{
+		"Colonia":"Fátima",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63959{
+		"Colonia":"Everardo Peña Navarro",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63959{
+		"Colonia":"Morelos",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63959{
+		"Colonia":"Independencia",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63959{
+		"Colonia":"Santo Santiago",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63959{
+		"Colonia":"Eulogio Parra",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63959{
+		"Colonia":"Ernesto Che Guevara",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63959{
+		"Colonia":"Juan Escutia",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63959{
+		"Colonia":"Los Arcos",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63959{
+		"Colonia":"Adoberas",
+		"Municipio":"Ixtlán del Río, Nayarit"
+	},
+	63960{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63960{
+		"Colonia":"Ruben Martín Atalay",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63960{
+		"Colonia":"Loma Linda",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63960{
+		"Colonia":"Amatlán de Cañas",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63963{
+		"Colonia":"La Otra Banda",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63963{
+		"Colonia":"Colinas del Nayar",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63967{
+		"Colonia":"Las Hembrillas",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63967{
+		"Colonia":"La Máquina",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63967{
+		"Colonia":"El Copalillo",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63967{
+		"Colonia":"Pie de la Cuesta",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63967{
+		"Colonia":"La Yerbabuena",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63967{
+		"Colonia":"La Escondida (Agua Escondida)",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63968{
+		"Colonia":"El Naranjo",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63968{
+		"Colonia":"San Blasito",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63968{
+		"Colonia":"El Farito",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63969{
+		"Colonia":"La Lima",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63969{
+		"Colonia":"El Platanar",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63969{
+		"Colonia":"Jesús María",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63970{
+		"Colonia":"Barranca del Oro",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63973{
+		"Colonia":"Las Anonas",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63973{
+		"Colonia":"El Ombligo",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63973{
+		"Colonia":"El Pilón",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63974{
+		"Colonia":"Nuevo México",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63974{
+		"Colonia":"Potrerillos",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63974{
+		"Colonia":"Los Cerritos",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63974{
+		"Colonia":"San Valentín",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63975{
+		"Colonia":"El Portezuelo",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63975{
+		"Colonia":"Los Agrios",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63975{
+		"Colonia":"Mezquites",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63980{
+		"Colonia":"El Rosario",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63985{
+		"Colonia":"Tepuzhuacán",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63990{
+		"Colonia":"Estancia de los López",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63996{
+		"Colonia":"El Zopilote",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+	63996{
+		"Colonia":"El Carrizo",
+		"Municipio":"Amatlán de Cañas, Nayarit"
+	},
+}

@@ -1,0 +1,8046 @@
+{
+	98000{
+		"Colonia":"Zacatecas Centro",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98010{
+		"Colonia":"Ramón López Velarde",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98015{
+		"Colonia":"Mexicapan",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98017{
+		"Colonia":"Margaritas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98017{
+		"Colonia":"Los Filarmónicos",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98017{
+		"Colonia":"Privada Aziz",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98017{
+		"Colonia":"Privada Residencial San Pedro",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98018{
+		"Colonia":"Garcia Salinas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98019{
+		"Colonia":"Pedro Ruiz González INFONAVIT",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98020{
+		"Colonia":"Gustavo Diaz Ordaz 1a Secc",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98020{
+		"Colonia":"Gustavo Diaz Ordaz 2a Secc",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98020{
+		"Colonia":"Gustavo Diaz Ordaz 3a Secc",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98023{
+		"Colonia":"Bracho (Lomas de Bracho)",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98024{
+		"Colonia":"De Olivos",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98024{
+		"Colonia":"La Pinta",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98024{
+		"Colonia":"Las Mercedes",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98040{
+		"Colonia":"Bancomer",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98040{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98040{
+		"Colonia":"Lomas de La Soledad",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98040{
+		"Colonia":"Loma Barroca",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98045{
+		"Colonia":"Caminera",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98046{
+		"Colonia":"Frente Popular",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98046{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98047{
+		"Colonia":"Ciudad Argentum",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98050{
+		"Colonia":"Lomas Del Capulín",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98050{
+		"Colonia":"Minera",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98050{
+		"Colonia":"Sierra de Alica",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98050{
+		"Colonia":"Úrsulo A. García",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98053{
+		"Colonia":"CNOP",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98053{
+		"Colonia":"Fernando Pamanes Escobedo",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98053{
+		"Colonia":"Lomas de La Pimienta",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98054{
+		"Colonia":"Felipe Ángeles",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98054{
+		"Colonia":"Miguel Hidalgo 1ra. Sección",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98054{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98054{
+		"Colonia":"España",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98054{
+		"Colonia":"Ladrilleras",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98054{
+		"Colonia":"Miguel Hidalgo 2da. Sección",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98054{
+		"Colonia":"Miguel Hidalgo 3ra. Sección",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98056{
+		"Colonia":"Buenos Aires",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98056{
+		"Colonia":"Las Palmas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98057{
+		"Colonia":"Zacatlán",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98057{
+		"Colonia":"Mecánicos",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98057{
+		"Colonia":"San Gabriel",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98057{
+		"Colonia":"Mecánicos 2a Secc",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98057{
+		"Colonia":"La Toma de Zacatecas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98057{
+		"Colonia":"América",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98057{
+		"Colonia":"Héroes de Chapultepec",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98057{
+		"Colonia":"San Fernando",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98057{
+		"Colonia":"Residencial Cantera",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98060{
+		"Colonia":"Agrónomo",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98060{
+		"Colonia":"Lomas del Patrocinio",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98060{
+		"Colonia":"La Peñuela",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98060{
+		"Colonia":"Marianita",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98060{
+		"Colonia":"Primavera",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98060{
+		"Colonia":"Villas Del Tepozan",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98060{
+		"Colonia":"Siglo XXI",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98064{
+		"Colonia":"Fovissste",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98064{
+		"Colonia":"3 Cruces Infonavit",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98064{
+		"Colonia":"Ex Hacienda Bernardez",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98065{
+		"Colonia":"Boulevares",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98065{
+		"Colonia":"Militar",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98066{
+		"Colonia":"Progreso",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98066{
+		"Colonia":"Agrónoma II (Agronómica)",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98066{
+		"Colonia":"Lomas del Bosque",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98066{
+		"Colonia":"Ciudad Universitaria",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98067{
+		"Colonia":"Villas Del Sol",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98067{
+		"Colonia":"San Francisco de Herrera",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98067{
+		"Colonia":"Fuente Del Bosque",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98067{
+		"Colonia":"Moradores",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98067{
+		"Colonia":"Lomas de San Francisco",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98067{
+		"Colonia":"Privada del Bosque",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98067{
+		"Colonia":"San Francisco de la Montaña",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98068{
+		"Colonia":"Hidráulica",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98068{
+		"Colonia":"Colonial Zacatecas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98068{
+		"Colonia":"La Loma",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98068{
+		"Colonia":"Universitaria",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98068{
+		"Colonia":"Unidad Deportiva",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98068{
+		"Colonia":"Residencial Del Valle",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98068{
+		"Colonia":"Villa Antigua",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98070{
+		"Colonia":"Buenavista",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98070{
+		"Colonia":"Francisco E Garcia",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98070{
+		"Colonia":"Los Caleros",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98070{
+		"Colonia":"Pánfilo Natera",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98070{
+		"Colonia":"Ricardo Flores Magón",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98077{
+		"Colonia":"21 de Julio",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98077{
+		"Colonia":"Las Cumbres",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98078{
+		"Colonia":"Ayuntamiento",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98078{
+		"Colonia":"De Los Taxista",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98078{
+		"Colonia":"De Los Taxista 2da. Sección",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98079{
+		"Colonia":"El Mirador",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98080{
+		"Colonia":"Bellavista",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98080{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98083{
+		"Colonia":"DIF",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98084{
+		"Colonia":"Santos Bañuelos",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Colinas del Vergel",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Lomas del Lago",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"San Rafael",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Privada Monte Bello",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Las Flores",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Privada Esmeralda",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Privada del Padre",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Bosque de las Cumbres",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Los Encinos",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Cumbres",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Portal del Roble",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Loma Escondida",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Colinas del Padre",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Peñas de la Virgen",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Ojo de Agua de Meléndez (Ojo de Agua)",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Lomas de Cristo",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Villas del Padre",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"El Diamante",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"El Jaralillo",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Libertadores",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Suave Patria",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Cerrada del Ángel",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98085{
+		"Colonia":"Cerro de la Virgen",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98086{
+		"Colonia":"La Herradura",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"ISSSTEZAC I",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"J. Jesús González Ortega",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Arquitectos",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Magisterial Jardines del Sol",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Nueva Generación",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Filósofos",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"El Orito",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Insurgentes",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Constelaciones",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Colinas del Sol",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Estrella de Oro",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"El Orito 1a Sección",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Camino Real",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Huerta Vieja",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Europa",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Las Huertas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"El Chaveño",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Del Bosque",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Korea I",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Korea II",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98087{
+		"Colonia":"Las Flores",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98088{
+		"Colonia":"La Encantada",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98089{
+		"Colonia":"5 Señores",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98089{
+		"Colonia":"Las Haciendas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98090{
+		"Colonia":"Alma Obrera",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98090{
+		"Colonia":"Barros Sierra",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98090{
+		"Colonia":"Los Periodistas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98090{
+		"Colonia":"Arturo Romo Macias",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98090{
+		"Colonia":"Casa Blanca",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98090{
+		"Colonia":"Conquistadores",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98097{
+		"Colonia":"Lomas de la Virgen",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98097{
+		"Colonia":"Médicos Veterinarios",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98097{
+		"Colonia":"Residencial La Joya",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98097{
+		"Colonia":"Tahona",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98098{
+		"Colonia":"Las Colinas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98098{
+		"Colonia":"Lomas Del Campestre",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98098{
+		"Colonia":"Villa Verde",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98099{
+		"Colonia":"Tecnológica",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98099{
+		"Colonia":"La Isabelica",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98099{
+		"Colonia":"Popular CTM",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98099{
+		"Colonia":"Lomas de la Isabelica",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98099{
+		"Colonia":"Rinconada de La Isabelica",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98099{
+		"Colonia":"Lomas Bizantinas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98099{
+		"Colonia":"Carlos Hinojosa Petit",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98099{
+		"Colonia":"Gonzalo García García",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98099{
+		"Colonia":"Las Flores",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98100{
+		"Colonia":"Hacienda Nueva",
+		"Municipio":"Morelos, Zacatecas"
+	},
+	98100{
+		"Colonia":"Noria de los Gringos (Los Gringos)",
+		"Municipio":"Morelos, Zacatecas"
+	},
+	98100{
+		"Colonia":"Las Pilas",
+		"Municipio":"Morelos, Zacatecas"
+	},
+	98100{
+		"Colonia":"California",
+		"Municipio":"Morelos, Zacatecas"
+	},
+	98100{
+		"Colonia":"Morelos",
+		"Municipio":"Morelos, Zacatecas"
+	},
+	98113{
+		"Colonia":"Mega Parque Industrial Aeropuerto SUMAR",
+		"Municipio":"Morelos, Zacatecas"
+	},
+	98140{
+		"Colonia":"Sauceda de la Borda",
+		"Municipio":"Vetagrande, Zacatecas"
+	},
+	98140{
+		"Colonia":"Vetagrande",
+		"Municipio":"Vetagrande, Zacatecas"
+	},
+	98150{
+		"Colonia":"El Lampotal",
+		"Municipio":"Vetagrande, Zacatecas"
+	},
+	98150{
+		"Colonia":"La Era",
+		"Municipio":"Vetagrande, Zacatecas"
+	},
+	98153{
+		"Colonia":"Santa Rita",
+		"Municipio":"Vetagrande, Zacatecas"
+	},
+	98160{
+		"Colonia":"Villas Universidad",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98160{
+		"Colonia":"La Escondida",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98160{
+		"Colonia":"Italia",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98160{
+		"Colonia":"Argenta Residencial",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98160{
+		"Colonia":"UAZ "Francisco García Salinas" Siglo XXI",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98160{
+		"Colonia":"Valle Real",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98160{
+		"Colonia":"Las Boquillas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98160{
+		"Colonia":"Ciudad Gobierno",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98163{
+		"Colonia":"Picones",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98170{
+		"Colonia":"Cieneguillas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98173{
+		"Colonia":"Paseos del Valle",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98174{
+		"Colonia":"San Antonio de los Negros (Los Negros)",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98175{
+		"Colonia":"El Maguey",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98176{
+		"Colonia":"Francisco I. Madero",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98177{
+		"Colonia":"La Pimienta",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98180{
+		"Colonia":"Gonzalez Ortega (Machines)",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98183{
+		"Colonia":"García de la Cadena (El Visitador)",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98183{
+		"Colonia":"El Molino",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98184{
+		"Colonia":"Las Chilitas",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98185{
+		"Colonia":"La Soledad (La Chole)",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98186{
+		"Colonia":"Benito Juárez (San Cayetano)",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98186{
+		"Colonia":"Miguel Hidalgo (San Miguel)",
+		"Municipio":"Zacatecas, Zacatecas"
+	},
+	98200{
+		"Colonia":"Concepción del Oro",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98200{
+		"Colonia":"Guadalupe Garzaron",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98200{
+		"Colonia":"El Gracero",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98200{
+		"Colonia":"Obrera",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98200{
+		"Colonia":"Bella Vista",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98200{
+		"Colonia":"Estrella",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98200{
+		"Colonia":"Chihuahua",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98200{
+		"Colonia":"Cabrestante",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98200{
+		"Colonia":"Las Lajas",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98200{
+		"Colonia":"El Cruce",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98204{
+		"Colonia":"La Curva",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98204{
+		"Colonia":"FOVISSSTE",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98204{
+		"Colonia":"Aranzazú (El Cobre)",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98205{
+		"Colonia":"Anáhuac",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98205{
+		"Colonia":"Mesillas",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98209{
+		"Colonia":"Avalos",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98210{
+		"Colonia":"El Durazno",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98210{
+		"Colonia":"Morelos",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98211{
+		"Colonia":"Coyotillos",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98211{
+		"Colonia":"Progreso de Agua Dulce",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98212{
+		"Colonia":"Los Encinos",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98212{
+		"Colonia":"Tanque Del Alto",
+		"Municipio":"Concepción del Oro, Zacatecas"
+	},
+	98220{
+		"Colonia":"Melchor Ocampo",
+		"Municipio":"Melchor Ocampo, Zacatecas"
+	},
+	98220{
+		"Colonia":"San Jerónimo",
+		"Municipio":"Melchor Ocampo, Zacatecas"
+	},
+	98222{
+		"Colonia":"San Miguel",
+		"Municipio":"Melchor Ocampo, Zacatecas"
+	},
+	98223{
+		"Colonia":"Matamoros",
+		"Municipio":"Melchor Ocampo, Zacatecas"
+	},
+	98229{
+		"Colonia":"El Jagüey",
+		"Municipio":"Melchor Ocampo, Zacatecas"
+	},
+	98229{
+		"Colonia":"Mineral de Noche Buena",
+		"Municipio":"Melchor Ocampo, Zacatecas"
+	},
+	98230{
+		"Colonia":"Mazapil",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98235{
+		"Colonia":"La Mejorada",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98235{
+		"Colonia":"Cuitláhuac (Santa Gertrudis)",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98236{
+		"Colonia":"Novillos",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98237{
+		"Colonia":"Salaverna",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98237{
+		"Colonia":"San Jose de Carbonerillas",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98238{
+		"Colonia":"Terminal de Providencia",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98239{
+		"Colonia":"Bonanza",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98240{
+		"Colonia":"Apizolaya",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98240{
+		"Colonia":"Coapas",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98240{
+		"Colonia":"Pozo Hidalgo",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98241{
+		"Colonia":"Los Indios",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98250{
+		"Colonia":"Estación Camacho",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98250{
+		"Colonia":"El Jazmín",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98253{
+		"Colonia":"La Palmilla",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98254{
+		"Colonia":"La Tasajera",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98256{
+		"Colonia":"San Rafael",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98260{
+		"Colonia":"Estación Opal",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98261{
+		"Colonia":"Cedros",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98262{
+		"Colonia":"El Vergel",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98263{
+		"Colonia":"San Felipe de Teyra",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98264{
+		"Colonia":"Candelaria",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98264{
+		"Colonia":"Sabana Grande",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98264{
+		"Colonia":"San Antonio del Portezuelo",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98265{
+		"Colonia":"La Presita",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98265{
+		"Colonia":"El Cardito",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98267{
+		"Colonia":"Gallegos",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98270{
+		"Colonia":"San Felipe Nuevo Mercurio",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98275{
+		"Colonia":"Tanque de los Hacheros (Hacheros)",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98277{
+		"Colonia":"Rancho Nuevo",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98278{
+		"Colonia":"Concepción de La Norma",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98279{
+		"Colonia":"Majoma",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98280{
+		"Colonia":"San Tiburcio",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98281{
+		"Colonia":"Pozo de San Juan",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98285{
+		"Colonia":"Presa Del Junco",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98286{
+		"Colonia":"Tanquecillo",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98287{
+		"Colonia":"El Rosario",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98287{
+		"Colonia":"Tanque de Guadalupe",
+		"Municipio":"Mazapil, Zacatecas"
+	},
+	98290{
+		"Colonia":"El Salvador",
+		"Municipio":"El Salvador, Zacatecas"
+	},
+	98290{
+		"Colonia":"Tanque Nuevo",
+		"Municipio":"El Salvador, Zacatecas"
+	},
+	98300{
+		"Colonia":"Juan Aldama Centro",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98300{
+		"Colonia":"La Pila",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98300{
+		"Colonia":"Almoloya",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98303{
+		"Colonia":"Oriente",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98303{
+		"Colonia":"Las Auroras",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98303{
+		"Colonia":"Nuevo Amanecer",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98303{
+		"Colonia":"Bosques Del Pedregal",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98304{
+		"Colonia":"Brisas del Río",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98304{
+		"Colonia":"Las Jarillas",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98304{
+		"Colonia":"7 de Marzo",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98306{
+		"Colonia":"Centauro del Norte",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98306{
+		"Colonia":"San Juan del Mezquital",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98307{
+		"Colonia":"Las Huertas",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98307{
+		"Colonia":"La Rosetilla",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98307{
+		"Colonia":"El Mezquite",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98307{
+		"Colonia":"Magisterial",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98307{
+		"Colonia":"Villa Arechiga",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98307{
+		"Colonia":"Valle Verde",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98307{
+		"Colonia":"CONASUPO",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98310{
+		"Colonia":"Ojitos",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98310{
+		"Colonia":"General Juan José Ríos (Ciénega de San Francisco)",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98311{
+		"Colonia":"Jalpa",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98320{
+		"Colonia":"Espíritu Santo",
+		"Municipio":"Juan Aldama, Zacatecas"
+	},
+	98330{
+		"Colonia":"Betania",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"Estrella",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"Las Minas",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"Mina",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"Lindavista",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"San Francisco de Ibarra",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"Santa Fe",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"Obrera",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"De la Liebre",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"Jardines de la Nueva España",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"Chapulines",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"Miguel Auza Centro",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"San Gabriel",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98330{
+		"Colonia":"Los Conos",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98336{
+		"Colonia":"Miguel Alemán",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98336{
+		"Colonia":"La Honda",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98340{
+		"Colonia":"Emilio Carranza",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98340{
+		"Colonia":"Tierra Generosa",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98340{
+		"Colonia":"20 de Noviembre",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98343{
+		"Colonia":"Manantial de la Honda (Carboneras)",
+		"Municipio":"Miguel Auza, Zacatecas"
+	},
+	98350{
+		"Colonia":"Luis Moya (Estación Alamillo)",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98350{
+		"Colonia":"Nieves",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98350{
+		"Colonia":"Santa Rita",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98350{
+		"Colonia":"Magisterial",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98351{
+		"Colonia":"Oran",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98351{
+		"Colonia":"Francisco I Madero",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98360{
+		"Colonia":"Valenciana (Ojo de Agua)",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98363{
+		"Colonia":"Cieneguilla (Noria y Cieneguilla)",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98363{
+		"Colonia":"Independencia San Martín (San Martín)",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98364{
+		"Colonia":"La Estanzuela",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98367{
+		"Colonia":"Villa Lázaro Cárdenas",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98368{
+		"Colonia":"San Lucas",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98369{
+		"Colonia":"La Laguna (La Laguna Valenciana)",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98370{
+		"Colonia":"Apaseo",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98370{
+		"Colonia":"San Gil",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98370{
+		"Colonia":"San José de Morteros (Morteros)",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98370{
+		"Colonia":"El Potrero",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98380{
+		"Colonia":"Atotonilco",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98380{
+		"Colonia":"Las Norias",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98387{
+		"Colonia":"Luis Moya",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98387{
+		"Colonia":"Matías Ramos (El Tánger)",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98390{
+		"Colonia":"Pacheco (Estación Pacheco)",
+		"Municipio":"General Francisco R. Murguía, Zacatecas"
+	},
+	98400{
+		"Colonia":"Santa Fe",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Los Condes",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Ignacio López Rayón (Los Delgado)",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Los Márquez",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Cienega y Mancillas",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Ignacio Allende",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"La Florida",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Las Esperanzas",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Las Piedras",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Los Ramirez",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Tierra Blanca",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"La Luz",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Las Palomas",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98400{
+		"Colonia":"Bajo de Moya",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98401{
+		"Colonia":"Alfonso Medina (El Capricho)",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98401{
+		"Colonia":"El Fuerte",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98404{
+		"Colonia":"San Felipe",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98405{
+		"Colonia":"José María Morelos y Pavón (La Almoloya)",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98406{
+		"Colonia":"Loreto",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98410{
+		"Colonia":"Progreso de Alfonso Medina (Progreso)",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98413{
+		"Colonia":"Francisco Garcia Salinas",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98416{
+		"Colonia":"Tetillas",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98417{
+		"Colonia":"Boquilla de Arriba",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98419{
+		"Colonia":"Pastelera",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98419{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98419{
+		"Colonia":"Ignacio Zaragoza",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98420{
+		"Colonia":"Río Grande Centro",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98422{
+		"Colonia":"Imperio Azteca",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98422{
+		"Colonia":"Los Sauces",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98422{
+		"Colonia":"Azteca",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98422{
+		"Colonia":"Buenos Aires",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98422{
+		"Colonia":"Tepeyac",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98422{
+		"Colonia":"Ricardo Flores Magón",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98422{
+		"Colonia":"Los Duraznos",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98422{
+		"Colonia":"La Estrella",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98423{
+		"Colonia":"San Joaquín",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98423{
+		"Colonia":"Llaneros",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98423{
+		"Colonia":"La Loma",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98423{
+		"Colonia":"Halcones",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98423{
+		"Colonia":"SUTSEMOP",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98423{
+		"Colonia":"Lic Luis Donaldo Colosio",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98423{
+		"Colonia":"SNTE D-II-12",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98424{
+		"Colonia":"Sol de Oriente",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98424{
+		"Colonia":"El Bajío",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98424{
+		"Colonia":"Jardines del Río",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98424{
+		"Colonia":"CTM",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98424{
+		"Colonia":"Vista Hermosa",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98424{
+		"Colonia":"C. C. I.",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98424{
+		"Colonia":"Lomas del Río",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98424{
+		"Colonia":"El Mezquital",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98424{
+		"Colonia":"Potrero Loma Prieta",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98425{
+		"Colonia":"Del Norte",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98425{
+		"Colonia":"INFONAVIT",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98425{
+		"Colonia":"San Judas Tadeo",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98425{
+		"Colonia":"Adolfo López Mateos",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98425{
+		"Colonia":"La Cuesta",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98425{
+		"Colonia":"Río Agua Naval",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98425{
+		"Colonia":"Del Rosario",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98426{
+		"Colonia":"San Lorenzo",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98426{
+		"Colonia":"Lomas del Sol",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98426{
+		"Colonia":"El Llano",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98426{
+		"Colonia":"El Cuero",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98426{
+		"Colonia":"Ruiz Cortines",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98429{
+		"Colonia":"La Trinidad",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98429{
+		"Colonia":"La Estrella",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98429{
+		"Colonia":"La Trinidad",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98429{
+		"Colonia":"Cantarranas",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98429{
+		"Colonia":"La Hacienda",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98429{
+		"Colonia":"Álamos",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98429{
+		"Colonia":"Río Grande",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98429{
+		"Colonia":"El Ruiseñor",
+		"Municipio":"Río Grande, Zacatecas"
+	},
+	98430{
+		"Colonia":"Villa de Cos Centro",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98430{
+		"Colonia":"Bañoncito",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98432{
+		"Colonia":"Fresnillito",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98435{
+		"Colonia":"Cuba Libre",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98435{
+		"Colonia":"Las Haciendas",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98435{
+		"Colonia":"Villa Jardín",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98435{
+		"Colonia":"COPROVI",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98436{
+		"Colonia":"México",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98436{
+		"Colonia":"Del PRI",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98436{
+		"Colonia":"Elias Mirador",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98440{
+		"Colonia":"Mezquitillo",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98440{
+		"Colonia":"La Colorada",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98440{
+		"Colonia":"Guadalupe de las Corrientes",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98445{
+		"Colonia":"Agua Nueva",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98450{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98450{
+		"Colonia":"San Andres Puerto Madero",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98451{
+		"Colonia":"San José",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98451{
+		"Colonia":"Efigenia",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98451{
+		"Colonia":"Nueva Pastoría",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98452{
+		"Colonia":"Sarteneja",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98452{
+		"Colonia":"Pabellón",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98453{
+		"Colonia":"Campechana",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98453{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98453{
+		"Colonia":"Felipe Carrillo Puerto",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98460{
+		"Colonia":"Cervantes",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98460{
+		"Colonia":"El Rucio",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98460{
+		"Colonia":"La Prieta",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98463{
+		"Colonia":"Cañas",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98463{
+		"Colonia":"Tenango",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98464{
+		"Colonia":"Pozo Hondo",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98464{
+		"Colonia":"Tierra y Libertad (San Blas)",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98471{
+		"Colonia":"San Ramón",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98471{
+		"Colonia":"Bañon",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98471{
+		"Colonia":"Chupaderos",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98471{
+		"Colonia":"Chaparrosa",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98471{
+		"Colonia":"El Celo",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98473{
+		"Colonia":"Charco Blanco",
+		"Municipio":"Villa de Cos, Zacatecas"
+	},
+	98480{
+		"Colonia":"Cañitas Viejo (Cañitas Viejas)",
+		"Municipio":"Cañitas de Felipe Pescador, Zacatecas"
+	},
+	98480{
+		"Colonia":"Cañitas de Felipe Pescador",
+		"Municipio":"Cañitas de Felipe Pescador, Zacatecas"
+	},
+	98490{
+		"Colonia":"Boquilla de Abajo",
+		"Municipio":"Cañitas de Felipe Pescador, Zacatecas"
+	},
+	98496{
+		"Colonia":"La Quemada",
+		"Municipio":"Cañitas de Felipe Pescador, Zacatecas"
+	},
+	98500{
+		"Colonia":"Calera de Víctor Rosales Centro",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"Profesionistas",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"Ricardo Monreal Ávila",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"Solidaridad",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"El Huizache",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"Lomas de Calera",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"Florencia",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"Año de Juárez",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"Magisterio",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"Satélite",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"Lauro G. Caloca",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"El Bosque",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"San Francisco",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"La Noria",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98502{
+		"Colonia":"Santa Lucía",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98503{
+		"Colonia":"El Pueblito",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98503{
+		"Colonia":"Salvador Rodarte Torres",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98503{
+		"Colonia":"Cruz Azul",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98503{
+		"Colonia":"Villareal",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98503{
+		"Colonia":"América",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98503{
+		"Colonia":"El Edén",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98503{
+		"Colonia":"La Soledad",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98503{
+		"Colonia":"Cipreses",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98503{
+		"Colonia":"Villa Calera",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98504{
+		"Colonia":"La Moderna",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98504{
+		"Colonia":"Cortez",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98504{
+		"Colonia":"Nuevo Calera",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98504{
+		"Colonia":"Víctor Rosales",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98504{
+		"Colonia":"La Ladrillera",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98505{
+		"Colonia":"Fuentes del Sol",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98505{
+		"Colonia":"Elías García",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98505{
+		"Colonia":"Estación Víctor Rosales",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98505{
+		"Colonia":"Don Matías",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98505{
+		"Colonia":"El Sol",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98505{
+		"Colonia":"La Cantera Rosa",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98506{
+		"Colonia":"Alborada",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98506{
+		"Colonia":"Riafa Caranza",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"Hermanas Hernández",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"Popular las Fuentes",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"La Escuelita",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"El Pedregal",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"Lindavista",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"Francisco I. Madero",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"El Maguey",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"Lomas de La Unidad",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"SUTSEMOP",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"La Loma",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"Santa María",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"José María Morelos",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98507{
+		"Colonia":"Real de Calera",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98508{
+		"Colonia":"El Tambo",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98508{
+		"Colonia":"La Huerta",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98508{
+		"Colonia":"Las Kilihuas",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98508{
+		"Colonia":"La Granja",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98508{
+		"Colonia":"Las Flores",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98508{
+		"Colonia":"Florencio Quezada",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98508{
+		"Colonia":"Ma. Teresa de Jesús",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98510{
+		"Colonia":"Ramón López Velarde",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98513{
+		"Colonia":"San Benito (Sector Felipe Ángeles)",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98513{
+		"Colonia":"La Sauceda",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98513{
+		"Colonia":"Las Amarradas (Hilario Alvarado Medina)",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98513{
+		"Colonia":"Nueva Colonia Francisco I. Madero",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98513{
+		"Colonia":"Francisco I. Madero (Coyotes)",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98513{
+		"Colonia":"Las Auras",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98514{
+		"Colonia":"Monte de Abajo",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98514{
+		"Colonia":"San Antonio (Alfonso Mejía)",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98514{
+		"Colonia":"Los Cuates",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98514{
+		"Colonia":"Los Gutiérrez",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98514{
+		"Colonia":"Rancho de Jarillas",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98514{
+		"Colonia":"La Dientona (Los Cuates)",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98514{
+		"Colonia":"Laguna de las Jarillas",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98514{
+		"Colonia":"San Isidro",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98515{
+		"Colonia":"Palma Delgadita (San José de la Palma)",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98516{
+		"Colonia":"El Vergel",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98516{
+		"Colonia":"El Tanque",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98517{
+		"Colonia":"Los Nogales",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98517{
+		"Colonia":"El Porvenir",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98517{
+		"Colonia":"El Refugio",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98519{
+		"Colonia":"Parque Industrial Calera",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98519{
+		"Colonia":"Zacatecas (Gral. Leobardo C. Ruiz)",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98520{
+		"Colonia":"Río Frío",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98523{
+		"Colonia":"La Laborcilla",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98523{
+		"Colonia":"San Francisco",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98526{
+		"Colonia":"Nueva Alianza (Ñates)",
+		"Municipio":"Calera, Zacatecas"
+	},
+	98530{
+		"Colonia":"San Juan",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98540{
+		"Colonia":"Del Pueblito",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98540{
+		"Colonia":"Niños Héroes",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98540{
+		"Colonia":"Sierra de Álica",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98540{
+		"Colonia":"El Mirador",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98540{
+		"Colonia":"Minera",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98540{
+		"Colonia":"Pánuco Centro",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98541{
+		"Colonia":"San Antonio Del Ciprés",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98545{
+		"Colonia":"Casa de Cerros",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98546{
+		"Colonia":"Muleros",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98547{
+		"Colonia":"Los Pozos",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98548{
+		"Colonia":"Pozo de Gamboa",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98550{
+		"Colonia":"El Espejo",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98553{
+		"Colonia":"Laguna Seca",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98555{
+		"Colonia":"Llano Blanco Norte",
+		"Municipio":"Pánuco, Zacatecas"
+	},
+	98560{
+		"Colonia":"Agua Azul",
+		"Municipio":"General Enrique Estrada, Zacatecas"
+	},
+	98560{
+		"Colonia":"Gral. Enrique Estrada",
+		"Municipio":"General Enrique Estrada, Zacatecas"
+	},
+	98561{
+		"Colonia":"Adjuntas del Peñasco (El Peñasco)",
+		"Municipio":"General Enrique Estrada, Zacatecas"
+	},
+	98580{
+		"Colonia":"General Félix U. Gómez (El Muerto)",
+		"Municipio":"General Enrique Estrada, Zacatecas"
+	},
+	98600{
+		"Colonia":"Guadalupe Centro",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98600{
+		"Colonia":"Ramón López Velarde",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98600{
+		"Colonia":"Santa Rita",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98600{
+		"Colonia":"La Purísima",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98600{
+		"Colonia":"Lindavista",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98600{
+		"Colonia":"1910",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98600{
+		"Colonia":"Privada del Santuario",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98604{
+		"Colonia":"Paseo Real",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98604{
+		"Colonia":"Nuevo Mercurio",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98604{
+		"Colonia":"Valle de los Encinos",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98604{
+		"Colonia":"Villas del Tepeyac",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98604{
+		"Colonia":"Cañada de la Laguna II",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98604{
+		"Colonia":"Complejo de Naves Industriales la Zacatecana",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98604{
+		"Colonia":"Parque Industrial Guadalupe",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98604{
+		"Colonia":"La Ladrillera",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"El Rosal",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Real de San Ramón",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Real de San Gabriel",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Octavio Paz",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Coto Terranova",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Los Portales",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"La Campesina",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"La Esperanza",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Solidaridad (José Ives Limantour)",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Arcoiris",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Los Frailes",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Mina Azul",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Ampliación Campesina",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Las Flores",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"San José (Ampliación Lo de Vega)",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Conquistadores",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"El Montecito",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"División del Norte",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Doroteo Arango",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Guadalupe Industrial",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Mezquitillos",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98605{
+		"Colonia":"Nueva Generación",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"San Ramón",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"La Martinica",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"Ojo de Agua de La Palma",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"Villas de Nápoles",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"Jardines del Sol II",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"El Mezquital",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"La Palma",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"Campestre San José",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"Jardines del Sol",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"La Cantera",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"Tonatiuh Magisterial",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"Santa Fe",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"Privada los Manantiales",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98606{
+		"Colonia":"Escritores",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Privada las Misiones",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Bellavista",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"El Salero",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Margaritas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"San Jose de la Piedrera",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Los Angeles",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Lomas de Guadalupe",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Minas del Real",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Barrio de Los Moros",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"De la Estación",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"De Loreto",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Justo Sierra",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"La Providencia",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Las Quintas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Privada El Salero",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Rincón Guadalupano",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"La Estación",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98607{
+		"Colonia":"Ferrocarrileros",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98608{
+		"Colonia":"Campo Bravo",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98608{
+		"Colonia":"Del Carmen",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98608{
+		"Colonia":"Francisco García Salinas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98608{
+		"Colonia":"Jardines del Carmen",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98608{
+		"Colonia":"Las Arboledas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98608{
+		"Colonia":"SNTAS",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98608{
+		"Colonia":"Villas del Carmen",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98608{
+		"Colonia":"Hidráulica 13 de Septiembre",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98608{
+		"Colonia":"Ampliación Arboledas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98608{
+		"Colonia":"Del Parque",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98609{
+		"Colonia":"La Bufa I",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98609{
+		"Colonia":"La Bufa II",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98609{
+		"Colonia":"Lomas del Convento",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98609{
+		"Colonia":"Mexicana de Aviación",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98609{
+		"Colonia":"S.T.U.A.Z.",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98609{
+		"Colonia":"Bonaterra",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98609{
+		"Colonia":"Magisterio",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98609{
+		"Colonia":"Privada Trueno",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98609{
+		"Colonia":"Puerta Dorada",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98609{
+		"Colonia":"Sector Santa Engracia",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Cresta Ferra",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"INDECO Arroyo de la Plata",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Jardines de Bernardez",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Lomas de Bernardez",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Nuevo Bernardez",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Santa Rita",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Los Prados",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Lomas de Galicia",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Privada del Bosque",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Privada Conde Santiago de la Laguna",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"La Cima",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Lomas de Bernárdez Sección Plata",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Lomas de Britania",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Privada Portanova",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Lomas del Pedregal",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"La Toscana",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Privada Santa María I y II",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98610{
+		"Colonia":"Privada San Antonio",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Magisterial Pedro Ruiz González",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Las Orquídeas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Villas del Rey",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Villas Bugambilias",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Brisas del Campo",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Rinconada del Edén",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Real de Guadalupe",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"San Agustín",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Villas Joanna",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Independencia",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Los Tepetates",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Privada San Charbel",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Privada Concordia",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Ampliación Independencia",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Valle Chicomóztoc",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"La Arbolada",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Arte Mexicano",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Villa Fontana Sur",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Valle los Fresnos",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Santa Rita",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta San Carlos",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Valle del Conde",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Real del Conde",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Valles II",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"La Condesa",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Villa Real",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"FOVISSSTE",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"San Cosme",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Del Agua",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Las Américas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Campo Real",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Las Flores",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Américas 4",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Real del Sol",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"El Universo",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Villas Mariana",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Villas de Guadalupe",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Los Conventos",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Culturas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Antorcha Campesina",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Lomas de San Cristóbal",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Manuel M. Ponce",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Loma Bonita",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"ISSSTEZAC",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Unidad Deportiva",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Las Torres",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Galerías",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Jardines de Sauceda",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Los Conventos II",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Montebello",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Montes Azules",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Privada de Los Olivos",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta San Gabriel",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta San Jerónimo",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta San Nicolás",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"El Triángulo",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta Santa Teresita",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta San Rafael",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta Santa Ana",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta Santa Martha",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta San Fernando",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta Santa María",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Quinta Santa Bárbara",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Villas de San Fermín",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Villafontana",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Privada San Andrés",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98612{
+		"Colonia":"Privada Santa Lucía",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Progreso Nacional",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Ejidal",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"El Paraíso",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Guadalupe Moderno",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Villas de Don Fernando",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Valles I",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Camino Real",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Las Fuentes",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Popular San Francisco",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Bonito Pueblo",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Villas del Monasterio",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Las Joyas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Olimpia",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Virreyes",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Privada La Esmeralda",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"Revolución Mexicana",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"S.P.A.U.A.Z.",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"S.T.U.A.Z.",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"El Pirular",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98613{
+		"Colonia":"San Isidro",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98614{
+		"Colonia":"Privada de las Begonias",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98614{
+		"Colonia":"La Victoria",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98614{
+		"Colonia":"Lomas del Consuelo",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98614{
+		"Colonia":"Primero de Mayo",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Jesús Pérez Cuevas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"La Cañada 2a. Etapa",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Las Lomas II",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Privada la Fé",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Sección P.P.S. (Polígono la Fé)",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Tierra y Libertad 1ra. Sección",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Tierra y Libertad 2da. Sección",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Guadalupe Colonial",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Lomas del Valle",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Progresista",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"África",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Toma de Zacatecas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"SUTSEMOP",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Ampliación Minas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Tierra y Libertad 3ra. Sección",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"La Fe",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"FIRCO",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Grupo Tendencia Sindical",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Ignacio Allende",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Popular del Bosque",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"Privada las Águilas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98615{
+		"Colonia":"San Miguel del Cortijo",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98616{
+		"Colonia":"Ganaderos",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98616{
+		"Colonia":"La Cantera",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98616{
+		"Colonia":"Rincón Colonial",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98616{
+		"Colonia":"U.A.Z.",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98616{
+		"Colonia":"California",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98616{
+		"Colonia":"California II",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98617{
+		"Colonia":"Las Lomas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98617{
+		"Colonia":"Conde de Bernardez",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98617{
+		"Colonia":"El Dorado",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98617{
+		"Colonia":"Militar",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98617{
+		"Colonia":"Minas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98617{
+		"Colonia":"Villa Colonial",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98617{
+		"Colonia":"La Cañada",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98618{
+		"Colonia":"Dependencias Federales",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98618{
+		"Colonia":"La Florida",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98618{
+		"Colonia":"Privada Eucaliptos",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98618{
+		"Colonia":"Privada los Olivares",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"Camilo Torres",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"Cañada de La Bufa",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"Ex Hacienda de Bernardez",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"Gavilanes",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"ISSSTE Zac 3",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"Los Pirules",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"Villa de las Flores",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"Los Geranios",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"Cañada del Sol",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"Rinconada de los Pinos",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98619{
+		"Colonia":"Rinconada de Pirules",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98620{
+		"Colonia":"Casa Blanca",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98620{
+		"Colonia":"Francisco E. García",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98621{
+		"Colonia":"El Bordo de Buenavista (El Bordo)",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98630{
+		"Colonia":"El Maguey",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98630{
+		"Colonia":"Tacoaleche",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98631{
+		"Colonia":"La Luz",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98631{
+		"Colonia":"Zoquite",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98636{
+		"Colonia":"Santa Mónica",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98640{
+		"Colonia":"La Cantera",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"Plaza",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"Corderos",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"Providencia",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"San Isidro",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"El Panal",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"Segunda del Rancho",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"El Refugio de Arriba",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"Primera del Rancho",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"Embarcación",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"Trancoso Centro",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"Trancosito",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98640{
+		"Colonia":"El Refugio",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98644{
+		"Colonia":"La Blanquita",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98645{
+		"Colonia":"San Salvador del Bajío",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98646{
+		"Colonia":"El Porvenir",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98647{
+		"Colonia":"San José del Carmen",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98648{
+		"Colonia":"Los Insurgentes (La Puerta de Fierro)",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98648{
+		"Colonia":"Rubén Jaramillo (La Chiripa)",
+		"Municipio":"Trancoso, Zacatecas"
+	},
+	98650{
+		"Colonia":"Bañuelos",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98650{
+		"Colonia":"San Jerónimo",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98650{
+		"Colonia":"El Bordito",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98652{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98652{
+		"Colonia":"Villas de la Coruña",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98655{
+		"Colonia":"El Pescado",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98658{
+		"Colonia":"Hacienda Valle Dorado",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98658{
+		"Colonia":"La Comarca",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98658{
+		"Colonia":"La Villa",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98658{
+		"Colonia":"Puerta del Valle",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98658{
+		"Colonia":"Cieneguitas",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98658{
+		"Colonia":"El Hípico",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98659{
+		"Colonia":"Gardenias",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98659{
+		"Colonia":"Laguna de Arriba",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98659{
+		"Colonia":"La Zacatecana",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98659{
+		"Colonia":"Martínez Domínguez",
+		"Municipio":"Guadalupe, Zacatecas"
+	},
+	98660{
+		"Colonia":"Los Arteaga",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98660{
+		"Colonia":"Los Guerrero",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98660{
+		"Colonia":"Los Hernández",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98660{
+		"Colonia":"Los Llanitos",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98660{
+		"Colonia":"Ojo de Agua",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98660{
+		"Colonia":"Genaro Codina",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98663{
+		"Colonia":"San Miguel de Agua Zarca (San Miguel)",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98663{
+		"Colonia":"Barrio de la Moradilla (La Moradilla)",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98663{
+		"Colonia":"Paso de Méndez",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98663{
+		"Colonia":"Monte Grande",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98663{
+		"Colonia":"Ojo de Agua del Progreso (Ojo de Agua)",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98663{
+		"Colonia":"Santa Inés",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98664{
+		"Colonia":"Minillas",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98664{
+		"Colonia":"Ojo Seco",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98664{
+		"Colonia":"Santa Teresa",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98666{
+		"Colonia":"La Saladita",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98666{
+		"Colonia":"El Laurel",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98666{
+		"Colonia":"El Palmarito",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98666{
+		"Colonia":"Huertillas (Las Huertillas)",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98666{
+		"Colonia":"San Isidro",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98666{
+		"Colonia":"Corralillo",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"Santa Gertrudis",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"Santa Cruz de Sierra Fría",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"El Salto Prieto",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"San Fernando",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"El Arbolito",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"La Quemazón (Francisco Guerrero Espino)",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"San Martín",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"Perales",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"El Refugio",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"La Presilla",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98667{
+		"Colonia":"La Toma",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98670{
+		"Colonia":"Las Tinajas",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98670{
+		"Colonia":"La Joya",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98670{
+		"Colonia":"La Purísima",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98670{
+		"Colonia":"San Francisco Viboritas",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98670{
+		"Colonia":"Delgadillo",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98670{
+		"Colonia":"Enrique Estrada",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98670{
+		"Colonia":"Santa Cruz de Piedras Cargadas",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98670{
+		"Colonia":"Macarenos",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98673{
+		"Colonia":"Hierbabuena",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98673{
+		"Colonia":"El Fresno",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98677{
+		"Colonia":"El Tepetate",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98677{
+		"Colonia":"Lechuguilla",
+		"Municipio":"Genaro Codina, Zacatecas"
+	},
+	98680{
+		"Colonia":"Piedra Gorda",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98680{
+		"Colonia":"Rancho Nuevo",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98684{
+		"Colonia":"Río Verde",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98689{
+		"Colonia":"Berriozabal",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98690{
+		"Colonia":"Ciudad Cuauhtémoc Centro",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98692{
+		"Colonia":"Nuevo Milenio",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98692{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98692{
+		"Colonia":"Lázaro Cárdenas 2a Sección",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98693{
+		"Colonia":"Potrerillos",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98693{
+		"Colonia":"Asencion Torres",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98694{
+		"Colonia":"La Rinconada",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98694{
+		"Colonia":"Castorena",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98695{
+		"Colonia":"Morelos",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98696{
+		"Colonia":"La Piedad",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98696{
+		"Colonia":"Independiente",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98696{
+		"Colonia":"Las Torres",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98697{
+		"Colonia":"San Pedro",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98697{
+		"Colonia":"Independencia",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98698{
+		"Colonia":"Las Gallinas",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98698{
+		"Colonia":"La Gavia",
+		"Municipio":"Cuauhtémoc, Zacatecas"
+	},
+	98700{
+		"Colonia":"Concepción",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98700{
+		"Colonia":"El Refugio",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98700{
+		"Colonia":"Jarillas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98700{
+		"Colonia":"Milagros",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98700{
+		"Colonia":"Palmillas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98700{
+		"Colonia":"Pastoría",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98700{
+		"Colonia":"Sauceda de Mulatos",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98700{
+		"Colonia":"Tlacotes",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98700{
+		"Colonia":"Estación Palmira",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98704{
+		"Colonia":"Dolores",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98705{
+		"Colonia":"La Capilla",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98705{
+		"Colonia":"Nuevo Mundo",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98706{
+		"Colonia":"Cerrito de La Cruz",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98706{
+		"Colonia":"La Verde",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98706{
+		"Colonia":"Las Coloradas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98707{
+		"Colonia":"Las Lajas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98707{
+		"Colonia":"Pozo de Jarillas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98707{
+		"Colonia":"Perales",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98710{
+		"Colonia":"Ojocaliente Centro",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98712{
+		"Colonia":"Casa Blanca",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98712{
+		"Colonia":"El Papanton",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98712{
+		"Colonia":"Indeco",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98712{
+		"Colonia":"Las Lomas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98712{
+		"Colonia":"Nombre de Dios",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98712{
+		"Colonia":"Nuevo Ojocaliente",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98712{
+		"Colonia":"Real de Sacramento",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98712{
+		"Colonia":"Reginaldo Sandoval",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98712{
+		"Colonia":"San Miguel",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98712{
+		"Colonia":"Las Cumbres",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98713{
+		"Colonia":"Huerta Santa Teresa",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98713{
+		"Colonia":"Las Villitas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98713{
+		"Colonia":"Renacimiento",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98713{
+		"Colonia":"Veteranos de La Revolución",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98714{
+		"Colonia":"Valle de la Memoria",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98714{
+		"Colonia":"El Mezquital",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98714{
+		"Colonia":"Parga",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98714{
+		"Colonia":"El Trébol",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98715{
+		"Colonia":"Felipe Herrera Villalobos",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98715{
+		"Colonia":"Campesina",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98715{
+		"Colonia":"Jerusalem",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98715{
+		"Colonia":"Martel",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98715{
+		"Colonia":"Real Bastidas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98715{
+		"Colonia":"Luis Reyes",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98715{
+		"Colonia":"San Jorge",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98716{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98717{
+		"Colonia":"Chinanpas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98717{
+		"Colonia":"Chinanpas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98717{
+		"Colonia":"El Fresno",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98717{
+		"Colonia":"El Húmedo",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98717{
+		"Colonia":"Magisterial",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98717{
+		"Colonia":"San Pedro",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98718{
+		"Colonia":"El Portalillo",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98718{
+		"Colonia":"Fernando Pamanes Escobedo",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98718{
+		"Colonia":"Elias Valadez",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98718{
+		"Colonia":"Las Ladrilleras",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98720{
+		"Colonia":"San Cristóbal",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98723{
+		"Colonia":"San Blas de Copudas (El Tildío)",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98723{
+		"Colonia":"San Blas de Copudas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98723{
+		"Colonia":"San Jose de los Llanos",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98723{
+		"Colonia":"San Jose Del Vaquero",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98723{
+		"Colonia":"Santa María de la Paz (Los Álamos)",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98724{
+		"Colonia":"Buenavista",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98725{
+		"Colonia":"Boquillas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98725{
+		"Colonia":"San Juan de Carboneras",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98725{
+		"Colonia":"Santo Tomas",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98726{
+		"Colonia":"Venaditos",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98726{
+		"Colonia":"Cerrito Del Agua",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98727{
+		"Colonia":"El Chepinque",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98727{
+		"Colonia":"San Antonio del Volcán (San Antonio)",
+		"Municipio":"Ojocaliente, Zacatecas"
+	},
+	98730{
+		"Colonia":"El Tule",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"Gral. Pánfilo Natera Centro",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"Santa Cruz",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"Buenavista",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"Magisterial",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"Presidentes",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"Santa Fe",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"San Juan Bautista",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"Piedra Azul",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"Las Animas",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"Barrio Alto",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98730{
+		"Colonia":"San Rafael",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98740{
+		"Colonia":"El Saucito",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98740{
+		"Colonia":"Guanajuatillo",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98740{
+		"Colonia":"La Tesorera",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98740{
+		"Colonia":"Las Amapolas",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98740{
+		"Colonia":"El Marín (Marín)",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98740{
+		"Colonia":"Noria Del Cerro",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98740{
+		"Colonia":"Presa Del Coloradito",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98740{
+		"Colonia":"Santa María de la Fe",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98740{
+		"Colonia":"Unión de San Antonio",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98750{
+		"Colonia":"El Saladillo",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98750{
+		"Colonia":"Pamanes",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98760{
+		"Colonia":"Rancho Nuevo",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98760{
+		"Colonia":"San Pablo",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98760{
+		"Colonia":"Santa Elena",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98760{
+		"Colonia":"La Haciendita",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98760{
+		"Colonia":"Providencia",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98760{
+		"Colonia":"Tahonas",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98760{
+		"Colonia":"San Ramon",
+		"Municipio":"General Pánfilo Natera, Zacatecas"
+	},
+	98770{
+		"Colonia":"Luis Moya Centro",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98772{
+		"Colonia":"Independencia",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98772{
+		"Colonia":"San Antonio",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98772{
+		"Colonia":"De las Flores",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98773{
+		"Colonia":"Campestre",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98775{
+		"Colonia":"Magisterial",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98775{
+		"Colonia":"Praderas Del Sol",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98776{
+		"Colonia":"San Francisco",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98776{
+		"Colonia":"San Miguel",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98776{
+		"Colonia":"San Francisco II",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98780{
+		"Colonia":"Hidalgo",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98780{
+		"Colonia":"20 de Noviembre",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98780{
+		"Colonia":"Leyva",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98785{
+		"Colonia":"Esteban Castorena",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98785{
+		"Colonia":"Los Griegos",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98785{
+		"Colonia":"Los Pocitos",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98790{
+		"Colonia":"Noria de Molinos",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98794{
+		"Colonia":"Coecillo",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98794{
+		"Colonia":"La Manga",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98795{
+		"Colonia":"Barranquillas (Barranquilla)",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98795{
+		"Colonia":"ing. Julián Adame",
+		"Municipio":"Luis Moya, Zacatecas"
+	},
+	98800{
+		"Colonia":"San Blas",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98804{
+		"Colonia":"Santa María de los Ángeles",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98805{
+		"Colonia":"Jesús María",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98805{
+		"Colonia":"La Alquería",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98807{
+		"Colonia":"Crisóstomos",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98810{
+		"Colonia":"El Tepetate",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98810{
+		"Colonia":"Felipe Carrillo Puerto",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98815{
+		"Colonia":"Hidalgo (El Tecolote)",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98815{
+		"Colonia":"Tierra Blanca",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98816{
+		"Colonia":"Hidalgo",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98816{
+		"Colonia":"El Prieto",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98817{
+		"Colonia":"Bimbaletes",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98818{
+		"Colonia":"Norias de Guadalupe",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98818{
+		"Colonia":"Norias de San Miguel",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98818{
+		"Colonia":"Norias de la Venta",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98820{
+		"Colonia":"San Marcos",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98820{
+		"Colonia":"La Loma",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98824{
+		"Colonia":"La Concepción",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98825{
+		"Colonia":"Emilio Carranza (Arenal del Picacho)",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98825{
+		"Colonia":"El Hinojo",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98827{
+		"Colonia":"El Lobo",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98830{
+		"Colonia":"Loreto Centro",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98832{
+		"Colonia":"Los Ángeles",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98832{
+		"Colonia":"Los Viñedos",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98832{
+		"Colonia":"Acevedo",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98832{
+		"Colonia":"La Esperanza I",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98832{
+		"Colonia":"El Mezquite",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98832{
+		"Colonia":"La Huerta",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98832{
+		"Colonia":"La Esperanza II",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98833{
+		"Colonia":"San Genaro",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98833{
+		"Colonia":"San Juan",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98833{
+		"Colonia":"San Carlos",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98833{
+		"Colonia":"Educación",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98833{
+		"Colonia":"San Marcos I",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98833{
+		"Colonia":"El Edén",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98833{
+		"Colonia":"San Marcos II",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98833{
+		"Colonia":"Valle Real",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98833{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98833{
+		"Colonia":"Revolución",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98834{
+		"Colonia":"La Martinica II",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98834{
+		"Colonia":"Minera",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98834{
+		"Colonia":"La Martinica I",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98834{
+		"Colonia":"Torres",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98835{
+		"Colonia":"Reforma",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98835{
+		"Colonia":"Vega",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98836{
+		"Colonia":"Llanos de San Miguel",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98837{
+		"Colonia":"San Francisco",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98837{
+		"Colonia":"Esmeralda",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98837{
+		"Colonia":"San Manuel",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98838{
+		"Colonia":"El Socorro",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98838{
+		"Colonia":"Los Pirules",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98838{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98838{
+		"Colonia":"Herrada",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98838{
+		"Colonia":"Valle de Loreto",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98839{
+		"Colonia":"San Agusín",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98839{
+		"Colonia":"San Francisco",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98839{
+		"Colonia":"Arboledas",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98839{
+		"Colonia":"La Victoria",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98839{
+		"Colonia":"Escobedo",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98839{
+		"Colonia":"Arenas",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98839{
+		"Colonia":"Los Puentes",
+		"Municipio":"Loreto, Zacatecas"
+	},
+	98840{
+		"Colonia":"Villa González Ortega",
+		"Municipio":"Villa González Ortega, Zacatecas"
+	},
+	98850{
+		"Colonia":"Bajío de San Nicolás",
+		"Municipio":"Villa González Ortega, Zacatecas"
+	},
+	98860{
+		"Colonia":"Diez de Noviembre (El Campamento)",
+		"Municipio":"Villa González Ortega, Zacatecas"
+	},
+	98870{
+		"Colonia":"Estancia de Animas",
+		"Municipio":"Villa González Ortega, Zacatecas"
+	},
+	98873{
+		"Colonia":"Cerrito del Agua",
+		"Municipio":"Villa González Ortega, Zacatecas"
+	},
+	98880{
+		"Colonia":"El Rascon",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98880{
+		"Colonia":"Maravillas",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98880{
+		"Colonia":"Noria de Ángeles",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98880{
+		"Colonia":"Playas Del Refugio",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98887{
+		"Colonia":"Madero",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98890{
+		"Colonia":"Granjas de Guadalupe",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98890{
+		"Colonia":"Rancho Nuevo de Morelos (De Guadalupe)",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98890{
+		"Colonia":"Rancho Nuevo de Morelos (El Sagrado Corazón)",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98890{
+		"Colonia":"Gral. Guadalupe Victoria O La Honda",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98890{
+		"Colonia":"Ignacio Zaragoza",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98890{
+		"Colonia":"San Francisco",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98893{
+		"Colonia":"El Tepozán",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98893{
+		"Colonia":"San Antonio de la Mula",
+		"Municipio":"Noria de Ángeles, Zacatecas"
+	},
+	98900{
+		"Colonia":"El Arenal",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98900{
+		"Colonia":"Villa Garcia Centro",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98900{
+		"Colonia":"Villa Flores",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98905{
+		"Colonia":"Agua Gordita",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98907{
+		"Colonia":"El Copetillo",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98910{
+		"Colonia":"Tierritas Blancas",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98910{
+		"Colonia":"Agua Gorda",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98914{
+		"Colonia":"La Puerta de Jalisco",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98918{
+		"Colonia":"Granadas",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98918{
+		"Colonia":"Montesa",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98919{
+		"Colonia":"Los Campos",
+		"Municipio":"Villa García, Zacatecas"
+	},
+	98920{
+		"Colonia":"Las Tinajas",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98920{
+		"Colonia":"La Cuadrilla",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98920{
+		"Colonia":"Centro",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98920{
+		"Colonia":"La Plazuela",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98920{
+		"Colonia":"H. Ayuntamiento",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98920{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98920{
+		"Colonia":"Bachilleres",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98920{
+		"Colonia":"Magisterial",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98920{
+		"Colonia":"Sierra de Pinos",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98920{
+		"Colonia":"Tlaxcala",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98920{
+		"Colonia":"Los Arquitos",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98921{
+		"Colonia":"La Victoria",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98925{
+		"Colonia":"Las Mezclitas (La Mezclita)",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98925{
+		"Colonia":"San Andrés",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98930{
+		"Colonia":"Espiritu Santo",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98931{
+		"Colonia":"Santa Gertrudis",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98933{
+		"Colonia":"Las Cabras",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98933{
+		"Colonia":"La Encarnación",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98936{
+		"Colonia":"San Antonio de las Nueces",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98936{
+		"Colonia":"Guadalupe Victoria (Tierra Bofa)",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98940{
+		"Colonia":"Ahijaderos",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98940{
+		"Colonia":"Guadalupe de los Sauces",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98940{
+		"Colonia":"Saldaña",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98940{
+		"Colonia":"Santa Ana",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98940{
+		"Colonia":"Santiago",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98941{
+		"Colonia":"Trinidad Norte",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98942{
+		"Colonia":"La Pendencia",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98942{
+		"Colonia":"Tolosa",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98950{
+		"Colonia":"Presa Nueva",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98950{
+		"Colonia":"El Nigromante",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98951{
+		"Colonia":"El Obraje",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98951{
+		"Colonia":"Laborcilla",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98955{
+		"Colonia":"Jaltomate",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98959{
+		"Colonia":"El Chino",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98959{
+		"Colonia":"La Pachona (San Andrés)",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98959{
+		"Colonia":"San José de la Venta",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98959{
+		"Colonia":"El Pedregoso",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98959{
+		"Colonia":"Estancia de Guadalupe",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98959{
+		"Colonia":"La Lobena",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98959{
+		"Colonia":"San Manuel",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98960{
+		"Colonia":"El Mezquite",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98960{
+		"Colonia":"José María Pino Suárez (La Colorada)",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98960{
+		"Colonia":"La Estrella",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98961{
+		"Colonia":"Santa Elena",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98962{
+		"Colonia":"San José de Castellanos",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98962{
+		"Colonia":"José María Morelos (Pozo de los Ratones)",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98962{
+		"Colonia":"La Blanca (Chihuahua)",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98965{
+		"Colonia":"La Cruz",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98969{
+		"Colonia":"Cieneguilla",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98969{
+		"Colonia":"San Martin",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98970{
+		"Colonia":"La Presita",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98970{
+		"Colonia":"El Sitio",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98971{
+		"Colonia":"Jaula de Abajo",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98971{
+		"Colonia":"Jaula de Arriba",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98971{
+		"Colonia":"Jaulillas",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98973{
+		"Colonia":"Agua Gorda de los Patos",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98974{
+		"Colonia":"Los Encinitos",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98979{
+		"Colonia":"Ojo de Agua de La Palma",
+		"Municipio":"Pinos, Zacatecas"
+	},
+	98980{
+		"Colonia":"La Lagunita",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98980{
+		"Colonia":"La Ballena",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98980{
+		"Colonia":"San Agustin",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98984{
+		"Colonia":"El Tepetate",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98985{
+		"Colonia":"Caballerías (Caballería Villa Hidalgo)",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98985{
+		"Colonia":"Presa de Valenzuela (Laguna de Valenzuela)",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98986{
+		"Colonia":"José María Morelos",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98986{
+		"Colonia":"Providencia",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98986{
+		"Colonia":"El Refugio",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98987{
+		"Colonia":"El Fraile",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98988{
+		"Colonia":"Canoas",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98988{
+		"Colonia":"El Salitre",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98988{
+		"Colonia":"Purísima Del Rocio O El Rocio",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98990{
+		"Colonia":"Villa Hidalgo Centro",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98994{
+		"Colonia":"Francisco E. García",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	98995{
+		"Colonia":"Nueva",
+		"Municipio":"Villa Hidalgo, Zacatecas"
+	},
+	99000{
+		"Colonia":"Beleña",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99000{
+		"Colonia":"Fresnillo Centro",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99010{
+		"Colonia":"Lomas del Mineral",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99010{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99010{
+		"Colonia":"Napoleón Gómez Sada",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99010{
+		"Colonia":"Solidaridad",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99011{
+		"Colonia":"Lomas de Plateros",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99013{
+		"Colonia":"México",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99013{
+		"Colonia":"Sector Popular",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99013{
+		"Colonia":"Plutarco Elias Calles",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Panamericana",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Europa",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Alianza Ciudadana",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Colinas del Real",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Azteca",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Nueva Esperanza",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Patria y Libertad",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Plan de Ayala",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Ampliación Azteca",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Francisco I Madero",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Petroleos Mexicanos",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99014{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99020{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99020{
+		"Colonia":"El Fresno",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99020{
+		"Colonia":"Francisco Goytia INFONAVIT",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99020{
+		"Colonia":"Magisterial",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99020{
+		"Colonia":"Tecnológica",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99030{
+		"Colonia":"El Parque",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99030{
+		"Colonia":"Industrial",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99030{
+		"Colonia":"Las Américas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99030{
+		"Colonia":"San Miguel",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99033{
+		"Colonia":"Ejidal 3",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99034{
+		"Colonia":"Las Torcazas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99034{
+		"Colonia":"Progreso",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99034{
+		"Colonia":"Bajío de Fresnillo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99034{
+		"Colonia":"Los Artesanos",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99034{
+		"Colonia":"Lienzo Charro",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99034{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99034{
+		"Colonia":"La Joya",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99036{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99039{
+		"Colonia":"Universidad",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99039{
+		"Colonia":"Lindavista",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99040{
+		"Colonia":"Jose Maria Vázquez",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99040{
+		"Colonia":"Lasalle",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99040{
+		"Colonia":"Del Policía",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99040{
+		"Colonia":"Periodistas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99049{
+		"Colonia":"18 de Julio Indeco",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99050{
+		"Colonia":"Jardin de las Flores",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99050{
+		"Colonia":"Las Flores",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99050{
+		"Colonia":"Obrera Norte",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99050{
+		"Colonia":"Jesús Gonzalez Ortega",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99050{
+		"Colonia":"Del Fresno",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99054{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99054{
+		"Colonia":"Huertas de Abajo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99054{
+		"Colonia":"Las Haciendas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99054{
+		"Colonia":"Ecología",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99055{
+		"Colonia":"Satélite",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99055{
+		"Colonia":"Juan Antonio Casas Torres",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99055{
+		"Colonia":"Del Sol",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99056{
+		"Colonia":"Parque Industrial Fresnillo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99056{
+		"Colonia":"Felipe Monreal",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99056{
+		"Colonia":"97 Batallón de Infantería",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99056{
+		"Colonia":"Real de Fresnillo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99056{
+		"Colonia":"Arboledas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99056{
+		"Colonia":"Felipe Angeles",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99056{
+		"Colonia":"Villas de Plateros",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99056{
+		"Colonia":"Los Balcones",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99060{
+		"Colonia":"Lagunilla",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99070{
+		"Colonia":"Barrio Alto",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99070{
+		"Colonia":"El Olivar Manuel M. Ponce",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99080{
+		"Colonia":"Ricardo Monreal Ávila",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99080{
+		"Colonia":"Saucito",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99080{
+		"Colonia":"Esparza",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99080{
+		"Colonia":"Lomas de La Fortuna",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99080{
+		"Colonia":"Fortuna",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99080{
+		"Colonia":"FOVISSSTE Lic. Roque Estrada",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99080{
+		"Colonia":"Real de Minas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99080{
+		"Colonia":"Buenos Aires",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99080{
+		"Colonia":"El Vergel",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99080{
+		"Colonia":"La Paz",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99084{
+		"Colonia":"Ejidal 4",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99084{
+		"Colonia":"Del Valle",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99084{
+		"Colonia":"Los Sotoles",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99089{
+		"Colonia":"Minera",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99090{
+		"Colonia":"Quinta del Cobre",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99090{
+		"Colonia":"Insurgentes",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99090{
+		"Colonia":"Electricistas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99090{
+		"Colonia":"Maravillas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Lic. Abel Dávila García",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"San Carlos",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Mesoamerica",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Polvaderas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"San Felipe",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Del Bosque",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Impresionistas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Victoria",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Providencia",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Muralista",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Magisterio Unido",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Magisterial",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99094{
+		"Colonia":"Los Olivos",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99095{
+		"Colonia":"Villas del Campestre",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99099{
+		"Colonia":"Jesús Gonzalez Ortega",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99099{
+		"Colonia":"Venustiano Carranza",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99099{
+		"Colonia":"Villas Jardín",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99100{
+		"Colonia":"Sombrerete Centro",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99100{
+		"Colonia":"La Soledad",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99102{
+		"Colonia":"De los Músicos",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99102{
+		"Colonia":"La Urbaleja",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99102{
+		"Colonia":"La Purísima",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99102{
+		"Colonia":"López Mateos",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99102{
+		"Colonia":"Ampliación López Mateos",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99102{
+		"Colonia":"Sombreretillo",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99102{
+		"Colonia":"El Coronel",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99102{
+		"Colonia":"Loma La Colorada",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99102{
+		"Colonia":"La Perla",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"La Huerta",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"Real Bastida",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"Las Flores",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"El Artezón",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"El Chahuita",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"San Pedro",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"El Chepinque",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"Las Escobillas",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"El Cerrito de Guadalupe",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"División del Norte",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"La Cueva",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"Santo Domingo",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"Del Oro",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"La Caridad",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"Huerta de los Santos Niños",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99103{
+		"Colonia":"Industrial",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"De la Candelaria",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"Las Playas",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"Las Huertas",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"El Consuelo",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"Lomas del Consuelo",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"La Pila",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"La Santiaga",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"INFONAVIT",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"FOVISSSTE",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"El Peñasco",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"La Blanca",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"El Ranchito",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"La Palmilla",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99104{
+		"Colonia":"Huertas Grandes",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99106{
+		"Colonia":"Ignacio Zaragoza (Estación Frío)",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99106{
+		"Colonia":"Álvaro Obregón",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99109{
+		"Colonia":"José María Morelos (Morelos)",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99109{
+		"Colonia":"San Martin",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99109{
+		"Colonia":"Ojo de Agua",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99109{
+		"Colonia":"San Jose de Félix",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99109{
+		"Colonia":"Santa Rita",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99109{
+		"Colonia":"Villa Insurgentes (El Calabazal)",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99110{
+		"Colonia":"José Santos Bañuelos (Bañuelos Viejo)",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99110{
+		"Colonia":"José Santos Bañuelos (Bañuelos Nuevo)",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99110{
+		"Colonia":"Felipe Ángeles",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99110{
+		"Colonia":"Francisco Murguía",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99110{
+		"Colonia":"González Ortega",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99110{
+		"Colonia":"Hidalgo",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99110{
+		"Colonia":"Ignacio Zaragoza",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99113{
+		"Colonia":"Charco Blanco",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99115{
+		"Colonia":"Salas Pérez",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99115{
+		"Colonia":"Agua Zarca",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99119{
+		"Colonia":"Berros y Ojo Santo",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99119{
+		"Colonia":"El Sauz del Terrero",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99119{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99119{
+		"Colonia":"Cuauhtémoc (Santa Catarina)",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99119{
+		"Colonia":"Flores Garcia",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99119{
+		"Colonia":"Ignacio Allende",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99120{
+		"Colonia":"Lo de Mena",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99120{
+		"Colonia":"Corrales",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99121{
+		"Colonia":"Estancia de Guadalupe",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99121{
+		"Colonia":"Felipe Ángeles (La Estancia)",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99121{
+		"Colonia":"Menonita",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99121{
+		"Colonia":"San José de Mesillas (Mesillas)",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99121{
+		"Colonia":"Refugio de los Pozos",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99128{
+		"Colonia":"San Jose de Ranchos",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99128{
+		"Colonia":"San Juan de La Tapia",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99129{
+		"Colonia":"San José de Gracia",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99129{
+		"Colonia":"Vergelitos",
+		"Municipio":"Sombrerete, Zacatecas"
+	},
+	99130{
+		"Colonia":"Las Haciendas",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99130{
+		"Colonia":"La Cruz Verde",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99130{
+		"Colonia":"Las Pilas",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99130{
+		"Colonia":"Nuevo",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99130{
+		"Colonia":"Barrancas",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99130{
+		"Colonia":"José María Morelos (Santa Mónica)",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99130{
+		"Colonia":"Río de Medina",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99130{
+		"Colonia":"Sain Alto",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99130{
+		"Colonia":"Sain Bajo",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99130{
+		"Colonia":"San Antonio del Álamo",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99132{
+		"Colonia":"El Cazadero",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99138{
+		"Colonia":"Mercurio (Mina Mercurio)",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99138{
+		"Colonia":"Laguna Blanca",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99138{
+		"Colonia":"Santa Eduviges",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99140{
+		"Colonia":"Cantuna",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99141{
+		"Colonia":"Cañas",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99141{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99141{
+		"Colonia":"Luis Moya",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99143{
+		"Colonia":"El Fresno",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99143{
+		"Colonia":"Nicolás Bravo (San Nicolás)",
+		"Municipio":"Sain Alto, Zacatecas"
+	},
+	99150{
+		"Colonia":"Carrillo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99150{
+		"Colonia":"El Modelo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99150{
+		"Colonia":"El Pardillo Tercero",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99150{
+		"Colonia":"El Pardillo Primero",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99150{
+		"Colonia":"El Pardillo Segundo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99150{
+		"Colonia":"Estación San José",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99150{
+		"Colonia":"Las Catarinas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99150{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99150{
+		"Colonia":"Purísima del Maguey",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99150{
+		"Colonia":"Santiaguillo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99150{
+		"Colonia":"Los Chilitos",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99154{
+		"Colonia":"Laguna Seca",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99154{
+		"Colonia":"Morfín Chávez",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99154{
+		"Colonia":"Santa Anita",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99154{
+		"Colonia":"Santa Ana",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99158{
+		"Colonia":"Plateros",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99159{
+		"Colonia":"Rafael Yáñez Sosa (El Mezquite)",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99159{
+		"Colonia":"Chichimequillas",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99160{
+		"Colonia":"Vasco de Quiroga",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99160{
+		"Colonia":"El Centro",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99160{
+		"Colonia":"Francisco I Madero",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99160{
+		"Colonia":"La Casita",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99160{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99170{
+		"Colonia":"El Baluarte",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99170{
+		"Colonia":"José María Morelos",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99170{
+		"Colonia":"Montemariana (Colonia Mariana)",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99170{
+		"Colonia":"Río Florido",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99170{
+		"Colonia":"6 de Enero",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99170{
+		"Colonia":"San Ignacio",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99174{
+		"Colonia":"El Ahijadero",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99178{
+		"Colonia":"Plenitud",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99178{
+		"Colonia":"San Vicente de Plenitud (San Vicente)",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99178{
+		"Colonia":"Los Álamos",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99179{
+		"Colonia":"México Nuevo Uno (México Nuevo)",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99179{
+		"Colonia":"San Cristóbal",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99179{
+		"Colonia":"Melchor Ocampo (San Jerónimo)",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99179{
+		"Colonia":"El Salto",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99179{
+		"Colonia":"Tapias de Santa Cruz",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99179{
+		"Colonia":"El Epazote",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99180{
+		"Colonia":"Milpillas de la Sierra",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99180{
+		"Colonia":"Estación Gutiérrez",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99183{
+		"Colonia":"La Encantada",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99183{
+		"Colonia":"La Salada",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99185{
+		"Colonia":"Ramón López Velarde (La Chicharrona)",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99188{
+		"Colonia":"Altamira",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99188{
+		"Colonia":"Lázaro Cárdenas (Rancho Grande)",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99188{
+		"Colonia":"San Pablo de Rancho Grande",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99189{
+		"Colonia":"Erendirilla",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99189{
+		"Colonia":"Loma Bonita",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99189{
+		"Colonia":"Las Flores",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99189{
+		"Colonia":"Esparza",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99189{
+		"Colonia":"San Gabriel",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99189{
+		"Colonia":"San José de Lourdes",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99190{
+		"Colonia":"Agrícola Guanajuato",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99190{
+		"Colonia":"Guadalupe de Trujillo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99190{
+		"Colonia":"Matías Ramos",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99190{
+		"Colonia":"San Isidro de Cabrales",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99190{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99193{
+		"Colonia":"San José del Alamito",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99198{
+		"Colonia":"Labor de Santa Bárbara",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99199{
+		"Colonia":"Buenavista de Trujillo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99199{
+		"Colonia":"Presa Leobardo Reynoso (Primero de Mayo)",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99199{
+		"Colonia":"San José del Río",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99199{
+		"Colonia":"Trujillo",
+		"Municipio":"Fresnillo, Zacatecas"
+	},
+	99200{
+		"Colonia":"Capulín de la Sierra",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99200{
+		"Colonia":"Cruces",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99200{
+		"Colonia":"El Astillero",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99200{
+		"Colonia":"El Tejujan",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99200{
+		"Colonia":"Mimbres",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99200{
+		"Colonia":"San Miguel",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99200{
+		"Colonia":"Trojes",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99200{
+		"Colonia":"El Resbalón",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99200{
+		"Colonia":"Tejones",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99201{
+		"Colonia":"San José del Vergel",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99202{
+		"Colonia":"Vicente Escudero",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99203{
+		"Colonia":"Felipe Ángeles (Pastores)",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99206{
+		"Colonia":"La Pila de Las Oscuras (La Pila)",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99208{
+		"Colonia":"Presa del Rosarito",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99208{
+		"Colonia":"San Antonio de Padua",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99209{
+		"Colonia":"Potrero de Gallego",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99210{
+		"Colonia":"Milpillas de La Sierra",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99217{
+		"Colonia":"San Rafael de las Tablas",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99220{
+		"Colonia":"Caracoles y Anexas",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99220{
+		"Colonia":"San Mateo",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99225{
+		"Colonia":"Peñitas de San Mateo",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99227{
+		"Colonia":"J. Jesús González Ortega (San Mateo)",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99230{
+		"Colonia":"Lobatos",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99230{
+		"Colonia":"Mala Noche",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99231{
+		"Colonia":"Xoconoxtle",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99237{
+		"Colonia":"Cueva Grande",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99238{
+		"Colonia":"Boquilla del Refugio",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99239{
+		"Colonia":"San Jose de Llanetes",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99240{
+		"Colonia":"San Juan Capistrano",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99246{
+		"Colonia":"Santa Lucía de la Sierra",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99250{
+		"Colonia":"Valparaíso Centro",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99252{
+		"Colonia":"Del Edén",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99252{
+		"Colonia":"La Viña",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99252{
+		"Colonia":"Santo Domingo",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99252{
+		"Colonia":"La Lagunilla",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99252{
+		"Colonia":"Las Rosas",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99253{
+		"Colonia":"Ameca",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99253{
+		"Colonia":"Agua Fría",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99253{
+		"Colonia":"El Panalito",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99253{
+		"Colonia":"La Joyita",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99253{
+		"Colonia":"Simón Bolívar",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99254{
+		"Colonia":"Los Guerreros",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99254{
+		"Colonia":"De los Barrios",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99254{
+		"Colonia":"Alameda",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99254{
+		"Colonia":"El Lago",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99254{
+		"Colonia":"Lomas del Valle",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99254{
+		"Colonia":"Magisterial",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99254{
+		"Colonia":"Francisco I. Madero",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99254{
+		"Colonia":"Ranchito de La Cruz",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99254{
+		"Colonia":"La Mesita",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99255{
+		"Colonia":"Los Nogales",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99255{
+		"Colonia":"Ranchito del Tanque",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99256{
+		"Colonia":"Del Refugio",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99256{
+		"Colonia":"La Lentejita",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99256{
+		"Colonia":"Puerta de Cadena del Sur",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"Los Arcos",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"López Velarde",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"Villas del Sol",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"Buenavista",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"Enrique Estrada",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"México",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"Mauro Talamantes",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"Santa Rita",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"Sierra Dorada",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"Bellavista",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99257{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99258{
+		"Colonia":"El Pedregal",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99258{
+		"Colonia":"Cumbres del Valle",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99258{
+		"Colonia":"Deportiva",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99258{
+		"Colonia":"Las Américas",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99259{
+		"Colonia":"Lomas del Paraíso",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99259{
+		"Colonia":"Atotonilco",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99259{
+		"Colonia":"El Vallecito",
+		"Municipio":"Valparaíso, Zacatecas"
+	},
+	99260{
+		"Colonia":"Alameda",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Altamira",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Solidaridad",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Peñitas",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Magisterial",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Las Huertas",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Jalisco",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Fatima",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"El Rebote",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Concordia",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Cardenillo",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Colorada",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"Chalchihuites",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99260{
+		"Colonia":"José María Morelos (San José de Gracia)",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99270{
+		"Colonia":"Estación de Canutillo",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99270{
+		"Colonia":"José de Buenavista (San José de Abajo)",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99279{
+		"Colonia":"Gualterio",
+		"Municipio":"Chalchihuites, Zacatecas"
+	},
+	99280{
+		"Colonia":"Tlalcotzahuatl",
+		"Municipio":"Jiménez del Teul, Zacatecas"
+	},
+	99280{
+		"Colonia":"Jiménez del Teul",
+		"Municipio":"Jiménez del Teul, Zacatecas"
+	},
+	99284{
+		"Colonia":"Atotonilco",
+		"Municipio":"Jiménez del Teul, Zacatecas"
+	},
+	99300{
+		"Colonia":"Jerez Centro",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99300{
+		"Colonia":"Barrio Nuevo",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99310{
+		"Colonia":"Guadalupe",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99311{
+		"Colonia":"Magisterial",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99312{
+		"Colonia":"CTM",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99312{
+		"Colonia":"El Vergel",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99312{
+		"Colonia":"El Durazno",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99312{
+		"Colonia":"Magisterial III",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99312{
+		"Colonia":"La Cruz",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99313{
+		"Colonia":"El Durazno",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99313{
+		"Colonia":"SUTSEMOP",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99313{
+		"Colonia":"Organización Campesina",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99313{
+		"Colonia":"Olimpia",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99313{
+		"Colonia":"Jardines de La Victoria",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99313{
+		"Colonia":"El Duraznillo",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99314{
+		"Colonia":"Cervantes Corona",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99315{
+		"Colonia":"Las Palmas",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99316{
+		"Colonia":"Patria Nueva",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99316{
+		"Colonia":"Infonavit El Molino Plan Maestro",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99316{
+		"Colonia":"Frente Popular Sur",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99316{
+		"Colonia":"Frente Popular Norte",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99316{
+		"Colonia":"Matías Ramos",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99316{
+		"Colonia":"Ciénega",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99320{
+		"Colonia":"Las Huertas",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99320{
+		"Colonia":"Zaragoza",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99320{
+		"Colonia":"Guadalupe",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99322{
+		"Colonia":"Candelario Huizar",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99322{
+		"Colonia":"Magisterial II",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99322{
+		"Colonia":"Jerez",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"Villas de San Isidro",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"San Isidro",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"Las Américas",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"Deportivo II",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"Popular del Sol",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"Camino Real",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"Azteca",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"Candelario Huizar",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"Don Durito",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"P.R.D.",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99323{
+		"Colonia":"Valle Real",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99330{
+		"Colonia":"San Pedro",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99340{
+		"Colonia":"Lagunita",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99340{
+		"Colonia":"Nueva Reforma",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99340{
+		"Colonia":"San Francisco",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99340{
+		"Colonia":"Banrural",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99340{
+		"Colonia":"Los Sauces",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99340{
+		"Colonia":"Constituyentes",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99342{
+		"Colonia":"Villa Flavia",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99343{
+		"Colonia":"Artesanos",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99344{
+		"Colonia":"Balvanero",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99344{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99344{
+		"Colonia":"Bosques",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99344{
+		"Colonia":"Infonavit El Cortijo",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99350{
+		"Colonia":"Chulavista",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99350{
+		"Colonia":"Loma Dorada",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99350{
+		"Colonia":"Unión Santa Cruz",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99352{
+		"Colonia":"Concepción",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99352{
+		"Colonia":"Montecillo",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99353{
+		"Colonia":"Granjas El Molino",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99353{
+		"Colonia":"El Molino",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99360{
+		"Colonia":"Alamedas",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99360{
+		"Colonia":"Justo Sierra",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99360{
+		"Colonia":"Niños Héroes",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99360{
+		"Colonia":"Real del Valle",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99360{
+		"Colonia":"Las Quintas",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99362{
+		"Colonia":"Deportivo",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99362{
+		"Colonia":"Pedregal",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99362{
+		"Colonia":"La Noria",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99363{
+		"Colonia":"Guadalajara",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99363{
+		"Colonia":"Los Cardos",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99363{
+		"Colonia":"Hidráulica",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99363{
+		"Colonia":"Caxcán",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99370{
+		"Colonia":"20 de Noviembre",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99370{
+		"Colonia":"Villa Fontana",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99379{
+		"Colonia":"Huertas San Jose",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99380{
+		"Colonia":"Las Artes",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99380{
+		"Colonia":"Modelo",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99380{
+		"Colonia":"Obrera",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99380{
+		"Colonia":"Mercaderes",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99380{
+		"Colonia":"Fuenzanto",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99380{
+		"Colonia":"López Mateos",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99382{
+		"Colonia":"Delicias",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99382{
+		"Colonia":"Los Pinos",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99382{
+		"Colonia":"Jardín del Álamo",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99382{
+		"Colonia":"Las Brisas",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99390{
+		"Colonia":"Álamos",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99390{
+		"Colonia":"Jardines de Ramón López Velarde",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99390{
+		"Colonia":"Jardines de Jerez",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99390{
+		"Colonia":"FOVISSSTE",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99390{
+		"Colonia":"Rancho Los Arquitos",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99392{
+		"Colonia":"Granjas",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99392{
+		"Colonia":"CNOP",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99393{
+		"Colonia":"Alamitos",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99400{
+		"Colonia":"La Palma",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99400{
+		"Colonia":"Las Huertas",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99400{
+		"Colonia":"La Esmeralda",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99400{
+		"Colonia":"El Dorado",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99400{
+		"Colonia":"Monte Escobedo Centro",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99400{
+		"Colonia":"Las Mesitas",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99400{
+		"Colonia":"La Loma (Manuel M. Ponce)",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99403{
+		"Colonia":"San Antonio de Abajo",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99410{
+		"Colonia":"Adjuntas Del Refugio",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99420{
+		"Colonia":"Laguna Grande",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99430{
+		"Colonia":"Maria de La Torre",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99436{
+		"Colonia":"Berrendos",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99436{
+		"Colonia":"Estancia de García",
+		"Municipio":"Monte Escobedo, Zacatecas"
+	},
+	99440{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99440{
+		"Colonia":"San Cayetano",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99440{
+		"Colonia":"Los Félix",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99442{
+		"Colonia":"Sáuz de los Garcia de Abajo",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99443{
+		"Colonia":"Ermita de los Correa",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99447{
+		"Colonia":"El Durazno",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99447{
+		"Colonia":"Los Haro",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99454{
+		"Colonia":"San Isidro Del Salto",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99456{
+		"Colonia":"La Gavia",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99457{
+		"Colonia":"La Ciénega",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99458{
+		"Colonia":"Santa Rita (Luis Moya)",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99458{
+		"Colonia":"Lo de Nava",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99460{
+		"Colonia":"Tetillas",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99467{
+		"Colonia":"Ermita de Guadalupe",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99468{
+		"Colonia":"El Huejote",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99469{
+		"Colonia":"Los Ríos",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99471{
+		"Colonia":"Cieneguitas de Fernandez",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99473{
+		"Colonia":"Palmas Altas",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99473{
+		"Colonia":"Sarabia",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99473{
+		"Colonia":"Guadalupe Victoria (El Yegue)",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99474{
+		"Colonia":"Monte de los García",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99474{
+		"Colonia":"Villa Hermosa",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99476{
+		"Colonia":"Río Florido (El Ranchito)",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99476{
+		"Colonia":"El Cargadero",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99478{
+		"Colonia":"San Juan del Centro",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99479{
+		"Colonia":"Jomulquillo",
+		"Municipio":"Jerez, Zacatecas"
+	},
+	99480{
+		"Colonia":"Susticacán",
+		"Municipio":"Susticacán, Zacatecas"
+	},
+	99500{
+		"Colonia":"El Salto",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99500{
+		"Colonia":"El Tigre",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99500{
+		"Colonia":"Laguna Del Carretero",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99500{
+		"Colonia":"Tarasco",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99506{
+		"Colonia":"El Jagüey",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99510{
+		"Colonia":"De la Cruz",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99510{
+		"Colonia":"Malpaso",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99510{
+		"Colonia":"El Fuerte",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99520{
+		"Colonia":"Felipe Ángeles",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99520{
+		"Colonia":"Gral. Francisco Murguía",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99523{
+		"Colonia":"El Saucito",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99530{
+		"Colonia":"Atitanac",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99530{
+		"Colonia":"El Vergel",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99530{
+		"Colonia":"La Quemada (Hacienda la Quemada)",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99540{
+		"Colonia":"Villanueva Centro",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99542{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99542{
+		"Colonia":"Panames Escobedo",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99542{
+		"Colonia":"Magisterial I",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99542{
+		"Colonia":"Gutiérrez del Águila",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99542{
+		"Colonia":"Beisbolera",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99542{
+		"Colonia":"De los Varela",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99543{
+		"Colonia":"De Santa Gertrudis",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99544{
+		"Colonia":"De Guadalupe",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99544{
+		"Colonia":"Colosio",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99544{
+		"Colonia":"Tadeo",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99545{
+		"Colonia":"Santa Anita",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99545{
+		"Colonia":"Arboledas",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99545{
+		"Colonia":"Flores del Pedregal",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99545{
+		"Colonia":"Lindavista",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99545{
+		"Colonia":"Sierra Nevada",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99545{
+		"Colonia":"Los Geranios",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99546{
+		"Colonia":"Frente Popular",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99546{
+		"Colonia":"Las Flores",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99546{
+		"Colonia":"Rescodillo",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99546{
+		"Colonia":"Lomas Verdes",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99546{
+		"Colonia":"Magisterial II (centenario)",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99546{
+		"Colonia":"Magisterial III",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99546{
+		"Colonia":"Lomas Doradas",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99546{
+		"Colonia":"Arroyo del Tigre",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99546{
+		"Colonia":"Loma de Tlalpan",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99547{
+		"Colonia":"Nueva",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99547{
+		"Colonia":"Lomas del Diezmo",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99550{
+		"Colonia":"La Encarnación",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99552{
+		"Colonia":"Tuxtuac",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99559{
+		"Colonia":"Adolfo López Mateos (Majadas)",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99559{
+		"Colonia":"Gustavo Díaz Ordaz (Tortugas)",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99560{
+		"Colonia":"Zapoqui",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99560{
+		"Colonia":"Tayahua (San José de Tayahua)",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99560{
+		"Colonia":"Lindavista",
+		"Municipio":"Villanueva, Zacatecas"
+	},
+	99570{
+		"Colonia":"Las Cumbres",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99570{
+		"Colonia":"Solidaridad",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99570{
+		"Colonia":"El Cuidado",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99570{
+		"Colonia":"El Salitre",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99570{
+		"Colonia":"Tepetongo",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99570{
+		"Colonia":"Víboras",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99570{
+		"Colonia":"América",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99570{
+		"Colonia":"Chihuahua",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99580{
+		"Colonia":"Juanchorrey",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99581{
+		"Colonia":"Aparicios",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99581{
+		"Colonia":"Buenavista",
+		"Municipio":"Tepetongo, Zacatecas"
+	},
+	99590{
+		"Colonia":"El Plateado de Joaquín Amaro",
+		"Municipio":"El Plateado de Joaquín Amaro, Zacatecas"
+	},
+	99592{
+		"Colonia":"Antonio R. Vela (San Lorenzo)",
+		"Municipio":"El Plateado de Joaquín Amaro, Zacatecas"
+	},
+	99593{
+		"Colonia":"San Antonio de la Calera (La Calera)",
+		"Municipio":"El Plateado de Joaquín Amaro, Zacatecas"
+	},
+	99600{
+		"Colonia":"Jalpa Centro",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99600{
+		"Colonia":"Sagrado Corazón",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99600{
+		"Colonia":"El Rosario",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99602{
+		"Colonia":"Mesa del Santo",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99602{
+		"Colonia":"Lindavista",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99603{
+		"Colonia":"Juárez",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99603{
+		"Colonia":"San Antonio",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99603{
+		"Colonia":"Parque La Mezquitera",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99603{
+		"Colonia":"De La Cruz",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99605{
+		"Colonia":"Del Sol",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99605{
+		"Colonia":"SARH",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99606{
+		"Colonia":"Del Carmen",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99606{
+		"Colonia":"Quinta Chilla",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99606{
+		"Colonia":"Tia Rita",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99606{
+		"Colonia":"Jacarandas",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99606{
+		"Colonia":"Hidalgo",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99607{
+		"Colonia":"Arroyo Blanco",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99607{
+		"Colonia":"Reforma",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99607{
+		"Colonia":"Caxcán",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99608{
+		"Colonia":"Lomas del Valle",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99608{
+		"Colonia":"Revolución",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99608{
+		"Colonia":"FOVISSSTE",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99608{
+		"Colonia":"Loma Arroyo Blanco",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99608{
+		"Colonia":"Morelos",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"Jardines de San José",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"Lomas de Chapultepec",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"Magisterial",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"Toma de Zacatecas",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"La Palma",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"Rincón de Guayabitos",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"Loma de San Antonio",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"SARH",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"Obrera",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99609{
+		"Colonia":"Guerrero",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99620{
+		"Colonia":"Guadalupe Victoria (La Villita)",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99623{
+		"Colonia":"Los Santiagos",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99624{
+		"Colonia":"El Rodeo",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99626{
+		"Colonia":"La Pitaya",
+		"Municipio":"Jalpa, Zacatecas"
+	},
+	99630{
+		"Colonia":"Arboledas",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Lomas de Solidaridad",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"La Capilla",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Monasterios",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Del Parque",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Cosalima (San José de Cosalima)",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"El Jaralillo",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Huiscolco",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"San Luis de Custique",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Tabasco Centro",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Tenanguillo",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Magisterial",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"El Refugio",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Secundaria",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Barrio San Nicolás",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Linda Vista",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Balconcitos",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99630{
+		"Colonia":"Barrio San Jose",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99644{
+		"Colonia":"San Francisco",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99650{
+		"Colonia":"Santiago el Chique (El Chique)",
+		"Municipio":"Tabasco, Zacatecas"
+	},
+	99670{
+		"Colonia":"Huanusco",
+		"Municipio":"Huanusco, Zacatecas"
+	},
+	99670{
+		"Colonia":"La Luz",
+		"Municipio":"Huanusco, Zacatecas"
+	},
+	99670{
+		"Colonia":"Lindavista",
+		"Municipio":"Huanusco, Zacatecas"
+	},
+	99700{
+		"Colonia":"Sauces",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Alto",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Vista Hermosa",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"San Felipe",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"San Francisco",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Veracruz",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"San José",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"El Obispo",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"La Corona",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Arboledas San Isidro",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Los Guapos",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Los Ramos",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Tlaltenango de Sanchez Román",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Las Goteras",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Buena Vista",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Arboledas",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Brisas del Río",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Tabachines",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Lomas del Country",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Independencia",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Las Conchas",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Lomas del Calvario",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Morones",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Militar",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Valle Verde",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Las Lomitas",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"San Pascual",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Las Moritas",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Hacienda Real",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"La Haciendita",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Santo Santiago",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99700{
+		"Colonia":"Lomas de Caxcanes",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99703{
+		"Colonia":"Santo Niño (La Sauceda)",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99704{
+		"Colonia":"La Palma",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99705{
+		"Colonia":"Salazares",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99707{
+		"Colonia":"Cicacalco",
+		"Municipio":"Tlaltenango de Sánchez Román, Zacatecas"
+	},
+	99720{
+		"Colonia":"Momax",
+		"Municipio":"Momax, Zacatecas"
+	},
+	99720{
+		"Colonia":"La Esperanza",
+		"Municipio":"Momax, Zacatecas"
+	},
+	99730{
+		"Colonia":"Los Pinos",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99730{
+		"Colonia":"Atolinga",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99733{
+		"Colonia":"Salisflor",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99733{
+		"Colonia":"Cerrito Pelón",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99733{
+		"Colonia":"Talpa",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99733{
+		"Colonia":"Terreros",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99733{
+		"Colonia":"Juantón",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99733{
+		"Colonia":"Covarrubias",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99734{
+		"Colonia":"Tapias Grandes",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99734{
+		"Colonia":"Los Velas",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99734{
+		"Colonia":"Charcuelos",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99734{
+		"Colonia":"Acatepulco",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99734{
+		"Colonia":"El Durazno",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99734{
+		"Colonia":"Laguna Grande",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99735{
+		"Colonia":"La Ciénega",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99735{
+		"Colonia":"Villa Hidalgo",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99735{
+		"Colonia":"La Estancia",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99736{
+		"Colonia":"Los Adobes",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99736{
+		"Colonia":"Los Cerritos",
+		"Municipio":"Atolinga, Zacatecas"
+	},
+	99750{
+		"Colonia":"Las Cumbres",
+		"Municipio":"Tepechitlán, Zacatecas"
+	},
+	99750{
+		"Colonia":"Tepechitlan",
+		"Municipio":"Tepechitlán, Zacatecas"
+	},
+	99750{
+		"Colonia":"Magisterial",
+		"Municipio":"Tepechitlán, Zacatecas"
+	},
+	99750{
+		"Colonia":"El Terrero",
+		"Municipio":"Tepechitlán, Zacatecas"
+	},
+	99750{
+		"Colonia":"La Cumbrita",
+		"Municipio":"Tepechitlán, Zacatecas"
+	},
+	99753{
+		"Colonia":"Las Pilas",
+		"Municipio":"Tepechitlán, Zacatecas"
+	},
+	99754{
+		"Colonia":"Talesteipa",
+		"Municipio":"Tepechitlán, Zacatecas"
+	},
+	99755{
+		"Colonia":"Ojuelos",
+		"Municipio":"Tepechitlán, Zacatecas"
+	},
+	99760{
+		"Colonia":"Santiago Nexcaltitán",
+		"Municipio":"Tepechitlán, Zacatecas"
+	},
+	99770{
+		"Colonia":"San Pedro Ocotlán",
+		"Municipio":"Tepechitlán, Zacatecas"
+	},
+	99780{
+		"Colonia":"Tonilco",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99780{
+		"Colonia":"El Durazno",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99780{
+		"Colonia":"Los Mirasoles",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99780{
+		"Colonia":"Florencia de Benito Juárez",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99783{
+		"Colonia":"Llano Grande",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99784{
+		"Colonia":"Las Tablas",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99784{
+		"Colonia":"Los Campos",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99785{
+		"Colonia":"Potrerillos",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99786{
+		"Colonia":"La Laguna",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99786{
+		"Colonia":"Tecolotes",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99786{
+		"Colonia":"San Lucas Tepetitlán",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99786{
+		"Colonia":"Cuevas Chicas (Las Cuevas Chicas)",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99790{
+		"Colonia":"Mesa de Rayos",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99790{
+		"Colonia":"Mesa de Arellanos",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99790{
+		"Colonia":"Los Charcos",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99790{
+		"Colonia":"Los Sauces",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99794{
+		"Colonia":"Las Cruces",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99794{
+		"Colonia":"Mesa de Núñez",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99794{
+		"Colonia":"Los Cedros",
+		"Municipio":"Benito Juárez, Zacatecas"
+	},
+	99800{
+		"Colonia":"Teúl de González Ortega",
+		"Municipio":"Teúl de González Ortega, Zacatecas"
+	},
+	99800{
+		"Colonia":"La Esperanza",
+		"Municipio":"Teúl de González Ortega, Zacatecas"
+	},
+	99800{
+		"Colonia":"El Agave",
+		"Municipio":"Teúl de González Ortega, Zacatecas"
+	},
+	99800{
+		"Colonia":"Vallarta",
+		"Municipio":"Teúl de González Ortega, Zacatecas"
+	},
+	99805{
+		"Colonia":"La Lobera",
+		"Municipio":"Teúl de González Ortega, Zacatecas"
+	},
+	99806{
+		"Colonia":"Alamitos",
+		"Municipio":"Teúl de González Ortega, Zacatecas"
+	},
+	99810{
+		"Colonia":"Milpillas de Allende",
+		"Municipio":"Teúl de González Ortega, Zacatecas"
+	},
+	99814{
+		"Colonia":"Huitzila",
+		"Municipio":"Teúl de González Ortega, Zacatecas"
+	},
+	99820{
+		"Colonia":"El Santuario",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99820{
+		"Colonia":"Nueva Santa María",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99820{
+		"Colonia":"Santa Maria de la Paz",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99823{
+		"Colonia":"El Laurel",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99823{
+		"Colonia":"Los Rodriguez",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99824{
+		"Colonia":"El Pantano",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99824{
+		"Colonia":"El Zapotito",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99824{
+		"Colonia":"Hidalgo (el Picacho)",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99824{
+		"Colonia":"La Mesa Grande",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99825{
+		"Colonia":"Marines",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99825{
+		"Colonia":"El Soto",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99825{
+		"Colonia":"La Laguna",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99825{
+		"Colonia":"Santa Fe",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99825{
+		"Colonia":"San Rafael",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99826{
+		"Colonia":"El Saucito",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99826{
+		"Colonia":"El Arenal",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99826{
+		"Colonia":"San Miguel Tepetitlan",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99826{
+		"Colonia":"San Isidro",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99827{
+		"Colonia":"El Capulín",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99827{
+		"Colonia":"Los Cedros",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99827{
+		"Colonia":"Los Horcones",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99827{
+		"Colonia":"Hacienda Vieja",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99827{
+		"Colonia":"Las Tablas",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99828{
+		"Colonia":"El Guitarrero",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99828{
+		"Colonia":"Los Trigos (Mesa de los Trigos)",
+		"Municipio":"Santa María de la Paz, Zacatecas"
+	},
+	99830{
+		"Colonia":"García de la Cadena",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99833{
+		"Colonia":"Los Sauces",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99833{
+		"Colonia":"Las Huertitas",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99833{
+		"Colonia":"La Ceja",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99833{
+		"Colonia":"Los Horconcillos",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99834{
+		"Colonia":"Las Vueltas",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99834{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99840{
+		"Colonia":"El Barranco",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99840{
+		"Colonia":"El Tambor",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99843{
+		"Colonia":"Llano de las Palomas",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99843{
+		"Colonia":"La Tetilla",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99854{
+		"Colonia":"Las Higueras",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99854{
+		"Colonia":"Los Ciruelos",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99854{
+		"Colonia":"San Martín de las Peñas (San Martín de Arriba)",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99855{
+		"Colonia":"Espinazo del Diablo",
+		"Municipio":"Trinidad García de la Cadena, Zacatecas"
+	},
+	99860{
+		"Colonia":"Mezquital del Oro",
+		"Municipio":"Mezquital del Oro, Zacatecas"
+	},
+	99864{
+		"Colonia":"La Coronilla",
+		"Municipio":"Mezquital del Oro, Zacatecas"
+	},
+	99865{
+		"Colonia":"El Malacate",
+		"Municipio":"Mezquital del Oro, Zacatecas"
+	},
+	99867{
+		"Colonia":"Los Gallos",
+		"Municipio":"Mezquital del Oro, Zacatecas"
+	},
+	99900{
+		"Colonia":"Nochistlan Centro",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99900{
+		"Colonia":"La Gloria",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99902{
+		"Colonia":"Santo Santiago",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99904{
+		"Colonia":"Loma Bonita",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99904{
+		"Colonia":"Arboledas",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99905{
+		"Colonia":"Lomas del Refugio",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99905{
+		"Colonia":"Arroyos Cuates",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99905{
+		"Colonia":"San Miguel Oriente",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99905{
+		"Colonia":"Gonzalez Sanchez",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99906{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99907{
+		"Colonia":"Bugambilias",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99908{
+		"Colonia":"Quita los Sauces",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99908{
+		"Colonia":"La Presa",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99908{
+		"Colonia":"La Quinta",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99909{
+		"Colonia":"Lindavista",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99909{
+		"Colonia":"SUTSEMOP",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99909{
+		"Colonia":"Los Arcos",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99910{
+		"Colonia":"Monte de Yánez",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99913{
+		"Colonia":"Las Huertas",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99913{
+		"Colonia":"Las Delicias",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99913{
+		"Colonia":"Toyahua de Abajo",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99913{
+		"Colonia":"Toyahua de Arriba",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99914{
+		"Colonia":"Daniel Camarena",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99915{
+		"Colonia":"Las Pilas",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99915{
+		"Colonia":"La Villita",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99917{
+		"Colonia":"Capellania",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99917{
+		"Colonia":"El Molino",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99917{
+		"Colonia":"Gabriel Lopez",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99918{
+		"Colonia":"Tlachichila",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99918{
+		"Colonia":"Casas Grandes",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99918{
+		"Colonia":"Fátima",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99919{
+		"Colonia":"La Estancia",
+		"Municipio":"Nochistlán de Mejía, Zacatecas"
+	},
+	99920{
+		"Colonia":"San Pedro Apulco",
+		"Municipio":"Apulco, Zacatecas"
+	},
+	99921{
+		"Colonia":"Agua Blanca",
+		"Municipio":"Apulco, Zacatecas"
+	},
+	99930{
+		"Colonia":"Tenayuca",
+		"Municipio":"Apulco, Zacatecas"
+	},
+	99940{
+		"Colonia":"Rancho Nuevo",
+		"Municipio":"Apozol, Zacatecas"
+	},
+	99940{
+		"Colonia":"Ojo de Agua",
+		"Municipio":"Apozol, Zacatecas"
+	},
+	99940{
+		"Colonia":"Apozol",
+		"Municipio":"Apozol, Zacatecas"
+	},
+	99940{
+		"Colonia":"De Abajo",
+		"Municipio":"Apozol, Zacatecas"
+	},
+	99949{
+		"Colonia":"San Miguel (Atotonilco)",
+		"Municipio":"Apozol, Zacatecas"
+	},
+	99949{
+		"Colonia":"Los Llamas (San Isidro)",
+		"Municipio":"Apozol, Zacatecas"
+	},
+	99950{
+		"Colonia":"Benito Juárez (El Rescoldo)",
+		"Municipio":"Apozol, Zacatecas"
+	},
+	99960{
+		"Colonia":"San José (San José de los Meléndez)",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99960{
+		"Colonia":"Contitlan",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99960{
+		"Colonia":"Guadalupe Victoria",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99960{
+		"Colonia":"Juchipila",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99960{
+		"Colonia":"Pueblo Viejo",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99960{
+		"Colonia":"San Sebastián",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99960{
+		"Colonia":"La Quinta",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99960{
+		"Colonia":"Cerro La Arena",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99964{
+		"Colonia":"Popular del Sol",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99969{
+		"Colonia":"Mezquitera Norte",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99969{
+		"Colonia":"Mezquitera Sur",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99970{
+		"Colonia":"El Remolino",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99974{
+		"Colonia":"El Ranchito",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99979{
+		"Colonia":"Amazochitl",
+		"Municipio":"Juchipila, Zacatecas"
+	},
+	99980{
+		"Colonia":"El Convento",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+	99980{
+		"Colonia":"Moyahua Centro",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+	99984{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+	99984{
+		"Colonia":"Santa Maria",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+	99987{
+		"Colonia":"El Parador",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+	99987{
+		"Colonia":"Bajío Blanco",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+	99990{
+		"Colonia":"Alameda Juárez",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+	99993{
+		"Colonia":"Cuxpala",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+	99994{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+	99998{
+		"Colonia":"Jesús Maria",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+	99998{
+		"Colonia":"Palmarejo",
+		"Municipio":"Moyahua de Estrada, Zacatecas"
+	},
+}

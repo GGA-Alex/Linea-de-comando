@@ -1,0 +1,4082 @@
+{
+	23000{
+		"Colonia":"Zona Central",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23007{
+		"Colonia":"Palacio de Gobierno del Estado de Baja California Sur",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23009{
+		"Colonia":"Oficina Federal de Hacienda",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23010{
+		"Colonia":"Ciudad del Cielo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23010{
+		"Colonia":"Colina del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23010{
+		"Colonia":"Lomas de Palmira",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23010{
+		"Colonia":"Agustín Olachea",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23017{
+		"Colonia":"Paseos del Cortes",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23018{
+		"Colonia":"Alfonso Sanchez Madariaga INFONAVIT",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23018{
+		"Colonia":"Pedregal del Cortes",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23018{
+		"Colonia":"Reforma",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23019{
+		"Colonia":"Policentro Palmira",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23019{
+		"Colonia":"Pedregal de la Paz",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23019{
+		"Colonia":"Punta Prieta",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23020{
+		"Colonia":"Colina de La Cruz",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23020{
+		"Colonia":"Esterito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23020{
+		"Colonia":"Ladrillera",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23020{
+		"Colonia":"Guerrero",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23020{
+		"Colonia":"Manuel Rivera Anaya",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23026{
+		"Colonia":"Antonio Navarro Rubio",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23026{
+		"Colonia":"Ampliación Antonio Navarro Rubio",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23029{
+		"Colonia":"Zona Militar",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23030{
+		"Colonia":"Francisco Villa",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23030{
+		"Colonia":"Guadalupe Victoria",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23030{
+		"Colonia":"Independencia",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23030{
+		"Colonia":"Lienzo Charro",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23030{
+		"Colonia":"Loma Linda",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23030{
+		"Colonia":"Magisterial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23030{
+		"Colonia":"San Pablo Guelatao",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23034{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23037{
+		"Colonia":"Jacinto Lopez",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23038{
+		"Colonia":"Loma Obrera",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23038{
+		"Colonia":"Valle de las Vinoramas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23038{
+		"Colonia":"Los Paredones",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23038{
+		"Colonia":"Ampliación Lázaro Cárdenas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23038{
+		"Colonia":"Villas de Guadalupe",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23038{
+		"Colonia":"Vista Hermosa",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23038{
+		"Colonia":"Laguna Azul",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23038{
+		"Colonia":"Ampliación Marquez de Leon",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23038{
+		"Colonia":"Marquez de Leon",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23039{
+		"Colonia":"La Escondida",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23040{
+		"Colonia":"Adolfo Ruiz Cortines",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23040{
+		"Colonia":"La Rinconada",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23040{
+		"Colonia":"Los Olivos",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23040{
+		"Colonia":"Perla",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23040{
+		"Colonia":"Petrolera",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23040{
+		"Colonia":"ISSSTE",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"Bella Vista",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"Benito Juárez Oriente",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"Roma",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"Rosaura Zapata",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"Tecnológico",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"Zona Industrial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"Misiones de Loreto",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"El Carrizal",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"Cruz de Piedra",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"Bella Vista Plus",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23050{
+		"Colonia":"El Campanario",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23052{
+		"Colonia":"20 de Noviembre",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23054{
+		"Colonia":"Calafia",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23054{
+		"Colonia":"José María Morelos",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23054{
+		"Colonia":"Cihuatán (Costa Azul)",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23055{
+		"Colonia":"Jardines del Sur",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23055{
+		"Colonia":"Ampliación Jardines del Sur",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23056{
+		"Colonia":"Flores Magón",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23056{
+		"Colonia":"Popular Indeco",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23060{
+		"Colonia":"California",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23060{
+		"Colonia":"Barrio El Manglito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23060{
+		"Colonia":"Inalámbrica",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23060{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23060{
+		"Colonia":"Su Casa",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23060{
+		"Colonia":"San Pablo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23060{
+		"Colonia":"Primero de Mayo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23060{
+		"Colonia":"Quinta Esmeralda",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23060{
+		"Colonia":"Lomas de Cataviña",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23070{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23070{
+		"Colonia":"INFONAVIT",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23070{
+		"Colonia":"Las Palmas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23070{
+		"Colonia":"Oro Blanco",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23070{
+		"Colonia":"Residencial las Garzas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23070{
+		"Colonia":"Jardines de la Paz",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23070{
+		"Colonia":"Sendero las Flores",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23070{
+		"Colonia":"Pescadores",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23070{
+		"Colonia":"Las Grullas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23070{
+		"Colonia":"Indeco",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"Balandra",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"Privada Las Garzas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"Revolución",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"Molino Harinero II",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"Molino Harinero",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"Borrego Cimarrón",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"3 de Mayo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"Agustín Arriola",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"3 de Mayo II",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"Miguel Canseco",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"Revolución II",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23075{
+		"Colonia":"Santa Mónica",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Burocrática las Garzas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Los Cactus",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Reforma",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"San Agustín",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Las Islas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Civilizadores I",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Civilizadores II",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Villa Santa María",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Popular Garza V",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Las Tunas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Residencial Santa Rita",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23076{
+		"Colonia":"Del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23077{
+		"Colonia":"17 de Octubre",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23078{
+		"Colonia":"Embotelladores 83",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23078{
+		"Colonia":"Libertad",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23078{
+		"Colonia":"Unidad Donceles 28",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23078{
+		"Colonia":"Los Ángeles Residencial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23078{
+		"Colonia":"Residencial Balandra",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23078{
+		"Colonia":"Clemente Guillen",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23079{
+		"Colonia":"Las Garzas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23079{
+		"Colonia":"Rio Blanco",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23079{
+		"Colonia":"Domingo Carballo Félix",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"8 de Octubre 1a Sección",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"Rinconada el Cardonal",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"Campestre el Mezquitito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"Los Bledales (La Ceibita)",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"28 de Octubre (Kilómetro 6)",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"1 de Mayo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"Mezquitito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"Universitario",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"Fuerza Aérea",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"Santa María",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"BANOBRAS",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"Sudcalifornia",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23080{
+		"Colonia":"Agua Escondida",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23083{
+		"Colonia":"Misiones II",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23083{
+		"Colonia":"San Isidro Coto Residencial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23083{
+		"Colonia":"Solidaridad Mezquitito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23083{
+		"Colonia":"San Fernando",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23083{
+		"Colonia":"Misiones",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"Las Californias",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"INVI El Mezquitito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"La Estancia",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"Vista Dorada",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"Puerta Real Residencial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"Ampliación El Progreso",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"El Progreso",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"Diana Laura",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"Los Tabachines",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"El Progreso",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"VIVAH El Progreso",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"La Cañada",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"El Dorado",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"Las Palmas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"El Palmar II",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"Península Sur",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"Terranova",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23084{
+		"Colonia":"Valle del Mezquite",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"La Cima Residencial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Los Bledales",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"El Calandrio",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Santa Fe",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"8 de Octubre 2a Sección",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Azul Marino",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"San Miguel",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Correcaminos",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Coromuel",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Los Álamos",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Altezza Residencial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Quintas San Patricio",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Altamira Residencial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Hispania Residencial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Antares Residencial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Altavela",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Mar de Cortez",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Paseos del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Leonardo Rodriguez",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Universidad Autónoma de Baja California Sur",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Calandrio",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"El Pescador",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Miramar",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Las Américas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Virreyes",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Villas de San Lorenzo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Paraíso del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Villas del Encanto",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"San Miguel II",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Arbolares",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"San Carlos III",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Brisas de las Olas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"Rinconada las Californias",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23085{
+		"Colonia":"San Rafael",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23086{
+		"Colonia":"Ángel Cesar Mendoza Aramburo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Del Mar Residencial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Perla del Golfo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Arcoiris II",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Arcoiris III",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Cola de la Ballena",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Real del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Vista Real",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Bella California",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Lomas del Cardón",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Campestre el Cardón",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Bella California III",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"La Fuente",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Arcoiris",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Ayuntamiento",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"El Camino Real",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Agua Clara",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Calafia",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"El Zacatal",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23088{
+		"Colonia":"Ampliación Ayuntamiento",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"Zona Antiguo Aeropuerto",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"El Palmar IV",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"La Pasión C",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"San José",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"El Maurel Residencial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"Jerico",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"Los Pinos",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"El Cardoncito II",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"INVI Chametla",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"Valle Dorado",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"Fuerza Aérea",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"Villas de La Paz",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"Parque Industrial",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"El Palmar I",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"Villas del Cortes",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"Olas Altas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"La Pitahaya",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"El Cardoncito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23089{
+		"Colonia":"Los Cardones",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"El Conchalito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Benito Juárez",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Campestre",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Jardines de La Paz",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Puesta del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"San José",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Casa Blanca",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Inalapa",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Bahia de la Paz",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Batallón de Infantería de Marina No. 4",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Solidaridad",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Los Girasoles",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Arcos del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Arcos del Sol I",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"La Esperanza",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"San Marino",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"La Esperanza 2",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"La Esperanza 3",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Cactus Harinera",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Tulipanes",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Capullo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Privadas del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Bugambilias",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"San Antonio El Zacatal",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Marina Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23090{
+		"Colonia":"Atardeceres",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23094{
+		"Colonia":"Sector La Selva Fidepaz",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23094{
+		"Colonia":"Las Flores",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23094{
+		"Colonia":"Ballenas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23094{
+		"Colonia":"Las Quintas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23094{
+		"Colonia":"Los Cántaros",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23094{
+		"Colonia":"Los Peces",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23095{
+		"Colonia":"La Sirena",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23095{
+		"Colonia":"Sector Santa Rita",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23095{
+		"Colonia":"Balandra Puesta del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23095{
+		"Colonia":"Nueva Puesta del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23096{
+		"Colonia":"Guaycura",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23096{
+		"Colonia":"Playa de Santa Rita",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23097{
+		"Colonia":"Los Pericues",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23097{
+		"Colonia":"Mineros (Perla ROFOMEX)",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23097{
+		"Colonia":"Misioneros",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23097{
+		"Colonia":"Ciudad del Recreo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23097{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23097{
+		"Colonia":"Villas del Mar",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23097{
+		"Colonia":"Plan Hidráulico",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23097{
+		"Colonia":"Residencial Marina Sur",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23098{
+		"Colonia":"CCC y Perla de La Paz",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23098{
+		"Colonia":"Garzas Agrícolas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23098{
+		"Colonia":"Las Garzas INFONAVIT",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23098{
+		"Colonia":"Sector Inalapa",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23098{
+		"Colonia":"Cácaros",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23098{
+		"Colonia":"María Conchita",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23098{
+		"Colonia":"Las Margaritas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23098{
+		"Colonia":"Azaleas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23099{
+		"Colonia":"Las Arboledas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23099{
+		"Colonia":"Residencial Loreto",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23099{
+		"Colonia":"Independencia",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23099{
+		"Colonia":"Estrella",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23099{
+		"Colonia":"Santa María",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23100{
+		"Colonia":"San Bartolo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23100{
+		"Colonia":"Las Golondrinas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23106{
+		"Colonia":"El Palo Verde",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23130{
+		"Colonia":"Santa Rita",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23133{
+		"Colonia":"El Agua de los Coyotes",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23134{
+		"Colonia":"Puerto Chale",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23140{
+		"Colonia":"Las Ánimas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23143{
+		"Colonia":"San Evaristo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23150{
+		"Colonia":"Las Pocitas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23150{
+		"Colonia":"El Refugio",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23154{
+		"Colonia":"La Cieneguita",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23170{
+		"Colonia":"San Hilario",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23174{
+		"Colonia":"San Juan de la Costa",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23200{
+		"Colonia":"San Antonio de la Cruz",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23203{
+		"Colonia":"Alfredo V Bonfil",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23205{
+		"Colonia":"El Centenario",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23205{
+		"Colonia":"Chametla",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23205{
+		"Colonia":"Puerta Azul",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23205{
+		"Colonia":"Ampliación Centenario",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23205{
+		"Colonia":"Comitán",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23205{
+		"Colonia":"Paraíso del Mar",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23206{
+		"Colonia":"La Paz (Gral. Manuel Márquez de León)",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23206{
+		"Colonia":"Agroexportadora del Noroeste",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23208{
+		"Colonia":"La Fortuna",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23208{
+		"Colonia":"Rosarito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23208{
+		"Colonia":"Puerto de Pichilingue",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23208{
+		"Colonia":"La Lagunita",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23209{
+		"Colonia":"Las Vinoramas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23210{
+		"Colonia":"El Triunfo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23210{
+		"Colonia":"San Antonio",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23213{
+		"Colonia":"El Encino",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23215{
+		"Colonia":"Agua Blanca",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23216{
+		"Colonia":"Las 3 Pachitas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23217{
+		"Colonia":"El Rosario 1",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23230{
+		"Colonia":"San Juan de los Planes",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23230{
+		"Colonia":"General Juan Domínguez Cota",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23232{
+		"Colonia":"San Fermín (La Cuesta)",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23232{
+		"Colonia":"El Sargento",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23232{
+		"Colonia":"La Ventana",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23234{
+		"Colonia":"Agua Amarga",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23234{
+		"Colonia":"San Ángel",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23234{
+		"Colonia":"San Pedro México",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23236{
+		"Colonia":"Ensenada de Muertos",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23240{
+		"Colonia":"San Pedro",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23243{
+		"Colonia":"El Ancón",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23244{
+		"Colonia":"Los Tamales",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23247{
+		"Colonia":"San Ramon",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23248{
+		"Colonia":"Los Divisaderos",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23248{
+		"Colonia":"Álvaro Obregón",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23248{
+		"Colonia":"La Trinchera",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23248{
+		"Colonia":"El Palmarito II",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23248{
+		"Colonia":"El Pozo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23249{
+		"Colonia":"Los Algodones",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23249{
+		"Colonia":"Santa Rita",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23250{
+		"Colonia":"El Carrizal",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23250{
+		"Colonia":"La Trinidad",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23250{
+		"Colonia":"Agrícola Santa Lidia",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23252{
+		"Colonia":"San Martin",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23252{
+		"Colonia":"El Cachanilla",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23257{
+		"Colonia":"Santa Martha",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23258{
+		"Colonia":"Melitón Albáñez Domínguez",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23280{
+		"Colonia":"Santa Rosa",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23283{
+		"Colonia":"Ley Federal de Reforma Agraria Dos",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23283{
+		"Colonia":"NCPE Conquista Agraria",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23283{
+		"Colonia":"Ley Federal de Reforma Agraria Uno",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23289{
+		"Colonia":"Buenavista",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"Centro",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"La Calera",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"El Coyote",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"Las Tunas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"La Poza",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"La Cahchora",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"El Vuelo del Águila",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"La Orcadita",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"Puesta del Sol",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"La Esperanza",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"San Vicente",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"San Juan",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"Las Quintas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"Las Flores",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"San Ignacio",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"El Rio",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"Brisas del Pacifico",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23300{
+		"Colonia":"El Pescadero",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23302{
+		"Colonia":"La Matanza",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23303{
+		"Colonia":"La Vinatería",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23303{
+		"Colonia":"El Cañón",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23304{
+		"Colonia":"El Salto",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23308{
+		"Colonia":"El Batequito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23311{
+		"Colonia":"El Valle Perdido",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23312{
+		"Colonia":"El Pintado",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23317{
+		"Colonia":"San Simón",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23320{
+		"Colonia":"Boca del Álamo",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23322{
+		"Colonia":"Santa Martha",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23328{
+		"Colonia":"San Bartolo Sur",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23329{
+		"Colonia":"Rincón de Leon",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23330{
+		"Colonia":"Los Barriles",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23330{
+		"Colonia":"Buenos Aires",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23333{
+		"Colonia":"El Coro",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23333{
+		"Colonia":"El Corral Falso",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23334{
+		"Colonia":"Agua de la Costa",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23350{
+		"Colonia":"El Sacrificio",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23354{
+		"Colonia":"El Cardonal",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23354{
+		"Colonia":"El Pescadero",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23354{
+		"Colonia":"Los Algodones",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23354{
+		"Colonia":"La Línea",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23354{
+		"Colonia":"Las Tinas",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23354{
+		"Colonia":"Punta Pescadero",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23360{
+		"Colonia":"El Refugio Sur",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23361{
+		"Colonia":"San Carlos",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23362{
+		"Colonia":"Punta Lobos",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23362{
+		"Colonia":"El Salado",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23362{
+		"Colonia":"San Martín",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23363{
+		"Colonia":"El Palmar",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23364{
+		"Colonia":"San Jacinto",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23365{
+		"Colonia":"San Pedro de La Soledad",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23366{
+		"Colonia":"El Barranco",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23366{
+		"Colonia":"La Cuesta",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23390{
+		"Colonia":"Plutarco Elias Calles",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23395{
+		"Colonia":"El Palmarito",
+		"Municipio":"La Paz, Baja California Sur"
+	},
+	23400{
+		"Colonia":"San José del Cabo Centro",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23403{
+		"Colonia":"El Encanto de la Laguna",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23403{
+		"Colonia":"Rincón de la Playa",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23403{
+		"Colonia":"La Playa",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23403{
+		"Colonia":"San Vicente",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23403{
+		"Colonia":"La Choya INFONAVIT",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Loma Encantada",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Palmilla",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Rancho Cerro Colorado",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Cabo Colorado",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Club de Golf FONATUR",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Zona Hotelera San José del Cabo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Cabo Real",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"La Joya de los Cabos",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Mykonos",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Coral Baja",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Mañanitas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"La Antigua",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23405{
+		"Colonia":"Vista Colorada",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23406{
+		"Colonia":"8 de Octubre",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23406{
+		"Colonia":"Club Campestre San José",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23406{
+		"Colonia":"Primero de Mayo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23406{
+		"Colonia":"5 de Febrero",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23406{
+		"Colonia":"Costa Azul",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23406{
+		"Colonia":"Gringos Hill",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23406{
+		"Colonia":"Lomas de La Jolla",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23406{
+		"Colonia":"Villas de La Joya",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23406{
+		"Colonia":"Cerro del Vigía",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23406{
+		"Colonia":"Terrazas Costa Azul",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23407{
+		"Colonia":"Rosarito",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23407{
+		"Colonia":"Animas Bajas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23407{
+		"Colonia":"Animas Altas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23407{
+		"Colonia":"Guaymitas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23407{
+		"Colonia":"Rinconada La Huerta",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23420{
+		"Colonia":"Invi Santa Anita",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23420{
+		"Colonia":"Real del Monte",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23420{
+		"Colonia":"Costa Dorada",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23420{
+		"Colonia":"Santa Anita",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23420{
+		"Colonia":"Aeropuerto",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23425{
+		"Colonia":"Santa Catarina",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23426{
+		"Colonia":"La Ballena",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23426{
+		"Colonia":"Puerto Nuevo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23426{
+		"Colonia":"Invi San José Viejo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23426{
+		"Colonia":"Loma Cruz",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23427{
+		"Colonia":"Monte Bello Condominio Plus",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23427{
+		"Colonia":"Ampliación Vista Hermosa",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23427{
+		"Colonia":"El Zacatal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23427{
+		"Colonia":"Vista Hermosa",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23427{
+		"Colonia":"Colinas San José",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23427{
+		"Colonia":"Villas de Cortez",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23428{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23429{
+		"Colonia":"San José del Cabo (Los Cabos)",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23434{
+		"Colonia":"Villa Bonita",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23434{
+		"Colonia":"San Carlos",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23434{
+		"Colonia":"Pénjamo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23434{
+		"Colonia":"Oasis",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23434{
+		"Colonia":"Ampliación Veredas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23434{
+		"Colonia":"Costa Dorada",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23435{
+		"Colonia":"INFONAVIT",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23435{
+		"Colonia":"Las Veredas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23435{
+		"Colonia":"FOVISSSTE las Veredas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23436{
+		"Colonia":"Buenos Aires",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23436{
+		"Colonia":"San Bernabe",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23437{
+		"Colonia":"El Limón",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23437{
+		"Colonia":"Las Dunas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23437{
+		"Colonia":"San José Viejo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23440{
+		"Colonia":"Jesús Castro Agundes",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23443{
+		"Colonia":"Mauricio Castro",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23443{
+		"Colonia":"Chula Vista",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23443{
+		"Colonia":"El Aguajito",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23444{
+		"Colonia":"Pablo L Martinez",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23444{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23444{
+		"Colonia":"Lomas de Rosarito",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23444{
+		"Colonia":"Monte Real Residencial",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23444{
+		"Colonia":"Colinas Plus",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23444{
+		"Colonia":"Country del Mar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23445{
+		"Colonia":"Lomas de Guaymitas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23450{
+		"Colonia":"Cabo San Lucas Centro",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23450{
+		"Colonia":"Plaza Bonita",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23450{
+		"Colonia":"Plaza Real",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23450{
+		"Colonia":"Plaza del Marlin",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23450{
+		"Colonia":"Plaza del Sol",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23450{
+		"Colonia":"Plaza Náutica",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23450{
+		"Colonia":"Plaza las Glorias",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23450{
+		"Colonia":"La Dársena",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23450{
+		"Colonia":"Modulo Turístico",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23453{
+		"Colonia":"El Medano",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23453{
+		"Colonia":"La Marina",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23453{
+		"Colonia":"Terrasol",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23453{
+		"Colonia":"El Pedregal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"La Noria",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Las Villas del Tezal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Luna del Tezal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Ventanas del Mar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Rancho Paraíso",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Cabo del Mar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Ventanas de Cabo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"El Tezal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Zona Hotelera",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Residencial La Cima",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Punta Arena",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Residencial Maranata",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Residencial San Luciano",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Cumbres del Tezal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Privanzas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"La Vista",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Vista Bahía",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Mediterránea",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Puerta del Mar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Vistana",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23454{
+		"Colonia":"Ventanas del Cortés",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23455{
+		"Colonia":"Punta Ballena",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23455{
+		"Colonia":"Las Residencias",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23455{
+		"Colonia":"Hacienda Encantada",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23455{
+		"Colonia":"Residencial Olamar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23455{
+		"Colonia":"San Antonio",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23455{
+		"Colonia":"Cabo Bello",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23455{
+		"Colonia":"Santa Carmela",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23455{
+		"Colonia":"Misiones del Cabo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23455{
+		"Colonia":"Residencial Cabo del Sol",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23455{
+		"Colonia":"Villa Serena",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Pueblo Bonito Montecristo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Pueblo Bonito Sunset",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Pueblo Bonito Palacio",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Estrella de Mar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Arco Iris",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Colinas de Cabo Baja",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Balcones",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Jazmines",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Acuario",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Bugambilias",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Bella Vista",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Lomas del Cabo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Miramar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Altos de Miramar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Rincón de Miramar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Buenos Aires",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"El Palmar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Paraíso",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Privada Perla",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Real de Miramar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23456{
+		"Colonia":"Quintas California",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23460{
+		"Colonia":"Zona Ejidal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23460{
+		"Colonia":"Arenal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23460{
+		"Colonia":"Ampliación Mariano Matamoros",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23460{
+		"Colonia":"Tabachines",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"Leonardo Gastélum Quinta Etapa",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"Paraíso del Sol",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"Aura Residencial",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"Real Unidad",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"El Caribe Bajo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"Lagunitas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"Mesa Colorada",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"Mesa Colorada II",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"Mesa Colorada III",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23462{
+		"Colonia":"Leonardo Rodríguez Gastélum",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23463{
+		"Colonia":"Cabo San Lucas Country Club",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Residencial San Jerónimo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Cabo Toscana",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Villa Neptuno",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Cresta del Mar",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Hermitage",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Punta Arena",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Residencial Ciruelos",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Vista de Cortés",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Terrazas las Fuentes",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Las Misiones",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Tamar Residencial",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Sierra Dorada",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Puerta de Hierro",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Residencial Puerta del Sol",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Vista Real",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Reyna Avalos",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Amalfi",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Casa Mexicana",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23467{
+		"Colonia":"Coto San Diego",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23468{
+		"Colonia":"Mariano Matamoros",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23468{
+		"Colonia":"INFONAVIT Viejo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23469{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23469{
+		"Colonia":"Coromuel",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23469{
+		"Colonia":"Ampliación Juárez",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23470{
+		"Colonia":"La Cruz",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23470{
+		"Colonia":"Ampliación 4 de Marzo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23470{
+		"Colonia":"Ejidal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23470{
+		"Colonia":"Ildefonso Green",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23470{
+		"Colonia":"Lienzo Charro Centro",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23470{
+		"Colonia":"Nueva Ejidal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23470{
+		"Colonia":"Libertad",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23472{
+		"Colonia":"4 de Marzo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23472{
+		"Colonia":"Obrera",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23472{
+		"Colonia":"Lomas del Faro Viejo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23472{
+		"Colonia":"Núcleo Agrario",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23472{
+		"Colonia":"Lomas Altas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23472{
+		"Colonia":"Magisterial",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Reforma",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Altamira",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Altamira Condominios Plus",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Agua Clara",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Santa Bárbara",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Cabo Hills Villas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Cerro de los Venados",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"El Tesoro Residencial",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Lomas del Pacifico",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Jacarandas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Hojazen",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Cerro de los Venados",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Auroras",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Brisas del Pacifico Codepa",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Brisas del Pacifico",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"INFONAVIT Nuevo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Los Cangrejos",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Vista Hermosa",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Gardenias",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Portales",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Casa Blanca",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23473{
+		"Colonia":"Terranova",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23474{
+		"Colonia":"Arcos del Sol",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23474{
+		"Colonia":"Jardines del Sol",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23474{
+		"Colonia":"Inova",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23474{
+		"Colonia":"Villas de La Joya",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23474{
+		"Colonia":"La Esperanza",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23475{
+		"Colonia":"Hemisferia",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Chulavista",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Cabo Fierro",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"El Progreso",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Lomas del Sol",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Tierra y Libertad",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Progreso",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Las Palmas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"El Caribe",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Residencial La Peña",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Magisterial Viva",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Las Palmas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Celeste Residencial",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Rosa Delia",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Misiones de Santa Fe",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23477{
+		"Colonia":"Lomas del Valle",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23478{
+		"Colonia":"Arcos del Sol II",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23500{
+		"Colonia":"Santa Bárbara",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23500{
+		"Colonia":"Milpillas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23500{
+		"Colonia":"Santiago",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23500{
+		"Colonia":"El Refugio",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23500{
+		"Colonia":"El Zacatal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23500{
+		"Colonia":"Matancitas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23501{
+		"Colonia":"El Epazote",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23503{
+		"Colonia":"Rosarito",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23510{
+		"Colonia":"Agua Caliente",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23520{
+		"Colonia":"Boca de la Sierra",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23520{
+		"Colonia":"Miraflores",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23522{
+		"Colonia":"La Palmilla",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23522{
+		"Colonia":"Las Casitas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23530{
+		"Colonia":"El Ranchito",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23530{
+		"Colonia":"Caduaño",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23533{
+		"Colonia":"Los Frailes",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23535{
+		"Colonia":"Palo Escopeta",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23560{
+		"Colonia":"Las Cuevas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23560{
+		"Colonia":"El Campamento",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23563{
+		"Colonia":"El Leonero",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23567{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23570{
+		"Colonia":"Don Martín",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23570{
+		"Colonia":"La Ribera",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23574{
+		"Colonia":"Cabo Pulmo",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23575{
+		"Colonia":"Las Barrancas",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23580{
+		"Colonia":"Buenavista",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23581{
+		"Colonia":"La Ballena",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23581{
+		"Colonia":"San Felipe",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23586{
+		"Colonia":"El Ranchito",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23590{
+		"Colonia":"La Candelaria",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23593{
+		"Colonia":"Boca del Saucito",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23593{
+		"Colonia":"El Sauzal",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23597{
+		"Colonia":"Buenavista",
+		"Municipio":"Los Cabos, Baja California Sur"
+	},
+	23600{
+		"Colonia":"Zona Centro",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23600{
+		"Colonia":"Cerro Catedral",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23600{
+		"Colonia":"INVI Olivos Juan Domínguez Cota",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23610{
+		"Colonia":"Las Palmas",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23620{
+		"Colonia":"Vargas",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23620{
+		"Colonia":"Longoria",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23620{
+		"Colonia":"Renero",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23620{
+		"Colonia":"Cecilia Madrid",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23630{
+		"Colonia":"Los Olivos",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23640{
+		"Colonia":"El Paraíso",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23640{
+		"Colonia":"FOVISSSTE Olimpico",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23640{
+		"Colonia":"Olímpico",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23641{
+		"Colonia":"Conjunto Urbano del Norte",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23641{
+		"Colonia":"Ampliación 4 de marzo",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23641{
+		"Colonia":"4 de Marzo",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23650{
+		"Colonia":"INVI Hacienda",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23650{
+		"Colonia":"Lienzo Charro",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23653{
+		"Colonia":"Militar",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23658{
+		"Colonia":"Residencial La Hacienda",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23660{
+		"Colonia":"Guaycura",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23670{
+		"Colonia":"El Crucero",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23670{
+		"Colonia":"Los Pinos",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23670{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23676{
+		"Colonia":"Pioneros II",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23676{
+		"Colonia":"FOVISSSTE Pioneros",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23676{
+		"Colonia":"Pioneros",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23677{
+		"Colonia":"Constitución",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23677{
+		"Colonia":"Conjunto Urbano del Sur",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23677{
+		"Colonia":"La Esperanza",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23678{
+		"Colonia":"San Isidro Labrador",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23678{
+		"Colonia":"Plano Oriente",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23680{
+		"Colonia":"Valle Paraíso",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23680{
+		"Colonia":"FOVISSSTE Real",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23680{
+		"Colonia":"Real",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23683{
+		"Colonia":"Paseos de Don Pelayo",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23690{
+		"Colonia":"INFONAVIT San Martín",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23690{
+		"Colonia":"Batequitos",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23695{
+		"Colonia":"Roberto Esperon",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23696{
+		"Colonia":"Los Romeros",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23696{
+		"Colonia":"El Agricultor INDECO",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23697{
+		"Colonia":"Brisas del Valle",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23697{
+		"Colonia":"Magisterial",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23700{
+		"Colonia":"Ciudad Insurgentes",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23700{
+		"Colonia":"Fernando de la Toba (Los Algarrobos)",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23708{
+		"Colonia":"Rio Mayo",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23710{
+		"Colonia":"Puerto Adolfo López Mateos",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23715{
+		"Colonia":"Villa Ignacio Zaragoza",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23720{
+		"Colonia":"Villa Hidalgo",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23721{
+		"Colonia":"San Juan de Matancitas",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23721{
+		"Colonia":"Ramaditas",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23723{
+		"Colonia":"Josefa Ortiz de Domínguez",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23730{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23734{
+		"Colonia":"Teotlan",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23736{
+		"Colonia":"Palo Bola",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23737{
+		"Colonia":"El Vallecito",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23739{
+		"Colonia":"Navojoa 1",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23740{
+		"Colonia":"Puerto San Carlos",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23743{
+		"Colonia":"El Ranchito",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23748{
+		"Colonia":"Puerto Magdalena",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23749{
+		"Colonia":"Puerto Alcatraz",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23750{
+		"Colonia":"Puerto Cortes",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23760{
+		"Colonia":"Ley Federal de Aguas No 5",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23765{
+		"Colonia":"Buenos Aires",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23765{
+		"Colonia":"San Luis Gonzaga",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23766{
+		"Colonia":"Tepentu",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23767{
+		"Colonia":"Lagunita",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23770{
+		"Colonia":"Villa Morelos",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23771{
+		"Colonia":"El Vergel",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23774{
+		"Colonia":"Las Delicias",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23775{
+		"Colonia":"Yaquis Lote 13",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23780{
+		"Colonia":"Ley Federal de Aguas No 4",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23789{
+		"Colonia":"Santa Teresa",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23790{
+		"Colonia":"Ley Federal de Aguas No 3",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23800{
+		"Colonia":"San Miguel de Comondú",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23805{
+		"Colonia":"San Pedro",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23810{
+		"Colonia":"San Isidro",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23812{
+		"Colonia":"La Yaqui",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23812{
+		"Colonia":"San Juanico",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23813{
+		"Colonia":"Paso Hondo",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23813{
+		"Colonia":"Purísima Vieja",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23818{
+		"Colonia":"La Bocana de San Gregorio",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23820{
+		"Colonia":"Carambuche",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23820{
+		"Colonia":"La Purísima",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23820{
+		"Colonia":"El Pabellón",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23820{
+		"Colonia":"San José de Comondú",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23824{
+		"Colonia":"Ojo de Agua",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23830{
+		"Colonia":"La Poza Grande",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23830{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23834{
+		"Colonia":"El Chicharrón",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23834{
+		"Colonia":"Las Barrancas",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23837{
+		"Colonia":"San Venancio",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23838{
+		"Colonia":"Canelo",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23840{
+		"Colonia":"María Auxiliadora",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23844{
+		"Colonia":"Santo Domingo",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23844{
+		"Colonia":"Jalisco",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23845{
+		"Colonia":"El Palo Alto",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23860{
+		"Colonia":"Ley Federal de Aguas No 2",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23870{
+		"Colonia":"Ley Federal de Aguas Número Uno",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23873{
+		"Colonia":"San Ignacio",
+		"Municipio":"Comondú, Baja California Sur"
+	},
+	23880{
+		"Colonia":"INVI",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23880{
+		"Colonia":"Centro",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23880{
+		"Colonia":"Zaragoza",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23880{
+		"Colonia":"Obrera",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23880{
+		"Colonia":"El Jaral",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23880{
+		"Colonia":"INFONAVIT",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23880{
+		"Colonia":"Miramar",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23880{
+		"Colonia":"Misioneros",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23880{
+		"Colonia":"Exploradores",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23880{
+		"Colonia":"Nuevo Loreto",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23883{
+		"Colonia":"Las Parras",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23883{
+		"Colonia":"Pent House",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23883{
+		"Colonia":"Lomas Altas",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23883{
+		"Colonia":"Lomas Lindas",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23883{
+		"Colonia":"El Pozo de los Murillo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23884{
+		"Colonia":"Las Brisas",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23884{
+		"Colonia":"Arroyo de Leon",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23884{
+		"Colonia":"La Morena",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23884{
+		"Colonia":"El Troquero",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23884{
+		"Colonia":"San Bruno",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23884{
+		"Colonia":"El Cardonal",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23884{
+		"Colonia":"Hacienda Guadalupe",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23884{
+		"Colonia":"Pozo Redondo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23884{
+		"Colonia":"Las Bebelamas",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23884{
+		"Colonia":"Monte Cabello",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23885{
+		"Colonia":"San Vicente",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23886{
+		"Colonia":"Naocojoa",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23887{
+		"Colonia":"Cadejé",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23887{
+		"Colonia":"Canipole",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23887{
+		"Colonia":"Nopolo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23887{
+		"Colonia":"El Manglito",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23887{
+		"Colonia":"San Nicolás",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"San Juan Bautista Londo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"El Imposible",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"Rancho el 47",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"Lote 2a",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"Lote 3a",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"La Giganta",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"El Cimarrón",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"Los Búfalos",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"Lote 11",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"San Pedro",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"Lote 67",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23888{
+		"Colonia":"Pénjamo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23889{
+		"Colonia":"Loreto (Loreto)",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23890{
+		"Colonia":"Rancho Viejo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23890{
+		"Colonia":"Santa Isabel",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23890{
+		"Colonia":"San Guillermo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23890{
+		"Colonia":"Chula Vista",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23890{
+		"Colonia":"La Calera",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"Santo Domingo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"El Peloteado",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"San Javier",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"El Segundo Paso",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"La Fortuna",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"Los Dolores",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"El Pasito",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"La Presa",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"Los Corrales",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"Rancho Nuevo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"Agua Escondida",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"El Púa",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"El Belén",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"Poza Gonzalez",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"El Aguaje",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"La Higuera",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"Agua Bonita",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23893{
+		"Colonia":"San Angel",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23894{
+		"Colonia":"Puerto Escondido",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23894{
+		"Colonia":"Incha",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23894{
+		"Colonia":"El Saucito",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23894{
+		"Colonia":"Juncalito",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"Ligui",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"El Palo Blanco",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"El Edén",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"Poza Teresa",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"Vuelta del Cerro",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"El Mezquite",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"San Lucas",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"La Angostura",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"Santa Inés",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"El Palmarcito",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"La Altagracia",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23895{
+		"Colonia":"Ensenada Blanca",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"El Huatamote",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"La Engañosa",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"Los Corrales",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"El Divisadero",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"El Carrizalito",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"Poza Verde",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"La Cruz",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"San Enrique",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"Poza Seca",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"Agua Amarga",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"Los Sestiaderos",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"Paso de Santa Cruz",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"La Presa",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"Rancho Viejo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"La Última Agua",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23896{
+		"Colonia":"San Cosme",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23897{
+		"Colonia":"Puerto Agua Verde",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23897{
+		"Colonia":"San Antonio de La Higuera",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23897{
+		"Colonia":"Agua Verde",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23897{
+		"Colonia":"El Tulillo",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23898{
+		"Colonia":"San Carlos",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23898{
+		"Colonia":"Santa Martha",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23898{
+		"Colonia":"El Carrizalito",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23898{
+		"Colonia":"Timbabichi",
+		"Municipio":"Loreto, Baja California Sur"
+	},
+	23900{
+		"Colonia":"La Paloma",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"Heroica Mulegé Centro",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"El Rebaje",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"El Ranchito",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"La Calera",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"Punta de Agua",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"Cananea",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"Ranchería",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"Loma Azul",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"El Cacheno",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"Benavides",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23900{
+		"Colonia":"Tinajitas",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23902{
+		"Colonia":"El Potrero",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23903{
+		"Colonia":"El Coyote",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23904{
+		"Colonia":"San Nicolás",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23910{
+		"Colonia":"Isla San Marcos",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23910{
+		"Colonia":"San Bruno",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23911{
+		"Colonia":"San José de Magdalena",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23911{
+		"Colonia":"San Lucas",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23911{
+		"Colonia":"Santa Águeda",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23912{
+		"Colonia":"Palo Verde",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23912{
+		"Colonia":"Punta Chivato",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23912{
+		"Colonia":"Las Cuevitas",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23912{
+		"Colonia":"El Perdido",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23912{
+		"Colonia":"San Isidro",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23913{
+		"Colonia":"Santa Isabel del Boleo",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23913{
+		"Colonia":"San Sebastián",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23914{
+		"Colonia":"San Juan",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23914{
+		"Colonia":"Las Tunas",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23915{
+		"Colonia":"El Dátil",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23915{
+		"Colonia":"El Cardón",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23915{
+		"Colonia":"Luis Echeverría",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23915{
+		"Colonia":"La Angostura",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23916{
+		"Colonia":"El Dátil",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23916{
+		"Colonia":"San Bartolo",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23917{
+		"Colonia":"Jesús María",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Los Frailes",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Unidad Deportiva",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"CADEPO",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Reforma",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Centro",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Mesa México",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Hidalgo",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Nueva Santa Rosalía",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Costa Azul",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Bellavista",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Canastilla",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Mesa Francia",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"La Villita",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Magisterial",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Ranchería",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Canadá",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"Nivel 50",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23920{
+		"Colonia":"El Retiro",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23921{
+		"Colonia":"Santa María",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23922{
+		"Colonia":"El Ranchito",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23923{
+		"Colonia":"Licenciado Alfredo Vladimir Bonfil",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23924{
+		"Colonia":"San Lino",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23930{
+		"Colonia":"El Rincón",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23930{
+		"Colonia":"La Correa",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23930{
+		"Colonia":"Rastro",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23930{
+		"Colonia":"San Ignacio Centro",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23930{
+		"Colonia":"Guamúchil",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23930{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23934{
+		"Colonia":"Los Mártires",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23934{
+		"Colonia":"El Porvenir",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23934{
+		"Colonia":"Guadalupe",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23934{
+		"Colonia":"San Benito",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23935{
+		"Colonia":"San Francisco",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23935{
+		"Colonia":"Don Juanito",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23935{
+		"Colonia":"Gustavo Díaz Ordaz",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23935{
+		"Colonia":"Las Margaritas",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23936{
+		"Colonia":"El Caracol",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23936{
+		"Colonia":"Nueva Esperanza",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23936{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23936{
+		"Colonia":"El Silencio",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23938{
+		"Colonia":"Unión y Progreso",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23938{
+		"Colonia":"Nueva Oaxaca",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23938{
+		"Colonia":"Leonel Cota Montaño",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23938{
+		"Colonia":"Villa Alberto Alvarado Aramburo",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23938{
+		"Colonia":"Magisterial",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23938{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23938{
+		"Colonia":"Triky",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23938{
+		"Colonia":"Elizabeth",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23940{
+		"Colonia":"Fundo Legal",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23940{
+		"Colonia":"El Dominó",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23940{
+		"Colonia":"Guerrero Negro Centro",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23940{
+		"Colonia":"Loma Bonita",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23940{
+		"Colonia":"Solidaridad",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23940{
+		"Colonia":"Libertad",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23940{
+		"Colonia":"Profesor Marcelo Rubio",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23940{
+		"Colonia":"INFONAVIT",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23940{
+		"Colonia":"FOVISSSTE",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23940{
+		"Colonia":"Estado 30",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23944{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23944{
+		"Colonia":"Laguneros",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23948{
+		"Colonia":"Gustavo Diaz Ordaz II Etapa (rancho La Joya)",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23949{
+		"Colonia":"Santo Tomás",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23949{
+		"Colonia":"Francisco J Mújica",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Centro",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Deportiva",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Lomas de Guadalupe",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"1 de Septiembre",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Pescadores",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Marina Nacional",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Álvaro Obregón",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"José María Morelos",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Loma Bonita",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"La Purísima",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Auditorio",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Márque de León",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Angeles Mendoza",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"INFONAVIT",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23950{
+		"Colonia":"Bahía Tortugas",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23951{
+		"Colonia":"Isla Natividad",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23952{
+		"Colonia":"Punta Eugenia",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23959{
+		"Colonia":"San José de Castro",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23960{
+		"Colonia":"Bahía Asunción",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23969{
+		"Colonia":"San Roque",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23970{
+		"Colonia":"Punta Abreojos",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23971{
+		"Colonia":"Punta Prieta",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23972{
+		"Colonia":"San Hipólito Bahía",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23973{
+		"Colonia":"Estero de la Bocana",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23980{
+		"Colonia":"Guadalupe",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23983{
+		"Colonia":"Guillermo Prieto",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23988{
+		"Colonia":"San Francisco de la Sierra",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23990{
+		"Colonia":"El Carricito",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+	23997{
+		"Colonia":"El Mezquital 1",
+		"Municipio":"Mulegé, Baja California Sur"
+	},
+}

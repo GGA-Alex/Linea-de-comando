@@ -1,0 +1,4658 @@
+{
+	77000{
+		"Colonia":"Chetumal Centro",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77010{
+		"Colonia":"Adolfo López Mateos",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77010{
+		"Colonia":"Francisco J Mújica INFONAVIT",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77010{
+		"Colonia":"Naval",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77010{
+		"Colonia":"Bugambilias",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77010{
+		"Colonia":"Del Mar I y II (Infonavit)",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77010{
+		"Colonia":"Isabel Tenorio",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77012{
+		"Colonia":"Venustiano Carranza (Casitas)",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77013{
+		"Colonia":"David G Gutiérrez Ruiz",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77014{
+		"Colonia":"Pacto Obrero Campesino",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77014{
+		"Colonia":"Infonavit Santa María",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77014{
+		"Colonia":"Centenario",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77014{
+		"Colonia":"Flamingos",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77014{
+		"Colonia":"Villas Kinichna",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77014{
+		"Colonia":"Unidad Antorchista",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77014{
+		"Colonia":"Oxtankah",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77014{
+		"Colonia":"Andara",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77014{
+		"Colonia":"Los Arcos",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77015{
+		"Colonia":"Constituyentes",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77015{
+		"Colonia":"Industrial",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77016{
+		"Colonia":"Leona Vicario",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77016{
+		"Colonia":"Martínez Ross",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77017{
+		"Colonia":"Ley Federal de Agua",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77017{
+		"Colonia":"SAHOP",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77018{
+		"Colonia":"5 de Abril",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77018{
+		"Colonia":"Reforma",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77018{
+		"Colonia":"Avancemos Juntos",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77019{
+		"Colonia":"Del Bosque",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77020{
+		"Colonia":"Gonzalo Guerrero",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77020{
+		"Colonia":"Rafael E Melgar FOVISSSTE",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77023{
+		"Colonia":"Infonavit Enrique Ramírez y Ramírez",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77023{
+		"Colonia":"Miraflores II",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77024{
+		"Colonia":"Cedros",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77024{
+		"Colonia":"Fovissste (II Etapa)",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77025{
+		"Colonia":"Forjadores de Quintana Roo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77025{
+		"Colonia":"Guadalupe Victoria",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77025{
+		"Colonia":"Residencial Marsella",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77025{
+		"Colonia":"Los Almendros",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77025{
+		"Colonia":"Sutage INFONAVIT",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77025{
+		"Colonia":"Milenio",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77026{
+		"Colonia":"Jardines",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77026{
+		"Colonia":"Tumben Cuxtal",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77026{
+		"Colonia":"Fovissste  IV Etapa",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77026{
+		"Colonia":"El Sol",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77027{
+		"Colonia":"Miraflores",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77028{
+		"Colonia":"8 de Octubre",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77028{
+		"Colonia":"Plutarco Elías Calles",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77029{
+		"Colonia":"Lagunitas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77029{
+		"Colonia":"Los Monos",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77029{
+		"Colonia":"Bosques del Lago",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77030{
+		"Colonia":"Campestre",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77034{
+		"Colonia":"Framboyanes",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77035{
+		"Colonia":"Italia",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77036{
+		"Colonia":"Josefa Ortiz de Domínguez",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77037{
+		"Colonia":"Aserradero",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77037{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77037{
+		"Colonia":"Taxistas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77038{
+		"Colonia":"20 de Noviembre",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77039{
+		"Colonia":"Magisterial",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77039{
+		"Colonia":"Residencial Mediterráneo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77040{
+		"Colonia":"Santa Isabel",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77041{
+		"Colonia":"CERESO Chetumal",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77048{
+		"Colonia":"Chetumal (Internacional de Chetumal)",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77049{
+		"Colonia":"Estatuto Jurídico (FOVISSSTE 5a Etapa)",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77050{
+		"Colonia":"Aeropuerto",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77050{
+		"Colonia":"Infonavit Álvaro Obregón",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77050{
+		"Colonia":"Infonavit Hermanos Flores Magón",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77050{
+		"Colonia":"Fovissste (I Etapa)",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77050{
+		"Colonia":"Cascadas II",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77050{
+		"Colonia":"Cascada I",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77050{
+		"Colonia":"Residencial la Herradura",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77053{
+		"Colonia":"Lomas del Caribe",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77059{
+		"Colonia":"Infonavit Villas Chetumal",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77060{
+		"Colonia":"Militar",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77070{
+		"Colonia":"Infonavit Aarón Merino Fernández",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77079{
+		"Colonia":"Bahía",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77079{
+		"Colonia":"Fovissste VI Etapa (Tampico)",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77079{
+		"Colonia":"Zona de Granjas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77079{
+		"Colonia":"Las Brisas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77079{
+		"Colonia":"Residencial Caribe",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77080{
+		"Colonia":"Infonavit Fidel Velázquez",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77082{
+		"Colonia":"Jardines de Payo Obispo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77082{
+		"Colonia":"Kilómetro 5",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77083{
+		"Colonia":"Nuevo Progreso",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77083{
+		"Colonia":"Tamalcab",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77083{
+		"Colonia":"Payo Obispo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77084{
+		"Colonia":"Infonavit Emancipación",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77084{
+		"Colonia":"Payo Obispo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77084{
+		"Colonia":"Maya Real",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77085{
+		"Colonia":"Hacienda Chetumal",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Proterritorio",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"El Encanto",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Andrés Quintana Roo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Solidaridad",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"La Esperanza",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Residencial del Sol",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Félix Gonzalez Canto",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Sian Kaan II",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Residencial Constituyentes",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Espíritu Santo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Residencial Bosque Real",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Comité Proterritorio",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Las Arboledas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Residencial Chetumal",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Caribe",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Territorio Federal de Quintana Roo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Infonavit 17 de Octubre",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Nueva Generación",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Las Américas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Residencial Arboledas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77086{
+		"Colonia":"Bicentenario",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77087{
+		"Colonia":"Sian Kaan",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77090{
+		"Colonia":"Plutarco Elías Calles",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77098{
+		"Colonia":"Barrio Bravo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77099{
+		"Colonia":"Primera Legislatura",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77100{
+		"Colonia":"Laguna Kaná",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77104{
+		"Colonia":"Chan Santa Cruz",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77104{
+		"Colonia":"Mixtequilla",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77104{
+		"Colonia":"Santa María Poniente",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77104{
+		"Colonia":"Noh-Cah",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77105{
+		"Colonia":"San Andrés",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77106{
+		"Colonia":"X-Konha",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77106{
+		"Colonia":"X-Hazil Sur",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77107{
+		"Colonia":"Betania",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77108{
+		"Colonia":"Chunhuás",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77110{
+		"Colonia":"Tuzik",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77114{
+		"Colonia":"San José Segundo",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77115{
+		"Colonia":"San Felipe Berriozábal",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77115{
+		"Colonia":"Trapich",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77116{
+		"Colonia":"Francisco I. Madero",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77116{
+		"Colonia":"Yodzonot Chico",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77117{
+		"Colonia":"Francisco May",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77118{
+		"Colonia":"Yalchén",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77118{
+		"Colonia":"San Ramón",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77120{
+		"Colonia":"Tepich",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77121{
+		"Colonia":"Tihosuco",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77122{
+		"Colonia":"Yoactún",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77123{
+		"Colonia":"Dzoyola",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77125{
+		"Colonia":"San Francisco Aké",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77130{
+		"Colonia":"Chun On",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77130{
+		"Colonia":"Chumpón",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77135{
+		"Colonia":"Chun-Yah",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77140{
+		"Colonia":"Santa Rosa Segundo",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77140{
+		"Colonia":"X-Pichil",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77144{
+		"Colonia":"Tabi",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77145{
+		"Colonia":"Yaxley",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77146{
+		"Colonia":"Tixcacal Guardia",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77147{
+		"Colonia":"Kampokolché",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77148{
+		"Colonia":"Filomeno Mata",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77148{
+		"Colonia":"Hobompich",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77150{
+		"Colonia":"Señor",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77156{
+		"Colonia":"José María Pino Suárez",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77156{
+		"Colonia":"Santa Amalia",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77158{
+		"Colonia":"Kancabchén",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77160{
+		"Colonia":"Chunhuhub",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77160{
+		"Colonia":"Dzulá",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77160{
+		"Colonia":"X-Yatil",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77163{
+		"Colonia":"Yoactún",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77169{
+		"Colonia":"Polyuc",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77170{
+		"Colonia":"Presidente Juárez",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77174{
+		"Colonia":"Ignacio Manuel Altamirano",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77175{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77175{
+		"Colonia":"Nuevo Israel",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77176{
+		"Colonia":"Nueva Loría",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77177{
+		"Colonia":"Naranjal Poniente",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77178{
+		"Colonia":"Ramonal",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77180{
+		"Colonia":"Uh May",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77185{
+		"Colonia":"Andrés Quintana Roo",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77188{
+		"Colonia":"Chancah Veracruz",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77189{
+		"Colonia":"Chancah Derrepente",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77190{
+		"Colonia":"Noh-Bec",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77196{
+		"Colonia":"Petcacab",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77197{
+		"Colonia":"Reforma Agraria",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77198{
+		"Colonia":"Kopchen",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77200{
+		"Colonia":"Felipe Carrillo Puerto Centro",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77210{
+		"Colonia":"Leona Vicario",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77214{
+		"Colonia":"Plan de Ayala",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77215{
+		"Colonia":"Plan de Ayutla",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77216{
+		"Colonia":"Plan de Guadalupe",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77217{
+		"Colonia":"Plan de La Noria",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77220{
+		"Colonia":"Jesús Martínez Ross",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77229{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77230{
+		"Colonia":"Cecilio Chi",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77238{
+		"Colonia":"Rafael E Melgar",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77239{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77240{
+		"Colonia":"Francisco May",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77249{
+		"Colonia":"Constituyentes",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77249{
+		"Colonia":"María Villanueva Madrid",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77250{
+		"Colonia":"Juan Bautista Vega",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77259{
+		"Colonia":"Javier Rojo Gómez",
+		"Municipio":"Felipe Carrillo Puerto, Quintana Roo"
+	},
+	77300{
+		"Colonia":"Kantunilkin Centro",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77302{
+		"Colonia":"Xaman - Kah",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77303{
+		"Colonia":"Borge Martín",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77304{
+		"Colonia":"Unidad Deportiva",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77305{
+		"Colonia":"Capa",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77306{
+		"Colonia":"Terencio Tah",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77307{
+		"Colonia":"Expo",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77310{
+		"Colonia":"Isla de Holbox",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77320{
+		"Colonia":"Chiquila",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77330{
+		"Colonia":"Solferino",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77333{
+		"Colonia":"San Ángel",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77350{
+		"Colonia":"Valladolid Nuevo",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77355{
+		"Colonia":"Esperanza",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77360{
+		"Colonia":"Ignacio Zaragoza",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77366{
+		"Colonia":"San Román",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77366{
+		"Colonia":"El Tintal",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77367{
+		"Colonia":"El Pocito",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77368{
+		"Colonia":"El Ideal",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77369{
+		"Colonia":"El Cedral",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77369{
+		"Colonia":"San Pedro",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77369{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77370{
+		"Colonia":"Agua Azul",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77370{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77376{
+		"Colonia":"San Martiniano",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77376{
+		"Colonia":"San Lorenzo",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77376{
+		"Colonia":"Tres Marias",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77376{
+		"Colonia":"Delirios",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77377{
+		"Colonia":"Héroe de Nacozari",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77378{
+		"Colonia":"Los Cedros",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77378{
+		"Colonia":"La Ceiba",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77378{
+		"Colonia":"Antorchista",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77378{
+		"Colonia":"Nuevo Quintana Roo",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77378{
+		"Colonia":"Los Almendros",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77380{
+		"Colonia":"Nuevo Xcan",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77384{
+		"Colonia":"Tres Reyes",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77385{
+		"Colonia":"San Antonio",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77385{
+		"Colonia":"El Naranjal",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77385{
+		"Colonia":"San Francisco",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77385{
+		"Colonia":"San Juan de Dios",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77386{
+		"Colonia":"Constituyentes del Setenta y Cuatro",
+		"Municipio":"Lázaro Cárdenas, Quintana Roo"
+	},
+	77400{
+		"Colonia":"El Cañotal",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Isla Mujeres Centro",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"La Gloria",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Miraflores",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Isla Blanca",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Metereológico",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Lolbe",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Salina Grande",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Caridad del Cobre",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Salina Chica",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Ampliación la Gloria",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Punta Gaviota",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"23 de Noviembre",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77400{
+		"Colonia":"Isla Mujeres",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77402{
+		"Colonia":"Mar Caribe",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77402{
+		"Colonia":"Mar Caribe",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77402{
+		"Colonia":"Vista Alegre",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77403{
+		"Colonia":"Del Sureste",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77404{
+		"Colonia":"Lagunamar",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77406{
+		"Colonia":"Islote de Carbonera",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77407{
+		"Colonia":"Puerto de Abrigo",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77407{
+		"Colonia":"Electricistas",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77407{
+		"Colonia":"Caribeña",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77408{
+		"Colonia":"Islote El Yunque",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77409{
+		"Colonia":"Prolongación Aeropuerto",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77409{
+		"Colonia":"Bahía",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77410{
+		"Colonia":"La Guadalupana",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77410{
+		"Colonia":"Monte Olivo",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77410{
+		"Colonia":"Las Américas",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77410{
+		"Colonia":"Supermanzana 1",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77410{
+		"Colonia":"El Nazareno",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77410{
+		"Colonia":"Del Bosque",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77412{
+		"Colonia":"Nueva Tierra",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77420{
+		"Colonia":"Punta Sam",
+		"Municipio":"Isla Mujeres, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Villas Tropicales",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Cancún Centro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 20 Centro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 1 Centro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 2 Centro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 2a Centro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 3 Centro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 4 Centro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 5 Centro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 22 Centro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 23 Centro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Zona Hotelera",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Residencial La Cascada",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 52",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Supermanzana 4 A",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77500{
+		"Colonia":"Juárez",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77503{
+		"Colonia":"Supermanzana 6a",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77503{
+		"Colonia":"Supermanzana 7",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77503{
+		"Colonia":"Supermanzana 9",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77503{
+		"Colonia":"Supermanzana 6b",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77503{
+		"Colonia":"Supermanzana 6c",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77503{
+		"Colonia":"Supermanzana 6d",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77503{
+		"Colonia":"Supermanzana 6e",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77503{
+		"Colonia":"Supermanzana 6f",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77503{
+		"Colonia":"Supermanzana 10",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77504{
+		"Colonia":"Supermanzana 8",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77504{
+		"Colonia":"Supermanzana 11",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77504{
+		"Colonia":"Supermanzana 12",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77504{
+		"Colonia":"Supermanzana 13",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77504{
+		"Colonia":"Supermanzana 14",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77505{
+		"Colonia":"Supermanzana 15",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77505{
+		"Colonia":"Supermanzana 15a",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77505{
+		"Colonia":"Supermanzana 16",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77505{
+		"Colonia":"Supermanzana 17",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77505{
+		"Colonia":"Supermanzana 18",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77505{
+		"Colonia":"Supermanzana 19",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77505{
+		"Colonia":"Supermanzana 35",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77505{
+		"Colonia":"Supermanzana 36",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77505{
+		"Colonia":"Supermanzana 21",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77506{
+		"Colonia":"Supermanzana 48",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77506{
+		"Colonia":"Supermanzana 43",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77506{
+		"Colonia":"Supermanzana 44",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77506{
+		"Colonia":"Supermanzana 45",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77506{
+		"Colonia":"Supermanzana 46",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77506{
+		"Colonia":"Supermanzana 47",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77506{
+		"Colonia":"Supermanzana 53",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77506{
+		"Colonia":"La Herradura",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77507{
+		"Colonia":"Supermanzana 37",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77507{
+		"Colonia":"Supermanzana 38",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77507{
+		"Colonia":"Supermanzana 39",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77507{
+		"Colonia":"Supermanzana 40",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77507{
+		"Colonia":"Supermanzana 41",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77507{
+		"Colonia":"Supermanzana 42",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77507{
+		"Colonia":"Arboledas",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77508{
+		"Colonia":"Supermanzana 29",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77508{
+		"Colonia":"Supermanzana 31",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77508{
+		"Colonia":"Supermanzana 32",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77508{
+		"Colonia":"Supermanzana 34",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77508{
+		"Colonia":"Supermanzana 33",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77509{
+		"Colonia":"Supermanzana 26",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77509{
+		"Colonia":"Supermanzana 24",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77509{
+		"Colonia":"Supermanzana 25",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77509{
+		"Colonia":"Supermanzana 27",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77509{
+		"Colonia":"Supermanzana 30",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77509{
+		"Colonia":"Supermanzana 28",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 66",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 231",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 232",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 233",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 67",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 69",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 70",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 71",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 72",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 240",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 73",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 234",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 235",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77510{
+		"Colonia":"Supermanzana 90",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77513{
+		"Colonia":"Supermanzana 63",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77513{
+		"Colonia":"Supermanzana 62",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77514{
+		"Colonia":"Supermanzana 60",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77514{
+		"Colonia":"Supermanzana 61",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77515{
+		"Colonia":"Supermanzana 58",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77515{
+		"Colonia":"Supermanzana 59",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Supermanzana 245",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"In House",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Rinconadas del Mar",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Azul Bonampak",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Los García",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Tierra y Libertad",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Sac-Be",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Supermanzana 91",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Supermanzana 92",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Supermanzana 228",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Supermanzana 229",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Supermanzana 230",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Supermanzana 227",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Hacienda Del Rey",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Supermanzana 225",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Supermanzana 226",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Villas Otoch",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Paseo de Las Palmas",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Guerrero",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77516{
+		"Colonia":"Bahía Real",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Villas del Mar "Plus"",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Residencial Turquesa",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Villas del Mar",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Supermanzana 93",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Supermanzana 94",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Supermanzana 219",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Supermanzana 220",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Supermanzana 221",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Ixchel",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Supermanzana 222",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Supermanzana 223",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Residencial San Antonio",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77517{
+		"Colonia":"Casas del Mar",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Los Santos",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Privadas Sacbe",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Paseos Chac Mool",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Paseos Kabah",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Paseo San Ángel",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Supermanzana 215",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Residencial Vista Alegre",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Marina Turquesa",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Supermanzana 100",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"La Guadalupana",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Supermanzana 218",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Los Héroes",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Supermanzana 216",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Supermanzana 217",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Supermanzana 253",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Galaxia del Sol",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Galaxia las Torres",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77518{
+		"Colonia":"Vista Real",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Paseos del Sol (Supermanzana 205)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Paseos del Mar",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Monte Real",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Paseo Nikté",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Residencial Alejandría",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Villas del Sol",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Paraíso",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Esmeralda",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Supermanzana 206",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Supermanzana 208",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Supermanzana 213",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Supermanzana 214",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Tierra Nuestra Cancún",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Supermanzana 101",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Supermanzana 210",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Supermanzana 211",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Petén",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Las Lajas",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Supermanzana 212",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Rinconada Santa María",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Supermanzana 209",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"La Joya (Supermanzana 254)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Villas del Sol II (Supermanzana 207)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77519{
+		"Colonia":"Lagos",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77520{
+		"Colonia":"Supermanzana 86",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77520{
+		"Colonia":"Punta Sam",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77520{
+		"Colonia":"Supermanzana 85",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77524{
+		"Colonia":"Supermanzana 64",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77524{
+		"Colonia":"Supermanzana 65",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77524{
+		"Colonia":"Supermanzana 68",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77524{
+		"Colonia":"Donceles",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77525{
+		"Colonia":"Supermanzana 84",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77526{
+		"Colonia":"Supermanzana 74",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77526{
+		"Colonia":"Lombardo Toledano",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Los Cedros",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"San Martín Caballero",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Nuevo Amanecer",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Nuevo Pedregal",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"San Alfredo",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Los Tucanes (Supermanzana 242)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Supermanzana 243",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Supermanzana 244",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Supermanzana 75",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Supermanzana 76",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Supermanzana 236",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Supermanzana 238",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Supermanzana 237",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Supermanzana 239",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Supermanzana 89",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"Supermanzana 241",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"La Morena",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77527{
+		"Colonia":"3 Hermanos",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77528{
+		"Colonia":"Supermanzana 77",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77528{
+		"Colonia":"Supermanzana 78",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77528{
+		"Colonia":"Jardines de Banampak",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77530{
+		"Colonia":"Supermanzana 97",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Residencial Caracol",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 313",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Privada Altus",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 54",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Residencial Isla Azul",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 49",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 50",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 51",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 502",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 503",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 504",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 505",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 506",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 507",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 508",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 509",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 501",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 500",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Costa del Mar",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Álamos I",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Chamuyil",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Malibú",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Porto Alegre",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Quetzales (Supermanzana 523)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 57",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Framboyanes",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Residencial Sol del Mayab",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Paraíso Villas",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 55",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"San José Bonampack",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Las Torres",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77533{
+		"Colonia":"Supermanzana 312",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77534{
+		"Colonia":"Supermanzana 95",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77534{
+		"Colonia":"Supermanzana 510",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77534{
+		"Colonia":"Supermanzana 511",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77534{
+		"Colonia":"Supermanzana 512",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77534{
+		"Colonia":"Santa Fe Plus",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77534{
+		"Colonia":"Santa Fe (Supermanzana 524)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77534{
+		"Colonia":"Supermanzana 525",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Supermanzana 327",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Vitalá",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Residencial Cuyagua",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Supermanzana 322",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Supermanzana 323",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Punta Estrella",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Dream Lagoons",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Supermanzana 96",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Supermanzana 514",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Supermanzana 515",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Supermanzana 516",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Bosques San Miguel",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Supermanzana 526",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Supermanzana 527",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Villamarino",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Gran Santa Fe 2",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Villas del Arte",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Supermanzana 528",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Gran Santa Fe",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77535{
+		"Colonia":"Mallorca",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 534",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Maderos Residencial",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Catania Residencial",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 530",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Nuevo Milenio",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"El Milagro",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"La Libertad",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Residencial Monte Verde",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Residencial Mayorca",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Jade Residencial Club",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Villa Maya Residencial Cancún",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Izamal Residencial",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Delicias del Sur",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 99",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 517",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 518",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 519",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 520",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Villas Quintana Roo",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 522",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Villas de Alba",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 529",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 550",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 531",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Paraíso Cancún",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Bahía Dorada",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Jardines del Sur",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 318",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 320",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 326",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Supermanzana 319",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Quintas Kavanayen",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"La Amistad",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Generación 2000",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Fraccionamiento Galaxia Altamar",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77536{
+		"Colonia":"Privanza Stellaris",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77537{
+		"Colonia":"Supermanzana 98",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77537{
+		"Colonia":"Puerta Del Sol",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77537{
+		"Colonia":"Jardines Cancún",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77538{
+		"Colonia":"Supermanzana 102",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Supermanzana 107",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Paraíso Maya",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Urbi Villas del rey",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Supermanzana 260",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Real Las Quintas (Supermanzana 202)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Real Valencia",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Cuna Maya (Supermanzana 203)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Arcos Paraíso",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Paseo Kusamil",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Punta Ikal",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Paseo de Las Palmas",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Prado Norte (Supermanzana 256)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Supermanzana 103",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Hacienda Real del Caribe",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Tierra Maya",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Central de Abasto",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Supermanzana 104",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Supermanzana 105",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Supermanzana 106",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Supermanzana 200",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"México",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"ABC",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Villas Otoch Paraíso",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77539{
+		"Colonia":"Supermanzana 117",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Residencial Cumbres",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Arbolada",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Doctores",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Supermanzana 295",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Supermanzana 296",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Supermanzana 297",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Universidad Anáhuac de Cancún",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Vía Cumbres Residencial",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Aqua Residencial",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Long Island",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Residencial Río",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Astoria",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Alfredo V Bonfil",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Residencial Campestre",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Supermanzana 299",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Colegios",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77560{
+		"Colonia":"Los Naranjos",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77567{
+		"Colonia":"Santa Anna (Supermanzana 301)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77567{
+		"Colonia":"Central de Abastos",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77567{
+		"Colonia":"Santa Fe",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77567{
+		"Colonia":"Lagos del Sol",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77569{
+		"Colonia":"Cancún (Internacional de Cancún)",
+		"Municipio":"Benito Juárez, Quintana Roo"
+	},
+	77580{
+		"Colonia":"Puerto Morelos",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77580{
+		"Colonia":"Villas Morelos I",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77580{
+		"Colonia":"Joaquín Zetina Gasca",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77586{
+		"Colonia":"Residencial Regatta",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77586{
+		"Colonia":"Residencial Civitas",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77586{
+		"Colonia":"Villas La Playa",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77586{
+		"Colonia":"Residencial Alborada",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77586{
+		"Colonia":"Aldea Civitas",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77586{
+		"Colonia":"Selva Escondida",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77590{
+		"Colonia":"Leona Vicario",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77594{
+		"Colonia":"La Nueva Esperanza",
+		"Municipio":"Puerto Morelos, Quintana Roo"
+	},
+	77600{
+		"Colonia":"Cozumel Centro",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77609{
+		"Colonia":"Cozumel (Internacional de Cozumel)",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77610{
+		"Colonia":"Militar",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77613{
+		"Colonia":"Zona Hotelera Norte",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77620{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77620{
+		"Colonia":"Flamboyanes",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77620{
+		"Colonia":"Félix González Canto",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77622{
+		"Colonia":"10 de Abril",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77645{
+		"Colonia":"Chen-tuk",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77645{
+		"Colonia":"Juan Bautista de La Vega",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77645{
+		"Colonia":"Miraflores",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77645{
+		"Colonia":"Nueva Generación",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77645{
+		"Colonia":"Altamar",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77660{
+		"Colonia":"El Encanto",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77660{
+		"Colonia":"Flamingos II",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77660{
+		"Colonia":"FOVISSSTE",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77660{
+		"Colonia":"Flamingos I",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77660{
+		"Colonia":"Maravilla",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77660{
+		"Colonia":"Magisterio",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77660{
+		"Colonia":"Caribe",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77664{
+		"Colonia":"Independencia",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77664{
+		"Colonia":"Andrés Q. Roo",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77664{
+		"Colonia":"Colonos Cuzamil",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77665{
+		"Colonia":"San Miguel 1",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77666{
+		"Colonia":"San Miguel 2",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77666{
+		"Colonia":"San Miguel 3",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77666{
+		"Colonia":"Flores Magón 3",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77667{
+		"Colonia":"Cuzamil",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77667{
+		"Colonia":"San Gervasio",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77667{
+		"Colonia":"Flores Magón 1 y 2",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77667{
+		"Colonia":"Repobladores de 1848",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77667{
+		"Colonia":"Adolfo L. Mateos",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77670{
+		"Colonia":"Las Golondrinas",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77670{
+		"Colonia":"Taxistas",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77670{
+		"Colonia":"Zona Industrial",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77670{
+		"Colonia":"C T M",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77670{
+		"Colonia":"Naval",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77670{
+		"Colonia":"Cozumel Turístico",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77673{
+		"Colonia":"Huerto Familiar",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77675{
+		"Colonia":"Zona Hotelera Sur",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77676{
+		"Colonia":"Ix-chel",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77689{
+		"Colonia":"CALICA",
+		"Municipio":"Cozumel, Quintana Roo"
+	},
+	77710{
+		"Colonia":"Playa del Carmen Centro",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77710{
+		"Colonia":"Calica",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77710{
+		"Colonia":"Playa del Carmen",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77712{
+		"Colonia":"Ejidal",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77712{
+		"Colonia":"Bellavista",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77712{
+		"Colonia":"Fundadores",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77712{
+		"Colonia":"El Pedregal",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77712{
+		"Colonia":"Santa Fe del Carmen",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77713{
+		"Colonia":"Playa Car Fase I",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77713{
+		"Colonia":"Aviación",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77714{
+		"Colonia":"Natura Playa del Carmen",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77714{
+		"Colonia":"Real Bilbao",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77714{
+		"Colonia":"Palmas II",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77714{
+		"Colonia":"Real Amalfi",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77714{
+		"Colonia":"Privada Riviera",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77714{
+		"Colonia":"28 de Julio",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77714{
+		"Colonia":"Misión del Carmen",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77714{
+		"Colonia":"Bosque Real",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77714{
+		"Colonia":"Mundo Habitat",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77714{
+		"Colonia":"Los Olivos",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77716{
+		"Colonia":"Residencial Bambú",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77716{
+		"Colonia":"Residencial La Escondida",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77716{
+		"Colonia":"Forjadores",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77716{
+		"Colonia":"La Joya Xamanha",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77716{
+		"Colonia":"La Joya",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77716{
+		"Colonia":"El Bambú",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77717{
+		"Colonia":"Playa Car Fase II",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77717{
+		"Colonia":"Campestre",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77717{
+		"Colonia":"El Tigrillo",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77717{
+		"Colonia":"Las Flores",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77718{
+		"Colonia":"Bali",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"Gonzalo Guerrero",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"Quintas del Carmen",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"Sacpacal",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"Tohoku",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"Zazil Ha",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"Miramar",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"INFONAVIT Colosio",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"INFONAVIT Gaviotas",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"Xamanha",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"Brisas",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77720{
+		"Colonia":"Paraíso del Carmen",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Villas del Carmen",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Villas del Carmen Plus",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Pescadores Plus",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Palmanova",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Paseos Xcacel",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Real Lucerna",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Villas las Perlas",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Galaxia del Carmen I",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Galaxia del Carmen II",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Las Palmas",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Misión Las Flores",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Nuevo Centro Urbano",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Real Ibiza",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Villas del Sol "Plus"",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"In House",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Punta Estrella",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77723{
+		"Colonia":"Cruz de Servicios",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77724{
+		"Colonia":"Ciudad Mayakoba",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77724{
+		"Colonia":"El Petén",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77724{
+		"Colonia":"La Guadalupana",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77724{
+		"Colonia":"Villas Riviera",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77724{
+		"Colonia":"Playa Azul",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77724{
+		"Colonia":"Bosque de Cristo Rey",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Residencial Real del Sol",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Tumben Chilam",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Marsella",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Porto Alto",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Residencial Caribe",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Cataluña II",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Zendala Residencial",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Misión Villamar I",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"La Toscana",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Misión Villamar II",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Los Arrecifes",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Dunas",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Corales",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Vela Mar",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Villas Maya",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Cataluña",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77725{
+		"Colonia":"Parque Residencial",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77726{
+		"Colonia":"Encuentro",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77726{
+		"Colonia":"Playa Magna",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77726{
+		"Colonia":"Playa del Sol",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77726{
+		"Colonia":"El Cantil",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77727{
+		"Colonia":"Lunamar",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77727{
+		"Colonia":"Nicte-ha",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77727{
+		"Colonia":"Industrial",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77727{
+		"Colonia":"Balamtun",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77727{
+		"Colonia":"Loltun",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77727{
+		"Colonia":"Lolkaatun",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77727{
+		"Colonia":"Privanza del Mar",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77727{
+		"Colonia":"Selvamar",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77727{
+		"Colonia":"El Cielo",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77728{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77730{
+		"Colonia":"Xcaret",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77733{
+		"Colonia":"Solidaridad",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77733{
+		"Colonia":"Puerto Aventuras",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77733{
+		"Colonia":"Puerto Maya",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77733{
+		"Colonia":"Nueva Generación",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77734{
+		"Colonia":"Xpu Ha",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77734{
+		"Colonia":"Barceló Maya",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77734{
+		"Colonia":"Grand Sirenis",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77735{
+		"Colonia":"Paa Mul",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77740{
+		"Colonia":"Residencial Playa Paraíso",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77740{
+		"Colonia":"Playa del Secreto",
+		"Municipio":"Solidaridad, Quintana Roo"
+	},
+	77760{
+		"Colonia":"Guerra de Castas",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77760{
+		"Colonia":"La Veleta",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77760{
+		"Colonia":"Maya Pax",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77760{
+		"Colonia":"Aldea Zama",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77760{
+		"Colonia":"Lúum Zama",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77760{
+		"Colonia":"Tulum Centro",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77760{
+		"Colonia":"Ejidal",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77760{
+		"Colonia":"Tumben Kaa",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77760{
+		"Colonia":"Villas Huracanes",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77762{
+		"Colonia":"Xul Kaa",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77762{
+		"Colonia":"Las Palmas",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77762{
+		"Colonia":"Ya Ax Tulum",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77764{
+		"Colonia":"Villas Tulum",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77766{
+		"Colonia":"Boca Paila",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77768{
+		"Colonia":"Javier Rojo Gómez (Punta Allen)",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77772{
+		"Colonia":"Bahías de Punta Solimán",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77772{
+		"Colonia":"Tankah Cuatro",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77774{
+		"Colonia":"Ciudad Chemuyil",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77776{
+		"Colonia":"Akumal",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77785{
+		"Colonia":"Chanchén Palmar",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77786{
+		"Colonia":"Chanchen Primero",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77786{
+		"Colonia":"Hondzonot",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77786{
+		"Colonia":"Yaxché",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77793{
+		"Colonia":"Cobá",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77794{
+		"Colonia":"San Juan",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77795{
+		"Colonia":"Manuel Antonio Ay",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77796{
+		"Colonia":"Francisco Uh May",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77796{
+		"Colonia":"Macario Gómez",
+		"Municipio":"Tulum, Quintana Roo"
+	},
+	77800{
+		"Colonia":"Dziuche",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77800{
+		"Colonia":"Huay Max",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77800{
+		"Colonia":"Sabán",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77800{
+		"Colonia":"Sacalaca",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77800{
+		"Colonia":"San Diego",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77800{
+		"Colonia":"X-Cabil",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77800{
+		"Colonia":"Pocito",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77800{
+		"Colonia":"México",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77800{
+		"Colonia":"Guadalupana",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77805{
+		"Colonia":"Bulukax",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77805{
+		"Colonia":"X-Querol",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77806{
+		"Colonia":"San Antonio Tuk",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77807{
+		"Colonia":"La Esperanza",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77807{
+		"Colonia":"Javier Rojo Gómez",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77808{
+		"Colonia":"Tabasco",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77809{
+		"Colonia":"San Felipe Oriente",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77850{
+		"Colonia":"Sabana San Francisco",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77858{
+		"Colonia":"Saczuquil",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77859{
+		"Colonia":"San Felipe Segundo",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77870{
+		"Colonia":"La Presumida",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77870{
+		"Colonia":"Santa Gertrudis",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77874{
+		"Colonia":"Kancabchén",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77874{
+		"Colonia":"El Martirio",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77874{
+		"Colonia":"El Naranjal",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77875{
+		"Colonia":"Nuevo San Marcos",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77875{
+		"Colonia":"San Felipe Primero",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77876{
+		"Colonia":"Benito Juárez",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77876{
+		"Colonia":"Cafetalito",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77878{
+		"Colonia":"San Isidro Poniente",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77880{
+		"Colonia":"Kantemó",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77882{
+		"Colonia":"Venustiano Carranza",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77883{
+		"Colonia":"San Juan Oriente",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77889{
+		"Colonia":"Puerto Arturo",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"José María Morelos",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"Javier Rojo Gómez",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"Miraflores",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"José María Morelos",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"Santa Lucia",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"San Juan",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"Mayab",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"Guadalupe",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"Dolores",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77890{
+		"Colonia":"Primavera",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77893{
+		"Colonia":"Plan de la Noria Poniente",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77893{
+		"Colonia":"Adolfo de la Huerta",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77893{
+		"Colonia":"Nuevo Cunduacán",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77894{
+		"Colonia":"Piedras Negras",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77895{
+		"Colonia":"Adolfo López Mateos",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77895{
+		"Colonia":"El Triunfo",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77895{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77895{
+		"Colonia":"Pozo Pirata",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77895{
+		"Colonia":"Mariano Matamoros",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77895{
+		"Colonia":"Insurgentes",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77896{
+		"Colonia":"Gavilanes",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77896{
+		"Colonia":"Zafarrancho",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77898{
+		"Colonia":"San Carlos",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77898{
+		"Colonia":"Candelaria",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77898{
+		"Colonia":"Othón P. Blanco",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77899{
+		"Colonia":"Nueva Reforma",
+		"Municipio":"José María Morelos, Quintana Roo"
+	},
+	77900{
+		"Colonia":"Reforma",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"Año Nuevo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"Ahisamac",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"El Pedregal",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"El Sufrido",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"El Suspiro",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"Javier Sandoval",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"La Chata",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"La Primavera",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"Las Isabelas",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"Laureles",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"Los Socios",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77900{
+		"Colonia":"Santa Julia",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"San Román",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"Río Escondido",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"David Gustavo Gutiérrez Ruiz",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"División del Sur",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"El Remolino",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"La Zarza",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"Las Dos Eses",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"Las Maravillas",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"Las Orquídeas",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"Los Laureles",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"San Antonio",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"San Víctor",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77904{
+		"Colonia":"Santa Rita",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77905{
+		"Colonia":"El Gallito",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77905{
+		"Colonia":"El Higuero",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77905{
+		"Colonia":"El Ramonal",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77905{
+		"Colonia":"Isidro Fabela",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77906{
+		"Colonia":"Huatusco",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77906{
+		"Colonia":"Payo Obispo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"Miguel Alemán",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"Río Verde",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"Astro Rey",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"Cuatro Hermanos",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"El Kiwi",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"José Méndez",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"La Esperanza",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"La Herradura",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"La Raya",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"Las Ilusiones",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77907{
+		"Colonia":"Rosa de Saarón",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77910{
+		"Colonia":"Tierra Negra",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77910{
+		"Colonia":"Altos de Sevilla",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77910{
+		"Colonia":"El Cedralito",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77910{
+		"Colonia":"El Paraíso",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77910{
+		"Colonia":"Lázaro Cárdenas del Río Tercero",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77910{
+		"Colonia":"Rafael Witzil Hau",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77910{
+		"Colonia":"Rancho Grande",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77913{
+		"Colonia":"El Progreso",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77913{
+		"Colonia":"Nuevo Hoctún",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77913{
+		"Colonia":"Dieciocho de Marzo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77913{
+		"Colonia":"El Coco",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77913{
+		"Colonia":"Francisco J. Mújica",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77913{
+		"Colonia":"Gabino Vázquez",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77913{
+		"Colonia":"Jesús Martínez Ross",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77913{
+		"Colonia":"Zamora",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77914{
+		"Colonia":"Iturbide",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77914{
+		"Colonia":"Nuevo Jerusalén",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77914{
+		"Colonia":"San Fernando",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77914{
+		"Colonia":"Margarita Maza de Juárez",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77914{
+		"Colonia":"Guadalupe Victoria",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77914{
+		"Colonia":"Gustavo Antonio",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77914{
+		"Colonia":"La Bendición de Dios",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77914{
+		"Colonia":"San José los Lirios",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77914{
+		"Colonia":"San Judas Tadeo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77915{
+		"Colonia":"Cuatro Banderas",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77915{
+		"Colonia":"Monte Olivo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77916{
+		"Colonia":"Melchor Ocampo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77916{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77916{
+		"Colonia":"Caanán",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77916{
+		"Colonia":"Los Cardenales",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77916{
+		"Colonia":"Otilio Montaño",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77916{
+		"Colonia":"Valentín Gómez Farías",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77917{
+		"Colonia":"Nuevo Tabasco",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77917{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77920{
+		"Colonia":"Limones",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"Pedro Antonio Santos",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"Anastacio Valdez Huchin",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"Buenavista",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"Chula Vista",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"El Cafetal",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"El Naranjal",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"El Pedregal",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"El Sinaí",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"Iván Díaz",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"La Pasadita",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"La Piedra",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"Los Compadres",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"Sabanitas Dos",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"San José",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"San Martín",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"San Pedro",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"Santa Cruz Chico",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77923{
+		"Colonia":"Zak-Chakán",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77924{
+		"Colonia":"Gabriel García",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77924{
+		"Colonia":"La Casona",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77924{
+		"Colonia":"Los Cinco Hermanos",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77924{
+		"Colonia":"Marlboro",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77924{
+		"Colonia":"PROFEPA [Caseta de Vigilancia]",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77924{
+		"Colonia":"San Gabriel",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77925{
+		"Colonia":"Las Palmas",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77925{
+		"Colonia":"Los Alacranes",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77925{
+		"Colonia":"Punta Pulticub",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77925{
+		"Colonia":"Rancho Mayob",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77925{
+		"Colonia":"Rancho Tranquila",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"La Esperanza",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"Chacchoben",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"De Guadalupe",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"El Cerro de la Campana",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"El Esfuerzo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"El Zapote",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"La Loma",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"La Retranca",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"Los Laureles",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"Los Siete Hermanos",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"Corredor Frutícola",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"Noh-Bec",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"San Bernardo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"San Felipe",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"San Juan",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77926{
+		"Colonia":"San Manuel",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77927{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77927{
+		"Colonia":"Serviliano Cohuó Medina",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77927{
+		"Colonia":"CECUSE",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77927{
+		"Colonia":"Francisco Hurtado Ibarra",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77927{
+		"Colonia":"La Herradura",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77927{
+		"Colonia":"La Prosperidad (El Aserradero)",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77927{
+		"Colonia":"Sócrates León Pérez",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77930{
+		"Colonia":"Bacalar Centro",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77933{
+		"Colonia":"Sor Juana Inés de La Cruz",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77933{
+		"Colonia":"Diego Rojas",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77933{
+		"Colonia":"Magisterial",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77934{
+		"Colonia":"Serapio Flota Mass",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77934{
+		"Colonia":"Gonzalo Guerrero",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77934{
+		"Colonia":"Salinas de Gortari",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77934{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77935{
+		"Colonia":"Mario Villanueva",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77935{
+		"Colonia":"5 de Mayo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77935{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Aarón Merino",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Aarón Merino",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Agua Real",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Cayuco Maya",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Centro de Conservación e Investigación de la Vida",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Cinco Hermanos",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Cruz del Sur",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Ecotucán",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Eduardo Puchiga",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"El Buen Pastor",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"El Milagro",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"El Pedregal",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"El Trébol",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Elsa Micaela Barquet",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Jorge Alonzo Canto",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Juan Herrera",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"La Cochinera",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"La Estancia",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Leyda Alpuche",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Los Humildes",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Narciso Alpuche Rivero",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Pehaltum",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Puerta del Cielo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Rancho Encantado",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Rancho Juanita",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"San Felipe Bacalar",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"San Juan",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"San Ramón",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Silvia Cerecero Loyola",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Villas del Sagrario",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Xtomoc",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77936{
+		"Colonia":"Áak Abal",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Las Brisas",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Salamanca",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Ángelo Cortez",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Alfonso Álvarez Sánchez",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Bárbara Guerrero Pérez",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Colosio",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Cámara",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Cuatro Potrillos",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Emiliano Pantín Góngora",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Ernesto Chejín",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Frontera de los Julios",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Javier Palacios",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"La Carmelita",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"La Esmeralda",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"La Nueva Esperanza",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Las Velas",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Los Ángeles",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Manatí",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Paraíso Segundo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Rancho Cascabel",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Rancho Ramonal",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Reyna",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"San Antonio",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Santiago Palacios Carrillo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Sistema de Bombeo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Tito Raúl García Aguilar",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Ubre Blanca",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77937{
+		"Colonia":"Zapata",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77940{
+		"Colonia":"Kuchumatán",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77940{
+		"Colonia":"La Candelaria",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77940{
+		"Colonia":"Las Tres Emes",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77940{
+		"Colonia":"Los Cascabeles",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77940{
+		"Colonia":"Maya Balam",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77940{
+		"Colonia":"San Cosme",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"El Cedral",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"El Encanto",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"Caan Lumil",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"El Naranjal",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"Miguel Hidalgo y Costilla",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"Rancho Sur",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"San Isidro la Laguna",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"San Martín",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"Santa Rita",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77943{
+		"Colonia":"Xtomoc Uno",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77944{
+		"Colonia":"Andrés Quintana Roo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77944{
+		"Colonia":"Bacalar Uno",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77944{
+		"Colonia":"El Encanto Segundo",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77944{
+		"Colonia":"Jorge Cano",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77944{
+		"Colonia":"La Ceiba",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77944{
+		"Colonia":"Paraíso Escondido",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77944{
+		"Colonia":"San Antonio",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77944{
+		"Colonia":"Tito",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77945{
+		"Colonia":"Buena Esperanza",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77945{
+		"Colonia":"El Bajío",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77945{
+		"Colonia":"La Central",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77945{
+		"Colonia":"La Coruña",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77945{
+		"Colonia":"Los Cuates",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77945{
+		"Colonia":"San Rafael",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"Blanca Flor",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"El Calvario",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"El Diamante",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"El Edén",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"El Paraíso",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"El Roble",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"El Rubí",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"La Buena Fe",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"Las Heliconias",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"Los Divorciados",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"Manuel Ávila Camacho",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"Mil Millas al Sur",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77946{
+		"Colonia":"San José (La Silvia)",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77947{
+		"Colonia":"Vallehermoso",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77947{
+		"Colonia":"El Mamey",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77947{
+		"Colonia":"Gustavo Díaz Ordaz",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77947{
+		"Colonia":"La Pantera",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77947{
+		"Colonia":"Petén Tunich",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77947{
+		"Colonia":"Yumpetén",
+		"Municipio":"Bacalar, Quintana Roo"
+	},
+	77950{
+		"Colonia":"Sergio Butrón Casas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77953{
+		"Colonia":"Jesús González Ortega",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77953{
+		"Colonia":"Morocoy",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77954{
+		"Colonia":"Cedro",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77954{
+		"Colonia":"10 de Septiembre",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77954{
+		"Colonia":"20 de Noviembre",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77954{
+		"Colonia":"16 de Septiembre",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77955{
+		"Colonia":"El Cedral",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77955{
+		"Colonia":"California",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77955{
+		"Colonia":"Nuevo Caanán",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77955{
+		"Colonia":"Nuevo Bécar",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77957{
+		"Colonia":"Lázaro Cárdenas Segundo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77957{
+		"Colonia":"San Pedro Peralta",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77957{
+		"Colonia":"La Libertad",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77957{
+		"Colonia":"Limonar",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77959{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77960{
+		"Colonia":"La Conquista",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77960{
+		"Colonia":"Centro Calderitas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77960{
+		"Colonia":"16 de Septiembre",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77960{
+		"Colonia":"Veracruz",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77960{
+		"Colonia":"Yucatán",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77960{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77963{
+		"Colonia":"Xul-ha",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77965{
+		"Colonia":"Subteniente López",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77965{
+		"Colonia":"Huaypix",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77965{
+		"Colonia":"Juan Sarabia",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77966{
+		"Colonia":"Luis Echeverría Álvarez",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77966{
+		"Colonia":"Laguna Guerrero",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77966{
+		"Colonia":"Raudales",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77970{
+		"Colonia":"Xcalak",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77976{
+		"Colonia":"Mahahual",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77976{
+		"Colonia":"Mahahual",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77977{
+		"Colonia":"Playa Uvero",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77980{
+		"Colonia":"Javier Rojo Gómez",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77980{
+		"Colonia":"Álvaro Obregón",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77983{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77983{
+		"Colonia":"Sabidos",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77983{
+		"Colonia":"Álvaro Obregón Viejo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77984{
+		"Colonia":"Pedro Joaquín Coldwell",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77984{
+		"Colonia":"Hidalgo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77984{
+		"Colonia":"Cacao",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77984{
+		"Colonia":"Pucte",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77985{
+		"Colonia":"Sacxán",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77985{
+		"Colonia":"Carlos A Madrazo",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77985{
+		"Colonia":"Ramonal",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77985{
+		"Colonia":"Palmar",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77985{
+		"Colonia":"Ucum",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77985{
+		"Colonia":"Allende",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77985{
+		"Colonia":"Nachi-cocom",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77986{
+		"Colonia":"San José de la Montaña",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77987{
+		"Colonia":"Caobas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77990{
+		"Colonia":"San Francisco Botes",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77990{
+		"Colonia":"Cocoyol",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77990{
+		"Colonia":"José Narciso Rovirosa",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77992{
+		"Colonia":"Revolución",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77992{
+		"Colonia":"Esteban Baca Calderón",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77992{
+		"Colonia":"La Unión",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77994{
+		"Colonia":"Tomás Garrido",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77995{
+		"Colonia":"Dos Aguadas",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+	77997{
+		"Colonia":"Tres Garantías",
+		"Municipio":"Othón P. Blanco, Quintana Roo"
+	},
+}

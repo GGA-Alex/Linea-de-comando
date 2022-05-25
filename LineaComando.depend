@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1646070145 source:d:\escuela\seminario de sistemas operativos\gaytangutierrezalejandro_practica3\lineacomando\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<limits>
+	<dirent.h>
+

@@ -1,0 +1,3414 @@
+{
+	28000{
+		"Colonia":"Colima Centro",
+		"Municipio":"Colima, Colima"
+	},
+	28010{
+		"Colonia":"Lomas de Circunvalación",
+		"Municipio":"Colima, Colima"
+	},
+	28010{
+		"Colonia":"Militar Lomas",
+		"Municipio":"Colima, Colima"
+	},
+	28014{
+		"Colonia":"Jardines de las Lomas",
+		"Municipio":"Colima, Colima"
+	},
+	28016{
+		"Colonia":"Lomas Vistahermosa",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Bugambilias",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Colinas de Santa Bárbara",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Jardines Vista Hermosa",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Las Palmas",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Lomas Verdes",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Parque Royal",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Residencial Santa Bárbara",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Lomas del Valle",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Residencial Valle Verde",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Rincón del Colibrí",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Residencial Puerta del Sol",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Residencial Esmeralda",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Villanova",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Privada San Rafael",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Villas Colinas",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Residencial Esmeralda Norte",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Residencial Los Olivos",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Jardines de La Hacienda",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Residencial Real Santa Bárbara",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Residencial Victoria",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Paseo de la Hacienda",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Colinas de Santa Fe",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Paseo de la Cantera",
+		"Municipio":"Colima, Colima"
+	},
+	28017{
+		"Colonia":"Santa Gertrudis",
+		"Municipio":"Colima, Colima"
+	},
+	28018{
+		"Colonia":"El Diezmo",
+		"Municipio":"Colima, Colima"
+	},
+	28018{
+		"Colonia":"Hacienda Real",
+		"Municipio":"Colima, Colima"
+	},
+	28018{
+		"Colonia":"Real Vista Hermosa",
+		"Municipio":"Colima, Colima"
+	},
+	28018{
+		"Colonia":"Girasoles",
+		"Municipio":"Colima, Colima"
+	},
+	28018{
+		"Colonia":"Valle Dorado",
+		"Municipio":"Colima, Colima"
+	},
+	28018{
+		"Colonia":"Puerta Paraíso",
+		"Municipio":"Colima, Colima"
+	},
+	28018{
+		"Colonia":"Real Vista Hermosa III",
+		"Municipio":"Colima, Colima"
+	},
+	28018{
+		"Colonia":"La Cantera",
+		"Municipio":"Colima, Colima"
+	},
+	28018{
+		"Colonia":"Las Pérgolas",
+		"Municipio":"Colima, Colima"
+	},
+	28018{
+		"Colonia":"Residencial Santa María",
+		"Municipio":"Colima, Colima"
+	},
+	28019{
+		"Colonia":"El Porvenir",
+		"Municipio":"Colima, Colima"
+	},
+	28019{
+		"Colonia":"Puerta del Camino Real",
+		"Municipio":"Colima, Colima"
+	},
+	28020{
+		"Colonia":"La Armonía",
+		"Municipio":"Colima, Colima"
+	},
+	28023{
+		"Colonia":"Jardines de Guadalupe",
+		"Municipio":"Colima, Colima"
+	},
+	28025{
+		"Colonia":"Niños Héroes",
+		"Municipio":"Colima, Colima"
+	},
+	28025{
+		"Colonia":"Villa los Prados",
+		"Municipio":"Colima, Colima"
+	},
+	28030{
+		"Colonia":"Guadalajarita",
+		"Municipio":"Colima, Colima"
+	},
+	28030{
+		"Colonia":"Jardines de La Corregidora",
+		"Municipio":"Colima, Colima"
+	},
+	28030{
+		"Colonia":"Jardines Residenciales",
+		"Municipio":"Colima, Colima"
+	},
+	28030{
+		"Colonia":"Magisterial",
+		"Municipio":"Colima, Colima"
+	},
+	28030{
+		"Colonia":"Morelos",
+		"Municipio":"Colima, Colima"
+	},
+	28035{
+		"Colonia":"Huertas del Sol",
+		"Municipio":"Colima, Colima"
+	},
+	28037{
+		"Colonia":"Hidalgo",
+		"Municipio":"Colima, Colima"
+	},
+	28040{
+		"Colonia":"Camino Real",
+		"Municipio":"Colima, Colima"
+	},
+	28040{
+		"Colonia":"INFONAVIT La Estancia",
+		"Municipio":"Colima, Colima"
+	},
+	28040{
+		"Colonia":"Las Víboras",
+		"Municipio":"Colima, Colima"
+	},
+	28040{
+		"Colonia":"Burócratas Municipales",
+		"Municipio":"Colima, Colima"
+	},
+	28043{
+		"Colonia":"INFONAVIT Camino Real",
+		"Municipio":"Colima, Colima"
+	},
+	28044{
+		"Colonia":"FOVISSSTE",
+		"Municipio":"Colima, Colima"
+	},
+	28045{
+		"Colonia":"Villa San Sebastián",
+		"Municipio":"Colima, Colima"
+	},
+	28046{
+		"Colonia":"Oriental",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Lomas de Santa Elena",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Villa de los Pinos",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Andares del Jazmín",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Camino Real",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Francisco I Madero",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Jardines de La Estancia",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Josefa Ortiz de Domínguez",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"La Virgencita",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Revolución",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"San José Norte",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Rivera del Jazmín",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Real la Floresta",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"IKAL",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Santa Elena",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Las Américas",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Unidad Antorchista",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"El Mirador de Colima",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Diamantes",
+		"Municipio":"Colima, Colima"
+	},
+	28047{
+		"Colonia":"Margaritas",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"El Pedregal",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Insurgentes",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"La Estancia",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"La Guadalupe",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Los Ángeles",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Moctezuma",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Nuevo Paraíso",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Paraíso",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"San José Sur",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"San Rafael",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Santa Amalia",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Cardona",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Jardines del Sol",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Nuevo Milenio",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Mirador de La Cumbre",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Gustavo Vázquez Montes",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Los Jazmines",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Mirador de La Cumbre II",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Mirador de La Cumbre III",
+		"Municipio":"Colima, Colima"
+	},
+	28048{
+		"Colonia":"Ignacio Zaragoza",
+		"Municipio":"Colima, Colima"
+	},
+	28050{
+		"Colonia":"Fátima",
+		"Municipio":"Colima, Colima"
+	},
+	28050{
+		"Colonia":"Placetas Estadio",
+		"Municipio":"Colima, Colima"
+	},
+	28050{
+		"Colonia":"Villas del Bosque",
+		"Municipio":"Colima, Colima"
+	},
+	28050{
+		"Colonia":"Villas Primaveras",
+		"Municipio":"Colima, Colima"
+	},
+	28050{
+		"Colonia":"Rincón del Bosque",
+		"Municipio":"Colima, Colima"
+	},
+	28050{
+		"Colonia":"Privada San Francisco",
+		"Municipio":"Colima, Colima"
+	},
+	28060{
+		"Colonia":"El Moralete",
+		"Municipio":"Colima, Colima"
+	},
+	28060{
+		"Colonia":"Residencial San Pablo",
+		"Municipio":"Colima, Colima"
+	},
+	28063{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Colima, Colima"
+	},
+	28063{
+		"Colonia":"Santa Gertrudis",
+		"Municipio":"Colima, Colima"
+	},
+	28063{
+		"Colonia":"Las Haciendas",
+		"Municipio":"Colima, Colima"
+	},
+	28063{
+		"Colonia":"Los Volcanes",
+		"Municipio":"Colima, Colima"
+	},
+	28063{
+		"Colonia":"Rinconada San Pablo",
+		"Municipio":"Colima, Colima"
+	},
+	28063{
+		"Colonia":"San Carlos",
+		"Municipio":"Colima, Colima"
+	},
+	28067{
+		"Colonia":"De los Trabajadores",
+		"Municipio":"Colima, Colima"
+	},
+	28070{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Colima, Colima"
+	},
+	28070{
+		"Colonia":"Los Viveros",
+		"Municipio":"Colima, Colima"
+	},
+	28070{
+		"Colonia":"Del Periodista",
+		"Municipio":"Colima, Colima"
+	},
+	28070{
+		"Colonia":"Popular",
+		"Municipio":"Colima, Colima"
+	},
+	28070{
+		"Colonia":"Patios de Ferrocarril",
+		"Municipio":"Colima, Colima"
+	},
+	28075{
+		"Colonia":"Parque Industrial",
+		"Municipio":"Colima, Colima"
+	},
+	28075{
+		"Colonia":"Hacienda El Balcón",
+		"Municipio":"Colima, Colima"
+	},
+	28077{
+		"Colonia":"Rinconada del Pereyra",
+		"Municipio":"Colima, Colima"
+	},
+	28077{
+		"Colonia":"Arboledas",
+		"Municipio":"Colima, Colima"
+	},
+	28077{
+		"Colonia":"José Pimentel Llerenas",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"INDECO Albarrada",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"Jardines de las Fuentes",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"Residencial Prados del Sur",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"El Yaqui",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"Las Fuentes",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"La Rivera",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"Valle Real",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"Arboledas de La Hacienda",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"La Albarrada",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"Real de Don Juan",
+		"Municipio":"Colima, Colima"
+	},
+	28078{
+		"Colonia":"El Prado",
+		"Municipio":"Colima, Colima"
+	},
+	28079{
+		"Colonia":"Gregorio Torres Quintero",
+		"Municipio":"Colima, Colima"
+	},
+	28079{
+		"Colonia":"Puerta del Valle",
+		"Municipio":"Colima, Colima"
+	},
+	28079{
+		"Colonia":"Villas del Sur",
+		"Municipio":"Colima, Colima"
+	},
+	28079{
+		"Colonia":"Parajes del Sur",
+		"Municipio":"Colima, Colima"
+	},
+	28080{
+		"Colonia":"El Tivoli",
+		"Municipio":"Colima, Colima"
+	},
+	28085{
+		"Colonia":"Juana de Asbaje",
+		"Municipio":"Colima, Colima"
+	},
+	28085{
+		"Colonia":"El Alpuyeque",
+		"Municipio":"Colima, Colima"
+	},
+	28085{
+		"Colonia":"Los Sauces",
+		"Municipio":"Colima, Colima"
+	},
+	28085{
+		"Colonia":"La Esperanza",
+		"Municipio":"Colima, Colima"
+	},
+	28089{
+		"Colonia":"Leonardo B Gutiérrez",
+		"Municipio":"Colima, Colima"
+	},
+	28089{
+		"Colonia":"Quinta El Tívoli",
+		"Municipio":"Colima, Colima"
+	},
+	28089{
+		"Colonia":"Bosques del Sur",
+		"Municipio":"Colima, Colima"
+	},
+	28090{
+		"Colonia":"El Tecolote",
+		"Municipio":"Colima, Colima"
+	},
+	28090{
+		"Colonia":"Las Bugambilias",
+		"Municipio":"Colima, Colima"
+	},
+	28100{
+		"Colonia":"Tecomán Centro",
+		"Municipio":"Tecomán, Colima"
+	},
+	28110{
+		"Colonia":"Tepeyac",
+		"Municipio":"Tecomán, Colima"
+	},
+	28110{
+		"Colonia":"Manuel Álvarez",
+		"Municipio":"Tecomán, Colima"
+	},
+	28110{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Tecomán, Colima"
+	},
+	28110{
+		"Colonia":"Josefa Ortiz de Domínguez",
+		"Municipio":"Tecomán, Colima"
+	},
+	28113{
+		"Colonia":"Elba Cecilia Vega",
+		"Municipio":"Tecomán, Colima"
+	},
+	28114{
+		"Colonia":"Amalia Solórzano",
+		"Municipio":"Tecomán, Colima"
+	},
+	28120{
+		"Colonia":"Valle las Palmas",
+		"Municipio":"Tecomán, Colima"
+	},
+	28120{
+		"Colonia":"Cofradía de Juárez",
+		"Municipio":"Tecomán, Colima"
+	},
+	28120{
+		"Colonia":"Valle Querido",
+		"Municipio":"Tecomán, Colima"
+	},
+	28120{
+		"Colonia":"Noriega Pizano",
+		"Municipio":"Tecomán, Colima"
+	},
+	28123{
+		"Colonia":"Real del Valle",
+		"Municipio":"Tecomán, Colima"
+	},
+	28123{
+		"Colonia":"Real del Bosque",
+		"Municipio":"Tecomán, Colima"
+	},
+	28130{
+		"Colonia":"Fátima",
+		"Municipio":"Tecomán, Colima"
+	},
+	28130{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Tecomán, Colima"
+	},
+	28130{
+		"Colonia":"La Unión",
+		"Municipio":"Tecomán, Colima"
+	},
+	28130{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Tecomán, Colima"
+	},
+	28133{
+		"Colonia":"Hacienda la Loma",
+		"Municipio":"Tecomán, Colima"
+	},
+	28133{
+		"Colonia":"Loma Bonita",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"San Ignacio",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"El Limonero",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Lázaro Cárdenas II",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Santa Elena",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Sor Juana Inés de La Cruz",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Griselda Álvarez",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Álvaro Obregón",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Reyes Heroles",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Niños Héroes",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Las Flores",
+		"Municipio":"Tecomán, Colima"
+	},
+	28134{
+		"Colonia":"Palma Real",
+		"Municipio":"Tecomán, Colima"
+	},
+	28140{
+		"Colonia":"Jardines del Chamizal",
+		"Municipio":"Tecomán, Colima"
+	},
+	28140{
+		"Colonia":"El Chamizal",
+		"Municipio":"Tecomán, Colima"
+	},
+	28140{
+		"Colonia":"La Floresta",
+		"Municipio":"Tecomán, Colima"
+	},
+	28140{
+		"Colonia":"San Isidro",
+		"Municipio":"Tecomán, Colima"
+	},
+	28140{
+		"Colonia":"Villa Florida",
+		"Municipio":"Tecomán, Colima"
+	},
+	28140{
+		"Colonia":"INFONAVIT Las Huertas",
+		"Municipio":"Tecomán, Colima"
+	},
+	28140{
+		"Colonia":"Jardines de Tecomán",
+		"Municipio":"Tecomán, Colima"
+	},
+	28143{
+		"Colonia":"La Cuarta",
+		"Municipio":"Tecomán, Colima"
+	},
+	28150{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Tecomán, Colima"
+	},
+	28150{
+		"Colonia":"La Palmita",
+		"Municipio":"Tecomán, Colima"
+	},
+	28159{
+		"Colonia":"INFONAVIT Las Palmas",
+		"Municipio":"Tecomán, Colima"
+	},
+	28160{
+		"Colonia":"Pablo Silva García",
+		"Municipio":"Tecomán, Colima"
+	},
+	28160{
+		"Colonia":"Ponciano Arriaga",
+		"Municipio":"Tecomán, Colima"
+	},
+	28160{
+		"Colonia":"Estatuto Jurídico",
+		"Municipio":"Tecomán, Colima"
+	},
+	28160{
+		"Colonia":"Sedena Militar",
+		"Municipio":"Tecomán, Colima"
+	},
+	28170{
+		"Colonia":"Parque Las Flores (Elias Zamora Verduzco)",
+		"Municipio":"Tecomán, Colima"
+	},
+	28170{
+		"Colonia":"Indeco",
+		"Municipio":"Tecomán, Colima"
+	},
+	28170{
+		"Colonia":"Libertad",
+		"Municipio":"Tecomán, Colima"
+	},
+	28180{
+		"Colonia":"Bugambilias",
+		"Municipio":"Tecomán, Colima"
+	},
+	28180{
+		"Colonia":"La Floresta II",
+		"Municipio":"Tecomán, Colima"
+	},
+	28180{
+		"Colonia":"Las Palmas",
+		"Municipio":"Tecomán, Colima"
+	},
+	28180{
+		"Colonia":"Primaveras del Real",
+		"Municipio":"Tecomán, Colima"
+	},
+	28180{
+		"Colonia":"Villa del Centenario",
+		"Municipio":"Tecomán, Colima"
+	},
+	28180{
+		"Colonia":"Villas del Rey",
+		"Municipio":"Tecomán, Colima"
+	},
+	28180{
+		"Colonia":"San Miguel",
+		"Municipio":"Tecomán, Colima"
+	},
+	28184{
+		"Colonia":"San Carlos",
+		"Municipio":"Tecomán, Colima"
+	},
+	28189{
+		"Colonia":"88 Batallón de Infantería",
+		"Municipio":"Tecomán, Colima"
+	},
+	28190{
+		"Colonia":"Gustavo Díaz Ordaz",
+		"Municipio":"Tecomán, Colima"
+	},
+	28190{
+		"Colonia":"San José",
+		"Municipio":"Tecomán, Colima"
+	},
+	28190{
+		"Colonia":"Tuxpan",
+		"Municipio":"Tecomán, Colima"
+	},
+	28190{
+		"Colonia":"Llanos de San José",
+		"Municipio":"Tecomán, Colima"
+	},
+	28190{
+		"Colonia":"Villas del Sol",
+		"Municipio":"Tecomán, Colima"
+	},
+	28200{
+		"Colonia":"Manzanillo Centro",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28209{
+		"Colonia":"Manzanillo (Playa de Oro)",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"Las Brisas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"Morelos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"Playa Azul",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"Fovissste",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"INFONAVIT Brisas del Mar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"Del Mar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"Brisas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"Vista Roca",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"Del Pacífico",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"Las Garzas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28218{
+		"Colonia":"Aeroméxico",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Lomas del Valle",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Playa Esmeralda",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Residencial Villa del Mar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Residencial las Gaviotas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Los Corales",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Los Ciruelos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Rinconada del Valle",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Conjunto Primaveras",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Valle de las Garzas ll",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Valle Esmeralda",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Valle Dorado",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Villa Bonita Residencial",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Viña del Mar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Ponte Vedra Residencial",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Residencial Pelícanos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Villa Florencia",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Residencial Las Arekas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Torremolinos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Ibiza",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Puerta de Hierro",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Real Acuamarina",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Palma Real",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Valle de las Garzas I",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Costa Azul",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Del Sol",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Parque industrial FONDEPORT",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"FETSE",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Isla Real",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"La Esperanza",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Playa Blanca",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Playa de Oro",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Playa Real",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Soleares",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Villa Mar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Barrio 5",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Villa Océano",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28219{
+		"Colonia":"Villa Caracol",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28230{
+		"Colonia":"Las Joyas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28230{
+		"Colonia":"El Rocío",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28230{
+		"Colonia":"Ignacio Zaragoza",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28236{
+		"Colonia":"Manzanillo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28237{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28237{
+		"Colonia":"La Gasera",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28237{
+		"Colonia":"Las Torres",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28237{
+		"Colonia":"Leandro Valle",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28237{
+		"Colonia":"Punta Grande",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28238{
+		"Colonia":"Bellavista",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28239{
+		"Colonia":"Lomas de Gregorio Figueroa",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28239{
+		"Colonia":"Loma Alta",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28239{
+		"Colonia":"Primavera",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28239{
+		"Colonia":"16 de Septiembre",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28239{
+		"Colonia":"Tapeixtles",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28239{
+		"Colonia":"INDECO",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28239{
+		"Colonia":"La Negrita",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28239{
+		"Colonia":"San Carlos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28240{
+		"Colonia":"Punta Chica",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28250{
+		"Colonia":"Burócrata",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28259{
+		"Colonia":"San Pedrito",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28260{
+		"Colonia":"Libertad",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28269{
+		"Colonia":"Sector 5",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28269{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28269{
+		"Colonia":"Alameda",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28270{
+		"Colonia":"Padre Hidalgo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28278{
+		"Colonia":"Pedregoza",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28279{
+		"Colonia":"Bonanza",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28300{
+		"Colonia":"Armería Centro",
+		"Municipio":"Armería, Colima"
+	},
+	28304{
+		"Colonia":"Cristo Rey",
+		"Municipio":"Armería, Colima"
+	},
+	28304{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Armería, Colima"
+	},
+	28304{
+		"Colonia":"Lindavista",
+		"Municipio":"Armería, Colima"
+	},
+	28305{
+		"Colonia":"Ejido",
+		"Municipio":"Armería, Colima"
+	},
+	28306{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Armería, Colima"
+	},
+	28306{
+		"Colonia":"Independencia",
+		"Municipio":"Armería, Colima"
+	},
+	28307{
+		"Colonia":"Hacienda las Primaveras",
+		"Municipio":"Armería, Colima"
+	},
+	28307{
+		"Colonia":"El Campanario",
+		"Municipio":"Armería, Colima"
+	},
+	28307{
+		"Colonia":"El Pelillo",
+		"Municipio":"Armería, Colima"
+	},
+	28307{
+		"Colonia":"Gregorio Torres Quintero",
+		"Municipio":"Armería, Colima"
+	},
+	28307{
+		"Colonia":"El Arenal",
+		"Municipio":"Armería, Colima"
+	},
+	28307{
+		"Colonia":"Valle del Sol",
+		"Municipio":"Armería, Colima"
+	},
+	28307{
+		"Colonia":"Sagrado Corazón",
+		"Municipio":"Armería, Colima"
+	},
+	28310{
+		"Colonia":"Rincón de López",
+		"Municipio":"Armería, Colima"
+	},
+	28313{
+		"Colonia":"El Banco de Jicotán",
+		"Municipio":"Armería, Colima"
+	},
+	28315{
+		"Colonia":"El Puertecito",
+		"Municipio":"Armería, Colima"
+	},
+	28317{
+		"Colonia":"Augusto Gómez Villanueva (Coalatilla)",
+		"Municipio":"Armería, Colima"
+	},
+	28320{
+		"Colonia":"Cofradía de Juárez",
+		"Municipio":"Armería, Colima"
+	},
+	28330{
+		"Colonia":"Periquillo",
+		"Municipio":"Armería, Colima"
+	},
+	28330{
+		"Colonia":"Flor de Coco",
+		"Municipio":"Armería, Colima"
+	},
+	28340{
+		"Colonia":"Los Reyes (Zorrillos)",
+		"Municipio":"Armería, Colima"
+	},
+	28350{
+		"Colonia":"Cuyutlán",
+		"Municipio":"Armería, Colima"
+	},
+	28350{
+		"Colonia":"El Paraíso [Balneario]",
+		"Municipio":"Armería, Colima"
+	},
+	28400{
+		"Colonia":"Valle de las Huertas",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28400{
+		"Colonia":"Santa Rita",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28400{
+		"Colonia":"Coquimatlán",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28400{
+		"Colonia":"Camichines",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28400{
+		"Colonia":"Cazumba",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28400{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28400{
+		"Colonia":"Elías Zamora Verduzco",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28400{
+		"Colonia":"Jardines del Llano",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28400{
+		"Colonia":"Las Higueras",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28400{
+		"Colonia":"San Miguel",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28400{
+		"Colonia":"Las Moras",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28402{
+		"Colonia":"El Poblado",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28403{
+		"Colonia":"Hacienda Buenos Aires",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28403{
+		"Colonia":"Los Limones",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28405{
+		"Colonia":"El Chical",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28410{
+		"Colonia":"Agua Zarca",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28410{
+		"Colonia":"Juárez (La Magdalena)",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28413{
+		"Colonia":"Cruz de Piedra",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28414{
+		"Colonia":"La Sidra",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28414{
+		"Colonia":"El Algodonal",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28420{
+		"Colonia":"La Esperanza",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28424{
+		"Colonia":"Jala",
+		"Municipio":"Coquimatlán, Colima"
+	},
+	28450{
+		"Colonia":"Ex-Hacienda de Nogueras Residencial",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Comala",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Nogueras",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Los Llanitos",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Los Aguajes",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Francisco Ramírez Villarreal",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Celsa Virgen",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"La Trinidad",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Miguel de La Madrid Hurtado",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Lomas de Comala",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Campo Verde",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Solidaridad Aguajitos",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Real Nogueras",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Lomas del Pedregal",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Lomas Altas",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Real de Mendoza",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Barrio Alto",
+		"Municipio":"Comala, Colima"
+	},
+	28450{
+		"Colonia":"Campestre Comala",
+		"Municipio":"Comala, Colima"
+	},
+	28452{
+		"Colonia":"La Caja",
+		"Municipio":"Comala, Colima"
+	},
+	28454{
+		"Colonia":"Zacualpan",
+		"Municipio":"Comala, Colima"
+	},
+	28455{
+		"Colonia":"Campo Cuatro",
+		"Municipio":"Comala, Colima"
+	},
+	28456{
+		"Colonia":"Lagunitas",
+		"Municipio":"Comala, Colima"
+	},
+	28459{
+		"Colonia":"Suchitlán",
+		"Municipio":"Comala, Colima"
+	},
+	28459{
+		"Colonia":"La Cañada",
+		"Municipio":"Comala, Colima"
+	},
+	28460{
+		"Colonia":"Cofradía de Suchitlán",
+		"Municipio":"Comala, Colima"
+	},
+	28460{
+		"Colonia":"Agosto",
+		"Municipio":"Comala, Colima"
+	},
+	28460{
+		"Colonia":"La Nogalera",
+		"Municipio":"Comala, Colima"
+	},
+	28461{
+		"Colonia":"El Remate",
+		"Municipio":"Comala, Colima"
+	},
+	28463{
+		"Colonia":"Hacienda de San Antonio",
+		"Municipio":"Comala, Colima"
+	},
+	28464{
+		"Colonia":"La Becerrera",
+		"Municipio":"Comala, Colima"
+	},
+	28464{
+		"Colonia":"La María",
+		"Municipio":"Comala, Colima"
+	},
+	28464{
+		"Colonia":"La Yerbabuena",
+		"Municipio":"Comala, Colima"
+	},
+	28466{
+		"Colonia":"Los Colomos",
+		"Municipio":"Comala, Colima"
+	},
+	28466{
+		"Colonia":"Colomitos",
+		"Municipio":"Comala, Colima"
+	},
+	28466{
+		"Colonia":"El Remudadero",
+		"Municipio":"Comala, Colima"
+	},
+	28500{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28500{
+		"Colonia":"El Toreo",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28504{
+		"Colonia":"Lomas Santa Cruz",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28504{
+		"Colonia":"Griselda Alvarez Ponce de León",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28504{
+		"Colonia":"La Presa",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28504{
+		"Colonia":"Los Monos",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28504{
+		"Colonia":"San Rafael",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28504{
+		"Colonia":"Campestre San Jerónimo",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28504{
+		"Colonia":"La Cayetana",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28504{
+		"Colonia":"La Escondida",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28506{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28506{
+		"Colonia":"San Jerónimo",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28507{
+		"Colonia":"Valle Real",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28507{
+		"Colonia":"Las Higueras",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28510{
+		"Colonia":"Santa Mariana",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28510{
+		"Colonia":"Quesería",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28510{
+		"Colonia":"La Cruz",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28510{
+		"Colonia":"Solidaridad",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28513{
+		"Colonia":"El Arenal",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28513{
+		"Colonia":"México",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28513{
+		"Colonia":"Ermita",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28515{
+		"Colonia":"Concepción Barbosa",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28516{
+		"Colonia":"Arsenio Farell Cubillas",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28520{
+		"Colonia":"Alcaraces",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28521{
+		"Colonia":"Palmillas",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28521{
+		"Colonia":"El Barro",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28523{
+		"Colonia":"Cerro Colorado",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28530{
+		"Colonia":"Altozano",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28530{
+		"Colonia":"Chiapa",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28530{
+		"Colonia":"Ocotillo",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28531{
+		"Colonia":"Montitlán",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28550{
+		"Colonia":"El Campanario",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28550{
+		"Colonia":"Lagunilla",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28550{
+		"Colonia":"El Trapiche",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28550{
+		"Colonia":"San Joaquín",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28553{
+		"Colonia":"El Cóbano",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28553{
+		"Colonia":"El Parián",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28555{
+		"Colonia":"La Palma",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28557{
+		"Colonia":"ISENCO",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28590{
+		"Colonia":"Buenavista",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28597{
+		"Colonia":"Alzada",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28597{
+		"Colonia":"Bajío de la Leona",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28599{
+		"Colonia":"Colima (Lic. Miguel de la Madrid Hurtado)",
+		"Municipio":"Cuauhtémoc, Colima"
+	},
+	28600{
+		"Colonia":"Estapilla",
+		"Municipio":"Colima, Colima"
+	},
+	28600{
+		"Colonia":"Piscila",
+		"Municipio":"Colima, Colima"
+	},
+	28600{
+		"Colonia":"Puerta de Ánzar",
+		"Municipio":"Colima, Colima"
+	},
+	28600{
+		"Colonia":"Los Tepames",
+		"Municipio":"Colima, Colima"
+	},
+	28600{
+		"Colonia":"Ticuizitán",
+		"Municipio":"Colima, Colima"
+	},
+	28600{
+		"Colonia":"Tinajas",
+		"Municipio":"Colima, Colima"
+	},
+	28600{
+		"Colonia":"El Amarradero",
+		"Municipio":"Colima, Colima"
+	},
+	28610{
+		"Colonia":"El Chanal",
+		"Municipio":"Colima, Colima"
+	},
+	28613{
+		"Colonia":"La Capacha",
+		"Municipio":"Colima, Colima"
+	},
+	28620{
+		"Colonia":"Lo de Villa",
+		"Municipio":"Colima, Colima"
+	},
+	28620{
+		"Colonia":"Ejidal",
+		"Municipio":"Colima, Colima"
+	},
+	28620{
+		"Colonia":"J. Jesús Ríos",
+		"Municipio":"Colima, Colima"
+	},
+	28626{
+		"Colonia":"El Alpuyequito",
+		"Municipio":"Colima, Colima"
+	},
+	28627{
+		"Colonia":"Loma de Fátima",
+		"Municipio":"Colima, Colima"
+	},
+	28627{
+		"Colonia":"Loma de Juárez (El Mezquite)",
+		"Municipio":"Colima, Colima"
+	},
+	28628{
+		"Colonia":"Los Mezcales",
+		"Municipio":"Colima, Colima"
+	},
+	28629{
+		"Colonia":"Las Golondrinas",
+		"Municipio":"Colima, Colima"
+	},
+	28630{
+		"Colonia":"El Bordo",
+		"Municipio":"Colima, Colima"
+	},
+	28633{
+		"Colonia":"La Media Luna",
+		"Municipio":"Colima, Colima"
+	},
+	28634{
+		"Colonia":"Corralitos",
+		"Municipio":"Colima, Colima"
+	},
+	28634{
+		"Colonia":"El Astillero de Abajo",
+		"Municipio":"Colima, Colima"
+	},
+	28634{
+		"Colonia":"El Astillero de Arriba",
+		"Municipio":"Colima, Colima"
+	},
+	28634{
+		"Colonia":"Trapichillos",
+		"Municipio":"Colima, Colima"
+	},
+	28635{
+		"Colonia":"Paso del Zarco",
+		"Municipio":"Colima, Colima"
+	},
+	28635{
+		"Colonia":"La Loma de Ignacio Allende",
+		"Municipio":"Colima, Colima"
+	},
+	28640{
+		"Colonia":"Nuevo",
+		"Municipio":"Colima, Colima"
+	},
+	28640{
+		"Colonia":"Los Asmoles",
+		"Municipio":"Colima, Colima"
+	},
+	28645{
+		"Colonia":"Acatitán",
+		"Municipio":"Colima, Colima"
+	},
+	28646{
+		"Colonia":"Las Guásimas (Las Borregas)",
+		"Municipio":"Colima, Colima"
+	},
+	28647{
+		"Colonia":"Los Ortices",
+		"Municipio":"Colima, Colima"
+	},
+	28655{
+		"Colonia":"La Higuerita",
+		"Municipio":"Colima, Colima"
+	},
+	28656{
+		"Colonia":"Las Tunas",
+		"Municipio":"Colima, Colima"
+	},
+	28700{
+		"Colonia":"Los Gobernadores",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28700{
+		"Colonia":"Carlos de la Madrid Virgen",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28700{
+		"Colonia":"Daniel Contreras Lara",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28700{
+		"Colonia":"Ixtlahuacán",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28700{
+		"Colonia":"Mojotal",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28700{
+		"Colonia":"11 Pueblos",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28700{
+		"Colonia":"6 de Enero",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28703{
+		"Colonia":"Jiliotupa",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28704{
+		"Colonia":"Las Trancas",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28705{
+		"Colonia":"La Presa (Barranca del Rebozo)",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28705{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28720{
+		"Colonia":"Aquiles Serdán (Tamala)",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28724{
+		"Colonia":"San Gabriel",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28730{
+		"Colonia":"Zinacamitlán (Los Chicos)",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28730{
+		"Colonia":"Chamila",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28730{
+		"Colonia":"Santa Inés",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28730{
+		"Colonia":"La Tunita",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28733{
+		"Colonia":"La Tepamera",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28733{
+		"Colonia":"Las Anonas",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28734{
+		"Colonia":"Agua de la Virgen",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28734{
+		"Colonia":"El Camichín (Veintiséis de Julio)",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28735{
+		"Colonia":"Las Conchas",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28735{
+		"Colonia":"El Capire",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28735{
+		"Colonia":"Higueras de Santa Rosa",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28736{
+		"Colonia":"El Galaje",
+		"Municipio":"Ixtlahuacán, Colima"
+	},
+	28750{
+		"Colonia":"27 de Octubre",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28750{
+		"Colonia":"Los Mangos",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28750{
+		"Colonia":"Minatitlán",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28750{
+		"Colonia":"Palo Verde",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28750{
+		"Colonia":"Carlos de La Madrid Vejar",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28750{
+		"Colonia":"Infonavit",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28750{
+		"Colonia":"Progreso",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28760{
+		"Colonia":"Agua Salada",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28760{
+		"Colonia":"La Loma",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28764{
+		"Colonia":"Las Pesadas",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28765{
+		"Colonia":"Benito Juárez de Peña Colorada (El Poblado)",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28765{
+		"Colonia":"El Platanar",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28765{
+		"Colonia":"Peña Colorada (Fierro)",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28766{
+		"Colonia":"La Playa (La Playita)",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28767{
+		"Colonia":"Paticajo",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28770{
+		"Colonia":"El Sauz",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28772{
+		"Colonia":"El Terrero",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28773{
+		"Colonia":"San Antonio",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28774{
+		"Colonia":"Ranchitos",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28780{
+		"Colonia":"El Arrayanal",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28784{
+		"Colonia":"Potrero Grande",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28784{
+		"Colonia":"Las Guásimas",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28784{
+		"Colonia":"El Nogal",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28784{
+		"Colonia":"Agua Fría",
+		"Municipio":"Minatitlán, Colima"
+	},
+	28800{
+		"Colonia":"Residencial el Colomo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"Zona Centro El Colomo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"Las Juntas (La Floreña)",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"Arturo Noriega Pizano",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"5 de Mayo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"El Garcero",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"El Libramiento",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"El Paraíso",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"La Cima del Progreso",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"La Lupita",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"López Mateos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"María Luisa Campero",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"Marina Nacional",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"Miguel de La Madrid",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"San Francisco",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"20 de Noviembre",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"La Calma",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28800{
+		"Colonia":"La Playita",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28807{
+		"Colonia":"Lic. Luis Echeverría Álvarez",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28808{
+		"Colonia":"Villa Florida",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28808{
+		"Colonia":"Aquarium",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28809{
+		"Colonia":"Campos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28810{
+		"Colonia":"Los Cedros",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28810{
+		"Colonia":"Lomas de Ávila Camacho",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28812{
+		"Colonia":"El Huizcolote",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28813{
+		"Colonia":"Llano de la Marina",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28813{
+		"Colonia":"Ciruelito de la Marina",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28814{
+		"Colonia":"Camichín",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28815{
+		"Colonia":"Puertecito de Lajas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28815{
+		"Colonia":"Canoas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28820{
+		"Colonia":"Veladero de los Otates",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28820{
+		"Colonia":"Aserradero de la Lima",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28826{
+		"Colonia":"Don Tomás",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28830{
+		"Colonia":"El Chavarín",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28833{
+		"Colonia":"El Charco",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28834{
+		"Colonia":"Río Marabasco",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28836{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28838{
+		"Colonia":"El Centinela de Arriba",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28838{
+		"Colonia":"Isla Navidad",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28838{
+		"Colonia":"La Culebra (Colimilla)",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28840{
+		"Colonia":"Chandiablo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28850{
+		"Colonia":"Camotlán de Miraflores",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28855{
+		"Colonia":"La Rosa de San José de Lúmber",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28855{
+		"Colonia":"San José de Lúmber (Piedra Redonda)",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28855{
+		"Colonia":"Veladero de Camotlán",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28860{
+		"Colonia":"La Querencia",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28860{
+		"Colonia":"Santiago",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28860{
+		"Colonia":"Olas Altas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Bahía Azul",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Abelardo L. Rodríguez",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Colinas de Santiago",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"El Cerrito",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"El Jabalí",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"La Cruz",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Las Flores",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Obradores",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Perla de Occidente",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Porfirio Gaytán",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"San Isidro Labrador",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"San Martín",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Barrio Nuevo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Pedro Núñez",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28863{
+		"Colonia":"Vista del Mar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Almendros Residencial II",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Cantamar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Villas del Pacífico",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Paseo del Mar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Santa Carolina",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Las Camelinas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Jardines de Salagua",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Sol del Pacífico",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Hacienda Santa Clara",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Natura Pacífico",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Deportiva",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Hermosa Provincia",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Loma del Mar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Lomas Verdes",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Montebello",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Obrera",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Valle Dorado",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Viveros Pelayo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Jardines de Santiago",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Las Huertas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Valle Alto",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Valle del Coral",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Lomas de Santiago",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"La Joya I",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Country Club",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Azul Marino Residencial",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28864{
+		"Colonia":"Del Mar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Terraplena",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Monte Orquídea",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Residencial San Miguel",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Senderos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Miravalle",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Lomas del Carmen",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"La Floresta",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Jardines del Valle",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Nuevo el Petatero",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Valle Paraíso",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Orquídeas Residencial",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28865{
+		"Colonia":"Los Altos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28867{
+		"Colonia":"Bugambilias",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28867{
+		"Colonia":"Las Hadas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28867{
+		"Colonia":"Salagua",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28867{
+		"Colonia":"La Punta",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28867{
+		"Colonia":"Península de Santiago",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28867{
+		"Colonia":"Villas del Faro",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28867{
+		"Colonia":"Villas del Palmar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"Real de Santiago",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"Real del Country",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"Maravillas del Campo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"Esperanza de Miramar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"El Naranjo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"Ejidal Miramar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"Club Santiago",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"La Joya",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"Nuevo Miramar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"La Central",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28868{
+		"Colonia":"Club Maeva",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Rosa Morada",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Valle Salagua",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Aguazul",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Santa Sofía",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Cantalegre",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Agua Marina Residencial",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"La Escondida Residencial",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Villa Coral",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"El Dorado",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Vidaire",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Belona Residencial",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Mar de Plata",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Árbol de Agua",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Barrio Nuevo Salagua",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Las Palmas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Guadalupe Victoria",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"López de Legaspi",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Arboledas",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Obispo Sergio Méndez Arceo",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"La Joya II",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Villa Flamingos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Puerta del Sol",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"El Campanario",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Elías Zamora Verduzco",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Los Mangos",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Nuevo Salagua",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Almendros Residencial",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Paraiso Salagua",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28869{
+		"Colonia":"Marimar",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28870{
+		"Colonia":"Jalipa",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28872{
+		"Colonia":"Punta de Agua de Camotlán",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28876{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28880{
+		"Colonia":"San Buenaventura",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28880{
+		"Colonia":"Santa Rita",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28880{
+		"Colonia":"Venustiano Carranza (Cualata)",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28880{
+		"Colonia":"Nuevo Cuyutlán",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28885{
+		"Colonia":"El Salto",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28886{
+		"Colonia":"Agua Blanca",
+		"Municipio":"Manzanillo, Colima"
+	},
+	28900{
+		"Colonia":"Tecolapa",
+		"Municipio":"Tecomán, Colima"
+	},
+	28900{
+		"Colonia":"Progreso",
+		"Municipio":"Tecomán, Colima"
+	},
+	28900{
+		"Colonia":"El Bordo",
+		"Municipio":"Tecomán, Colima"
+	},
+	28900{
+		"Colonia":"El Rocio",
+		"Municipio":"Tecomán, Colima"
+	},
+	28900{
+		"Colonia":"Martín del Campo",
+		"Municipio":"Tecomán, Colima"
+	},
+	28900{
+		"Colonia":"Lindavista",
+		"Municipio":"Tecomán, Colima"
+	},
+	28900{
+		"Colonia":"San Antonio",
+		"Municipio":"Tecomán, Colima"
+	},
+	28900{
+		"Colonia":"Cerro de Ortega",
+		"Municipio":"Tecomán, Colima"
+	},
+	28900{
+		"Colonia":"Hermanos Leaños",
+		"Municipio":"Tecomán, Colima"
+	},
+	28910{
+		"Colonia":"Madrid",
+		"Municipio":"Tecomán, Colima"
+	},
+	28910{
+		"Colonia":"Articulo 27 Constitucional",
+		"Municipio":"Tecomán, Colima"
+	},
+	28910{
+		"Colonia":"Conacar PRI",
+		"Municipio":"Tecomán, Colima"
+	},
+	28910{
+		"Colonia":"La Pedregal",
+		"Municipio":"Tecomán, Colima"
+	},
+	28915{
+		"Colonia":"El Rosario",
+		"Municipio":"Tecomán, Colima"
+	},
+	28920{
+		"Colonia":"Tecolapa",
+		"Municipio":"Tecomán, Colima"
+	},
+	28929{
+		"Colonia":"Cofradía de Hidalgo (Laguna de Alcuzahue)",
+		"Municipio":"Tecomán, Colima"
+	},
+	28930{
+		"Colonia":"Caleras",
+		"Municipio":"Tecomán, Colima"
+	},
+	28930{
+		"Colonia":"Puerta de Caleras",
+		"Municipio":"Tecomán, Colima"
+	},
+	28934{
+		"Colonia":"La Estación",
+		"Municipio":"Tecomán, Colima"
+	},
+	28934{
+		"Colonia":"Leonardo Jaramillo",
+		"Municipio":"Tecomán, Colima"
+	},
+	28934{
+		"Colonia":"Ruiz Cortines",
+		"Municipio":"Tecomán, Colima"
+	},
+	28934{
+		"Colonia":"San Martín de Porres",
+		"Municipio":"Tecomán, Colima"
+	},
+	28934{
+		"Colonia":"El Olivo",
+		"Municipio":"Tecomán, Colima"
+	},
+	28934{
+		"Colonia":"Bayardo",
+		"Municipio":"Tecomán, Colima"
+	},
+	28934{
+		"Colonia":"Luis Rodríguez Alcalá [La Báscula]",
+		"Municipio":"Tecomán, Colima"
+	},
+	28934{
+		"Colonia":"Antonio Salazar Salazar",
+		"Municipio":"Tecomán, Colima"
+	},
+	28934{
+		"Colonia":"María Esther Zuno de Echeverría",
+		"Municipio":"Tecomán, Colima"
+	},
+	28935{
+		"Colonia":"Cofradía de Morelos",
+		"Municipio":"Tecomán, Colima"
+	},
+	28936{
+		"Colonia":"San Francisco",
+		"Municipio":"Tecomán, Colima"
+	},
+	28936{
+		"Colonia":"Ladislao Moreno",
+		"Municipio":"Tecomán, Colima"
+	},
+	28937{
+		"Colonia":"El Real",
+		"Municipio":"Tecomán, Colima"
+	},
+	28938{
+		"Colonia":"Tecuanillo",
+		"Municipio":"Tecomán, Colima"
+	},
+	28940{
+		"Colonia":"Callejones",
+		"Municipio":"Tecomán, Colima"
+	},
+	28944{
+		"Colonia":"El Saucito",
+		"Municipio":"Tecomán, Colima"
+	},
+	28944{
+		"Colonia":"La Primavera",
+		"Municipio":"Tecomán, Colima"
+	},
+	28945{
+		"Colonia":"Chanchopa",
+		"Municipio":"Tecomán, Colima"
+	},
+	28947{
+		"Colonia":"San Miguel del Ojo de Agua",
+		"Municipio":"Tecomán, Colima"
+	},
+	28950{
+		"Colonia":"Juluapan",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28952{
+		"Colonia":"Los Picachos",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28955{
+		"Colonia":"Agua Dulce",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28958{
+		"Colonia":"El Mixcuate",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28959{
+		"Colonia":"Pueblo Nuevo",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28960{
+		"Colonia":"El Carrizal",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28963{
+		"Colonia":"Pastores",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28965{
+		"Colonia":"Las Joyitas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28965{
+		"Colonia":"El Chivato (Providencia)",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28965{
+		"Colonia":"La Montrica",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28968{
+		"Colonia":"El Nuevo Naranjal",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28968{
+		"Colonia":"El Naranjal",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28970{
+		"Colonia":"Villa de Álvarez Centro",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28970{
+		"Colonia":"Villas del Sol",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28973{
+		"Colonia":"Floresta",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28973{
+		"Colonia":"Manuel M. Diéguez",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28973{
+		"Colonia":"Real los Arcos",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28973{
+		"Colonia":"Santa Teresa",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28973{
+		"Colonia":"Villas del Río",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28973{
+		"Colonia":"Villas Adriana",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28973{
+		"Colonia":"Villas de Mayo",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28973{
+		"Colonia":"Santa Cristina",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28973{
+		"Colonia":"Privada Villa San Agustín",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28973{
+		"Colonia":"Rancho Santo",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28974{
+		"Colonia":"Las Palomas Residencial",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28974{
+		"Colonia":"San Isidro",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28974{
+		"Colonia":"Villas Coliman",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28975{
+		"Colonia":"López Mateos",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28975{
+		"Colonia":"Santa Martha",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28975{
+		"Colonia":"Morelos",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28975{
+		"Colonia":"Villa Carlo",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28975{
+		"Colonia":"La Frontera",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28975{
+		"Colonia":"La Cajita del Agua",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28975{
+		"Colonia":"Privada Villas del Palmar",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28976{
+		"Colonia":"Liberación",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28976{
+		"Colonia":"Villas del Centro",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28976{
+		"Colonia":"Francisco Hernández",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28976{
+		"Colonia":"Rosario Ibarra de Piedra",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28977{
+		"Colonia":"Las Parotas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Residencial Bosque Real",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Real de Caná",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Arboledas del Carmen",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Azaleas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Colinas del Carmen",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"FOVISSSTE",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Golondrinas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Jardines de Bugambilias",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Primaveras",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Rinconada de La Hacienda",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Senderos del Carmen",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Privada Nicasio Carvajal Flores",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Real Hacienda",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Real Santa Fe",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28978{
+		"Colonia":"Hacienda del Carmen",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Colinas de las Lagunas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Alfredo V. Bonfil",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Las Águilas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Lindavista",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Lomas de las Flores",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Loma Hermosa",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Lomas de La Higuera",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Los Almendros",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Solidaridad",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Villa Izcalli Caxitlán",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Villas de Bugambilias",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Real Bugambilias",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Carlos de La Madrid",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Lomas Altas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Villas del Cañaveral",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"El Angel",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Cruz de Comala",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Lomas de La Villa",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Vista Bugambilias",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Bugambilias",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Las Colinas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Las Lagunas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Lomas de La Herradura",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Residencial Colinas del Rey",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Salomón Preciado",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28979{
+		"Colonia":"Colinas del Sol",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28980{
+		"Colonia":"La Gloria",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28982{
+		"Colonia":"Villas San José Segunda Sección",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28982{
+		"Colonia":"Villas de Alameda",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28982{
+		"Colonia":"La Joya",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28982{
+		"Colonia":"El Cortijo",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28982{
+		"Colonia":"Santa Fe",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28982{
+		"Colonia":"Los Olivos",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28982{
+		"Colonia":"Jacarandas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28982{
+		"Colonia":"Hacienda El Nogal",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28982{
+		"Colonia":"Hacienda del Cortijo",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28982{
+		"Colonia":"Las Rosas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Valle del Sol",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Puerta Higueras",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Jardines del Llano",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Rinconada del Centenario",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Jardines del Centenario",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Alfonso Rolón Michel",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Tabachines",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Senderos de Rancho Blanco",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Villa Flores",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Villas Rancho Blanco",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"El Haya",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Puerta de Rolón",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Residencial Tulipanes",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28983{
+		"Colonia":"Villa Flores II",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Patria Residencial",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Palo Alto",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Villafuentes",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Punta Diamante Residencial",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Residencial Los Robles",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Vista Volcanes",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"La Fortuna",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Real del Seis",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Azteca",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"El Centenario",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Juan José Ríos",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Loma Bonita",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Lomas del Centenario",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Manuel Álvarez",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Ramón Serrano",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Real Centenario",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Villas de San José",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Jardines de La Villa",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Los Triángulos",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Puerta del Centenario",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Centenario II",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"La Reserva",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Buenavista",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Verde Valle",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28984{
+		"Colonia":"Higueras del Espinal",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28985{
+		"Colonia":"Del Valle",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28985{
+		"Colonia":"Villa de Oro",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28985{
+		"Colonia":"San Miguel",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28986{
+		"Colonia":"Residencial Santa Sofía",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28986{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28986{
+		"Colonia":"Villas Diamante",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28987{
+		"Colonia":"Alta Villa",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28987{
+		"Colonia":"La Haciendita",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28987{
+		"Colonia":"San Carlos",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28987{
+		"Colonia":"Villas Providencia",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28988{
+		"Colonia":"Real de San Jorge",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28988{
+		"Colonia":"Campestre",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28988{
+		"Colonia":"El Llano",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28989{
+		"Colonia":"Montellano",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28989{
+		"Colonia":"Burócratas del Estado",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28989{
+		"Colonia":"Las Tunas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28989{
+		"Colonia":"Leandro Valle",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28989{
+		"Colonia":"Prados de La Villa",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28989{
+		"Colonia":"Villa de Alba",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28989{
+		"Colonia":"Puerta de Hierro",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28989{
+		"Colonia":"Campestre Bugambilias",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28989{
+		"Colonia":"Real de Minas",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+	28989{
+		"Colonia":"La Comarca",
+		"Municipio":"Villa de Álvarez, Colima"
+	},
+}

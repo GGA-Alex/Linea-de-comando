@@ -1,0 +1,6610 @@
+{
+	97000{
+		"Colonia":"Mérida Centro",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97000{
+		"Colonia":"La Quinta",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97000{
+		"Colonia":"Los Cocos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97000{
+		"Colonia":"Privada Del Maestro",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97000{
+		"Colonia":"Privada Garcia Gineres C - 29",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97000{
+		"Colonia":"Jardines de San Sebastian",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97003{
+		"Colonia":"Los Reyes",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97050{
+		"Colonia":"Alcalá Martín",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97050{
+		"Colonia":"Yucatán",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97059{
+		"Colonia":"Señorial",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97060{
+		"Colonia":"Carrillo Ancona",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97068{
+		"Colonia":"Itzaes",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97069{
+		"Colonia":"Inalámbrica",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97070{
+		"Colonia":"Dolores Patron",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97070{
+		"Colonia":"Garcia Gineres",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97070{
+		"Colonia":"El Pedregal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97080{
+		"Colonia":"La Huerta",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97088{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97089{
+		"Colonia":"Cupules",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97098{
+		"Colonia":"Lourdes",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97099{
+		"Colonia":"Waspa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97100{
+		"Colonia":"Itzimna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97100{
+		"Colonia":"Itzimna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97100{
+		"Colonia":"Itzimna 2",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97100{
+		"Colonia":"Rinconada Itzmina",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97107{
+		"Colonia":"Manola",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97108{
+		"Colonia":"Las Arboledas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97109{
+		"Colonia":"Ferrocarrileros",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97109{
+		"Colonia":"Jesús Carranza",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97110{
+		"Colonia":"Revolución (Cordemex)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97113{
+		"Colonia":"Montebello",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97113{
+		"Colonia":"San Antonio",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97113{
+		"Colonia":"Xaman-Tan",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97114{
+		"Colonia":"Monte Alban",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97114{
+		"Colonia":"Residencial Sol Campestre",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97114{
+		"Colonia":"Privada Monterreal Plus",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97115{
+		"Colonia":"Sodzil Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97115{
+		"Colonia":"Montes de Ame",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97115{
+		"Colonia":"Gonzalo Guerrero",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97115{
+		"Colonia":"Residencial Montejo Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97115{
+		"Colonia":"Ampliación Revolución",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97115{
+		"Colonia":"Residencial San Angelo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97116{
+		"Colonia":"San Antonio Cucul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97116{
+		"Colonia":"Privada San Antonio Cucul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97117{
+		"Colonia":"San Ramon Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97117{
+		"Colonia":"San Ramon Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97117{
+		"Colonia":"San Ramon Norte I",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97117{
+		"Colonia":"Villareal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97117{
+		"Colonia":"Xaman-Kab",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97118{
+		"Colonia":"Plan de Ayala",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97118{
+		"Colonia":"Villas Del Sol",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97118{
+		"Colonia":"Ampliación Plan de Ayala (Villas del Sol)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97119{
+		"Colonia":"Benito Juárez Nte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97119{
+		"Colonia":"Villas La Hacienda",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97119{
+		"Colonia":"Gonzalo Guerrero",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97119{
+		"Colonia":"Villas del Rey",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97120{
+		"Colonia":"Campestre",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97120{
+		"Colonia":"Del Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97120{
+		"Colonia":"Tecnológico",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97120{
+		"Colonia":"Ampliación del Norte (1a. Ampliación)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97125{
+		"Colonia":"México",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97125{
+		"Colonia":"Privada Nuevo México",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97127{
+		"Colonia":"Buenavista",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97127{
+		"Colonia":"Montejo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97128{
+		"Colonia":"México Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97128{
+		"Colonia":"Privada Mediterráneo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97128{
+		"Colonia":"Residencial Colonia México",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97129{
+		"Colonia":"Emiliano Zapata Nte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Torremolinos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Diaz Ordaz",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"San Carlos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Vista Alegre",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Residencial Palmerales de Altabrisa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Missan II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Residencial Altabrisa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Montecarlo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Vista Alegre",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Vista Alegre Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Altabrisa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"San Remo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97130{
+		"Colonia":"Santa Rita Cholul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97133{
+		"Colonia":"Montecristo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97133{
+		"Colonia":"Montevideo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97133{
+		"Colonia":"Residencial Camara de Comercio Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97133{
+		"Colonia":"Monterreal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97134{
+		"Colonia":"Maya",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97134{
+		"Colonia":"Paraíso Maya",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97134{
+		"Colonia":"Jose Maria Iturralde",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97135{
+		"Colonia":"Jardines de Mérida",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97136{
+		"Colonia":"Felipe Carrillo Puerto Nte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97137{
+		"Colonia":"México Oriente",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Jardines del Noreste",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Los Álamos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Residencial Del Arco",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"La Florida",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Los Pinos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Jardines Del Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Jardines de Vista Alegre",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Residencial Bancarios",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"San Pedro Cholul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Santa Maria",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"El Arco",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Jardines de Vista Alegre II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Vista Alegre Lotificacion",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97138{
+		"Colonia":"Pinos Norte II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97139{
+		"Colonia":"Prado Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97139{
+		"Colonia":"San Antonio Cinta",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97139{
+		"Colonia":"Jardines del Norte de Prado Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97140{
+		"Colonia":"Lopez Mateos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97140{
+		"Colonia":"San Luis",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97140{
+		"Colonia":"San Miguel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97142{
+		"Colonia":"Unidad Habitacional CTM",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97142{
+		"Colonia":"Antonia Jimenez Trava",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97142{
+		"Colonia":"Antonia Jimenez Trava II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97142{
+		"Colonia":"San Vicente Oriente (La Isla)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97143{
+		"Colonia":"Polígono 108",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97143{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97143{
+		"Colonia":"Boulevares de Oriente",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97143{
+		"Colonia":"Itzimna 108",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97143{
+		"Colonia":"Luis Donaldo Colosio",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97143{
+		"Colonia":"Leandro Valle",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97143{
+		"Colonia":"Brisas Del Bosque",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97144{
+		"Colonia":"Emiliano Zapata Ote",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97144{
+		"Colonia":"Las Brisas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97144{
+		"Colonia":"Las Brisas Del Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97144{
+		"Colonia":"Ampliación las Brisas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97145{
+		"Colonia":"Las Palmas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97145{
+		"Colonia":"Los Álamos Alemán",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97145{
+		"Colonia":"Pet-kanche",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97145{
+		"Colonia":"San Juan Grande",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97145{
+		"Colonia":"Noria II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97146{
+		"Colonia":"Nueva Alemán",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97146{
+		"Colonia":"Las Flores",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97147{
+		"Colonia":"Nuevo Yucatán",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97147{
+		"Colonia":"San Nicolás",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97148{
+		"Colonia":"Miguel Alemán",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97149{
+		"Colonia":"San Esteban",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97150{
+		"Colonia":"Industrial",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97150{
+		"Colonia":"Trava Quintero",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97155{
+		"Colonia":"Fenix",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97155{
+		"Colonia":"Lourdes Industrial",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97155{
+		"Colonia":"Villa Fontana",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97156{
+		"Colonia":"Los Reyes",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97157{
+		"Colonia":"Lázaro Cárdenas Ote",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97157{
+		"Colonia":"Nueva Mayapan",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97158{
+		"Colonia":"Chuminopolis",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97159{
+		"Colonia":"Máximo Ancona",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97159{
+		"Colonia":"Manuel Avila Camacho",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97159{
+		"Colonia":"Mayapan",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97159{
+		"Colonia":"Nueva Pacabtun",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97159{
+		"Colonia":"Nueva Mayapan",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97159{
+		"Colonia":"Lotificacion las Brisas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97160{
+		"Colonia":"Del Parque",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97160{
+		"Colonia":"Pacabtun",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97160{
+		"Colonia":"Manuel Avila Camacho",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97160{
+		"Colonia":"Privada Del Autotransporte CTM",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97165{
+		"Colonia":"Melchor Ocampo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97165{
+		"Colonia":"Melchor Ocampo II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97166{
+		"Colonia":"Fidel Velázquez",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97166{
+		"Colonia":"Salvador Alvarado Oriente",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97166{
+		"Colonia":"Fidel Velázquez 2a Etapa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97167{
+		"Colonia":"Emilio Portes Gil",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97167{
+		"Colonia":"Bosques de Oriente",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97167{
+		"Colonia":"Privada Emilio Portes Gil",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97168{
+		"Colonia":"Madrid",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97168{
+		"Colonia":"Del Carmen",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97168{
+		"Colonia":"Cortes Sarmiento",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97168{
+		"Colonia":"Jardines de Miraflores",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97168{
+		"Colonia":"Cerillera",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97169{
+		"Colonia":"Esperanza",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97169{
+		"Colonia":"Wallis",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97170{
+		"Colonia":"Chichen-itza",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97170{
+		"Colonia":"Nueva Chichen-itza",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97173{
+		"Colonia":"Vergel I",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97173{
+		"Colonia":"Vergel II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97173{
+		"Colonia":"Vergel III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97173{
+		"Colonia":"Vergel IV",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97173{
+		"Colonia":"San Jose Vergel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97173{
+		"Colonia":"Real San José",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97173{
+		"Colonia":"Misne III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97174{
+		"Colonia":"Villas La Macarena",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97174{
+		"Colonia":"Morelos Oriente",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97175{
+		"Colonia":"Amalia Solorzano",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97176{
+		"Colonia":"Unidad Habitacional Ricardo Flores Magón",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97176{
+		"Colonia":"Misné II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97176{
+		"Colonia":"San Pablo Oriente",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97176{
+		"Colonia":"Vergel 65",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97176{
+		"Colonia":"San Antonio Kaua",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97176{
+		"Colonia":"El Vergel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97176{
+		"Colonia":"Aquaparque",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97177{
+		"Colonia":"Azcorra",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97178{
+		"Colonia":"Benito Juárez Ote",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97179{
+		"Colonia":"Miraflores",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97179{
+		"Colonia":"Privada Miraflores",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97180{
+		"Colonia":"Vicente Solis",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97189{
+		"Colonia":"Canto",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97189{
+		"Colonia":"San Jose",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97190{
+		"Colonia":"Morelos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97190{
+		"Colonia":"Morelos Issste Fovissste",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97195{
+		"Colonia":"Nueva Kukulkan",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97195{
+		"Colonia":"San Antonio Kaua",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97195{
+		"Colonia":"San Antonio Kaua II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97195{
+		"Colonia":"Miraflores II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97195{
+		"Colonia":"San Antonio Kaua I",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97196{
+		"Colonia":"Salvador Alvarado Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97196{
+		"Colonia":"Militar",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97196{
+		"Colonia":"Salvador Alvarado Sur II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97196{
+		"Colonia":"Ampliación Salvador Alvarado Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97198{
+		"Colonia":"Ampliación Granjas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97198{
+		"Colonia":"Reparto Granjas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97198{
+		"Colonia":"Kukulcan",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97199{
+		"Colonia":"Maria Luisa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Cordeleros de Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"El Prado",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"San Pedro Uxmal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Tulias de Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Arcos del Sol",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Aurea Residencial",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Arekas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Brisas de Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Camara de La Construcción",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Cocoteros",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Del Bosque",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"El Conquistador",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"San Pablo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Terranova",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Villas Palma Real",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Villas Del Prado",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Vista Alegre de Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Privada Chuburna de Hidalgo (II)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Privada Chuburna Plus",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Privada Palma Caribeña",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Francisco de Montejo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"San José Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Magnolias",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Rincón Colonial",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Puesta del Sol",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Las Haciendas III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"La Castellana",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Privada Corozal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Ampliación Francisco de Montejo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Arboledas Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Francisco de Montejo II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Francisco de Montejo III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Francisco de Montejo IV",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Francisco de Montejo V",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97203{
+		"Colonia":"Platino",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97204{
+		"Colonia":"Xcumpich",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97204{
+		"Colonia":"Vía Montejo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97204{
+		"Colonia":"Residencial Piedrasul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97204{
+		"Colonia":"Residencial Galerias",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97204{
+		"Colonia":"Revolución",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Residencial Hacienda Real",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Chuburna de Hidalgo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Bugambilias",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"El Cortijo I",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"El Cortijo II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Juan B Sosa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Loma Bonita Xcumpich",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Las Hadas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Boulevares de Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Chuburna Inn",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"El Campanario",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"San Ángel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Chuburna de Hidalgo (La Floresta)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Tabachines",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"San Luis Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Pinzon",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Privada las Flores",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Privada Chuburna de Hidalgo I",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Privada Pedregal II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Privada Arboledas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Privada Campestre Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97205{
+		"Colonia":"Loma Bonita",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"El Rosario",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Residencial La Noria",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"San Francisco Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"San Francisco Chuburna II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"San Jose I",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"San Jose II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Mérida (Elefante Grande)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"San Vicente Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Las Dalias II y III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Villas Chuburna IV",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Lotificacion San Vicente Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Paraíso",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Las Dalias",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Privada Cipreses",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Yaxche",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Residencial Turquesa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97206{
+		"Colonia":"Privada San Ángel Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97207{
+		"Colonia":"Callejones de Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97207{
+		"Colonia":"Villas de Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97208{
+		"Colonia":"Malaga",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97208{
+		"Colonia":"Rinconada de Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97208{
+		"Colonia":"Residencial Atlantis",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97208{
+		"Colonia":"El Cedral",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97208{
+		"Colonia":"Felipe Carrillo Puerto",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97208{
+		"Colonia":"Las Quintas (Chuburna)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97208{
+		"Colonia":"Privada Chuburna de Hidalgo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97209{
+		"Colonia":"Jardines de Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97209{
+		"Colonia":"Privada San Jorge (Chuburna)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97210{
+		"Colonia":"Tanlum",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97210{
+		"Colonia":"Joaquín Ceballos Mimenza",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97210{
+		"Colonia":"Pedregales de Tanlum",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97215{
+		"Colonia":"Colonial Buenavista",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97215{
+		"Colonia":"Colonial Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97215{
+		"Colonia":"Águilas Chuburna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97217{
+		"Colonia":"Fovissste",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97217{
+		"Colonia":"Residencial Pensiones I y II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97217{
+		"Colonia":"Francisco El Porvenir",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97217{
+		"Colonia":"Residencial Pensiones III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97217{
+		"Colonia":"Residencial Pensiones IV",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97217{
+		"Colonia":"Residencial Pensiones V",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97217{
+		"Colonia":"Residencial Pensiones VI",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97217{
+		"Colonia":"Residencial Pensiones III (1)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97217{
+		"Colonia":"Residencial Pensiones III (II)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97217{
+		"Colonia":"Pensiones Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97218{
+		"Colonia":"Roma",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97218{
+		"Colonia":"San Damián",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97218{
+		"Colonia":"Residencial Roma",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97218{
+		"Colonia":"San Isidro",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97218{
+		"Colonia":"Conjunto los Naranjos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97218{
+		"Colonia":"Lotificacion San Damián",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97218{
+		"Colonia":"Privada San Damián",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Lindavista",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Limones",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Privada Pensiones",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"San Damiancito",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Jardines de Pensiones",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Residencial del Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Amapola",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Lindavista II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Jardines de Lindavista",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Lotificacion San Damiancito I",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Lotificacion San Damiancito II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Quinta Versalles",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Unidad Habitacional Mérida Issste",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Residencial Pensiones VII",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Paseos de Pensiones",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Pensiones",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Ampliación Lindavista (Elefante Chico)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Paseos de Chenku",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97219{
+		"Colonia":"Pedregal de Lindavista",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97220{
+		"Colonia":"Nueva Hidalgo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97220{
+		"Colonia":"La Vaca Feliz",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97220{
+		"Colonia":"Miguel Hidalgo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97220{
+		"Colonia":"Zona Dorada",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97220{
+		"Colonia":"Atlántida",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97225{
+		"Colonia":"Paseo de las Fuentes",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97225{
+		"Colonia":"Privada San Pedro",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97226{
+		"Colonia":"El Porvenir",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97227{
+		"Colonia":"Jacinto Canek",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97227{
+		"Colonia":"Las Vigas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97229{
+		"Colonia":"Luis Echeverría Alvarez",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97229{
+		"Colonia":"15 de Mayo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97229{
+		"Colonia":"Hacienda San Antonio",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97229{
+		"Colonia":"Xcom",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97229{
+		"Colonia":"Zona Dorada II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97229{
+		"Colonia":"Villa Zona Dorada",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97229{
+		"Colonia":"Ampliación Roma (Luis Echeverría)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97229{
+		"Colonia":"Hacienda Inn",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97230{
+		"Colonia":"Bojorquez",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97230{
+		"Colonia":"Armando Avila Gurrutia",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97237{
+		"Colonia":"Central de Abasto",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97238{
+		"Colonia":"Nora Quintana",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97238{
+		"Colonia":"Yucalpeten",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97238{
+		"Colonia":"Villas de Yucalpeten",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97238{
+		"Colonia":"Residencial Casa Blanca",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97238{
+		"Colonia":"Brisas del Poniente (Yucalpeten)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97238{
+		"Colonia":"Jardines de Yucalpeten",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97239{
+		"Colonia":"Yucalpeten Secc Florida",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97240{
+		"Colonia":"Francisco I Madero",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97245{
+		"Colonia":"Lopez Portillo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97245{
+		"Colonia":"Xoclan Canto",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97245{
+		"Colonia":"Xoclan Santos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Juan Pablo II Secc. Mérida 2000",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Bosques del Poniente",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Jardines de Nueva Mulsay",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"La Reja",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Mulsay",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Mulsay de La Magdalena",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Xoclan",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Xoclan Xbech",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Juan Pablo II Cardenales",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Juan Pablo II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"México Poniente",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Xoclan Carmelitas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Bosques de Mulsay",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Granja Fruticola Susula",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Mulsay Solidaridad",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Hacienda Mulsay",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Ampliación Juan Pablo II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Paseos de Opichen",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Villas de Tixcacal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Los Ángeles",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Angeles II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97246{
+		"Colonia":"Anexo Juan Pablo II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97247{
+		"Colonia":"San Lorenzo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Mulsay",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Nueva Mulsay",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Nueva Mulsay I",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Plantel México",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Pedregales de Nueva Mulsay Etapa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Xoclan Susula",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Jardines de Nueva Mulsay II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Nueva Reforma Agraria",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Tixcacal Opichen",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Villa Magna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Cinturón Verde",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Villa Magna II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Ampliación Tixcacal Opichen",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Hacienda Opichen",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Jardines de Nueva Mulsay III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Núcleo Mulsay",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Girasoles de Opichen",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Hacienda Opichen",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Residencial Valparaiso",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97249{
+		"Colonia":"Diamante Paseos de Opichen",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97250{
+		"Colonia":"Nueva Sambula",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97250{
+		"Colonia":"Sambula",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97255{
+		"Colonia":"Bicentenario",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97255{
+		"Colonia":"El Roble",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97255{
+		"Colonia":"Manuel Crescencio Rejon",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97255{
+		"Colonia":"El Roble II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97255{
+		"Colonia":"Roble Agrícola III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97256{
+		"Colonia":"Álvaro Torres",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97256{
+		"Colonia":"Graciano Ricalde",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97256{
+		"Colonia":"Libertad II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97256{
+		"Colonia":"Villas Mérida",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97256{
+		"Colonia":"Pino Suárez",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97256{
+		"Colonia":"Renacimiento I",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97256{
+		"Colonia":"Industrial Bridec",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97256{
+		"Colonia":"Libertad III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97256{
+		"Colonia":"Lol-Be",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97256{
+		"Colonia":"Residencial Nicte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97258{
+		"Colonia":"Salvador Alvarado",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97259{
+		"Colonia":"Itzaez",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97260{
+		"Colonia":"Obrera",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97260{
+		"Colonia":"Villa de la Obrera II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97260{
+		"Colonia":"Villas del Mayab",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97260{
+		"Colonia":"Nueva Obrera",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97260{
+		"Colonia":"Circuito Colonias",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97260{
+		"Colonia":"Villa Moderna",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97267{
+		"Colonia":"Manzana 115",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97268{
+		"Colonia":"Delio Moreno Canton",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97268{
+		"Colonia":"Quinta Valencia",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97269{
+		"Colonia":"Meliton Salazar",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97269{
+		"Colonia":"Santa Maria de Guadalupe",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97269{
+		"Colonia":"Las Palmeras II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97270{
+		"Colonia":"Dolores Otero",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97277{
+		"Colonia":"Mercedes Barrera",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97278{
+		"Colonia":"Castilla Camara",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97278{
+		"Colonia":"Bosques del Pedregal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97279{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97279{
+		"Colonia":"Quinta Santa Rosa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97280{
+		"Colonia":"5 Colonias",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97280{
+		"Colonia":"Santa Rita",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97284{
+		"Colonia":"Lomas Del Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97284{
+		"Colonia":"Lindavista",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Bellavista",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Serapio Rendón",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"San José Tzal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Villa Bonita",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Ampliación Plan de Ayala",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Haltunchén",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Plan de Ayala Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Serapio Rendón III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Villas Del Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Lotificacion Serapio Rendón 1",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"San Carlos del Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Villa Magna del Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Jardines del Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Álamos del Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Plan de Ayala Sur III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Serapio Rendón II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Las Nubes",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97285{
+		"Colonia":"Palmas del Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97286{
+		"Colonia":"Las Brisas Del Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97287{
+		"Colonia":"Del Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97288{
+		"Colonia":"Ciudad Industrial",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97289{
+		"Colonia":"La Hacienda",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97289{
+		"Colonia":"San Nicolás Del Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97289{
+		"Colonia":"Ampliación La Hacienda",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97290{
+		"Colonia":"San Antonio Xluch",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97290{
+		"Colonia":"Nueva San Jose Tecoh",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97290{
+		"Colonia":"San Antonio Xluch II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97290{
+		"Colonia":"La Guadalupana",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97295{
+		"Colonia":"Mérida (Lic. Manuel Crescencio Rejón)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97295{
+		"Colonia":"San Marcos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97295{
+		"Colonia":"Gran Roble",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97295{
+		"Colonia":"El Roble Agrícola",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97295{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97296{
+		"Colonia":"San Marcos Nocoh",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97297{
+		"Colonia":"Villas Quetzal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97297{
+		"Colonia":"Emiliano Zapata Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97297{
+		"Colonia":"El Rosal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97297{
+		"Colonia":"San Luis Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97297{
+		"Colonia":"Metropolitana",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97297{
+		"Colonia":"San Antonio Xluch III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97298{
+		"Colonia":"Zacilha",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97298{
+		"Colonia":"San Jose Tecoh Sur",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97298{
+		"Colonia":"Privada Zuzil - Ha",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97298{
+		"Colonia":"Zazil - Ha II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97298{
+		"Colonia":"Brisas de San José",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97299{
+		"Colonia":"San Jose Tecoh",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Los Tamarindos",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Residencial Xcanatún",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Royal del Parque",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Chablekal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Komchén",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Xcanatún",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Dzidzilché",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Sierra Papacal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Piedra Antigua",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Palmequén",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Xotik",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"San Antonio Residencial",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Residencial La Alborada",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Residencial Club Norte Mérida",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"San Antonio Hool",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Real de Dzityá",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Punta Lago",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Parque Industrial Yucatán",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"San Juan Bautista",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Dzityá",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Sac-Nicté",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Temozón Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Club de Golf La Ceiba",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Las Américas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Real Montejo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Residencial del Mayab",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Las Fincas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97302{
+		"Colonia":"Núcleo Sodzil",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97303{
+		"Colonia":"Cosgaya",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97303{
+		"Colonia":"Kikteil",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97303{
+		"Colonia":"Noc Ac",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97303{
+		"Colonia":"Cheumán",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97304{
+		"Colonia":"Xcunyá",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97304{
+		"Colonia":"Tamanché",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Residencial Campestre Viladiu",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Gran San Pedro Cholul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Villas Cholul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Bogdan",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"San Luis Cholul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Cholul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Parque Central",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Sian Kaan",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Residencial Anturio",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Altavista",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Granjas Cholul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Alura",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Tixcuytún",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Villas del Bosque Cholul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"San Gabriel Tulipanes",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Cabo Norte",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Parque Natura",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"El Triunfo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Santa Gertrudis Copo",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Algarrobos Desarrollo Residencial",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Las Margaritas de Cholul",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Dzibilchaltún",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Cocoyoles",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97305{
+		"Colonia":"Jalapa",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97306{
+		"Colonia":"Chichi Suárez",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97306{
+		"Colonia":"Sitpach",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97306{
+		"Colonia":"Residencial Floresta",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97306{
+		"Colonia":"Santa María Chí",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97306{
+		"Colonia":"Los Héroes",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97307{
+		"Colonia":"La Rejoyada",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97307{
+		"Colonia":"Jardines de Rejoyada",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97307{
+		"Colonia":"Komchén (Santuario)",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97308{
+		"Colonia":"Santa María Yaxché",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97308{
+		"Colonia":"Yucatán Country Club",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97308{
+		"Colonia":"Misnébalam",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97308{
+		"Colonia":"Universidad del Mayab",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97309{
+		"Colonia":"Yaxché Casares",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97310{
+		"Colonia":"Oncán",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97312{
+		"Colonia":"Los Faisanes de Tixcacal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97312{
+		"Colonia":"Solana Residencial",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97312{
+		"Colonia":"Providencia",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97312{
+		"Colonia":"Tixcacal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97312{
+		"Colonia":"Chalmuch",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Balcones II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Ciudad Caucel II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Hogares Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Cerradas de la Herradura",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Villa Jardín",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"La Ceiba",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"La Perla Ciudad Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Gran Herradura",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"La Ciudadela",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Sol Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Jardines de Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Susulá",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Los Balcones",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Los Almendros",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Villas de Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Boulevares",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Arboleda",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Las Torres I",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Pedregales de Ciudad Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"La Herradura II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Gran Santa Fe",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Las Torres",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Viva Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Hacienda Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"La Herradura III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Las Torres II",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Centenario Cámara de Comercio Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Sol Caucel III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97314{
+		"Colonia":"Ciudad Caucel",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Nuevo San José Tecoh III",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Dzununcán",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Molas",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"San José Tzal",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Tahdzibichén",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"San Antonio Tzacalá",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Dzununcan",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Hunxectamán",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Jardines de Tahdzibichén",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"San Pedro Chimay",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Texán Cámara",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Santa Cruz Palomeque",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Xmatkuil",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"La Guadalupana",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Nuevo San José Tecoh",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97315{
+		"Colonia":"Petac",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97316{
+		"Colonia":"Dzoyaxché",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97316{
+		"Colonia":"San Ignacio Tesip",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97316{
+		"Colonia":"Yaxnic",
+		"Municipio":"Mérida, Yucatan"
+	},
+	97320{
+		"Colonia":"Las Fuentes II",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Progreso de Castro Centro",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Feliciano Canul Reyes",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Ismael Garcia",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Juan Montalvo",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Nueva Yucalpeten",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Revolución",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Hector Victoria",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Costa Azul",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"23 de Noviembre",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"La Fuente",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Fovissste",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Las Palmas",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Fovissste Brisas",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Ciénega 2000",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97320{
+		"Colonia":"Francisco I. Madero",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97324{
+		"Colonia":"Campestre Flamboyanes",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97330{
+		"Colonia":"Chicxulub Puerto",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97334{
+		"Colonia":"San Ignacio",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97336{
+		"Colonia":"Chuburna Puerto",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97336{
+		"Colonia":"Chelem",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97336{
+		"Colonia":"Yucalpeten",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97337{
+		"Colonia":"Muelle y Puerto de Altura",
+		"Municipio":"Progreso, Yucatan"
+	},
+	97340{
+		"Colonia":"Chicxulub",
+		"Municipio":"Chicxulub Pueblo, Yucatan"
+	},
+	97342{
+		"Colonia":"Quintas Baspul",
+		"Municipio":"Chicxulub Pueblo, Yucatan"
+	},
+	97343{
+		"Colonia":"Ixil",
+		"Municipio":"Ixil, Yucatan"
+	},
+	97343{
+		"Colonia":"Concepción",
+		"Municipio":"Ixil, Yucatan"
+	},
+	97343{
+		"Colonia":"San Rafael",
+		"Municipio":"Ixil, Yucatan"
+	},
+	97345{
+		"Colonia":"Jardines de Conkal",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Villas de Conkal",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Real de Conkal",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Paseo del Ángel",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Pedregales de Conkal",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Palma Real",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Bosques de Conkal",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Magnolia Residencial",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Conkal",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Los Laureles",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97345{
+		"Colonia":"Verde Limón",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97346{
+		"Colonia":"Vega del Mayab",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97346{
+		"Colonia":"X-Cuyum",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97346{
+		"Colonia":"Santa María Rosas",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97347{
+		"Colonia":"Praderas del Mayab",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97347{
+		"Colonia":"Kantoyna",
+		"Municipio":"Conkal, Yucatan"
+	},
+	97348{
+		"Colonia":"Yaxkukul",
+		"Municipio":"Yaxkukul, Yucatan"
+	},
+	97350{
+		"Colonia":"Papagayos",
+		"Municipio":"Hunucmá, Yucatan"
+	},
+	97350{
+		"Colonia":"Centro Hunucmá",
+		"Municipio":"Hunucmá, Yucatan"
+	},
+	97353{
+		"Colonia":"Texán de Palomeque",
+		"Municipio":"Hunucmá, Yucatan"
+	},
+	97353{
+		"Colonia":"San Antonio Chel",
+		"Municipio":"Hunucmá, Yucatan"
+	},
+	97353{
+		"Colonia":"Hunkanab",
+		"Municipio":"Hunucmá, Yucatan"
+	},
+	97356{
+		"Colonia":"Sisal",
+		"Municipio":"Hunucmá, Yucatan"
+	},
+	97357{
+		"Colonia":"San Juan",
+		"Municipio":"Ucú, Yucatan"
+	},
+	97357{
+		"Colonia":"Ucú",
+		"Municipio":"Ucú, Yucatan"
+	},
+	97357{
+		"Colonia":"Yaxche de Peón",
+		"Municipio":"Ucú, Yucatan"
+	},
+	97360{
+		"Colonia":"Kinchil",
+		"Municipio":"Kinchil, Yucatan"
+	},
+	97362{
+		"Colonia":"Tamchén",
+		"Municipio":"Kinchil, Yucatan"
+	},
+	97364{
+		"Colonia":"Tetiz",
+		"Municipio":"Tetiz, Yucatan"
+	},
+	97365{
+		"Colonia":"Nohuayun",
+		"Municipio":"Tetiz, Yucatan"
+	},
+	97367{
+		"Colonia":"Celestún",
+		"Municipio":"Celestún, Yucatan"
+	},
+	97367{
+		"Colonia":"Chac Canché",
+		"Municipio":"Celestún, Yucatan"
+	},
+	97367{
+		"Colonia":"Santa Cruz Xixim",
+		"Municipio":"Celestún, Yucatan"
+	},
+	97370{
+		"Colonia":"Santa Cecilia",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Valle Azul",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Privada del Sol",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Girasoles",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Fontana I",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Las Palmeras",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Arecas",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"San Haroldo San José Tzal",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Leona Vicario",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Jardines de San Pedro Noh Pat",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Puerta del Sol",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Pedregales de Kanasín II",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Valle Oriente",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Villas Turquesa",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Álamos de Oriente",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Los Pinos de Mulchechen",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Puerta Esmeralda",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"La Ceiba",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Pedregales del Oriente",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Las Palmas Yucatán",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Xelpac",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Ampliación Xelpac",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"San Ignacio",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Santa Ana",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Condesa",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Mulchechén II",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Cielo Alto",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Despertare",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Coyoles",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"El Encanto Kanasín",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Arboleda Kanasín",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"San José Kanasín",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Villa Bonita",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Rinconada Kanasín",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Villa Mercedes",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Las Perlas",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Valle Oriente de San Pedro Noh Pat",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Pedregales de Kanasín",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Residencial",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"VIVAH",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Las Haciendas",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"La Piedra",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Andrés Quintana Roo",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Alamos Mulchechen",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"El Cerrito",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Amalia Solorzano II",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Kanasín Centro",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Colibrí",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"CROC",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Francisco Villa Oriente",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Mulchechén",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"San Antonio Kaua III",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Hector Victoria",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Pablo Moreno",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Reparto las Granjas",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"San Camilo",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Los Encinos",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"San Pedro Noh Pat",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Flor de Mayo",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Jardines de Mulchechen",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Jardines de Kanasín",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Los Tulipanes",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Palmas San Pedro",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Las Flores",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Los Robles III",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"La Joya",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Los Robles",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Villas del Oriente",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97370{
+		"Colonia":"Cecilio Chi",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97373{
+		"Colonia":"Santa Isabel",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97374{
+		"Colonia":"San Aroldo",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97374{
+		"Colonia":"San Pedro (Deshuesadero)",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97374{
+		"Colonia":"Teya",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97376{
+		"Colonia":"San Antonio Tehuitz",
+		"Municipio":"Kanasín, Yucatan"
+	},
+	97377{
+		"Colonia":"Tekik de Regil",
+		"Municipio":"Timucuy, Yucatan"
+	},
+	97377{
+		"Colonia":"Timucuy",
+		"Municipio":"Timucuy, Yucatan"
+	},
+	97378{
+		"Colonia":"Subincancab",
+		"Municipio":"Timucuy, Yucatan"
+	},
+	97380{
+		"Colonia":"Santiago",
+		"Municipio":"Acanceh, Yucatan"
+	},
+	97380{
+		"Colonia":"Acanceh",
+		"Municipio":"Acanceh, Yucatan"
+	},
+	97380{
+		"Colonia":"Canicab",
+		"Municipio":"Acanceh, Yucatan"
+	},
+	97380{
+		"Colonia":"Ticopó",
+		"Municipio":"Acanceh, Yucatan"
+	},
+	97380{
+		"Colonia":"El Zapotal",
+		"Municipio":"Acanceh, Yucatan"
+	},
+	97382{
+		"Colonia":"Tepich Carrillo",
+		"Municipio":"Acanceh, Yucatan"
+	},
+	97383{
+		"Colonia":"Cibceh",
+		"Municipio":"Acanceh, Yucatan"
+	},
+	97383{
+		"Colonia":"Petectunich",
+		"Municipio":"Acanceh, Yucatan"
+	},
+	97383{
+		"Colonia":"Sacchich",
+		"Municipio":"Acanceh, Yucatan"
+	},
+	97386{
+		"Colonia":"Tixpéhual",
+		"Municipio":"Tixpéhual, Yucatan"
+	},
+	97387{
+		"Colonia":"Chocho",
+		"Municipio":"Tixpéhual, Yucatan"
+	},
+	97387{
+		"Colonia":"Kilinche",
+		"Municipio":"Tixpéhual, Yucatan"
+	},
+	97388{
+		"Colonia":"Sahe",
+		"Municipio":"Tixpéhual, Yucatan"
+	},
+	97388{
+		"Colonia":"Cuca",
+		"Municipio":"Tixpéhual, Yucatan"
+	},
+	97389{
+		"Colonia":"Techoh",
+		"Municipio":"Tixpéhual, Yucatan"
+	},
+	97390{
+		"Colonia":"Brisas de Umán",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Las Perlas de Umán",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"El Oasis",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Camino Real",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Los Arcos I",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Residencial San Lázaro",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Centro Umán",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Acim I",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Los Ceibos",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Ampliación Ciudad Industrial",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"La Mejorada",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Bosques de San Francisco",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"San Lorenzo",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Cepeda Peraza",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"La Candelaria",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Dzibikal",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Santa Elena",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Miguel Hidalgo y Costilla",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Bosques de Umán",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Los Arcos II",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"Acim II",
+		"Municipio":"Umán, Yucatan"
+	},
+	97390{
+		"Colonia":"San Carlos",
+		"Municipio":"Umán, Yucatan"
+	},
+	97392{
+		"Colonia":"Piedra de Agua",
+		"Municipio":"Umán, Yucatan"
+	},
+	97392{
+		"Colonia":"El Roble Agrícola IV",
+		"Municipio":"Umán, Yucatan"
+	},
+	97392{
+		"Colonia":"Itzincab",
+		"Municipio":"Umán, Yucatan"
+	},
+	97393{
+		"Colonia":"Oxcum",
+		"Municipio":"Umán, Yucatan"
+	},
+	97393{
+		"Colonia":"Dzibikak",
+		"Municipio":"Umán, Yucatan"
+	},
+	97394{
+		"Colonia":"Taníl",
+		"Municipio":"Umán, Yucatan"
+	},
+	97394{
+		"Colonia":"Xcucul Sur",
+		"Municipio":"Umán, Yucatan"
+	},
+	97394{
+		"Colonia":"Gran Santa Cruz",
+		"Municipio":"Umán, Yucatan"
+	},
+	97394{
+		"Colonia":"Tebec",
+		"Municipio":"Umán, Yucatan"
+	},
+	97394{
+		"Colonia":"Ticimul",
+		"Municipio":"Umán, Yucatan"
+	},
+	97394{
+		"Colonia":"Petecbiltun",
+		"Municipio":"Umán, Yucatan"
+	},
+	97394{
+		"Colonia":"Xtepen",
+		"Municipio":"Umán, Yucatan"
+	},
+	97395{
+		"Colonia":"Hotzuc",
+		"Municipio":"Umán, Yucatan"
+	},
+	97396{
+		"Colonia":"Yaxcopoil",
+		"Municipio":"Umán, Yucatan"
+	},
+	97396{
+		"Colonia":"San Antonio Mulix",
+		"Municipio":"Umán, Yucatan"
+	},
+	97397{
+		"Colonia":"Bolon",
+		"Municipio":"Umán, Yucatan"
+	},
+	97397{
+		"Colonia":"Oxholon",
+		"Municipio":"Umán, Yucatan"
+	},
+	97397{
+		"Colonia":"San Antonio Chun",
+		"Municipio":"Umán, Yucatan"
+	},
+	97397{
+		"Colonia":"Poxila",
+		"Municipio":"Umán, Yucatan"
+	},
+	97400{
+		"Colonia":"Centro Telchac Pueblo",
+		"Municipio":"Telchac Pueblo, Yucatan"
+	},
+	97404{
+		"Colonia":"INFONAVIT",
+		"Municipio":"Dzemul, Yucatan"
+	},
+	97404{
+		"Colonia":"Dzemul",
+		"Municipio":"Dzemul, Yucatan"
+	},
+	97405{
+		"Colonia":"Xtampú",
+		"Municipio":"Dzemul, Yucatan"
+	},
+	97405{
+		"Colonia":"Xcambó",
+		"Municipio":"Dzemul, Yucatan"
+	},
+	97406{
+		"Colonia":"San Eduardo",
+		"Municipio":"Dzemul, Yucatan"
+	},
+	97406{
+		"Colonia":"San Diego",
+		"Municipio":"Dzemul, Yucatan"
+	},
+	97407{
+		"Colonia":"Telchac Puerto",
+		"Municipio":"Telchac Puerto, Yucatan"
+	},
+	97410{
+		"Colonia":"Cansahcab",
+		"Municipio":"Cansahcab, Yucatan"
+	},
+	97414{
+		"Colonia":"Santa María",
+		"Municipio":"Cansahcab, Yucatan"
+	},
+	97415{
+		"Colonia":"San Antonio Xiat",
+		"Municipio":"Cansahcab, Yucatan"
+	},
+	97415{
+		"Colonia":"Kankabchen de Molina",
+		"Municipio":"Cansahcab, Yucatan"
+	},
+	97417{
+		"Colonia":"San Antonio",
+		"Municipio":"Cansahcab, Yucatan"
+	},
+	97420{
+		"Colonia":"Sinanché",
+		"Municipio":"Sinanché, Yucatan"
+	},
+	97420{
+		"Colonia":"Miguel Alemán",
+		"Municipio":"Sinanché, Yucatan"
+	},
+	97424{
+		"Colonia":"San Crisanto",
+		"Municipio":"Sinanché, Yucatan"
+	},
+	97425{
+		"Colonia":"Yobaín",
+		"Municipio":"Yobaín, Yucatan"
+	},
+	97426{
+		"Colonia":"Chabihau",
+		"Municipio":"Yobaín, Yucatan"
+	},
+	97430{
+		"Colonia":"Motul de Carrillo Puerto Centro",
+		"Municipio":"Motul, Yucatan"
+	},
+	97430{
+		"Colonia":"Sambula",
+		"Municipio":"Motul, Yucatan"
+	},
+	97432{
+		"Colonia":"San Silverio",
+		"Municipio":"Motul, Yucatan"
+	},
+	97432{
+		"Colonia":"Felipe Carrillo Puerto",
+		"Municipio":"Motul, Yucatan"
+	},
+	97432{
+		"Colonia":"Infonavit",
+		"Municipio":"Motul, Yucatan"
+	},
+	97432{
+		"Colonia":"Mario H Cuevas",
+		"Municipio":"Motul, Yucatan"
+	},
+	97432{
+		"Colonia":"Perla de La Costa",
+		"Municipio":"Motul, Yucatan"
+	},
+	97432{
+		"Colonia":"Las Huertas",
+		"Municipio":"Motul, Yucatan"
+	},
+	97432{
+		"Colonia":"Puerta del Sol",
+		"Municipio":"Motul, Yucatan"
+	},
+	97432{
+		"Colonia":"Londres",
+		"Municipio":"Motul, Yucatan"
+	},
+	97432{
+		"Colonia":"Vivah",
+		"Municipio":"Motul, Yucatan"
+	},
+	97433{
+		"Colonia":"San Carlos",
+		"Municipio":"Motul, Yucatan"
+	},
+	97433{
+		"Colonia":"Santiago Castillo",
+		"Municipio":"Motul, Yucatan"
+	},
+	97433{
+		"Colonia":"San Juan",
+		"Municipio":"Motul, Yucatan"
+	},
+	97433{
+		"Colonia":"Santa Cruz Pachón",
+		"Municipio":"Motul, Yucatan"
+	},
+	97434{
+		"Colonia":"Edesio Carrillo",
+		"Municipio":"Motul, Yucatan"
+	},
+	97434{
+		"Colonia":"Rogelio Chale",
+		"Municipio":"Motul, Yucatan"
+	},
+	97434{
+		"Colonia":"La Herradura",
+		"Municipio":"Motul, Yucatan"
+	},
+	97434{
+		"Colonia":"San Roque",
+		"Municipio":"Motul, Yucatan"
+	},
+	97434{
+		"Colonia":"El Roble",
+		"Municipio":"Motul, Yucatan"
+	},
+	97436{
+		"Colonia":"Sacapuc",
+		"Municipio":"Motul, Yucatan"
+	},
+	97436{
+		"Colonia":"Timul",
+		"Municipio":"Motul, Yucatan"
+	},
+	97437{
+		"Colonia":"Kini",
+		"Municipio":"Motul, Yucatan"
+	},
+	97440{
+		"Colonia":"Uci",
+		"Municipio":"Motul, Yucatan"
+	},
+	97440{
+		"Colonia":"Kancabchen",
+		"Municipio":"Motul, Yucatan"
+	},
+	97440{
+		"Colonia":"Komchén Martínez",
+		"Municipio":"Motul, Yucatan"
+	},
+	97440{
+		"Colonia":"Santa Teresa",
+		"Municipio":"Motul, Yucatan"
+	},
+	97440{
+		"Colonia":"San Pedro Chacabal",
+		"Municipio":"Motul, Yucatan"
+	},
+	97443{
+		"Colonia":"Tanya",
+		"Municipio":"Motul, Yucatan"
+	},
+	97443{
+		"Colonia":"Kancabal",
+		"Municipio":"Motul, Yucatan"
+	},
+	97444{
+		"Colonia":"Kaxatah",
+		"Municipio":"Motul, Yucatan"
+	},
+	97444{
+		"Colonia":"Mesatunich",
+		"Municipio":"Motul, Yucatan"
+	},
+	97444{
+		"Colonia":"Kopte",
+		"Municipio":"Motul, Yucatan"
+	},
+	97444{
+		"Colonia":"Kambul",
+		"Municipio":"Motul, Yucatan"
+	},
+	97444{
+		"Colonia":"Dzununcan",
+		"Municipio":"Motul, Yucatan"
+	},
+	97444{
+		"Colonia":"Kancabchén Uci",
+		"Municipio":"Motul, Yucatan"
+	},
+	97444{
+		"Colonia":"San Pedro Camara",
+		"Municipio":"Motul, Yucatan"
+	},
+	97445{
+		"Colonia":"San Antonio Dzinah",
+		"Municipio":"Motul, Yucatan"
+	},
+	97446{
+		"Colonia":"San José Hili",
+		"Municipio":"Motul, Yucatan"
+	},
+	97446{
+		"Colonia":"Sakolá",
+		"Municipio":"Motul, Yucatan"
+	},
+	97450{
+		"Colonia":"Baca",
+		"Municipio":"Baca, Yucatan"
+	},
+	97452{
+		"Colonia":"Tixkuncheil",
+		"Municipio":"Baca, Yucatan"
+	},
+	97452{
+		"Colonia":"Kankabchen",
+		"Municipio":"Baca, Yucatan"
+	},
+	97453{
+		"Colonia":"San Isidro Kuxub",
+		"Municipio":"Baca, Yucatan"
+	},
+	97453{
+		"Colonia":"San Nicolás",
+		"Municipio":"Baca, Yucatan"
+	},
+	97454{
+		"Colonia":"Mococha",
+		"Municipio":"Mocochá, Yucatan"
+	},
+	97455{
+		"Colonia":"Too",
+		"Municipio":"Mocochá, Yucatan"
+	},
+	97456{
+		"Colonia":"Tekat",
+		"Municipio":"Mocochá, Yucatan"
+	},
+	97457{
+		"Colonia":"Muxupip",
+		"Municipio":"Muxupip, Yucatan"
+	},
+	97458{
+		"Colonia":"San Juan Koop",
+		"Municipio":"Muxupip, Yucatan"
+	},
+	97458{
+		"Colonia":"San José Grande",
+		"Municipio":"Muxupip, Yucatan"
+	},
+	97460{
+		"Colonia":"Santa Teresa",
+		"Municipio":"Cacalchén, Yucatan"
+	},
+	97460{
+		"Colonia":"Cacalchen",
+		"Municipio":"Cacalchén, Yucatan"
+	},
+	97466{
+		"Colonia":"Bokobá",
+		"Municipio":"Bokobá, Yucatan"
+	},
+	97470{
+		"Colonia":"Tixkokob",
+		"Municipio":"Tixkokob, Yucatan"
+	},
+	97473{
+		"Colonia":"Kankabchen",
+		"Municipio":"Tixkokob, Yucatan"
+	},
+	97473{
+		"Colonia":"San José",
+		"Municipio":"Tixkokob, Yucatan"
+	},
+	97474{
+		"Colonia":"Ekmul",
+		"Municipio":"Tixkokob, Yucatan"
+	},
+	97474{
+		"Colonia":"Euan",
+		"Municipio":"Tixkokob, Yucatan"
+	},
+	97474{
+		"Colonia":"Ruinas de Ake",
+		"Municipio":"Tixkokob, Yucatan"
+	},
+	97475{
+		"Colonia":"Hubila",
+		"Municipio":"Tixkokob, Yucatan"
+	},
+	97476{
+		"Colonia":"San Antonio Millet",
+		"Municipio":"Tixkokob, Yucatan"
+	},
+	97477{
+		"Colonia":"Nolo",
+		"Municipio":"Tixkokob, Yucatan"
+	},
+	97480{
+		"Colonia":"Hoctun",
+		"Municipio":"Hoctún, Yucatan"
+	},
+	97483{
+		"Colonia":"Dziuche",
+		"Municipio":"Hoctún, Yucatan"
+	},
+	97486{
+		"Colonia":"San José Oriente",
+		"Municipio":"Hoctún, Yucatan"
+	},
+	97490{
+		"Colonia":"Tahmek",
+		"Municipio":"Tahmek, Yucatan"
+	},
+	97500{
+		"Colonia":"Dzidzantún",
+		"Municipio":"Dzidzantún, Yucatan"
+	},
+	97500{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Dzidzantún, Yucatan"
+	},
+	97500{
+		"Colonia":"San Diego Chumul",
+		"Municipio":"Dzidzantún, Yucatan"
+	},
+	97500{
+		"Colonia":"San Juan",
+		"Municipio":"Dzidzantún, Yucatan"
+	},
+	97500{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Dzidzantún, Yucatan"
+	},
+	97504{
+		"Colonia":"Mina de Oro",
+		"Municipio":"Dzidzantún, Yucatan"
+	},
+	97504{
+		"Colonia":"Santa Clara",
+		"Municipio":"Dzidzantún, Yucatan"
+	},
+	97506{
+		"Colonia":"San Francisco Manzanilla",
+		"Municipio":"Dzidzantún, Yucatan"
+	},
+	97510{
+		"Colonia":"Temax",
+		"Municipio":"Temax, Yucatan"
+	},
+	97513{
+		"Colonia":"San Antonio Camara",
+		"Municipio":"Temax, Yucatan"
+	},
+	97515{
+		"Colonia":"Chucmichén",
+		"Municipio":"Temax, Yucatan"
+	},
+	97515{
+		"Colonia":"Chenche de Las Torres",
+		"Municipio":"Temax, Yucatan"
+	},
+	97516{
+		"Colonia":"Santa Ursula",
+		"Municipio":"Temax, Yucatan"
+	},
+	97520{
+		"Colonia":"Tekantó",
+		"Municipio":"Tekantó, Yucatan"
+	},
+	97522{
+		"Colonia":"Tixkocho",
+		"Municipio":"Tekantó, Yucatan"
+	},
+	97522{
+		"Colonia":"Sanlatah",
+		"Municipio":"Tekantó, Yucatan"
+	},
+	97523{
+		"Colonia":"San Francisco Dzan",
+		"Municipio":"Tekantó, Yucatan"
+	},
+	97524{
+		"Colonia":"Teya",
+		"Municipio":"Teya, Yucatan"
+	},
+	97527{
+		"Colonia":"Suma",
+		"Municipio":"Suma, Yucatan"
+	},
+	97527{
+		"Colonia":"San Nicolás",
+		"Municipio":"Suma, Yucatan"
+	},
+	97530{
+		"Colonia":"Tepakán",
+		"Municipio":"Tepakán, Yucatan"
+	},
+	97532{
+		"Colonia":"Kantirix",
+		"Municipio":"Tepakán, Yucatan"
+	},
+	97535{
+		"Colonia":"Tekal de Venegas",
+		"Municipio":"Tekal de Venegas, Yucatan"
+	},
+	97536{
+		"Colonia":"El Ancla",
+		"Municipio":"Tekal de Venegas, Yucatan"
+	},
+	97536{
+		"Colonia":"Tohoku",
+		"Municipio":"Tekal de Venegas, Yucatan"
+	},
+	97536{
+		"Colonia":"San Felipe",
+		"Municipio":"Tekal de Venegas, Yucatan"
+	},
+	97540{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97540{
+		"Colonia":"Quinta Real",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97540{
+		"Colonia":"San Genaro",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97540{
+		"Colonia":"Santo Domingo",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97540{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97540{
+		"Colonia":"Izamal",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97540{
+		"Colonia":"Real del Sol",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97540{
+		"Colonia":"San Juan Izamal",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97545{
+		"Colonia":"Sitilpech",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97550{
+		"Colonia":"Citilcum",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97550{
+		"Colonia":"Kimbila",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97553{
+		"Colonia":"San José Kanán",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97555{
+		"Colonia":"Cuauhtémoc",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97556{
+		"Colonia":"Xanabá",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97556{
+		"Colonia":"Yaxché",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97556{
+		"Colonia":"Popolá",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97557{
+		"Colonia":"San José",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97557{
+		"Colonia":"San Antonio",
+		"Municipio":"Izamal, Yucatan"
+	},
+	97560{
+		"Colonia":"Hocabá",
+		"Municipio":"Hocabá, Yucatan"
+	},
+	97563{
+		"Colonia":"El Nance",
+		"Municipio":"Hocabá, Yucatan"
+	},
+	97564{
+		"Colonia":"Sahcaba",
+		"Municipio":"Hocabá, Yucatan"
+	},
+	97566{
+		"Colonia":"Xocchel",
+		"Municipio":"Xocchel, Yucatan"
+	},
+	97570{
+		"Colonia":"Seyé",
+		"Municipio":"Seyé, Yucatan"
+	},
+	97570{
+		"Colonia":"Vicente Guerrero",
+		"Municipio":"Seyé, Yucatan"
+	},
+	97573{
+		"Colonia":"Holactún",
+		"Municipio":"Seyé, Yucatan"
+	},
+	97574{
+		"Colonia":"Xucu",
+		"Municipio":"Seyé, Yucatan"
+	},
+	97575{
+		"Colonia":"San Bernardino",
+		"Municipio":"Seyé, Yucatan"
+	},
+	97575{
+		"Colonia":"Nohcham",
+		"Municipio":"Seyé, Yucatan"
+	},
+	97577{
+		"Colonia":"Cuzama",
+		"Municipio":"Cuzamá, Yucatan"
+	},
+	97577{
+		"Colonia":"Eknacan",
+		"Municipio":"Cuzamá, Yucatan"
+	},
+	97577{
+		"Colonia":"Nohchacan",
+		"Municipio":"Cuzamá, Yucatan"
+	},
+	97578{
+		"Colonia":"Yaxkukul",
+		"Municipio":"Cuzamá, Yucatan"
+	},
+	97578{
+		"Colonia":"Chunkanan",
+		"Municipio":"Cuzamá, Yucatan"
+	},
+	97579{
+		"Colonia":"San Francisco Sisal",
+		"Municipio":"Cuzamá, Yucatan"
+	},
+	97580{
+		"Colonia":"Viva",
+		"Municipio":"Homún, Yucatan"
+	},
+	97580{
+		"Colonia":"Homun",
+		"Municipio":"Homún, Yucatan"
+	},
+	97583{
+		"Colonia":"Polabán",
+		"Municipio":"Homún, Yucatan"
+	},
+	97585{
+		"Colonia":"Yalahau",
+		"Municipio":"Homún, Yucatan"
+	},
+	97586{
+		"Colonia":"San Isidro Ochil",
+		"Municipio":"Homún, Yucatan"
+	},
+	97587{
+		"Colonia":"Sanahcat",
+		"Municipio":"Sanahcat, Yucatan"
+	},
+	97590{
+		"Colonia":"Huhí",
+		"Municipio":"Huhí, Yucatan"
+	},
+	97596{
+		"Colonia":"Tixcacal Quintero",
+		"Municipio":"Huhí, Yucatan"
+	},
+	97600{
+		"Colonia":"Dzilam González",
+		"Municipio":"Dzilam González, Yucatan"
+	},
+	97604{
+		"Colonia":"Dzonot Sabila",
+		"Municipio":"Dzilam González, Yucatan"
+	},
+	97606{
+		"Colonia":"Dzilam de Bravo",
+		"Municipio":"Dzilam de Bravo, Yucatan"
+	},
+	97608{
+		"Colonia":"Chun-Xaan",
+		"Municipio":"Dzilam de Bravo, Yucatan"
+	},
+	97609{
+		"Colonia":"Kennedy",
+		"Municipio":"Dzilam de Bravo, Yucatan"
+	},
+	97610{
+		"Colonia":"Panaba",
+		"Municipio":"Panabá, Yucatan"
+	},
+	97614{
+		"Colonia":"San Juan del Río",
+		"Municipio":"Panabá, Yucatan"
+	},
+	97614{
+		"Colonia":"Loche",
+		"Municipio":"Panabá, Yucatan"
+	},
+	97614{
+		"Colonia":"San Francisco",
+		"Municipio":"Panabá, Yucatan"
+	},
+	97615{
+		"Colonia":"San Antonio",
+		"Municipio":"Panabá, Yucatan"
+	},
+	97615{
+		"Colonia":"Cenote Yalsihón Buena Fe",
+		"Municipio":"Panabá, Yucatan"
+	},
+	97615{
+		"Colonia":"Vista Alegre",
+		"Municipio":"Panabá, Yucatan"
+	},
+	97615{
+		"Colonia":"Noczal",
+		"Municipio":"Panabá, Yucatan"
+	},
+	97616{
+		"Colonia":"San Felipe",
+		"Municipio":"San Felipe, Yucatan"
+	},
+	97620{
+		"Colonia":"Buctzotz",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97623{
+		"Colonia":"X-bec",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97623{
+		"Colonia":"Chanmotul",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97624{
+		"Colonia":"Nohyaxche",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97624{
+		"Colonia":"La Gran Lucha",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97625{
+		"Colonia":"Nup-Dzonot",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97625{
+		"Colonia":"B. Esperanza",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97625{
+		"Colonia":"San Francisco",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97625{
+		"Colonia":"Grano de Oro",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97625{
+		"Colonia":"U. Juárez",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97626{
+		"Colonia":"San Juan",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97626{
+		"Colonia":"San Pedro",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97627{
+		"Colonia":"Santo Domingo",
+		"Municipio":"Buctzotz, Yucatan"
+	},
+	97630{
+		"Colonia":"Sucilá",
+		"Municipio":"Sucilá, Yucatan"
+	},
+	97634{
+		"Colonia":"Chan Panaba",
+		"Municipio":"Sucilá, Yucatan"
+	},
+	97636{
+		"Colonia":"A.G. San Martín",
+		"Municipio":"Sucilá, Yucatan"
+	},
+	97640{
+		"Colonia":"Cenotillo",
+		"Municipio":"Cenotillo, Yucatan"
+	},
+	97645{
+		"Colonia":"Tixbacab",
+		"Municipio":"Cenotillo, Yucatan"
+	},
+	97645{
+		"Colonia":"X-Lobos",
+		"Municipio":"Cenotillo, Yucatan"
+	},
+	97645{
+		"Colonia":"Tucina",
+		"Municipio":"Cenotillo, Yucatan"
+	},
+	97646{
+		"Colonia":"Dzoncauich",
+		"Municipio":"Dzoncauich, Yucatan"
+	},
+	97647{
+		"Colonia":"Chacmay",
+		"Municipio":"Dzoncauich, Yucatan"
+	},
+	97650{
+		"Colonia":"Tunkás",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97653{
+		"Colonia":"San José Pibtuch",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97653{
+		"Colonia":"Chabak",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97654{
+		"Colonia":"Nicte Ha",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97654{
+		"Colonia":"Mactun",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97654{
+		"Colonia":"Kancabchén",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97654{
+		"Colonia":"Noc Ac",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97654{
+		"Colonia":"Chakan Ebula",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97654{
+		"Colonia":"Onichen",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97654{
+		"Colonia":"San Román",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97654{
+		"Colonia":"San Antonio Chuc",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97654{
+		"Colonia":"Yaxha",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97654{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Tunkás, Yucatan"
+	},
+	97655{
+		"Colonia":"Quintana Roo",
+		"Municipio":"Quintana Roo, Yucatan"
+	},
+	97660{
+		"Colonia":"Dzitás",
+		"Municipio":"Dzitás, Yucatan"
+	},
+	97666{
+		"Colonia":"Xocempich",
+		"Municipio":"Dzitás, Yucatan"
+	},
+	97666{
+		"Colonia":"Yaxche",
+		"Municipio":"Dzitás, Yucatan"
+	},
+	97670{
+		"Colonia":"Kantunil",
+		"Municipio":"Kantunil, Yucatan"
+	},
+	97675{
+		"Colonia":"Holcá",
+		"Municipio":"Kantunil, Yucatan"
+	},
+	97676{
+		"Colonia":"Sudzal",
+		"Municipio":"Sudzal, Yucatan"
+	},
+	97677{
+		"Colonia":"Brasil",
+		"Municipio":"Sudzal, Yucatan"
+	},
+	97677{
+		"Colonia":"San Antonio Chalante",
+		"Municipio":"Sudzal, Yucatan"
+	},
+	97677{
+		"Colonia":"San Juan",
+		"Municipio":"Sudzal, Yucatan"
+	},
+	97677{
+		"Colonia":"Tzalam",
+		"Municipio":"Sudzal, Yucatan"
+	},
+	97677{
+		"Colonia":"San Martín",
+		"Municipio":"Sudzal, Yucatan"
+	},
+	97678{
+		"Colonia":"Chumbec",
+		"Municipio":"Sudzal, Yucatan"
+	},
+	97678{
+		"Colonia":"Kamcabchen",
+		"Municipio":"Sudzal, Yucatan"
+	},
+	97680{
+		"Colonia":"Tekit",
+		"Municipio":"Tekit, Yucatan"
+	},
+	97684{
+		"Colonia":"Susula",
+		"Municipio":"Tekit, Yucatan"
+	},
+	97686{
+		"Colonia":"Yaxic",
+		"Municipio":"Tekit, Yucatan"
+	},
+	97690{
+		"Colonia":"Sotuta",
+		"Municipio":"Sotuta, Yucatan"
+	},
+	97694{
+		"Colonia":"Tibolon",
+		"Municipio":"Sotuta, Yucatan"
+	},
+	97695{
+		"Colonia":"Tabi",
+		"Municipio":"Sotuta, Yucatan"
+	},
+	97697{
+		"Colonia":"Zavala",
+		"Municipio":"Sotuta, Yucatan"
+	},
+	97700{
+		"Colonia":"Tizimin Centro",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97700{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Las Palmas",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Residencial Tizimín",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Comichén",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Fovissste",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Jacinto Canek",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"8 Calles",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Los Reyes",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Aviación",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Santa Maria",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Zoológico",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Villas Campestre",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Campestre San Francisco",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Justo Sierra",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"Viva",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97702{
+		"Colonia":"San Martín",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97703{
+		"Colonia":"Adolfo Lopez Mateos",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97703{
+		"Colonia":"San Jose Nabalam",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97703{
+		"Colonia":"Santo Domingo",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97703{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97703{
+		"Colonia":"San Carlos",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97703{
+		"Colonia":"Huayita",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97703{
+		"Colonia":"Los Reyes",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97704{
+		"Colonia":"Adolfo López Mateos",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97704{
+		"Colonia":"Los Aguacates",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97704{
+		"Colonia":"Santa Maria de Lima",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97704{
+		"Colonia":"Residencial Del Parque",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97705{
+		"Colonia":"Sucopó",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97705{
+		"Colonia":"Chan San Antonio",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97705{
+		"Colonia":"Kikil",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97705{
+		"Colonia":"Yokdzonot Meneses",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97705{
+		"Colonia":"X-Pambihá",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"Xkalax de Dzibalkú",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"Santa Clara Dzibalkú",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"Dzadz Palma",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"San Antonio",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"Libre Unión",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"Dzonot Box",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"San Román",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"Chunsubul",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"X-Panhatoro",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"Chenkekén",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"Buena Esperanza",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"Bondzonot Número Dos",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"X-Lal",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"X-Cail",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97706{
+		"Colonia":"Dzonot Tigre",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97707{
+		"Colonia":"Yohactún de Hidalgo",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97707{
+		"Colonia":"Dzonot Carretero",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97707{
+		"Colonia":"El Cuyo",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97707{
+		"Colonia":"San Francisco",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97707{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97707{
+		"Colonia":"San Juan",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97707{
+		"Colonia":"Moctezuma",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97707{
+		"Colonia":"Dolores",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97707{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"San Pedro Juárez",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"Colonia Yucatán",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"Dzonot Aké",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"San Isidro Chuncopó",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"Yaxchekú",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"Teapa",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"La Sierra",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"Felipe Carrillo Puerto Dos",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"San Enrique",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"Kabichén",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"El Ramonal",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"Orizaba",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97710{
+		"Colonia":"San Luis Tzuctuk",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97712{
+		"Colonia":"Santa Rosa Concepción",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"San Miguel",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"Santa Pilar",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"Santa Isabel",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"Santa Rosa y Anexas",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"Cenote Azul",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"Samaria",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"Rancho Grande",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"Santa Ana",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"Paraíso",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97713{
+		"Colonia":"La Libertad",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97714{
+		"Colonia":"Santa María",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97714{
+		"Colonia":"San Pedro Sacboc",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"San Hipólito",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"El Limonar",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"San Pedro Bacab",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"Nuevo León",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"Nuevo Tezoco",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"San Arturo",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"San Isidro",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"Francisco Villa",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"Manuel Cepeda Peraza",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"Santa Clara",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"Tres Marias",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"San Juan",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"Santa Elena",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97715{
+		"Colonia":"Luis Rosado Vega",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"San Manuel",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"Papoinah",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"El Edén (Yaxic)",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"Adolfo López Mateos",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"Quintana",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"San José Montecristo",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"Felipe Carrillo Puerto Número Uno",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"Chan Tres Reyes",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"La Esperanza",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97716{
+		"Colonia":"San Isidro Kilómetro Catorce (San Isidro)",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97717{
+		"Colonia":"Tixcancal",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97717{
+		"Colonia":"Chan Cenote",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97717{
+		"Colonia":"San Isidro Kancabdzonot",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97717{
+		"Colonia":"Trascorral",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97717{
+		"Colonia":"Dzonot Mezo",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97717{
+		"Colonia":"San Lorenzo",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97717{
+		"Colonia":"San Lorenzo Chiquilá",
+		"Municipio":"Tizimín, Yucatan"
+	},
+	97720{
+		"Colonia":"Río Lagartos",
+		"Municipio":"Río Lagartos, Yucatan"
+	},
+	97723{
+		"Colonia":"Las Coloradas",
+		"Municipio":"Río Lagartos, Yucatan"
+	},
+	97726{
+		"Colonia":"Quinientos",
+		"Municipio":"Río Lagartos, Yucatan"
+	},
+	97730{
+		"Colonia":"Espita",
+		"Municipio":"Espita, Yucatan"
+	},
+	97730{
+		"Colonia":"Santa Cruz Regario",
+		"Municipio":"Espita, Yucatan"
+	},
+	97733{
+		"Colonia":"Nacuche",
+		"Municipio":"Espita, Yucatan"
+	},
+	97734{
+		"Colonia":"San Antonio Xuilub",
+		"Municipio":"Espita, Yucatan"
+	},
+	97734{
+		"Colonia":"Kunche",
+		"Municipio":"Espita, Yucatan"
+	},
+	97734{
+		"Colonia":"San Pedro Chenchelo",
+		"Municipio":"Espita, Yucatan"
+	},
+	97739{
+		"Colonia":"Holcá",
+		"Municipio":"Espita, Yucatan"
+	},
+	97740{
+		"Colonia":"Temozón",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97743{
+		"Colonia":"Santa Rita",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97743{
+		"Colonia":"Xeb",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97743{
+		"Colonia":"Kante",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97743{
+		"Colonia":"Actuncah",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97743{
+		"Colonia":"Ekbalam",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97743{
+		"Colonia":"Xuch",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97744{
+		"Colonia":"Hunukú",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97744{
+		"Colonia":"Nahbalam",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97744{
+		"Colonia":"Yokdzonot Presentado",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97744{
+		"Colonia":"Xcanchechen",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97744{
+		"Colonia":"Xtut",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97744{
+		"Colonia":"Dzalbay",
+		"Municipio":"Temozón, Yucatan"
+	},
+	97745{
+		"Colonia":"Calotmul",
+		"Municipio":"Calotmul, Yucatan"
+	},
+	97746{
+		"Colonia":"Tahcabo",
+		"Municipio":"Calotmul, Yucatan"
+	},
+	97747{
+		"Colonia":"Pocoboch",
+		"Municipio":"Calotmul, Yucatan"
+	},
+	97748{
+		"Colonia":"Yokdzonot",
+		"Municipio":"Calotmul, Yucatan"
+	},
+	97750{
+		"Colonia":"Tinum",
+		"Municipio":"Tinum, Yucatan"
+	},
+	97751{
+		"Colonia":"Piste",
+		"Municipio":"Tinum, Yucatan"
+	},
+	97753{
+		"Colonia":"Poom",
+		"Municipio":"Tinum, Yucatan"
+	},
+	97754{
+		"Colonia":"Balantun",
+		"Municipio":"Tinum, Yucatan"
+	},
+	97755{
+		"Colonia":"San Francisco",
+		"Municipio":"Tinum, Yucatan"
+	},
+	97755{
+		"Colonia":"San Francisco Grande",
+		"Municipio":"Tinum, Yucatan"
+	},
+	97755{
+		"Colonia":"Tohopku",
+		"Municipio":"Tinum, Yucatan"
+	},
+	97756{
+		"Colonia":"X-Calakoop",
+		"Municipio":"Tinum, Yucatan"
+	},
+	97756{
+		"Colonia":"San Felipe",
+		"Municipio":"Tinum, Yucatan"
+	},
+	97757{
+		"Colonia":"Chichen-itza",
+		"Municipio":"Tinum, Yucatan"
+	},
+	97758{
+		"Colonia":"Tzukmuc",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"Xanlá",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"Muchucuxcáh",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"Chankom",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"Ticimul",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"Xcopteil",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"Xcatun",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"Xtohil",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"San Isidro",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"Pambá",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"Nicte-Ha",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"X-Cocail",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"X-Bohom",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"Yokdzonot",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97758{
+		"Colonia":"San Juan",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97759{
+		"Colonia":"San Juan Xkalakdzonot",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97759{
+		"Colonia":"Xcalakdzonot",
+		"Municipio":"Chankom, Yucatan"
+	},
+	97760{
+		"Colonia":"Chichimilá",
+		"Municipio":"Chichimilá, Yucatan"
+	},
+	97760{
+		"Colonia":"San José",
+		"Municipio":"Chichimilá, Yucatan"
+	},
+	97760{
+		"Colonia":"Celtun",
+		"Municipio":"Chichimilá, Yucatan"
+	},
+	97760{
+		"Colonia":"X-Chay",
+		"Municipio":"Chichimilá, Yucatan"
+	},
+	97760{
+		"Colonia":"Chan X-Cail",
+		"Municipio":"Chichimilá, Yucatan"
+	},
+	97760{
+		"Colonia":"Tixcancal Dzonot",
+		"Municipio":"Chichimilá, Yucatan"
+	},
+	97760{
+		"Colonia":"San Pedro",
+		"Municipio":"Chichimilá, Yucatan"
+	},
+	97761{
+		"Colonia":"Dzitox",
+		"Municipio":"Chichimilá, Yucatan"
+	},
+	97762{
+		"Colonia":"Tixcacalcupul",
+		"Municipio":"Tixcacalcupul, Yucatan"
+	},
+	97763{
+		"Colonia":"Carolina",
+		"Municipio":"Tixcacalcupul, Yucatan"
+	},
+	97763{
+		"Colonia":"San José",
+		"Municipio":"Tixcacalcupul, Yucatan"
+	},
+	97763{
+		"Colonia":"Monte Verde",
+		"Municipio":"Tixcacalcupul, Yucatan"
+	},
+	97763{
+		"Colonia":"Poop",
+		"Municipio":"Tixcacalcupul, Yucatan"
+	},
+	97763{
+		"Colonia":"Ekpedz",
+		"Municipio":"Tixcacalcupul, Yucatan"
+	},
+	97763{
+		"Colonia":"Mahas",
+		"Municipio":"Tixcacalcupul, Yucatan"
+	},
+	97763{
+		"Colonia":"Xtobil",
+		"Municipio":"Tixcacalcupul, Yucatan"
+	},
+	97764{
+		"Colonia":"Kaua",
+		"Municipio":"Kaua, Yucatan"
+	},
+	97764{
+		"Colonia":"Xtzeal",
+		"Municipio":"Kaua, Yucatan"
+	},
+	97765{
+		"Colonia":"San Esteban",
+		"Municipio":"Kaua, Yucatan"
+	},
+	97766{
+		"Colonia":"Cuncunul",
+		"Municipio":"Cuncunul, Yucatan"
+	},
+	97766{
+		"Colonia":"San Francisco",
+		"Municipio":"Cuncunul, Yucatan"
+	},
+	97766{
+		"Colonia":"San Diego",
+		"Municipio":"Cuncunul, Yucatan"
+	},
+	97767{
+		"Colonia":"Chebalam",
+		"Municipio":"Cuncunul, Yucatan"
+	},
+	97768{
+		"Colonia":"Tekom",
+		"Municipio":"Tekom, Yucatan"
+	},
+	97768{
+		"Colonia":"San Antonio",
+		"Municipio":"Tekom, Yucatan"
+	},
+	97768{
+		"Colonia":"Dzidzilché",
+		"Municipio":"Tekom, Yucatan"
+	},
+	97769{
+		"Colonia":"X-Cocmil",
+		"Municipio":"Tekom, Yucatan"
+	},
+	97769{
+		"Colonia":"Chindzonot",
+		"Municipio":"Tekom, Yucatan"
+	},
+	97769{
+		"Colonia":"Pocbichen",
+		"Municipio":"Tekom, Yucatan"
+	},
+	97769{
+		"Colonia":"Xuxcab",
+		"Municipio":"Tekom, Yucatan"
+	},
+	97769{
+		"Colonia":"Chibilub",
+		"Municipio":"Tekom, Yucatan"
+	},
+	97770{
+		"Colonia":"Chemax",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97770{
+		"Colonia":"Benito Juárez García",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97773{
+		"Colonia":"X-Catzín (Catzín)",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97773{
+		"Colonia":"Uspibil",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97773{
+		"Colonia":"Chechmil",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97773{
+		"Colonia":"Xmaab",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97773{
+		"Colonia":"Xuneb",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97773{
+		"Colonia":"Xalaú",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97773{
+		"Colonia":"Kuxeb",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97774{
+		"Colonia":"X-can",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97774{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97774{
+		"Colonia":"Cholul",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97774{
+		"Colonia":"San Andrés",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97774{
+		"Colonia":"San Roman",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97774{
+		"Colonia":"San Pedro Chemax",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97774{
+		"Colonia":"Santa Elena",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97774{
+		"Colonia":"San Juan Chen",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97774{
+		"Colonia":"Mucel",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97774{
+		"Colonia":"Xtejas",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97775{
+		"Colonia":"Cocoyol",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97775{
+		"Colonia":"Buenavista",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97775{
+		"Colonia":"Santa Rita",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97776{
+		"Colonia":"Sisbichén",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97776{
+		"Colonia":"Pabalam",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97776{
+		"Colonia":"Champolin",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97777{
+		"Colonia":"Chachadzonot",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97777{
+		"Colonia":"Lol-Bé",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97777{
+		"Colonia":"Chuluntan",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97777{
+		"Colonia":"Yaxche",
+		"Municipio":"Chemax, Yucatan"
+	},
+	97780{
+		"Colonia":"Valladolid Centro",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"San Isidro",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Las Palmas",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Orquídeas",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Los Cipreses",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Candelaria",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Flor Campestre",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Jardines Del Oriente",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Lol-beh",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Residencial Campestre",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Santa Ana",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Santa Lucia",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Fernando Novelo",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Santa Ana",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Militar",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97782{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97783{
+		"Colonia":"Leonardo Rodríguez Alcaine",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97783{
+		"Colonia":"Militar",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97783{
+		"Colonia":"Oaxaqueña",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97783{
+		"Colonia":"San Juan",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97783{
+		"Colonia":"San Antonio",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97783{
+		"Colonia":"Sacyabil",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97783{
+		"Colonia":"Santana",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97783{
+		"Colonia":"San Francisco",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97783{
+		"Colonia":"San Vicente",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"Residencial del Bosque",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"Bacalar",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"Sisal",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"Xcorazon",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"Puesta Del Sol",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"Capules",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"Flamboyanes",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"Colonos",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"San Carlos",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97784{
+		"Colonia":"Cruz Verde",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97785{
+		"Colonia":"Kanxoc",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97785{
+		"Colonia":"Xocen",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97785{
+		"Colonia":"Batun",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97785{
+		"Colonia":"Kampepén",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97786{
+		"Colonia":"Sidra Kin",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97786{
+		"Colonia":"Timas",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97787{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97787{
+		"Colonia":"Xuilib",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97787{
+		"Colonia":"Nohsuytun",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97787{
+		"Colonia":"Yaxche",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97787{
+		"Colonia":"Chamul",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97790{
+		"Colonia":"La Guadalupana",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97790{
+		"Colonia":"Pixoy",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97790{
+		"Colonia":"Popola",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97793{
+		"Colonia":"Tesoco",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97793{
+		"Colonia":"Ticúch",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97793{
+		"Colonia":"Chan Yokdzonot",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97793{
+		"Colonia":"Tepakan",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97793{
+		"Colonia":"Tahmuy",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97793{
+		"Colonia":"Zodzilchén",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97793{
+		"Colonia":"Yunchen",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97794{
+		"Colonia":"Yalcoba",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97794{
+		"Colonia":"Chiople",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97794{
+		"Colonia":"San Andres Bac",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97795{
+		"Colonia":"Dzitnup",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97795{
+		"Colonia":"Yalcon",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97795{
+		"Colonia":"Ebtun",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97795{
+		"Colonia":"X-Kekén",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97795{
+		"Colonia":"Tixhualactún",
+		"Municipio":"Valladolid, Yucatan"
+	},
+	97796{
+		"Colonia":"Uayma",
+		"Municipio":"Uayma, Yucatan"
+	},
+	97798{
+		"Colonia":"Santa María",
+		"Municipio":"Uayma, Yucatan"
+	},
+	97799{
+		"Colonia":"San Lorenzo",
+		"Municipio":"Uayma, Yucatan"
+	},
+	97800{
+		"Colonia":"Maxcanu",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97800{
+		"Colonia":"Guadalupe",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97800{
+		"Colonia":"La Sirena",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97803{
+		"Colonia":"Chan Chocholá (Santa Eduviges Chan Chocholá)",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97803{
+		"Colonia":"Granada (Chican Granada)",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97803{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97803{
+		"Colonia":"Kanachén",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97804{
+		"Colonia":"Kochol",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97804{
+		"Colonia":"Santo Domingo",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97804{
+		"Colonia":"San Fernando",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97804{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97804{
+		"Colonia":"Paraíso",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97804{
+		"Colonia":"Coahuila (Santa Teresa Coahuila)",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97804{
+		"Colonia":"X-Cacal",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97804{
+		"Colonia":"Yaxcaba",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97804{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97805{
+		"Colonia":"Chunchucmil",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97805{
+		"Colonia":"San Simón Sinkehuel",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97806{
+		"Colonia":"San Rafael",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97807{
+		"Colonia":"Chencoh",
+		"Municipio":"Maxcanú, Yucatan"
+	},
+	97810{
+		"Colonia":"Samahil",
+		"Municipio":"Samahil, Yucatan"
+	},
+	97810{
+		"Colonia":"Kuchel",
+		"Municipio":"Samahil, Yucatan"
+	},
+	97812{
+		"Colonia":"San Antonio Tedzidz",
+		"Municipio":"Samahil, Yucatan"
+	},
+	97813{
+		"Colonia":"Opichen",
+		"Municipio":"Opichén, Yucatan"
+	},
+	97814{
+		"Colonia":"Calcehtoc",
+		"Municipio":"Opichén, Yucatan"
+	},
+	97816{
+		"Colonia":"Chochola",
+		"Municipio":"Chocholá, Yucatan"
+	},
+	97816{
+		"Colonia":"San Antonio Chable",
+		"Municipio":"Chocholá, Yucatan"
+	},
+	97818{
+		"Colonia":"Kopomá",
+		"Municipio":"Kopomá, Yucatan"
+	},
+	97818{
+		"Colonia":"San Bernardo",
+		"Municipio":"Kopomá, Yucatan"
+	},
+	97820{
+		"Colonia":"Tecoh",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97822{
+		"Colonia":"Lepan",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97822{
+		"Colonia":"Oxtapacab",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97822{
+		"Colonia":"Itzincab",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97822{
+		"Colonia":"Sotuta de Peón",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97823{
+		"Colonia":"Chinkilá",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97823{
+		"Colonia":"Sabacché",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97823{
+		"Colonia":"Pixyah",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97824{
+		"Colonia":"Telchaquillo",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97824{
+		"Colonia":"Xcanchakan",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97824{
+		"Colonia":"Mayapan",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97824{
+		"Colonia":"Mahzucil",
+		"Municipio":"Tecoh, Yucatan"
+	},
+	97825{
+		"Colonia":"Abalá",
+		"Municipio":"Abalá, Yucatan"
+	},
+	97825{
+		"Colonia":"Mukuiche",
+		"Municipio":"Abalá, Yucatan"
+	},
+	97825{
+		"Colonia":"Uayalceh",
+		"Municipio":"Abalá, Yucatan"
+	},
+	97826{
+		"Colonia":"Sinhuchen",
+		"Municipio":"Abalá, Yucatan"
+	},
+	97826{
+		"Colonia":"Cacao",
+		"Municipio":"Abalá, Yucatan"
+	},
+	97826{
+		"Colonia":"Peba",
+		"Municipio":"Abalá, Yucatan"
+	},
+	97827{
+		"Colonia":"Temozon Sur",
+		"Municipio":"Abalá, Yucatan"
+	},
+	97830{
+		"Colonia":"Halacho",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97830{
+		"Colonia":"San José",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97835{
+		"Colonia":"Cepeda",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97835{
+		"Colonia":"Cuch Holoch",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97835{
+		"Colonia":"Siho",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97835{
+		"Colonia":"Unidad Agrícola Guadalupe",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97835{
+		"Colonia":"Concepción",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97836{
+		"Colonia":"San Mateo",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97836{
+		"Colonia":"Dzbzibachi",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97836{
+		"Colonia":"Kankabchen",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97837{
+		"Colonia":"Santa Maria Acu",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97837{
+		"Colonia":"Santa Sofia",
+		"Municipio":"Halachó, Yucatan"
+	},
+	97840{
+		"Colonia":"Tepakán",
+		"Municipio":"Muna, Yucatan"
+	},
+	97840{
+		"Colonia":"Muna de Leopoldo Arana Cabrera",
+		"Municipio":"Muna, Yucatan"
+	},
+	97840{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Muna, Yucatan"
+	},
+	97840{
+		"Colonia":"San Bernardo",
+		"Municipio":"Muna, Yucatan"
+	},
+	97840{
+		"Colonia":"San Mateo",
+		"Municipio":"Muna, Yucatan"
+	},
+	97840{
+		"Colonia":"San Sebastián",
+		"Municipio":"Muna, Yucatan"
+	},
+	97840{
+		"Colonia":"Víctor Cervera Pacheco",
+		"Municipio":"Muna, Yucatan"
+	},
+	97843{
+		"Colonia":"Choyob",
+		"Municipio":"Muna, Yucatan"
+	},
+	97843{
+		"Colonia":"Yaxha",
+		"Municipio":"Muna, Yucatan"
+	},
+	97844{
+		"Colonia":"San Jose Tipceh",
+		"Municipio":"Muna, Yucatan"
+	},
+	97844{
+		"Colonia":"U.F. Lázaro Cárdenas",
+		"Municipio":"Muna, Yucatan"
+	},
+	97845{
+		"Colonia":"Sacalum",
+		"Municipio":"Sacalum, Yucatan"
+	},
+	97847{
+		"Colonia":"San Antonio Sodzil",
+		"Municipio":"Sacalum, Yucatan"
+	},
+	97848{
+		"Colonia":"Yunku",
+		"Municipio":"Sacalum, Yucatan"
+	},
+	97850{
+		"Colonia":"Mani",
+		"Municipio":"Maní, Yucatan"
+	},
+	97851{
+		"Colonia":"Tipikal",
+		"Municipio":"Maní, Yucatan"
+	},
+	97854{
+		"Colonia":"Dzan",
+		"Municipio":"Dzan, Yucatan"
+	},
+	97857{
+		"Colonia":"Chapab",
+		"Municipio":"Chapab, Yucatan"
+	},
+	97858{
+		"Colonia":"Citincabchen",
+		"Municipio":"Chapab, Yucatan"
+	},
+	97858{
+		"Colonia":"Hunabchen",
+		"Municipio":"Chapab, Yucatan"
+	},
+	97858{
+		"Colonia":"San Cristóbal",
+		"Municipio":"Chapab, Yucatan"
+	},
+	97860{
+		"Colonia":"Ticul Centro",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97862{
+		"Colonia":"De los Electricistas",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97862{
+		"Colonia":"Deportivo Campestre",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97862{
+		"Colonia":"Mejorada",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97862{
+		"Colonia":"Guadalupe",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97862{
+		"Colonia":"Obrera",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97862{
+		"Colonia":"Campestre",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97863{
+		"Colonia":"San Juan",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97864{
+		"Colonia":"San Joaquín",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97864{
+		"Colonia":"San Enrique",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97864{
+		"Colonia":"Las Tinajas",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97864{
+		"Colonia":"San Benito",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97864{
+		"Colonia":"Santa Maria",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97864{
+		"Colonia":"San Román",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97864{
+		"Colonia":"Santiago",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97870{
+		"Colonia":"Pustunich",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97873{
+		"Colonia":"Yotholin",
+		"Municipio":"Ticul, Yucatan"
+	},
+	97880{
+		"Colonia":"Tutul Xiú",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97880{
+		"Colonia":"Oxkutzcab",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97882{
+		"Colonia":"San José Kunché",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97883{
+		"Colonia":"Lol-Tún",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97883{
+		"Colonia":"Yaaxhom",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97883{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97883{
+		"Colonia":"Xohuayan",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97884{
+		"Colonia":"Nohcacab",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97884{
+		"Colonia":"Xul",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97884{
+		"Colonia":"Sacamucuy",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97884{
+		"Colonia":"Xobenhaltun",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97885{
+		"Colonia":"Sayil",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97886{
+		"Colonia":"Yaxhacchen",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97886{
+		"Colonia":"Kihuic",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97887{
+		"Colonia":"Tabi",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97887{
+		"Colonia":"Xlapak",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97887{
+		"Colonia":"Labna",
+		"Municipio":"Oxkutzcab, Yucatan"
+	},
+	97890{
+		"Colonia":"Santa Elena",
+		"Municipio":"Santa Elena, Yucatan"
+	},
+	97893{
+		"Colonia":"San Agustín",
+		"Municipio":"Santa Elena, Yucatan"
+	},
+	97894{
+		"Colonia":"Kabah",
+		"Municipio":"Santa Elena, Yucatan"
+	},
+	97895{
+		"Colonia":"San Simón",
+		"Municipio":"Santa Elena, Yucatan"
+	},
+	97899{
+		"Colonia":"Villas Arqueológicas [Hotel]",
+		"Municipio":"Santa Elena, Yucatan"
+	},
+	97899{
+		"Colonia":"Hotel Hacienda Uxmal",
+		"Municipio":"Santa Elena, Yucatan"
+	},
+	97900{
+		"Colonia":"Mama",
+		"Municipio":"Mama, Yucatan"
+	},
+	97904{
+		"Colonia":"Chumayel",
+		"Municipio":"Chumayel, Yucatan"
+	},
+	97908{
+		"Colonia":"Mayapan",
+		"Municipio":"Mayapán, Yucatan"
+	},
+	97910{
+		"Colonia":"Teabo",
+		"Municipio":"Teabo, Yucatan"
+	},
+	97915{
+		"Colonia":"Cantamayec",
+		"Municipio":"Cantamayec, Yucatan"
+	},
+	97917{
+		"Colonia":"Nenela",
+		"Municipio":"Cantamayec, Yucatan"
+	},
+	97918{
+		"Colonia":"Cholul",
+		"Municipio":"Cantamayec, Yucatan"
+	},
+	97920{
+		"Colonia":"Yaxcaba",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97922{
+		"Colonia":"Yokdzonot",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97922{
+		"Colonia":"Mexil",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97923{
+		"Colonia":"Libre Unión",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97923{
+		"Colonia":"Cenote Xtohil",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97924{
+		"Colonia":"Cenote Aban",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97924{
+		"Colonia":"San Marcos",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97924{
+		"Colonia":"Popola",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97924{
+		"Colonia":"Chimay",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97924{
+		"Colonia":"Yaxunah",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97924{
+		"Colonia":"Z.A. Yaxuna",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97925{
+		"Colonia":"Tiholop",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97925{
+		"Colonia":"Santa Maria",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97925{
+		"Colonia":"Kancabdzonot",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97925{
+		"Colonia":"Yokdzonot-Hú",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97925{
+		"Colonia":"Huechen Balam",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97925{
+		"Colonia":"San Pedro",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97925{
+		"Colonia":"Sahcabá",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97926{
+		"Colonia":"Cacalchen",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97926{
+		"Colonia":"Canakom",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97927{
+		"Colonia":"Tahdzibichen",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97927{
+		"Colonia":"Tixcacaltuyub",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97929{
+		"Colonia":"Tinuncah",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97929{
+		"Colonia":"Cipché",
+		"Municipio":"Yaxcabá, Yucatan"
+	},
+	97930{
+		"Colonia":"Peto Centro",
+		"Municipio":"Peto, Yucatan"
+	},
+	97930{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Peto, Yucatan"
+	},
+	97930{
+		"Colonia":"Francisco I Madero",
+		"Municipio":"Peto, Yucatan"
+	},
+	97930{
+		"Colonia":"Francisco Sarabia",
+		"Municipio":"Peto, Yucatan"
+	},
+	97930{
+		"Colonia":"Miraflores",
+		"Municipio":"Peto, Yucatan"
+	},
+	97930{
+		"Colonia":"Morelos y Fátima",
+		"Municipio":"Peto, Yucatan"
+	},
+	97930{
+		"Colonia":"3 Cruces",
+		"Municipio":"Peto, Yucatan"
+	},
+	97930{
+		"Colonia":"Trinidad",
+		"Municipio":"Peto, Yucatan"
+	},
+	97930{
+		"Colonia":"Felipe Carrillo Puerto",
+		"Municipio":"Peto, Yucatan"
+	},
+	97930{
+		"Colonia":"Jacinto Kanek",
+		"Municipio":"Peto, Yucatan"
+	},
+	97930{
+		"Colonia":"Ciprés",
+		"Municipio":"Peto, Yucatan"
+	},
+	97932{
+		"Colonia":"Xoy",
+		"Municipio":"Peto, Yucatan"
+	},
+	97933{
+		"Colonia":"Progresito",
+		"Municipio":"Peto, Yucatan"
+	},
+	97933{
+		"Colonia":"Tixhualactun",
+		"Municipio":"Peto, Yucatan"
+	},
+	97933{
+		"Colonia":"San Gregorio",
+		"Municipio":"Peto, Yucatan"
+	},
+	97933{
+		"Colonia":"Temozon",
+		"Municipio":"Peto, Yucatan"
+	},
+	97933{
+		"Colonia":"San Pedro",
+		"Municipio":"Peto, Yucatan"
+	},
+	97934{
+		"Colonia":"Guadalupe",
+		"Municipio":"Peto, Yucatan"
+	},
+	97934{
+		"Colonia":"San Diego",
+		"Municipio":"Peto, Yucatan"
+	},
+	97934{
+		"Colonia":"Xcabanchen",
+		"Municipio":"Peto, Yucatan"
+	},
+	97934{
+		"Colonia":"San Nicolás Yoactún",
+		"Municipio":"Peto, Yucatan"
+	},
+	97934{
+		"Colonia":"San Bernabe",
+		"Municipio":"Peto, Yucatan"
+	},
+	97935{
+		"Colonia":"Papacal",
+		"Municipio":"Peto, Yucatan"
+	},
+	97935{
+		"Colonia":"Santa Elena",
+		"Municipio":"Peto, Yucatan"
+	},
+	97935{
+		"Colonia":"San Francisco",
+		"Municipio":"Peto, Yucatan"
+	},
+	97935{
+		"Colonia":"Dzonotchel",
+		"Municipio":"Peto, Yucatan"
+	},
+	97935{
+		"Colonia":"Chan Calotmul",
+		"Municipio":"Peto, Yucatan"
+	},
+	97935{
+		"Colonia":"San Mateo",
+		"Municipio":"Peto, Yucatan"
+	},
+	97935{
+		"Colonia":"Santa Cruz",
+		"Municipio":"Peto, Yucatan"
+	},
+	97936{
+		"Colonia":"Polinkin",
+		"Municipio":"Peto, Yucatan"
+	},
+	97936{
+		"Colonia":"La Esperanza",
+		"Municipio":"Peto, Yucatan"
+	},
+	97936{
+		"Colonia":"Kambul",
+		"Municipio":"Peto, Yucatan"
+	},
+	97936{
+		"Colonia":"Abal",
+		"Municipio":"Peto, Yucatan"
+	},
+	97936{
+		"Colonia":"San Sebastián",
+		"Municipio":"Peto, Yucatan"
+	},
+	97936{
+		"Colonia":"San Dionisio",
+		"Municipio":"Peto, Yucatan"
+	},
+	97936{
+		"Colonia":"Petulillo",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"Tobxila",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"San Miguel",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"Uitzina",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"Trapiche",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"San Salvador",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"Santa Rosa",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"Justicia Social",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"Santa Ursula",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"Xpechil",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"Candelaria (San Pedro)",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"Macmay",
+		"Municipio":"Peto, Yucatan"
+	},
+	97937{
+		"Colonia":"Yaxcopil",
+		"Municipio":"Peto, Yucatan"
+	},
+	97940{
+		"Colonia":"Chikindzonot",
+		"Municipio":"Chikindzonot, Yucatan"
+	},
+	97943{
+		"Colonia":"Chan Santa María",
+		"Municipio":"Chikindzonot, Yucatan"
+	},
+	97943{
+		"Colonia":"Chanchimila",
+		"Municipio":"Chikindzonot, Yucatan"
+	},
+	97943{
+		"Colonia":"X-Poxil",
+		"Municipio":"Chikindzonot, Yucatan"
+	},
+	97943{
+		"Colonia":"Xcampana",
+		"Municipio":"Chikindzonot, Yucatan"
+	},
+	97944{
+		"Colonia":"Ichmul",
+		"Municipio":"Chikindzonot, Yucatan"
+	},
+	97945{
+		"Colonia":"Tahdziu",
+		"Municipio":"Tahdziú, Yucatan"
+	},
+	97947{
+		"Colonia":"Timul",
+		"Municipio":"Tahdziú, Yucatan"
+	},
+	97948{
+		"Colonia":"San Ignacio",
+		"Municipio":"Tahdziú, Yucatan"
+	},
+	97948{
+		"Colonia":"Mocté",
+		"Municipio":"Tahdziú, Yucatan"
+	},
+	97950{
+		"Colonia":"Tixmehuac",
+		"Municipio":"Tixmehuac, Yucatan"
+	},
+	97953{
+		"Colonia":"Chuchub",
+		"Municipio":"Tixmehuac, Yucatan"
+	},
+	97953{
+		"Colonia":"Chican",
+		"Municipio":"Tixmehuac, Yucatan"
+	},
+	97953{
+		"Colonia":"Sabacche",
+		"Municipio":"Tixmehuac, Yucatan"
+	},
+	97953{
+		"Colonia":"Sisbic",
+		"Municipio":"Tixmehuac, Yucatan"
+	},
+	97953{
+		"Colonia":"Kimbila",
+		"Municipio":"Tixmehuac, Yucatan"
+	},
+	97953{
+		"Colonia":"Dzutoh",
+		"Municipio":"Tixmehuac, Yucatan"
+	},
+	97954{
+		"Colonia":"Sacchacan",
+		"Municipio":"Tixmehuac, Yucatan"
+	},
+	97955{
+		"Colonia":"Chacsinkin",
+		"Municipio":"Chacsinkín, Yucatan"
+	},
+	97956{
+		"Colonia":"Xno-Huayab",
+		"Municipio":"Chacsinkín, Yucatan"
+	},
+	97957{
+		"Colonia":"Xbox",
+		"Municipio":"Chacsinkín, Yucatan"
+	},
+	97960{
+		"Colonia":"México Primero",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97960{
+		"Colonia":"Tzucacab Centro",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97963{
+		"Colonia":"Ekbalam",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97963{
+		"Colonia":"Dzi",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97963{
+		"Colonia":"Kakalnah",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97963{
+		"Colonia":"Solidaridad",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97964{
+		"Colonia":"Bichcopo",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97964{
+		"Colonia":"Hobonil",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97964{
+		"Colonia":"Sacbecan",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97964{
+		"Colonia":"Noh-bec",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97964{
+		"Colonia":"Polhuaczil",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97965{
+		"Colonia":"Corral",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97965{
+		"Colonia":"Blanca Flor",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97965{
+		"Colonia":"El Escondido",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97965{
+		"Colonia":"Tigre Grande",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97966{
+		"Colonia":"La Esperanza",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97966{
+		"Colonia":"San Isidro",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97966{
+		"Colonia":"San Salvador Piste Akal",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97967{
+		"Colonia":"Caxaytuk",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97967{
+		"Colonia":"Thul",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97967{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97967{
+		"Colonia":"Emiliano Zapata",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97969{
+		"Colonia":"Catmís",
+		"Municipio":"Tzucacab, Yucatan"
+	},
+	97970{
+		"Colonia":"Los Cedros",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Villas Santa María",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"San Francisco",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Villa Flores",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Paraíso Tekax",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Lázaro Cárdenas",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Tekax de Álvaro Obregón",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Francisco I Madero",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Padre Eterno",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Yocchenkax",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Chunchucun",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Chobenche",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"San Ignacio",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Ermita",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Fovissste (Módulo Social)",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97970{
+		"Colonia":"Unidad Antigua",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97973{
+		"Colonia":"Kinil",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97973{
+		"Colonia":"Xaya",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97973{
+		"Colonia":"Penkuyut",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97973{
+		"Colonia":"Tixcuytun",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97974{
+		"Colonia":"Ticum",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97975{
+		"Colonia":"Kantemo",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97975{
+		"Colonia":"San Marcos",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97977{
+		"Colonia":"Kancab",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97977{
+		"Colonia":"Canek",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97977{
+		"Colonia":"Chacmultun",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97979{
+		"Colonia":"Manuel Cepeda Peraza",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97979{
+		"Colonia":"Alfonso Caso",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97980{
+		"Colonia":"Benito Juárez",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97980{
+		"Colonia":"San Agustín (Salvador Alvarado)",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97980{
+		"Colonia":"San Pedro Zula",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97980{
+		"Colonia":"San Martín Hili",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97983{
+		"Colonia":"Chan Dzinup",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97983{
+		"Colonia":"Huntochac",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97983{
+		"Colonia":"Nuevo Popolá",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97983{
+		"Colonia":"Pocoboh",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97983{
+		"Colonia":"San Isidro Yaxche",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97983{
+		"Colonia":"San Salvador",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97983{
+		"Colonia":"Nueva Santa Cruz (Santa Cruz Cutzá)",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97983{
+		"Colonia":"Mac-Yan (San Isidro Mac-Yan)",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97984{
+		"Colonia":"Sacpukenhá",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97984{
+		"Colonia":"Becanchen",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97984{
+		"Colonia":"San Gaspar",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97984{
+		"Colonia":"San Diego Buenavista",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97985{
+		"Colonia":"Nohalal",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97986{
+		"Colonia":"Ayim",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97987{
+		"Colonia":"San Felipe Segundo",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97987{
+		"Colonia":"Mesatunich",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97987{
+		"Colonia":"San Rufino",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97987{
+		"Colonia":"San Pedro Xtokil",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97987{
+		"Colonia":"San Juan Tekax",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97989{
+		"Colonia":"Sudzal Chico",
+		"Municipio":"Tekax, Yucatan"
+	},
+	97990{
+		"Colonia":"Akil Centro",
+		"Municipio":"Akil, Yucatan"
+	},
+}
